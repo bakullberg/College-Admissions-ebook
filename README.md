@@ -13,8 +13,9 @@ See [OUTLINE.md](OUTLINE.md) for the full book outline.
 - `manuscript/part-4-paying-for-college/` — Chapters 12–14
 - `manuscript/part-5-decisions-and-the-finish-line/` — Chapters 15–18
 - `manuscript/appendix/` — month-by-month senior year planner
+- `manuscript/case-study-university-of-iowa/` — the process applied to a real school, University of Iowa
 - `assets/` — images, diagrams, and other supporting files
 
 ## Status
 
-Full outline set. Chapters are stubs, drafting not yet started.
+Full first draft complete — preface, all 18 chapters, appendix, and the University of Iowa case study are written.

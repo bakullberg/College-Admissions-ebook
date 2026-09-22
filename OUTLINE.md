@@ -76,3 +76,7 @@ Chapters 15–18
 - **April** — Compare final financial aid packages. Visit or revisit top schools. Decide before May 1.
 - **May** — Send your deposit. Decline other offers. Take AP exams. Send your final transcript to your chosen school.
 - **June–August** — Complete housing forms, orientation, and health requirements. Connect with your roommate. Prepare for move-in.
+
+## Case Study: Applying the Process to the University of Iowa
+
+A closing section that walks the full roadmap through one real school — how list-building, the testing decision, the application platform, financial aid, merit scholarships, deadlines, and move-in prep all play out concretely at the University of Iowa.
