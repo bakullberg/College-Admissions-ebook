@@ -1,0 +1,343 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,College Admissions Process,,FOUND
+2,Admissions Timeline,1,FOUND
+3,Selective Admissions,1|19,FOUND
+4,Admissions Office,1,FOUND
+5,Admissions Officer,4,FOUND
+6,Holistic Review,5|8|3,FOUND
+7,Formula-Based Admissions,8|22,FOUND
+8,Academic Record,9|10|13,FOUND
+9,High School Transcript,,FOUND
+10,Grade Point Average,9,FOUND
+11,Weighted GPA,10|131,FOUND
+12,Unweighted GPA,10,FOUND
+13,Course Rigor,9|130,FOUND
+14,Class Rank,10,FOUND
+15,Demonstrated Interest,4,FOUND
+16,Institutional Priorities,4,FOUND
+17,Legacy Status,16,FOUND
+18,First-Generation Student,16,FOUND
+19,Admission Rate,1|21,FOUND
+20,Middle 50% Range,19|10,FOUND
+21,Four-Year College,,FOUND
+22,Public University,21,FOUND
+23,Private College,21,FOUND
+24,Liberal Arts College,23,FOUND
+25,Research University,21,FOUND
+26,Flagship University,22|25,FOUND
+27,In-State Residency,22,FOUND
+28,Out-of-State Applicant,27,FOUND
+29,Application Rounds,2|74,FOUND
+30,Early Decision,29|35,FOUND
+31,Early Action,29,FOUND
+32,Restrictive Early Action,31|30,FOUND
+33,Regular Decision,29,FOUND
+34,Rolling Admission,29,FOUND
+35,Binding Commitment,1,FOUND
+36,Admissions Myths,6,FOUND
+37,No Single Right School Myth,36|41,FOUND
+38,Test-Optional Myth,36|103,FOUND
+39,Well-Rounded Applicant Myth,36|151,FOUND
+40,College List,21|1,LIST
+41,College Fit,40|45,LIST
+42,Academic Fit,41|47|20,LIST
+43,Social Fit,41|52,LIST
+44,Financial Fit,41|241,LIST
+45,Self-Assessment,46,LIST
+46,Personal Priorities,1,LIST
+47,Intended Major,45,LIST
+48,Undeclared Major,47,LIST
+49,School Size,45|21,LIST
+50,Campus Setting,45,LIST
+51,Distance From Home,45,LIST
+52,Campus Culture,49|50,LIST
+53,Reach School,40|20|19,LIST
+54,Target School,53,LIST
+55,Safety School,54|44,LIST
+56,Balanced College List,53|54|55,LIST
+57,College Research Tools,40,LIST
+58,College Search Website,57,LIST
+59,College Scorecard,57|61|241,LIST
+60,Common Data Set,57|20,LIST
+61,Graduation Rate,21,LIST
+62,Retention Rate,61,LIST
+63,Virtual Tour,57,LIST
+64,Campus Visit,57|52,LIST
+65,College Fair,57,LIST
+66,Admissions Information Session,64|4,LIST
+67,Student Reviews,57|43,LIST
+68,Long List,57|41,LIST
+69,Narrowing the List,68|56|42|44|43,LIST
+70,Final College List,69,LIST
+71,Getting Organized,1,ORG
+72,Deadline Tracker,71|74,ORG
+73,Shared Tracker,72|90,ORG
+74,Application Deadline,2,ORG
+75,Supporting Document Deadline,74,ORG
+76,Priority Deadline,74,ORG
+77,Calendar Reminders,72,ORG
+78,Application Checklist,71|70,ORG
+79,Filing System,71,ORG
+80,Digital Document Folder,79,ORG
+81,Transcript Copies,79|9,ORG
+82,Essay Drafts Folder,79|158,ORG
+83,Login Credentials Record,79|85,ORG
+84,Dedicated Email Address,71,ORG
+85,Applicant Portal,84|229,ORG
+86,Checking Portals Regularly,85|300,ORG
+87,School Counselor,1,ORG
+88,Counselor Meeting,87,ORG
+89,Independent Counselor,87,ORG
+90,Parent and Family Role,1,ORG
+91,Summer Before Senior Year,2,ORG
+92,Senior Year Calendar,2|29,ORG
+93,Month-by-Month Planner,92|72|246|115,ORG
+94,Five First Steps,73|213|192|157|163,ORG
+95,Verifying Current Policies,234|2,ORG
+96,Capstone Application Roadmap,93|70|95|106|187|195|292|320,ORG
+97,Application Fee,229,ORG
+98,Fee Waiver,97|18,ORG
+99,Standardized Testing,1,TEST
+100,SAT,99,TEST
+101,ACT,99,TEST
+102,PSAT/NMSQT,100,TEST
+103,Test-Optional Policy,99|104,TEST
+104,Test-Required Policy,99,TEST
+105,Test-Blind Policy,103,TEST
+106,Score Submission Decision,103|107,TEST
+107,Score Benchmark Comparison,20|108|110,TEST
+108,Composite Score,109,TEST
+109,Section Scores,100|101,TEST
+110,SAT-ACT Concordance,108,TEST
+111,Superscoring,109|113,TEST
+112,Score Choice,116,TEST
+113,Retesting Decision,108|107,TEST
+114,Test Registration,100|101,TEST
+115,Test Date Planning,114|2,TEST
+116,Official Score Report,108,TEST
+117,Self-Reported Scores,116,TEST
+118,Free Test Prep,119,TEST
+119,Official Practice Tests,100|101,TEST
+120,Diagnostic Practice Test,119,TEST
+121,Error Log,120,TEST
+122,Timed Practice,120|121,TEST
+123,Test Accommodations,114,TEST
+124,Senior Year Course Load,13|130,ACAD
+125,Senior Grades,124|10,ACAD
+126,Senioritis,125,ACAD
+127,Mid-Year Report,125|87,ACAD
+128,Final Transcript,125|9,ACAD
+129,Rescinded Admission,128|126|303,ACAD
+130,Core Academic Courses,9,ACAD
+131,Honors Courses,130,ACAD
+132,Advanced Placement,131,ACAD
+133,AP Exam,132,ACAD
+134,AP Score,133,ACAD
+135,International Baccalaureate,131,ACAD
+136,IB Diploma,135,ACAD
+137,Dual Enrollment,130,ACAD
+138,College Credit in High School,134|136|137,ACAD
+139,Course Selection Strategy,124|132|135|137,ACAD
+140,Balancing Rigor and Burnout,139|332,ACAD
+141,Extracurricular Activities,,ACTV
+142,Activities List,141,ACTV
+143,Activity Description,142|154,ACTV
+144,Leadership Roles,141,ACTV
+145,Part-Time Job,141,ACTV
+146,Family Responsibilities,141,ACTV
+147,Community Service,141,ACTV
+148,Summer Experiences,141,ACTV
+149,Personal Interests,141,ACTV
+150,Honors and Awards,141,ACTV
+151,Depth Over Breadth,152|144,ACTV
+152,Sustained Commitment,141|155,ACTV
+153,Measurable Impact,144|147,ACTV
+154,Action Verbs,141,ACTV
+155,Hours per Week,142,ACTV
+156,Activity Ordering,142|151,ACTV
+157,Activities Resume,143|156|153|145|146|150|148|149,ACTV
+158,College Essay,6,ESSAY
+159,Personal Essay,158,ESSAY
+160,Common App Essay Prompts,159|210,ESSAY
+161,Essay Word Limit,159,ESSAY
+162,Brainstorming,159|45,ESSAY
+163,Essay Material List,162,ESSAY
+164,Personal Story,162,ESSAY
+165,Small Moment Essay,164,ESSAY
+166,Essay Topic Selection,163|160|167,ESSAY
+167,Overused Essay Topics,159,ESSAY
+168,Show Don't Tell,164,ESSAY
+169,Authentic Voice,164,ESSAY
+170,Essay Structure,166,ESSAY
+171,Opening Hook,170,ESSAY
+172,Reflection and Insight,170|164,ESSAY
+173,Drafting,170|171|168|169|172|161,ESSAY
+174,Revision,173|175,ESSAY
+175,Feedback on Essays,173,ESSAY
+176,Editing and Proofreading,174,ESSAY
+177,Supplemental Essays,158|234,ESSAY
+178,School-Specific Research,177|57,ESSAY
+179,Why Us Essay,178,ESSAY
+180,Why This Major Essay,178|47,ESSAY
+181,Community Essay,177|164,ESSAY
+182,Activity Essay,177|157,ESSAY
+183,Short-Answer Questions,177,ESSAY
+184,Optional Essays,177,ESSAY
+185,Recycled Essay Trap,179,ESSAY
+186,Essay Adaptation,185|174,ESSAY
+187,Supplement Planning,177|72|186|180|181|182|183|184,ESSAY
+188,Letters of Recommendation,6,RECS
+189,Teacher Recommendation,188,RECS
+190,Counselor Recommendation,188|87,RECS
+191,Choosing Recommenders,189|190,RECS
+192,Asking for a Recommendation,191|193,RECS
+193,Recommendation Request Timing,188|2,RECS
+194,Brag Sheet,157|188,RECS
+195,Recommender Packet,194|192|196,RECS
+196,Recommender Deadlines,75|188,RECS
+197,Thank-You Notes,192,RECS
+198,FERPA Waiver,188,RECS
+199,Additional Recommendation,188|234,RECS
+200,Interviews,6|15,RECS
+201,Alumni Interview,200,RECS
+202,Admissions Officer Interview,200|5,RECS
+203,Evaluative Interview,200,RECS
+204,Informational Interview,200,RECS
+205,Virtual Interview,200,RECS
+206,Interview Preparation,203|204|178,RECS
+207,Practice Interview,206,RECS
+208,Questions to Ask Interviewer,206,RECS
+209,Interview Follow-Up,206|201|202|205,RECS
+210,Common App,212,PLAT
+211,Coalition App,212,PLAT
+212,Institutional Application,1|74,PLAT
+213,Common App Account,210|84,PLAT
+214,Common App Dashboard,213,PLAT
+215,Adding Colleges,214|70,PLAT
+216,Profile Section,213,PLAT
+217,Family Section,216|18,PLAT
+218,Education Section,216|9,PLAT
+219,Testing Section,218|106|117,PLAT
+220,Activities Section,218|157,PLAT
+221,Writing Section,220|159,PLAT
+222,Additional Information Section,221,PLAT
+223,Courses and Grades Section,224,PLAT
+224,Self-Reported Academic Record,218|8,PLAT
+225,Member Questions,215,PLAT
+226,Writing Supplements,225|177,PLAT
+227,Assigning Recommenders,215|198|191,PLAT
+228,Application Preview,219|221|223|226|222|217,PLAT
+229,Application Submission,228|211,PLAT
+230,Submission Confirmation,229,PLAT
+231,Sending Official Transcripts,81|233,PLAT
+232,Sending Test Scores,116|112|233,PLAT
+233,Institution Codes,215,PLAT
+234,College-Specific Requirements,212|70,PLAT
+235,Financial Aid,236,AID
+236,Cost of Attendance,,AID
+237,Sticker Price,236,AID
+238,Tuition,236,AID
+239,Room and Board,236,AID
+240,Indirect Costs,236,AID
+241,Net Price,237|238|239|240|260,AID
+242,Net Price Calculator,241,AID
+243,Student Aid Index,245,AID
+244,Demonstrated Financial Need,243|236,AID
+245,FAFSA,251,AID
+246,FAFSA Opening Date,245,AID
+247,FSA ID,245,AID
+248,FAFSA Contributors,245|90,AID
+249,Federal School Code,245|233,AID
+250,CSS Profile,253,AID
+251,Federal Aid,235,AID
+252,State Aid,235|27,AID
+253,Institutional Aid,235,AID
+254,Need-Based Aid,244,AID
+255,Merit Aid,253|8,AID
+256,Need-Blind Admissions,254|302,AID
+257,Need-Aware Admissions,256,AID
+258,Meets Full Need,254|259,AID
+259,Unmet Need,244,AID
+260,Grants,235,AID
+261,Pell Grant,260|251,AID
+262,Work-Study,251,AID
+263,Federal Direct Loan,251,AID
+264,Subsidized Loan,263|254,AID
+265,Unsubsidized Loan,263,AID
+266,Parent PLUS Loan,263|90,AID
+267,Private Loan,235,AID
+268,Verification,245,AID
+269,Aid Priority Deadline,76|245|250,AID
+270,First-Come First-Served Aid,269,AID
+271,Aid Renewal,245|287,AID
+272,Scholarships,235|255,SCHOL
+273,Automatic Merit Scholarship,272|8,SCHOL
+274,Competitive Scholarship,272,SCHOL
+275,Outside Scholarship,272,SCHOL
+276,Local Scholarship,275,SCHOL
+277,Scholarship Search Engine,275,SCHOL
+278,Scholarship Eligibility,272,SCHOL
+279,Renewable Scholarship,272,SCHOL
+280,Scholarship Renewal Criteria,279,SCHOL
+281,Scholarship Prioritization,282|276|277,SCHOL
+282,Expected Value of Applying,278|274,SCHOL
+283,Scholarship Essay Reuse,274|186,SCHOL
+284,Scholarship Scams,275,SCHOL
+285,Scam Warning Signs,284,SCHOL
+286,Award Displacement,275|253,SCHOL
+287,Award Letter,235|302,SCHOL
+288,Reading an Award Letter,287|236|290,SCHOL
+289,Free Money vs. Borrowed Money,260|263,SCHOL
+290,Loans vs. Grants,289|264|265|266|267|262|261,SCHOL
+291,Out-of-Pocket Cost,288|241,SCHOL
+292,Four-Year Cost Projection,291|279|271,SCHOL
+293,Total Debt at Graduation,292,SCHOL
+294,Award Letter Comparison,291|293,SCHOL
+295,Change in Circumstances,244,SCHOL
+296,Aid Reconsideration Request,294|295,SCHOL
+297,Financial Aid Appeal,296,SCHOL
+298,Competing Offer Leverage,297|294,SCHOL
+299,Application Review Process,230|6|7,DEC
+300,Application Status,299|85,DEC
+301,Decision Release Date,29,DEC
+302,Admission Decision,299|301,DEC
+303,Acceptance,302,DEC
+304,Denial,302,DEC
+305,Deferral,302|31,DEC
+306,Waitlist,302,DEC
+307,Waitlist Strategy,306|308,DEC
+308,Letter of Continued Interest,306|15,DEC
+309,Accepting an Offer,315,DEC
+310,Declining Offers,309,DEC
+311,Comparing Offers,303|294,DEC
+312,Side-by-Side Comparison,311|41,DEC
+313,Admitted Student Day,303|64,DEC
+314,Campus Revisit,313,DEC
+315,Final College Choice,312|314|316,DEC
+316,May 1 Decision Deadline,303|33,DEC
+317,Enrollment Deposit,309,DEC
+318,Double Depositing,317,DEC
+319,Early Decision Release,30|294,DEC
+320,Getting Ready for Fall,317,DEC
+321,Housing Application,320,DEC
+322,Roommate Selection,321,DEC
+323,Orientation,320,DEC
+324,Living Learning Community,321,DEC
+325,Health Forms and Immunizations,320,DEC
+326,AP Credit Transfer,320|138|128,DEC
+327,Placement Tests,323,DEC
+328,Course Registration,323|326|327,DEC
+329,Summer Melt,320,DEC
+330,Summer Transition Planning,329|321|325|328,DEC
+331,Move-In Day,330|322|324,DEC
+332,Application Stress,1,WELL
+333,Managing Uncertainty,332,WELL
+334,Rejection as Fit,304|41,WELL
+335,Waiting Period,299|333,WELL
+336,Healthy Coping Strategies,335,WELL
+337,Limiting Comparison,336,WELL
+338,Social Media Boundaries,337,WELL
+339,Self-Care Routine,336,WELL
+340,Support Network,336|90,WELL
+341,Long-Term Perspective,334|37,WELL
+342,Celebrating Milestones,230|339,WELL

@@ -1,0 +1,10 @@
+{
+  "title": "College Admissions Roadmap",
+  "description": "A learning graph for College Admissions Roadmap, a step-by-step guide for high school students through the college admissions process, from building a college list through testing, applications, financial aid, decisions, and getting ready for fall.",
+  "creator": "Beth Kullberg",
+  "date": "2026-09-24",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED"
+}
