@@ -1,0 +1,4442 @@
+{
+  "metadata": {
+    "title": "College Admissions Roadmap",
+    "description": "A learning graph for College Admissions Roadmap, a step-by-step guide for high school students through the college admissions process, from building a college list through testing, applications, financial aid, decisions, and getting ready for fall.",
+    "creator": "Beth Kullberg",
+    "date": "2026-09-24",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED"
+  },
+  "groups": {
+    "FOUND": {
+      "classifierName": "Admissions Foundations",
+      "color": "SteelBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "LIST": {
+      "classifierName": "College List Building",
+      "color": "DarkGreen",
+      "font": {
+        "color": "white"
+      }
+    },
+    "ORG": {
+      "classifierName": "Organization and Planning",
+      "color": "DarkSlateBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "TEST": {
+      "classifierName": "Testing",
+      "color": "DodgerBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "ACAD": {
+      "classifierName": "Senior Year Academics",
+      "color": "Gold",
+      "font": {
+        "color": "black"
+      }
+    },
+    "ACTV": {
+      "classifierName": "Activities and Resume",
+      "color": "LimeGreen",
+      "font": {
+        "color": "black"
+      }
+    },
+    "ESSAY": {
+      "classifierName": "Essays",
+      "color": "DarkOrchid",
+      "font": {
+        "color": "white"
+      }
+    },
+    "RECS": {
+      "classifierName": "Recommendations and Interviews",
+      "color": "MediumPurple",
+      "font": {
+        "color": "white"
+      }
+    },
+    "PLAT": {
+      "classifierName": "Application Platforms",
+      "color": "Teal",
+      "font": {
+        "color": "white"
+      }
+    },
+    "AID": {
+      "classifierName": "Financial Aid",
+      "color": "Crimson",
+      "font": {
+        "color": "white"
+      }
+    },
+    "SCHOL": {
+      "classifierName": "Scholarships and Award Letters",
+      "color": "DarkGoldenrod",
+      "font": {
+        "color": "white"
+      }
+    },
+    "DEC": {
+      "classifierName": "Decisions and Enrollment",
+      "color": "Orange",
+      "font": {
+        "color": "black"
+      }
+    },
+    "WELL": {
+      "classifierName": "Wellbeing and Mindset",
+      "color": "Coral",
+      "font": {
+        "color": "black"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "College Admissions Process",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 27808
+    },
+    {
+      "id": 2,
+      "label": "Admissions Timeline",
+      "group": "FOUND",
+      "cis": 2835
+    },
+    {
+      "id": 3,
+      "label": "Selective Admissions",
+      "group": "FOUND",
+      "cis": 1348
+    },
+    {
+      "id": 4,
+      "label": "Admissions Office",
+      "group": "FOUND",
+      "cis": 1642
+    },
+    {
+      "id": 5,
+      "label": "Admissions Officer",
+      "group": "FOUND",
+      "cis": 1350
+    },
+    {
+      "id": 6,
+      "label": "Holistic Review",
+      "group": "FOUND",
+      "cis": 1347
+    },
+    {
+      "id": 7,
+      "label": "Formula-Based Admissions",
+      "group": "FOUND",
+      "cis": 255
+    },
+    {
+      "id": 8,
+      "label": "Academic Record",
+      "group": "FOUND",
+      "cis": 1934
+    },
+    {
+      "id": 9,
+      "label": "High School Transcript",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 11481
+    },
+    {
+      "id": 10,
+      "label": "Grade Point Average",
+      "group": "FOUND",
+      "cis": 4532
+    },
+    {
+      "id": 11,
+      "label": "Weighted GPA",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 12,
+      "label": "Unweighted GPA",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 13,
+      "label": "Course Rigor",
+      "group": "FOUND",
+      "cis": 1948
+    },
+    {
+      "id": 14,
+      "label": "Class Rank",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 15,
+      "label": "Demonstrated Interest",
+      "group": "FOUND",
+      "cis": 20
+    },
+    {
+      "id": 16,
+      "label": "Institutional Priorities",
+      "group": "FOUND",
+      "cis": 270
+    },
+    {
+      "id": 17,
+      "label": "Legacy Status",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 18,
+      "label": "First-Generation Student",
+      "group": "FOUND",
+      "cis": 268
+    },
+    {
+      "id": 19,
+      "label": "Admission Rate",
+      "group": "FOUND",
+      "cis": 5667
+    },
+    {
+      "id": 20,
+      "label": "Middle 50% Range",
+      "group": "FOUND",
+      "cis": 2584
+    },
+    {
+      "id": 21,
+      "label": "Four-Year College",
+      "group": "FOUND",
+      "shape": "box",
+      "cis": 11845
+    },
+    {
+      "id": 22,
+      "label": "Public University",
+      "group": "FOUND",
+      "cis": 260
+    },
+    {
+      "id": 23,
+      "label": "Private College",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 24,
+      "label": "Liberal Arts College",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 25,
+      "label": "Research University",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 26,
+      "label": "Flagship University",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 27,
+      "label": "In-State Residency",
+      "group": "FOUND",
+      "cis": 3
+    },
+    {
+      "id": 28,
+      "label": "Out-of-State Applicant",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 29,
+      "label": "Application Rounds",
+      "group": "FOUND",
+      "cis": 290
+    },
+    {
+      "id": 30,
+      "label": "Early Decision",
+      "group": "FOUND",
+      "cis": 3
+    },
+    {
+      "id": 31,
+      "label": "Early Action",
+      "group": "FOUND",
+      "cis": 3
+    },
+    {
+      "id": 32,
+      "label": "Restrictive Early Action",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 33,
+      "label": "Regular Decision",
+      "group": "FOUND",
+      "cis": 34
+    },
+    {
+      "id": 34,
+      "label": "Rolling Admission",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 35,
+      "label": "Binding Commitment",
+      "group": "FOUND",
+      "cis": 4
+    },
+    {
+      "id": 36,
+      "label": "Admissions Myths",
+      "group": "FOUND",
+      "cis": 5
+    },
+    {
+      "id": 37,
+      "label": "No Single Right School Myth",
+      "group": "FOUND",
+      "cis": 2
+    },
+    {
+      "id": 38,
+      "label": "Test-Optional Myth",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 39,
+      "label": "Well-Rounded Applicant Myth",
+      "group": "FOUND",
+      "cis": 1
+    },
+    {
+      "id": 40,
+      "label": "College List",
+      "group": "LIST",
+      "cis": 5294
+    },
+    {
+      "id": 41,
+      "label": "College Fit",
+      "group": "LIST",
+      "cis": 2925
+    },
+    {
+      "id": 42,
+      "label": "Academic Fit",
+      "group": "LIST",
+      "cis": 577
+    },
+    {
+      "id": 43,
+      "label": "Social Fit",
+      "group": "LIST",
+      "cis": 578
+    },
+    {
+      "id": 44,
+      "label": "Financial Fit",
+      "group": "LIST",
+      "cis": 1155
+    },
+    {
+      "id": 45,
+      "label": "Self-Assessment",
+      "group": "LIST",
+      "cis": 4840
+    },
+    {
+      "id": 46,
+      "label": "Personal Priorities",
+      "group": "LIST",
+      "cis": 4841
+    },
+    {
+      "id": 47,
+      "label": "Intended Major",
+      "group": "LIST",
+      "cis": 582
+    },
+    {
+      "id": 48,
+      "label": "Undeclared Major",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 49,
+      "label": "School Size",
+      "group": "LIST",
+      "cis": 616
+    },
+    {
+      "id": 50,
+      "label": "Campus Setting",
+      "group": "LIST",
+      "cis": 616
+    },
+    {
+      "id": 51,
+      "label": "Distance From Home",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 52,
+      "label": "Campus Culture",
+      "group": "LIST",
+      "cis": 615
+    },
+    {
+      "id": 53,
+      "label": "Reach School",
+      "group": "LIST",
+      "cis": 1734
+    },
+    {
+      "id": 54,
+      "label": "Target School",
+      "group": "LIST",
+      "cis": 1156
+    },
+    {
+      "id": 55,
+      "label": "Safety School",
+      "group": "LIST",
+      "cis": 578
+    },
+    {
+      "id": 56,
+      "label": "Balanced College List",
+      "group": "LIST",
+      "cis": 577
+    },
+    {
+      "id": 57,
+      "label": "College Research Tools",
+      "group": "LIST",
+      "cis": 634
+    },
+    {
+      "id": 58,
+      "label": "College Search Website",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 59,
+      "label": "College Scorecard",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 60,
+      "label": "Common Data Set",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 61,
+      "label": "Graduation Rate",
+      "group": "LIST",
+      "cis": 3
+    },
+    {
+      "id": 62,
+      "label": "Retention Rate",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 63,
+      "label": "Virtual Tour",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 64,
+      "label": "Campus Visit",
+      "group": "LIST",
+      "cis": 36
+    },
+    {
+      "id": 65,
+      "label": "College Fair",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 66,
+      "label": "Admissions Information Session",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 67,
+      "label": "Student Reviews",
+      "group": "LIST",
+      "cis": 1
+    },
+    {
+      "id": 68,
+      "label": "Long List",
+      "group": "LIST",
+      "cis": 577
+    },
+    {
+      "id": 69,
+      "label": "Narrowing the List",
+      "group": "LIST",
+      "cis": 576
+    },
+    {
+      "id": 70,
+      "label": "Final College List",
+      "group": "LIST",
+      "cis": 575
+    },
+    {
+      "id": 71,
+      "label": "Getting Organized",
+      "group": "ORG",
+      "cis": 1632
+    },
+    {
+      "id": 72,
+      "label": "Deadline Tracker",
+      "group": "ORG",
+      "cis": 8
+    },
+    {
+      "id": 73,
+      "label": "Shared Tracker",
+      "group": "ORG",
+      "cis": 2
+    },
+    {
+      "id": 74,
+      "label": "Application Deadline",
+      "group": "ORG",
+      "cis": 2529
+    },
+    {
+      "id": 75,
+      "label": "Supporting Document Deadline",
+      "group": "ORG",
+      "cis": 4
+    },
+    {
+      "id": 76,
+      "label": "Priority Deadline",
+      "group": "ORG",
+      "cis": 3
+    },
+    {
+      "id": 77,
+      "label": "Calendar Reminders",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 78,
+      "label": "Application Checklist",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 79,
+      "label": "Filing System",
+      "group": "ORG",
+      "cis": 6
+    },
+    {
+      "id": 80,
+      "label": "Digital Document Folder",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 81,
+      "label": "Transcript Copies",
+      "group": "ORG",
+      "cis": 2
+    },
+    {
+      "id": 82,
+      "label": "Essay Drafts Folder",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 83,
+      "label": "Login Credentials Record",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 84,
+      "label": "Dedicated Email Address",
+      "group": "ORG",
+      "cis": 1616
+    },
+    {
+      "id": 85,
+      "label": "Applicant Portal",
+      "group": "ORG",
+      "cis": 5
+    },
+    {
+      "id": 86,
+      "label": "Checking Portals Regularly",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 87,
+      "label": "School Counselor",
+      "group": "ORG",
+      "cis": 12
+    },
+    {
+      "id": 88,
+      "label": "Counselor Meeting",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 89,
+      "label": "Independent Counselor",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 90,
+      "label": "Parent and Family Role",
+      "group": "ORG",
+      "cis": 92
+    },
+    {
+      "id": 91,
+      "label": "Summer Before Senior Year",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 92,
+      "label": "Senior Year Calendar",
+      "group": "ORG",
+      "cis": 3
+    },
+    {
+      "id": 93,
+      "label": "Month-by-Month Planner",
+      "group": "ORG",
+      "cis": 2
+    },
+    {
+      "id": 94,
+      "label": "Five First Steps",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 95,
+      "label": "Verifying Current Policies",
+      "group": "ORG",
+      "cis": 2
+    },
+    {
+      "id": 96,
+      "label": "Capstone Application Roadmap",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 97,
+      "label": "Application Fee",
+      "group": "ORG",
+      "cis": 2
+    },
+    {
+      "id": 98,
+      "label": "Fee Waiver",
+      "group": "ORG",
+      "cis": 1
+    },
+    {
+      "id": 99,
+      "label": "Standardized Testing",
+      "group": "TEST",
+      "cis": 2207
+    },
+    {
+      "id": 100,
+      "label": "SAT",
+      "group": "TEST",
+      "cis": 832
+    },
+    {
+      "id": 101,
+      "label": "ACT",
+      "group": "TEST",
+      "cis": 831
+    },
+    {
+      "id": 102,
+      "label": "PSAT/NMSQT",
+      "group": "TEST",
+      "cis": 1
+    },
+    {
+      "id": 103,
+      "label": "Test-Optional Policy",
+      "group": "TEST",
+      "cis": 271
+    },
+    {
+      "id": 104,
+      "label": "Test-Required Policy",
+      "group": "TEST",
+      "cis": 272
+    },
+    {
+      "id": 105,
+      "label": "Test-Blind Policy",
+      "group": "TEST",
+      "cis": 1
+    },
+    {
+      "id": 106,
+      "label": "Score Submission Decision",
+      "group": "TEST",
+      "cis": 268
+    },
+    {
+      "id": 107,
+      "label": "Score Benchmark Comparison",
+      "group": "TEST",
+      "cis": 271
+    },
+    {
+      "id": 108,
+      "label": "Composite Score",
+      "group": "TEST",
+      "cis": 817
+    },
+    {
+      "id": 109,
+      "label": "Section Scores",
+      "group": "TEST",
+      "cis": 819
+    },
+    {
+      "id": 110,
+      "label": "SAT-ACT Concordance",
+      "group": "TEST",
+      "cis": 272
+    },
+    {
+      "id": 111,
+      "label": "Superscoring",
+      "group": "TEST",
+      "cis": 1
+    },
+    {
+      "id": 112,
+      "label": "Score Choice",
+      "group": "TEST",
+      "cis": 2
+    },
+    {
+      "id": 113,
+      "label": "Retesting Decision",
+      "group": "TEST",
+      "cis": 2
+    },
+    {
+      "id": 114,
+      "label": "Test Registration",
+      "group": "TEST",
+      "cis": 5
+    },
+    {
+      "id": 115,
+      "label": "Test Date Planning",
+      "group": "TEST",
+      "cis": 3
+    },
+    {
+      "id": 116,
+      "label": "Official Score Report",
+      "group": "TEST",
+      "cis": 271
+    },
+    {
+      "id": 117,
+      "label": "Self-Reported Scores",
+      "group": "TEST",
+      "cis": 267
+    },
+    {
+      "id": 118,
+      "label": "Free Test Prep",
+      "group": "TEST",
+      "cis": 1
+    },
+    {
+      "id": 119,
+      "label": "Official Practice Tests",
+      "group": "TEST",
+      "cis": 6
+    },
+    {
+      "id": 120,
+      "label": "Diagnostic Practice Test",
+      "group": "TEST",
+      "cis": 4
+    },
+    {
+      "id": 121,
+      "label": "Error Log",
+      "group": "TEST",
+      "cis": 2
+    },
+    {
+      "id": 122,
+      "label": "Timed Practice",
+      "group": "TEST",
+      "cis": 1
+    },
+    {
+      "id": 123,
+      "label": "Test Accommodations",
+      "group": "TEST",
+      "cis": 1
+    },
+    {
+      "id": 124,
+      "label": "Senior Year Course Load",
+      "group": "ACAD",
+      "cis": 13
+    },
+    {
+      "id": 125,
+      "label": "Senior Grades",
+      "group": "ACAD",
+      "cis": 10
+    },
+    {
+      "id": 126,
+      "label": "Senioritis",
+      "group": "ACAD",
+      "cis": 2
+    },
+    {
+      "id": 127,
+      "label": "Mid-Year Report",
+      "group": "ACAD",
+      "cis": 1
+    },
+    {
+      "id": 128,
+      "label": "Final Transcript",
+      "group": "ACAD",
+      "cis": 6
+    },
+    {
+      "id": 129,
+      "label": "Rescinded Admission",
+      "group": "ACAD",
+      "cis": 1
+    },
+    {
+      "id": 130,
+      "label": "Core Academic Courses",
+      "group": "ACAD",
+      "cis": 1991
+    },
+    {
+      "id": 131,
+      "label": "Honors Courses",
+      "group": "ACAD",
+      "cis": 21
+    },
+    {
+      "id": 132,
+      "label": "Advanced Placement",
+      "group": "ACAD",
+      "cis": 10
+    },
+    {
+      "id": 133,
+      "label": "AP Exam",
+      "group": "ACAD",
+      "cis": 7
+    },
+    {
+      "id": 134,
+      "label": "AP Score",
+      "group": "ACAD",
+      "cis": 6
+    },
+    {
+      "id": 135,
+      "label": "International Baccalaureate",
+      "group": "ACAD",
+      "cis": 9
+    },
+    {
+      "id": 136,
+      "label": "IB Diploma",
+      "group": "ACAD",
+      "cis": 6
+    },
+    {
+      "id": 137,
+      "label": "Dual Enrollment",
+      "group": "ACAD",
+      "cis": 8
+    },
+    {
+      "id": 138,
+      "label": "College Credit in High School",
+      "group": "ACAD",
+      "cis": 5
+    },
+    {
+      "id": 139,
+      "label": "Course Selection Strategy",
+      "group": "ACAD",
+      "cis": 2
+    },
+    {
+      "id": 140,
+      "label": "Balancing Rigor and Burnout",
+      "group": "ACAD",
+      "cis": 1
+    },
+    {
+      "id": 141,
+      "label": "Extracurricular Activities",
+      "group": "ACTV",
+      "shape": "box",
+      "cis": 7060
+    },
+    {
+      "id": 142,
+      "label": "Activities List",
+      "group": "ACTV",
+      "cis": 1631
+    },
+    {
+      "id": 143,
+      "label": "Activity Description",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 144,
+      "label": "Leadership Roles",
+      "group": "ACTV",
+      "cis": 1087
+    },
+    {
+      "id": 145,
+      "label": "Part-Time Job",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 146,
+      "label": "Family Responsibilities",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 147,
+      "label": "Community Service",
+      "group": "ACTV",
+      "cis": 543
+    },
+    {
+      "id": 148,
+      "label": "Summer Experiences",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 149,
+      "label": "Personal Interests",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 150,
+      "label": "Honors and Awards",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 151,
+      "label": "Depth Over Breadth",
+      "group": "ACTV",
+      "cis": 544
+    },
+    {
+      "id": 152,
+      "label": "Sustained Commitment",
+      "group": "ACTV",
+      "cis": 545
+    },
+    {
+      "id": 153,
+      "label": "Measurable Impact",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 154,
+      "label": "Action Verbs",
+      "group": "ACTV",
+      "cis": 543
+    },
+    {
+      "id": 155,
+      "label": "Hours per Week",
+      "group": "ACTV",
+      "cis": 546
+    },
+    {
+      "id": 156,
+      "label": "Activity Ordering",
+      "group": "ACTV",
+      "cis": 542
+    },
+    {
+      "id": 157,
+      "label": "Activities Resume",
+      "group": "ACTV",
+      "cis": 541
+    },
+    {
+      "id": 158,
+      "label": "College Essay",
+      "group": "ESSAY",
+      "cis": 1038
+    },
+    {
+      "id": 159,
+      "label": "Personal Essay",
+      "group": "ESSAY",
+      "cis": 741
+    },
+    {
+      "id": 160,
+      "label": "Common App Essay Prompts",
+      "group": "ESSAY",
+      "cis": 47
+    },
+    {
+      "id": 161,
+      "label": "Essay Word Limit",
+      "group": "ESSAY",
+      "cis": 15
+    },
+    {
+      "id": 162,
+      "label": "Brainstorming",
+      "group": "ESSAY",
+      "cis": 99
+    },
+    {
+      "id": 163,
+      "label": "Essay Material List",
+      "group": "ESSAY",
+      "cis": 48
+    },
+    {
+      "id": 164,
+      "label": "Personal Story",
+      "group": "ESSAY",
+      "cis": 50
+    },
+    {
+      "id": 165,
+      "label": "Small Moment Essay",
+      "group": "ESSAY",
+      "cis": 1
+    },
+    {
+      "id": 166,
+      "label": "Essay Topic Selection",
+      "group": "ESSAY",
+      "cis": 46
+    },
+    {
+      "id": 167,
+      "label": "Overused Essay Topics",
+      "group": "ESSAY",
+      "cis": 47
+    },
+    {
+      "id": 168,
+      "label": "Show Don't Tell",
+      "group": "ESSAY",
+      "cis": 15
+    },
+    {
+      "id": 169,
+      "label": "Authentic Voice",
+      "group": "ESSAY",
+      "cis": 15
+    },
+    {
+      "id": 170,
+      "label": "Essay Structure",
+      "group": "ESSAY",
+      "cis": 45
+    },
+    {
+      "id": 171,
+      "label": "Opening Hook",
+      "group": "ESSAY",
+      "cis": 15
+    },
+    {
+      "id": 172,
+      "label": "Reflection and Insight",
+      "group": "ESSAY",
+      "cis": 15
+    },
+    {
+      "id": 173,
+      "label": "Drafting",
+      "group": "ESSAY",
+      "cis": 14
+    },
+    {
+      "id": 174,
+      "label": "Revision",
+      "group": "ESSAY",
+      "cis": 6
+    },
+    {
+      "id": 175,
+      "label": "Feedback on Essays",
+      "group": "ESSAY",
+      "cis": 7
+    },
+    {
+      "id": 176,
+      "label": "Editing and Proofreading",
+      "group": "ESSAY",
+      "cis": 1
+    },
+    {
+      "id": 177,
+      "label": "Supplemental Essays",
+      "group": "ESSAY",
+      "cis": 295
+    },
+    {
+      "id": 178,
+      "label": "School-Specific Research",
+      "group": "ESSAY",
+      "cis": 14
+    },
+    {
+      "id": 179,
+      "label": "Why Us Essay",
+      "group": "ESSAY",
+      "cis": 6
+    },
+    {
+      "id": 180,
+      "label": "Why This Major Essay",
+      "group": "ESSAY",
+      "cis": 3
+    },
+    {
+      "id": 181,
+      "label": "Community Essay",
+      "group": "ESSAY",
+      "cis": 3
+    },
+    {
+      "id": 182,
+      "label": "Activity Essay",
+      "group": "ESSAY",
+      "cis": 3
+    },
+    {
+      "id": 183,
+      "label": "Short-Answer Questions",
+      "group": "ESSAY",
+      "cis": 3
+    },
+    {
+      "id": 184,
+      "label": "Optional Essays",
+      "group": "ESSAY",
+      "cis": 3
+    },
+    {
+      "id": 185,
+      "label": "Recycled Essay Trap",
+      "group": "ESSAY",
+      "cis": 5
+    },
+    {
+      "id": 186,
+      "label": "Essay Adaptation",
+      "group": "ESSAY",
+      "cis": 4
+    },
+    {
+      "id": 187,
+      "label": "Supplement Planning",
+      "group": "ESSAY",
+      "cis": 2
+    },
+    {
+      "id": 188,
+      "label": "Letters of Recommendation",
+      "group": "RECS",
+      "cis": 32
+    },
+    {
+      "id": 189,
+      "label": "Teacher Recommendation",
+      "group": "RECS",
+      "cis": 8
+    },
+    {
+      "id": 190,
+      "label": "Counselor Recommendation",
+      "group": "RECS",
+      "cis": 8
+    },
+    {
+      "id": 191,
+      "label": "Choosing Recommenders",
+      "group": "RECS",
+      "cis": 7
+    },
+    {
+      "id": 192,
+      "label": "Asking for a Recommendation",
+      "group": "RECS",
+      "cis": 5
+    },
+    {
+      "id": 193,
+      "label": "Recommendation Request Timing",
+      "group": "RECS",
+      "cis": 6
+    },
+    {
+      "id": 194,
+      "label": "Brag Sheet",
+      "group": "RECS",
+      "cis": 3
+    },
+    {
+      "id": 195,
+      "label": "Recommender Packet",
+      "group": "RECS",
+      "cis": 2
+    },
+    {
+      "id": 196,
+      "label": "Recommender Deadlines",
+      "group": "RECS",
+      "cis": 3
+    },
+    {
+      "id": 197,
+      "label": "Thank-You Notes",
+      "group": "RECS",
+      "cis": 1
+    },
+    {
+      "id": 198,
+      "label": "FERPA Waiver",
+      "group": "RECS",
+      "cis": 2
+    },
+    {
+      "id": 199,
+      "label": "Additional Recommendation",
+      "group": "RECS",
+      "cis": 1
+    },
+    {
+      "id": 200,
+      "label": "Interviews",
+      "group": "RECS",
+      "cis": 17
+    },
+    {
+      "id": 201,
+      "label": "Alumni Interview",
+      "group": "RECS",
+      "cis": 2
+    },
+    {
+      "id": 202,
+      "label": "Admissions Officer Interview",
+      "group": "RECS",
+      "cis": 2
+    },
+    {
+      "id": 203,
+      "label": "Evaluative Interview",
+      "group": "RECS",
+      "cis": 5
+    },
+    {
+      "id": 204,
+      "label": "Informational Interview",
+      "group": "RECS",
+      "cis": 5
+    },
+    {
+      "id": 205,
+      "label": "Virtual Interview",
+      "group": "RECS",
+      "cis": 2
+    },
+    {
+      "id": 206,
+      "label": "Interview Preparation",
+      "group": "RECS",
+      "cis": 4
+    },
+    {
+      "id": 207,
+      "label": "Practice Interview",
+      "group": "RECS",
+      "cis": 1
+    },
+    {
+      "id": 208,
+      "label": "Questions to Ask Interviewer",
+      "group": "RECS",
+      "cis": 1
+    },
+    {
+      "id": 209,
+      "label": "Interview Follow-Up",
+      "group": "RECS",
+      "cis": 1
+    },
+    {
+      "id": 210,
+      "label": "Common App",
+      "group": "PLAT",
+      "cis": 1658
+    },
+    {
+      "id": 211,
+      "label": "Coalition App",
+      "group": "PLAT",
+      "cis": 265
+    },
+    {
+      "id": 212,
+      "label": "Institutional Application",
+      "group": "PLAT",
+      "cis": 2223
+    },
+    {
+      "id": 213,
+      "label": "Common App Account",
+      "group": "PLAT",
+      "cis": 1610
+    },
+    {
+      "id": 214,
+      "label": "Common App Dashboard",
+      "group": "PLAT",
+      "cis": 274
+    },
+    {
+      "id": 215,
+      "label": "Adding Colleges",
+      "group": "PLAT",
+      "cis": 273
+    },
+    {
+      "id": 216,
+      "label": "Profile Section",
+      "group": "PLAT",
+      "cis": 1334
+    },
+    {
+      "id": 217,
+      "label": "Family Section",
+      "group": "PLAT",
+      "cis": 266
+    },
+    {
+      "id": 218,
+      "label": "Education Section",
+      "group": "PLAT",
+      "cis": 1067
+    },
+    {
+      "id": 219,
+      "label": "Testing Section",
+      "group": "PLAT",
+      "cis": 266
+    },
+    {
+      "id": 220,
+      "label": "Activities Section",
+      "group": "PLAT",
+      "cis": 533
+    },
+    {
+      "id": 221,
+      "label": "Writing Section",
+      "group": "PLAT",
+      "cis": 532
+    },
+    {
+      "id": 222,
+      "label": "Additional Information Section",
+      "group": "PLAT",
+      "cis": 266
+    },
+    {
+      "id": 223,
+      "label": "Courses and Grades Section",
+      "group": "PLAT",
+      "cis": 266
+    },
+    {
+      "id": 224,
+      "label": "Self-Reported Academic Record",
+      "group": "PLAT",
+      "cis": 267
+    },
+    {
+      "id": 225,
+      "label": "Member Questions",
+      "group": "PLAT",
+      "cis": 267
+    },
+    {
+      "id": 226,
+      "label": "Writing Supplements",
+      "group": "PLAT",
+      "cis": 266
+    },
+    {
+      "id": 227,
+      "label": "Assigning Recommenders",
+      "group": "PLAT",
+      "cis": 1
+    },
+    {
+      "id": 228,
+      "label": "Application Preview",
+      "group": "PLAT",
+      "cis": 265
+    },
+    {
+      "id": 229,
+      "label": "Application Submission",
+      "group": "PLAT",
+      "cis": 264
+    },
+    {
+      "id": 230,
+      "label": "Submission Confirmation",
+      "group": "PLAT",
+      "cis": 256
+    },
+    {
+      "id": 231,
+      "label": "Sending Official Transcripts",
+      "group": "PLAT",
+      "cis": 1
+    },
+    {
+      "id": 232,
+      "label": "Sending Test Scores",
+      "group": "PLAT",
+      "cis": 1
+    },
+    {
+      "id": 233,
+      "label": "Institution Codes",
+      "group": "PLAT",
+      "cis": 4
+    },
+    {
+      "id": 234,
+      "label": "College-Specific Requirements",
+      "group": "PLAT",
+      "cis": 299
+    },
+    {
+      "id": 235,
+      "label": "Financial Aid",
+      "group": "AID",
+      "cis": 2443
+    },
+    {
+      "id": 236,
+      "label": "Cost of Attendance",
+      "group": "AID",
+      "shape": "box",
+      "cis": 7599
+    },
+    {
+      "id": 237,
+      "label": "Sticker Price",
+      "group": "AID",
+      "cis": 1243
+    },
+    {
+      "id": 238,
+      "label": "Tuition",
+      "group": "AID",
+      "cis": 1243
+    },
+    {
+      "id": 239,
+      "label": "Room and Board",
+      "group": "AID",
+      "cis": 1243
+    },
+    {
+      "id": 240,
+      "label": "Indirect Costs",
+      "group": "AID",
+      "cis": 1243
+    },
+    {
+      "id": 241,
+      "label": "Net Price",
+      "group": "AID",
+      "cis": 1242
+    },
+    {
+      "id": 242,
+      "label": "Net Price Calculator",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 243,
+      "label": "Student Aid Index",
+      "group": "AID",
+      "cis": 99
+    },
+    {
+      "id": 244,
+      "label": "Demonstrated Financial Need",
+      "group": "AID",
+      "cis": 98
+    },
+    {
+      "id": 245,
+      "label": "FAFSA",
+      "group": "AID",
+      "cis": 153
+    },
+    {
+      "id": 246,
+      "label": "FAFSA Opening Date",
+      "group": "AID",
+      "cis": 3
+    },
+    {
+      "id": 247,
+      "label": "FSA ID",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 248,
+      "label": "FAFSA Contributors",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 249,
+      "label": "Federal School Code",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 250,
+      "label": "CSS Profile",
+      "group": "AID",
+      "cis": 3
+    },
+    {
+      "id": 251,
+      "label": "Federal Aid",
+      "group": "AID",
+      "cis": 677
+    },
+    {
+      "id": 252,
+      "label": "State Aid",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 253,
+      "label": "Institutional Aid",
+      "group": "AID",
+      "cis": 68
+    },
+    {
+      "id": 254,
+      "label": "Need-Based Aid",
+      "group": "AID",
+      "cis": 91
+    },
+    {
+      "id": 255,
+      "label": "Merit Aid",
+      "group": "AID",
+      "cis": 63
+    },
+    {
+      "id": 256,
+      "label": "Need-Blind Admissions",
+      "group": "AID",
+      "cis": 2
+    },
+    {
+      "id": 257,
+      "label": "Need-Aware Admissions",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 258,
+      "label": "Meets Full Need",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 259,
+      "label": "Unmet Need",
+      "group": "AID",
+      "cis": 2
+    },
+    {
+      "id": 260,
+      "label": "Grants",
+      "group": "AID",
+      "cis": 1417
+    },
+    {
+      "id": 261,
+      "label": "Pell Grant",
+      "group": "AID",
+      "cis": 87
+    },
+    {
+      "id": 262,
+      "label": "Work-Study",
+      "group": "AID",
+      "cis": 87
+    },
+    {
+      "id": 263,
+      "label": "Federal Direct Loan",
+      "group": "AID",
+      "cis": 349
+    },
+    {
+      "id": 264,
+      "label": "Subsidized Loan",
+      "group": "AID",
+      "cis": 87
+    },
+    {
+      "id": 265,
+      "label": "Unsubsidized Loan",
+      "group": "AID",
+      "cis": 87
+    },
+    {
+      "id": 266,
+      "label": "Parent PLUS Loan",
+      "group": "AID",
+      "cis": 87
+    },
+    {
+      "id": 267,
+      "label": "Private Loan",
+      "group": "AID",
+      "cis": 87
+    },
+    {
+      "id": 268,
+      "label": "Verification",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 269,
+      "label": "Aid Priority Deadline",
+      "group": "AID",
+      "cis": 2
+    },
+    {
+      "id": 270,
+      "label": "First-Come First-Served Aid",
+      "group": "AID",
+      "cis": 1
+    },
+    {
+      "id": 271,
+      "label": "Aid Renewal",
+      "group": "AID",
+      "cis": 44
+    },
+    {
+      "id": 272,
+      "label": "Scholarships",
+      "group": "SCHOL",
+      "cis": 62
+    },
+    {
+      "id": 273,
+      "label": "Automatic Merit Scholarship",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 274,
+      "label": "Competitive Scholarship",
+      "group": "SCHOL",
+      "cis": 4
+    },
+    {
+      "id": 275,
+      "label": "Outside Scholarship",
+      "group": "SCHOL",
+      "cis": 8
+    },
+    {
+      "id": 276,
+      "label": "Local Scholarship",
+      "group": "SCHOL",
+      "cis": 2
+    },
+    {
+      "id": 277,
+      "label": "Scholarship Search Engine",
+      "group": "SCHOL",
+      "cis": 2
+    },
+    {
+      "id": 278,
+      "label": "Scholarship Eligibility",
+      "group": "SCHOL",
+      "cis": 3
+    },
+    {
+      "id": 279,
+      "label": "Renewable Scholarship",
+      "group": "SCHOL",
+      "cis": 45
+    },
+    {
+      "id": 280,
+      "label": "Scholarship Renewal Criteria",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 281,
+      "label": "Scholarship Prioritization",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 282,
+      "label": "Expected Value of Applying",
+      "group": "SCHOL",
+      "cis": 2
+    },
+    {
+      "id": 283,
+      "label": "Scholarship Essay Reuse",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 284,
+      "label": "Scholarship Scams",
+      "group": "SCHOL",
+      "cis": 2
+    },
+    {
+      "id": 285,
+      "label": "Scam Warning Signs",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 286,
+      "label": "Award Displacement",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 287,
+      "label": "Award Letter",
+      "group": "SCHOL",
+      "cis": 130
+    },
+    {
+      "id": 288,
+      "label": "Reading an Award Letter",
+      "group": "SCHOL",
+      "cis": 85
+    },
+    {
+      "id": 289,
+      "label": "Free Money vs. Borrowed Money",
+      "group": "SCHOL",
+      "cis": 87
+    },
+    {
+      "id": 290,
+      "label": "Loans vs. Grants",
+      "group": "SCHOL",
+      "cis": 86
+    },
+    {
+      "id": 291,
+      "label": "Out-of-Pocket Cost",
+      "group": "SCHOL",
+      "cis": 84
+    },
+    {
+      "id": 292,
+      "label": "Four-Year Cost Projection",
+      "group": "SCHOL",
+      "cis": 43
+    },
+    {
+      "id": 293,
+      "label": "Total Debt at Graduation",
+      "group": "SCHOL",
+      "cis": 41
+    },
+    {
+      "id": 294,
+      "label": "Award Letter Comparison",
+      "group": "SCHOL",
+      "cis": 40
+    },
+    {
+      "id": 295,
+      "label": "Change in Circumstances",
+      "group": "SCHOL",
+      "cis": 4
+    },
+    {
+      "id": 296,
+      "label": "Aid Reconsideration Request",
+      "group": "SCHOL",
+      "cis": 3
+    },
+    {
+      "id": 297,
+      "label": "Financial Aid Appeal",
+      "group": "SCHOL",
+      "cis": 2
+    },
+    {
+      "id": 298,
+      "label": "Competing Offer Leverage",
+      "group": "SCHOL",
+      "cis": 1
+    },
+    {
+      "id": 299,
+      "label": "Application Review Process",
+      "group": "DEC",
+      "cis": 254
+    },
+    {
+      "id": 300,
+      "label": "Application Status",
+      "group": "DEC",
+      "cis": 2
+    },
+    {
+      "id": 301,
+      "label": "Decision Release Date",
+      "group": "DEC",
+      "cis": 245
+    },
+    {
+      "id": 302,
+      "label": "Admission Decision",
+      "group": "DEC",
+      "cis": 244
+    },
+    {
+      "id": 303,
+      "label": "Acceptance",
+      "group": "DEC",
+      "cis": 103
+    },
+    {
+      "id": 304,
+      "label": "Denial",
+      "group": "DEC",
+      "cis": 3
+    },
+    {
+      "id": 305,
+      "label": "Deferral",
+      "group": "DEC",
+      "cis": 1
+    },
+    {
+      "id": 306,
+      "label": "Waitlist",
+      "group": "DEC",
+      "cis": 4
+    },
+    {
+      "id": 307,
+      "label": "Waitlist Strategy",
+      "group": "DEC",
+      "cis": 1
+    },
+    {
+      "id": 308,
+      "label": "Letter of Continued Interest",
+      "group": "DEC",
+      "cis": 2
+    },
+    {
+      "id": 309,
+      "label": "Accepting an Offer",
+      "group": "DEC",
+      "cis": 31
+    },
+    {
+      "id": 310,
+      "label": "Declining Offers",
+      "group": "DEC",
+      "cis": 1
+    },
+    {
+      "id": 311,
+      "label": "Comparing Offers",
+      "group": "DEC",
+      "cis": 34
+    },
+    {
+      "id": 312,
+      "label": "Side-by-Side Comparison",
+      "group": "DEC",
+      "cis": 33
+    },
+    {
+      "id": 313,
+      "label": "Admitted Student Day",
+      "group": "DEC",
+      "cis": 34
+    },
+    {
+      "id": 314,
+      "label": "Campus Revisit",
+      "group": "DEC",
+      "cis": 33
+    },
+    {
+      "id": 315,
+      "label": "Final College Choice",
+      "group": "DEC",
+      "cis": 32
+    },
+    {
+      "id": 316,
+      "label": "May 1 Decision Deadline",
+      "group": "DEC",
+      "cis": 33
+    },
+    {
+      "id": 317,
+      "label": "Enrollment Deposit",
+      "group": "DEC",
+      "cis": 29
+    },
+    {
+      "id": 318,
+      "label": "Double Depositing",
+      "group": "DEC",
+      "cis": 1
+    },
+    {
+      "id": 319,
+      "label": "Early Decision Release",
+      "group": "DEC",
+      "cis": 1
+    },
+    {
+      "id": 320,
+      "label": "Getting Ready for Fall",
+      "group": "DEC",
+      "cis": 27
+    },
+    {
+      "id": 321,
+      "label": "Housing Application",
+      "group": "DEC",
+      "cis": 7
+    },
+    {
+      "id": 322,
+      "label": "Roommate Selection",
+      "group": "DEC",
+      "cis": 2
+    },
+    {
+      "id": 323,
+      "label": "Orientation",
+      "group": "DEC",
+      "cis": 8
+    },
+    {
+      "id": 324,
+      "label": "Living Learning Community",
+      "group": "DEC",
+      "cis": 2
+    },
+    {
+      "id": 325,
+      "label": "Health Forms and Immunizations",
+      "group": "DEC",
+      "cis": 3
+    },
+    {
+      "id": 326,
+      "label": "AP Credit Transfer",
+      "group": "DEC",
+      "cis": 4
+    },
+    {
+      "id": 327,
+      "label": "Placement Tests",
+      "group": "DEC",
+      "cis": 4
+    },
+    {
+      "id": 328,
+      "label": "Course Registration",
+      "group": "DEC",
+      "cis": 3
+    },
+    {
+      "id": 329,
+      "label": "Summer Melt",
+      "group": "DEC",
+      "cis": 3
+    },
+    {
+      "id": 330,
+      "label": "Summer Transition Planning",
+      "group": "DEC",
+      "cis": 2
+    },
+    {
+      "id": 331,
+      "label": "Move-In Day",
+      "group": "DEC",
+      "cis": 1
+    },
+    {
+      "id": 332,
+      "label": "Application Stress",
+      "group": "WELL",
+      "cis": 10
+    },
+    {
+      "id": 333,
+      "label": "Managing Uncertainty",
+      "group": "WELL",
+      "cis": 8
+    },
+    {
+      "id": 334,
+      "label": "Rejection as Fit",
+      "group": "WELL",
+      "cis": 2
+    },
+    {
+      "id": 335,
+      "label": "Waiting Period",
+      "group": "WELL",
+      "cis": 7
+    },
+    {
+      "id": 336,
+      "label": "Healthy Coping Strategies",
+      "group": "WELL",
+      "cis": 6
+    },
+    {
+      "id": 337,
+      "label": "Limiting Comparison",
+      "group": "WELL",
+      "cis": 2
+    },
+    {
+      "id": 338,
+      "label": "Social Media Boundaries",
+      "group": "WELL",
+      "cis": 1
+    },
+    {
+      "id": 339,
+      "label": "Self-Care Routine",
+      "group": "WELL",
+      "cis": 2
+    },
+    {
+      "id": 340,
+      "label": "Support Network",
+      "group": "WELL",
+      "cis": 1
+    },
+    {
+      "id": 341,
+      "label": "Long-Term Perspective",
+      "group": "WELL",
+      "cis": 1
+    },
+    {
+      "id": 342,
+      "label": "Celebrating Milestones",
+      "group": "WELL",
+      "cis": 1
+    }
+  ],
+  "edges": [
+    {
+      "from": 2,
+      "to": 1
+    },
+    {
+      "from": 3,
+      "to": 1
+    },
+    {
+      "from": 3,
+      "to": 19
+    },
+    {
+      "from": 4,
+      "to": 1
+    },
+    {
+      "from": 5,
+      "to": 4
+    },
+    {
+      "from": 6,
+      "to": 5
+    },
+    {
+      "from": 6,
+      "to": 8
+    },
+    {
+      "from": 6,
+      "to": 3
+    },
+    {
+      "from": 7,
+      "to": 8
+    },
+    {
+      "from": 7,
+      "to": 22
+    },
+    {
+      "from": 8,
+      "to": 9
+    },
+    {
+      "from": 8,
+      "to": 10
+    },
+    {
+      "from": 8,
+      "to": 13
+    },
+    {
+      "from": 10,
+      "to": 9
+    },
+    {
+      "from": 11,
+      "to": 10
+    },
+    {
+      "from": 11,
+      "to": 131
+    },
+    {
+      "from": 12,
+      "to": 10
+    },
+    {
+      "from": 13,
+      "to": 9
+    },
+    {
+      "from": 13,
+      "to": 130
+    },
+    {
+      "from": 14,
+      "to": 10
+    },
+    {
+      "from": 15,
+      "to": 4
+    },
+    {
+      "from": 16,
+      "to": 4
+    },
+    {
+      "from": 17,
+      "to": 16
+    },
+    {
+      "from": 18,
+      "to": 16
+    },
+    {
+      "from": 19,
+      "to": 1
+    },
+    {
+      "from": 19,
+      "to": 21
+    },
+    {
+      "from": 20,
+      "to": 19
+    },
+    {
+      "from": 20,
+      "to": 10
+    },
+    {
+      "from": 22,
+      "to": 21
+    },
+    {
+      "from": 23,
+      "to": 21
+    },
+    {
+      "from": 24,
+      "to": 23
+    },
+    {
+      "from": 25,
+      "to": 21
+    },
+    {
+      "from": 26,
+      "to": 22
+    },
+    {
+      "from": 26,
+      "to": 25
+    },
+    {
+      "from": 27,
+      "to": 22
+    },
+    {
+      "from": 28,
+      "to": 27
+    },
+    {
+      "from": 29,
+      "to": 2
+    },
+    {
+      "from": 29,
+      "to": 74
+    },
+    {
+      "from": 30,
+      "to": 29
+    },
+    {
+      "from": 30,
+      "to": 35
+    },
+    {
+      "from": 31,
+      "to": 29
+    },
+    {
+      "from": 32,
+      "to": 31
+    },
+    {
+      "from": 32,
+      "to": 30
+    },
+    {
+      "from": 33,
+      "to": 29
+    },
+    {
+      "from": 34,
+      "to": 29
+    },
+    {
+      "from": 35,
+      "to": 1
+    },
+    {
+      "from": 36,
+      "to": 6
+    },
+    {
+      "from": 37,
+      "to": 36
+    },
+    {
+      "from": 37,
+      "to": 41
+    },
+    {
+      "from": 38,
+      "to": 36
+    },
+    {
+      "from": 38,
+      "to": 103
+    },
+    {
+      "from": 39,
+      "to": 36
+    },
+    {
+      "from": 39,
+      "to": 151
+    },
+    {
+      "from": 40,
+      "to": 21
+    },
+    {
+      "from": 40,
+      "to": 1
+    },
+    {
+      "from": 41,
+      "to": 40
+    },
+    {
+      "from": 41,
+      "to": 45
+    },
+    {
+      "from": 42,
+      "to": 41
+    },
+    {
+      "from": 42,
+      "to": 47
+    },
+    {
+      "from": 42,
+      "to": 20
+    },
+    {
+      "from": 43,
+      "to": 41
+    },
+    {
+      "from": 43,
+      "to": 52
+    },
+    {
+      "from": 44,
+      "to": 41
+    },
+    {
+      "from": 44,
+      "to": 241
+    },
+    {
+      "from": 45,
+      "to": 46
+    },
+    {
+      "from": 46,
+      "to": 1
+    },
+    {
+      "from": 47,
+      "to": 45
+    },
+    {
+      "from": 48,
+      "to": 47
+    },
+    {
+      "from": 49,
+      "to": 45
+    },
+    {
+      "from": 49,
+      "to": 21
+    },
+    {
+      "from": 50,
+      "to": 45
+    },
+    {
+      "from": 51,
+      "to": 45
+    },
+    {
+      "from": 52,
+      "to": 49
+    },
+    {
+      "from": 52,
+      "to": 50
+    },
+    {
+      "from": 53,
+      "to": 40
+    },
+    {
+      "from": 53,
+      "to": 20
+    },
+    {
+      "from": 53,
+      "to": 19
+    },
+    {
+      "from": 54,
+      "to": 53
+    },
+    {
+      "from": 55,
+      "to": 54
+    },
+    {
+      "from": 55,
+      "to": 44
+    },
+    {
+      "from": 56,
+      "to": 53
+    },
+    {
+      "from": 56,
+      "to": 54
+    },
+    {
+      "from": 56,
+      "to": 55
+    },
+    {
+      "from": 57,
+      "to": 40
+    },
+    {
+      "from": 58,
+      "to": 57
+    },
+    {
+      "from": 59,
+      "to": 57
+    },
+    {
+      "from": 59,
+      "to": 61
+    },
+    {
+      "from": 59,
+      "to": 241
+    },
+    {
+      "from": 60,
+      "to": 57
+    },
+    {
+      "from": 60,
+      "to": 20
+    },
+    {
+      "from": 61,
+      "to": 21
+    },
+    {
+      "from": 62,
+      "to": 61
+    },
+    {
+      "from": 63,
+      "to": 57
+    },
+    {
+      "from": 64,
+      "to": 57
+    },
+    {
+      "from": 64,
+      "to": 52
+    },
+    {
+      "from": 65,
+      "to": 57
+    },
+    {
+      "from": 66,
+      "to": 64
+    },
+    {
+      "from": 66,
+      "to": 4
+    },
+    {
+      "from": 67,
+      "to": 57
+    },
+    {
+      "from": 67,
+      "to": 43
+    },
+    {
+      "from": 68,
+      "to": 57
+    },
+    {
+      "from": 68,
+      "to": 41
+    },
+    {
+      "from": 69,
+      "to": 68
+    },
+    {
+      "from": 69,
+      "to": 56
+    },
+    {
+      "from": 69,
+      "to": 42
+    },
+    {
+      "from": 69,
+      "to": 44
+    },
+    {
+      "from": 69,
+      "to": 43
+    },
+    {
+      "from": 70,
+      "to": 69
+    },
+    {
+      "from": 71,
+      "to": 1
+    },
+    {
+      "from": 72,
+      "to": 71
+    },
+    {
+      "from": 72,
+      "to": 74
+    },
+    {
+      "from": 73,
+      "to": 72
+    },
+    {
+      "from": 73,
+      "to": 90
+    },
+    {
+      "from": 74,
+      "to": 2
+    },
+    {
+      "from": 75,
+      "to": 74
+    },
+    {
+      "from": 76,
+      "to": 74
+    },
+    {
+      "from": 77,
+      "to": 72
+    },
+    {
+      "from": 78,
+      "to": 71
+    },
+    {
+      "from": 78,
+      "to": 70
+    },
+    {
+      "from": 79,
+      "to": 71
+    },
+    {
+      "from": 80,
+      "to": 79
+    },
+    {
+      "from": 81,
+      "to": 79
+    },
+    {
+      "from": 81,
+      "to": 9
+    },
+    {
+      "from": 82,
+      "to": 79
+    },
+    {
+      "from": 82,
+      "to": 158
+    },
+    {
+      "from": 83,
+      "to": 79
+    },
+    {
+      "from": 83,
+      "to": 85
+    },
+    {
+      "from": 84,
+      "to": 71
+    },
+    {
+      "from": 85,
+      "to": 84
+    },
+    {
+      "from": 85,
+      "to": 229
+    },
+    {
+      "from": 86,
+      "to": 85
+    },
+    {
+      "from": 86,
+      "to": 300
+    },
+    {
+      "from": 87,
+      "to": 1
+    },
+    {
+      "from": 88,
+      "to": 87
+    },
+    {
+      "from": 89,
+      "to": 87
+    },
+    {
+      "from": 90,
+      "to": 1
+    },
+    {
+      "from": 91,
+      "to": 2
+    },
+    {
+      "from": 92,
+      "to": 2
+    },
+    {
+      "from": 92,
+      "to": 29
+    },
+    {
+      "from": 93,
+      "to": 92
+    },
+    {
+      "from": 93,
+      "to": 72
+    },
+    {
+      "from": 93,
+      "to": 246
+    },
+    {
+      "from": 93,
+      "to": 115
+    },
+    {
+      "from": 94,
+      "to": 73
+    },
+    {
+      "from": 94,
+      "to": 213
+    },
+    {
+      "from": 94,
+      "to": 192
+    },
+    {
+      "from": 94,
+      "to": 157
+    },
+    {
+      "from": 94,
+      "to": 163
+    },
+    {
+      "from": 95,
+      "to": 234
+    },
+    {
+      "from": 95,
+      "to": 2
+    },
+    {
+      "from": 96,
+      "to": 93
+    },
+    {
+      "from": 96,
+      "to": 70
+    },
+    {
+      "from": 96,
+      "to": 95
+    },
+    {
+      "from": 96,
+      "to": 106
+    },
+    {
+      "from": 96,
+      "to": 187
+    },
+    {
+      "from": 96,
+      "to": 195
+    },
+    {
+      "from": 96,
+      "to": 292
+    },
+    {
+      "from": 96,
+      "to": 320
+    },
+    {
+      "from": 97,
+      "to": 229
+    },
+    {
+      "from": 98,
+      "to": 97
+    },
+    {
+      "from": 98,
+      "to": 18
+    },
+    {
+      "from": 99,
+      "to": 1
+    },
+    {
+      "from": 100,
+      "to": 99
+    },
+    {
+      "from": 101,
+      "to": 99
+    },
+    {
+      "from": 102,
+      "to": 100
+    },
+    {
+      "from": 103,
+      "to": 99
+    },
+    {
+      "from": 103,
+      "to": 104
+    },
+    {
+      "from": 104,
+      "to": 99
+    },
+    {
+      "from": 105,
+      "to": 103
+    },
+    {
+      "from": 106,
+      "to": 103
+    },
+    {
+      "from": 106,
+      "to": 107
+    },
+    {
+      "from": 107,
+      "to": 20
+    },
+    {
+      "from": 107,
+      "to": 108
+    },
+    {
+      "from": 107,
+      "to": 110
+    },
+    {
+      "from": 108,
+      "to": 109
+    },
+    {
+      "from": 109,
+      "to": 100
+    },
+    {
+      "from": 109,
+      "to": 101
+    },
+    {
+      "from": 110,
+      "to": 108
+    },
+    {
+      "from": 111,
+      "to": 109
+    },
+    {
+      "from": 111,
+      "to": 113
+    },
+    {
+      "from": 112,
+      "to": 116
+    },
+    {
+      "from": 113,
+      "to": 108
+    },
+    {
+      "from": 113,
+      "to": 107
+    },
+    {
+      "from": 114,
+      "to": 100
+    },
+    {
+      "from": 114,
+      "to": 101
+    },
+    {
+      "from": 115,
+      "to": 114
+    },
+    {
+      "from": 115,
+      "to": 2
+    },
+    {
+      "from": 116,
+      "to": 108
+    },
+    {
+      "from": 117,
+      "to": 116
+    },
+    {
+      "from": 118,
+      "to": 119
+    },
+    {
+      "from": 119,
+      "to": 100
+    },
+    {
+      "from": 119,
+      "to": 101
+    },
+    {
+      "from": 120,
+      "to": 119
+    },
+    {
+      "from": 121,
+      "to": 120
+    },
+    {
+      "from": 122,
+      "to": 120
+    },
+    {
+      "from": 122,
+      "to": 121
+    },
+    {
+      "from": 123,
+      "to": 114
+    },
+    {
+      "from": 124,
+      "to": 13
+    },
+    {
+      "from": 124,
+      "to": 130
+    },
+    {
+      "from": 125,
+      "to": 124
+    },
+    {
+      "from": 125,
+      "to": 10
+    },
+    {
+      "from": 126,
+      "to": 125
+    },
+    {
+      "from": 127,
+      "to": 125
+    },
+    {
+      "from": 127,
+      "to": 87
+    },
+    {
+      "from": 128,
+      "to": 125
+    },
+    {
+      "from": 128,
+      "to": 9
+    },
+    {
+      "from": 129,
+      "to": 128
+    },
+    {
+      "from": 129,
+      "to": 126
+    },
+    {
+      "from": 129,
+      "to": 303
+    },
+    {
+      "from": 130,
+      "to": 9
+    },
+    {
+      "from": 131,
+      "to": 130
+    },
+    {
+      "from": 132,
+      "to": 131
+    },
+    {
+      "from": 133,
+      "to": 132
+    },
+    {
+      "from": 134,
+      "to": 133
+    },
+    {
+      "from": 135,
+      "to": 131
+    },
+    {
+      "from": 136,
+      "to": 135
+    },
+    {
+      "from": 137,
+      "to": 130
+    },
+    {
+      "from": 138,
+      "to": 134
+    },
+    {
+      "from": 138,
+      "to": 136
+    },
+    {
+      "from": 138,
+      "to": 137
+    },
+    {
+      "from": 139,
+      "to": 124
+    },
+    {
+      "from": 139,
+      "to": 132
+    },
+    {
+      "from": 139,
+      "to": 135
+    },
+    {
+      "from": 139,
+      "to": 137
+    },
+    {
+      "from": 140,
+      "to": 139
+    },
+    {
+      "from": 140,
+      "to": 332
+    },
+    {
+      "from": 142,
+      "to": 141
+    },
+    {
+      "from": 143,
+      "to": 142
+    },
+    {
+      "from": 143,
+      "to": 154
+    },
+    {
+      "from": 144,
+      "to": 141
+    },
+    {
+      "from": 145,
+      "to": 141
+    },
+    {
+      "from": 146,
+      "to": 141
+    },
+    {
+      "from": 147,
+      "to": 141
+    },
+    {
+      "from": 148,
+      "to": 141
+    },
+    {
+      "from": 149,
+      "to": 141
+    },
+    {
+      "from": 150,
+      "to": 141
+    },
+    {
+      "from": 151,
+      "to": 152
+    },
+    {
+      "from": 151,
+      "to": 144
+    },
+    {
+      "from": 152,
+      "to": 141
+    },
+    {
+      "from": 152,
+      "to": 155
+    },
+    {
+      "from": 153,
+      "to": 144
+    },
+    {
+      "from": 153,
+      "to": 147
+    },
+    {
+      "from": 154,
+      "to": 141
+    },
+    {
+      "from": 155,
+      "to": 142
+    },
+    {
+      "from": 156,
+      "to": 142
+    },
+    {
+      "from": 156,
+      "to": 151
+    },
+    {
+      "from": 157,
+      "to": 143
+    },
+    {
+      "from": 157,
+      "to": 156
+    },
+    {
+      "from": 157,
+      "to": 153
+    },
+    {
+      "from": 157,
+      "to": 145
+    },
+    {
+      "from": 157,
+      "to": 146
+    },
+    {
+      "from": 157,
+      "to": 150
+    },
+    {
+      "from": 157,
+      "to": 148
+    },
+    {
+      "from": 157,
+      "to": 149
+    },
+    {
+      "from": 158,
+      "to": 6
+    },
+    {
+      "from": 159,
+      "to": 158
+    },
+    {
+      "from": 160,
+      "to": 159
+    },
+    {
+      "from": 160,
+      "to": 210
+    },
+    {
+      "from": 161,
+      "to": 159
+    },
+    {
+      "from": 162,
+      "to": 159
+    },
+    {
+      "from": 162,
+      "to": 45
+    },
+    {
+      "from": 163,
+      "to": 162
+    },
+    {
+      "from": 164,
+      "to": 162
+    },
+    {
+      "from": 165,
+      "to": 164
+    },
+    {
+      "from": 166,
+      "to": 163
+    },
+    {
+      "from": 166,
+      "to": 160
+    },
+    {
+      "from": 166,
+      "to": 167
+    },
+    {
+      "from": 167,
+      "to": 159
+    },
+    {
+      "from": 168,
+      "to": 164
+    },
+    {
+      "from": 169,
+      "to": 164
+    },
+    {
+      "from": 170,
+      "to": 166
+    },
+    {
+      "from": 171,
+      "to": 170
+    },
+    {
+      "from": 172,
+      "to": 170
+    },
+    {
+      "from": 172,
+      "to": 164
+    },
+    {
+      "from": 173,
+      "to": 170
+    },
+    {
+      "from": 173,
+      "to": 171
+    },
+    {
+      "from": 173,
+      "to": 168
+    },
+    {
+      "from": 173,
+      "to": 169
+    },
+    {
+      "from": 173,
+      "to": 172
+    },
+    {
+      "from": 173,
+      "to": 161
+    },
+    {
+      "from": 174,
+      "to": 173
+    },
+    {
+      "from": 174,
+      "to": 175
+    },
+    {
+      "from": 175,
+      "to": 173
+    },
+    {
+      "from": 176,
+      "to": 174
+    },
+    {
+      "from": 177,
+      "to": 158
+    },
+    {
+      "from": 177,
+      "to": 234
+    },
+    {
+      "from": 178,
+      "to": 177
+    },
+    {
+      "from": 178,
+      "to": 57
+    },
+    {
+      "from": 179,
+      "to": 178
+    },
+    {
+      "from": 180,
+      "to": 178
+    },
+    {
+      "from": 180,
+      "to": 47
+    },
+    {
+      "from": 181,
+      "to": 177
+    },
+    {
+      "from": 181,
+      "to": 164
+    },
+    {
+      "from": 182,
+      "to": 177
+    },
+    {
+      "from": 182,
+      "to": 157
+    },
+    {
+      "from": 183,
+      "to": 177
+    },
+    {
+      "from": 184,
+      "to": 177
+    },
+    {
+      "from": 185,
+      "to": 179
+    },
+    {
+      "from": 186,
+      "to": 185
+    },
+    {
+      "from": 186,
+      "to": 174
+    },
+    {
+      "from": 187,
+      "to": 177
+    },
+    {
+      "from": 187,
+      "to": 72
+    },
+    {
+      "from": 187,
+      "to": 186
+    },
+    {
+      "from": 187,
+      "to": 180
+    },
+    {
+      "from": 187,
+      "to": 181
+    },
+    {
+      "from": 187,
+      "to": 182
+    },
+    {
+      "from": 187,
+      "to": 183
+    },
+    {
+      "from": 187,
+      "to": 184
+    },
+    {
+      "from": 188,
+      "to": 6
+    },
+    {
+      "from": 189,
+      "to": 188
+    },
+    {
+      "from": 190,
+      "to": 188
+    },
+    {
+      "from": 190,
+      "to": 87
+    },
+    {
+      "from": 191,
+      "to": 189
+    },
+    {
+      "from": 191,
+      "to": 190
+    },
+    {
+      "from": 192,
+      "to": 191
+    },
+    {
+      "from": 192,
+      "to": 193
+    },
+    {
+      "from": 193,
+      "to": 188
+    },
+    {
+      "from": 193,
+      "to": 2
+    },
+    {
+      "from": 194,
+      "to": 157
+    },
+    {
+      "from": 194,
+      "to": 188
+    },
+    {
+      "from": 195,
+      "to": 194
+    },
+    {
+      "from": 195,
+      "to": 192
+    },
+    {
+      "from": 195,
+      "to": 196
+    },
+    {
+      "from": 196,
+      "to": 75
+    },
+    {
+      "from": 196,
+      "to": 188
+    },
+    {
+      "from": 197,
+      "to": 192
+    },
+    {
+      "from": 198,
+      "to": 188
+    },
+    {
+      "from": 199,
+      "to": 188
+    },
+    {
+      "from": 199,
+      "to": 234
+    },
+    {
+      "from": 200,
+      "to": 6
+    },
+    {
+      "from": 200,
+      "to": 15
+    },
+    {
+      "from": 201,
+      "to": 200
+    },
+    {
+      "from": 202,
+      "to": 200
+    },
+    {
+      "from": 202,
+      "to": 5
+    },
+    {
+      "from": 203,
+      "to": 200
+    },
+    {
+      "from": 204,
+      "to": 200
+    },
+    {
+      "from": 205,
+      "to": 200
+    },
+    {
+      "from": 206,
+      "to": 203
+    },
+    {
+      "from": 206,
+      "to": 204
+    },
+    {
+      "from": 206,
+      "to": 178
+    },
+    {
+      "from": 207,
+      "to": 206
+    },
+    {
+      "from": 208,
+      "to": 206
+    },
+    {
+      "from": 209,
+      "to": 206
+    },
+    {
+      "from": 209,
+      "to": 201
+    },
+    {
+      "from": 209,
+      "to": 202
+    },
+    {
+      "from": 209,
+      "to": 205
+    },
+    {
+      "from": 210,
+      "to": 212
+    },
+    {
+      "from": 211,
+      "to": 212
+    },
+    {
+      "from": 212,
+      "to": 1
+    },
+    {
+      "from": 212,
+      "to": 74
+    },
+    {
+      "from": 213,
+      "to": 210
+    },
+    {
+      "from": 213,
+      "to": 84
+    },
+    {
+      "from": 214,
+      "to": 213
+    },
+    {
+      "from": 215,
+      "to": 214
+    },
+    {
+      "from": 215,
+      "to": 70
+    },
+    {
+      "from": 216,
+      "to": 213
+    },
+    {
+      "from": 217,
+      "to": 216
+    },
+    {
+      "from": 217,
+      "to": 18
+    },
+    {
+      "from": 218,
+      "to": 216
+    },
+    {
+      "from": 218,
+      "to": 9
+    },
+    {
+      "from": 219,
+      "to": 218
+    },
+    {
+      "from": 219,
+      "to": 106
+    },
+    {
+      "from": 219,
+      "to": 117
+    },
+    {
+      "from": 220,
+      "to": 218
+    },
+    {
+      "from": 220,
+      "to": 157
+    },
+    {
+      "from": 221,
+      "to": 220
+    },
+    {
+      "from": 221,
+      "to": 159
+    },
+    {
+      "from": 222,
+      "to": 221
+    },
+    {
+      "from": 223,
+      "to": 224
+    },
+    {
+      "from": 224,
+      "to": 218
+    },
+    {
+      "from": 224,
+      "to": 8
+    },
+    {
+      "from": 225,
+      "to": 215
+    },
+    {
+      "from": 226,
+      "to": 225
+    },
+    {
+      "from": 226,
+      "to": 177
+    },
+    {
+      "from": 227,
+      "to": 215
+    },
+    {
+      "from": 227,
+      "to": 198
+    },
+    {
+      "from": 227,
+      "to": 191
+    },
+    {
+      "from": 228,
+      "to": 219
+    },
+    {
+      "from": 228,
+      "to": 221
+    },
+    {
+      "from": 228,
+      "to": 223
+    },
+    {
+      "from": 228,
+      "to": 226
+    },
+    {
+      "from": 228,
+      "to": 222
+    },
+    {
+      "from": 228,
+      "to": 217
+    },
+    {
+      "from": 229,
+      "to": 228
+    },
+    {
+      "from": 229,
+      "to": 211
+    },
+    {
+      "from": 230,
+      "to": 229
+    },
+    {
+      "from": 231,
+      "to": 81
+    },
+    {
+      "from": 231,
+      "to": 233
+    },
+    {
+      "from": 232,
+      "to": 116
+    },
+    {
+      "from": 232,
+      "to": 112
+    },
+    {
+      "from": 232,
+      "to": 233
+    },
+    {
+      "from": 233,
+      "to": 215
+    },
+    {
+      "from": 234,
+      "to": 212
+    },
+    {
+      "from": 234,
+      "to": 70
+    },
+    {
+      "from": 235,
+      "to": 236
+    },
+    {
+      "from": 237,
+      "to": 236
+    },
+    {
+      "from": 238,
+      "to": 236
+    },
+    {
+      "from": 239,
+      "to": 236
+    },
+    {
+      "from": 240,
+      "to": 236
+    },
+    {
+      "from": 241,
+      "to": 237
+    },
+    {
+      "from": 241,
+      "to": 238
+    },
+    {
+      "from": 241,
+      "to": 239
+    },
+    {
+      "from": 241,
+      "to": 240
+    },
+    {
+      "from": 241,
+      "to": 260
+    },
+    {
+      "from": 242,
+      "to": 241
+    },
+    {
+      "from": 243,
+      "to": 245
+    },
+    {
+      "from": 244,
+      "to": 243
+    },
+    {
+      "from": 244,
+      "to": 236
+    },
+    {
+      "from": 245,
+      "to": 251
+    },
+    {
+      "from": 246,
+      "to": 245
+    },
+    {
+      "from": 247,
+      "to": 245
+    },
+    {
+      "from": 248,
+      "to": 245
+    },
+    {
+      "from": 248,
+      "to": 90
+    },
+    {
+      "from": 249,
+      "to": 245
+    },
+    {
+      "from": 249,
+      "to": 233
+    },
+    {
+      "from": 250,
+      "to": 253
+    },
+    {
+      "from": 251,
+      "to": 235
+    },
+    {
+      "from": 252,
+      "to": 235
+    },
+    {
+      "from": 252,
+      "to": 27
+    },
+    {
+      "from": 253,
+      "to": 235
+    },
+    {
+      "from": 254,
+      "to": 244
+    },
+    {
+      "from": 255,
+      "to": 253
+    },
+    {
+      "from": 255,
+      "to": 8
+    },
+    {
+      "from": 256,
+      "to": 254
+    },
+    {
+      "from": 256,
+      "to": 302
+    },
+    {
+      "from": 257,
+      "to": 256
+    },
+    {
+      "from": 258,
+      "to": 254
+    },
+    {
+      "from": 258,
+      "to": 259
+    },
+    {
+      "from": 259,
+      "to": 244
+    },
+    {
+      "from": 260,
+      "to": 235
+    },
+    {
+      "from": 261,
+      "to": 260
+    },
+    {
+      "from": 261,
+      "to": 251
+    },
+    {
+      "from": 262,
+      "to": 251
+    },
+    {
+      "from": 263,
+      "to": 251
+    },
+    {
+      "from": 264,
+      "to": 263
+    },
+    {
+      "from": 264,
+      "to": 254
+    },
+    {
+      "from": 265,
+      "to": 263
+    },
+    {
+      "from": 266,
+      "to": 263
+    },
+    {
+      "from": 266,
+      "to": 90
+    },
+    {
+      "from": 267,
+      "to": 235
+    },
+    {
+      "from": 268,
+      "to": 245
+    },
+    {
+      "from": 269,
+      "to": 76
+    },
+    {
+      "from": 269,
+      "to": 245
+    },
+    {
+      "from": 269,
+      "to": 250
+    },
+    {
+      "from": 270,
+      "to": 269
+    },
+    {
+      "from": 271,
+      "to": 245
+    },
+    {
+      "from": 271,
+      "to": 287
+    },
+    {
+      "from": 272,
+      "to": 235
+    },
+    {
+      "from": 272,
+      "to": 255
+    },
+    {
+      "from": 273,
+      "to": 272
+    },
+    {
+      "from": 273,
+      "to": 8
+    },
+    {
+      "from": 274,
+      "to": 272
+    },
+    {
+      "from": 275,
+      "to": 272
+    },
+    {
+      "from": 276,
+      "to": 275
+    },
+    {
+      "from": 277,
+      "to": 275
+    },
+    {
+      "from": 278,
+      "to": 272
+    },
+    {
+      "from": 279,
+      "to": 272
+    },
+    {
+      "from": 280,
+      "to": 279
+    },
+    {
+      "from": 281,
+      "to": 282
+    },
+    {
+      "from": 281,
+      "to": 276
+    },
+    {
+      "from": 281,
+      "to": 277
+    },
+    {
+      "from": 282,
+      "to": 278
+    },
+    {
+      "from": 282,
+      "to": 274
+    },
+    {
+      "from": 283,
+      "to": 274
+    },
+    {
+      "from": 283,
+      "to": 186
+    },
+    {
+      "from": 284,
+      "to": 275
+    },
+    {
+      "from": 285,
+      "to": 284
+    },
+    {
+      "from": 286,
+      "to": 275
+    },
+    {
+      "from": 286,
+      "to": 253
+    },
+    {
+      "from": 287,
+      "to": 235
+    },
+    {
+      "from": 287,
+      "to": 302
+    },
+    {
+      "from": 288,
+      "to": 287
+    },
+    {
+      "from": 288,
+      "to": 236
+    },
+    {
+      "from": 288,
+      "to": 290
+    },
+    {
+      "from": 289,
+      "to": 260
+    },
+    {
+      "from": 289,
+      "to": 263
+    },
+    {
+      "from": 290,
+      "to": 289
+    },
+    {
+      "from": 290,
+      "to": 264
+    },
+    {
+      "from": 290,
+      "to": 265
+    },
+    {
+      "from": 290,
+      "to": 266
+    },
+    {
+      "from": 290,
+      "to": 267
+    },
+    {
+      "from": 290,
+      "to": 262
+    },
+    {
+      "from": 290,
+      "to": 261
+    },
+    {
+      "from": 291,
+      "to": 288
+    },
+    {
+      "from": 291,
+      "to": 241
+    },
+    {
+      "from": 292,
+      "to": 291
+    },
+    {
+      "from": 292,
+      "to": 279
+    },
+    {
+      "from": 292,
+      "to": 271
+    },
+    {
+      "from": 293,
+      "to": 292
+    },
+    {
+      "from": 294,
+      "to": 291
+    },
+    {
+      "from": 294,
+      "to": 293
+    },
+    {
+      "from": 295,
+      "to": 244
+    },
+    {
+      "from": 296,
+      "to": 294
+    },
+    {
+      "from": 296,
+      "to": 295
+    },
+    {
+      "from": 297,
+      "to": 296
+    },
+    {
+      "from": 298,
+      "to": 297
+    },
+    {
+      "from": 298,
+      "to": 294
+    },
+    {
+      "from": 299,
+      "to": 230
+    },
+    {
+      "from": 299,
+      "to": 6
+    },
+    {
+      "from": 299,
+      "to": 7
+    },
+    {
+      "from": 300,
+      "to": 299
+    },
+    {
+      "from": 300,
+      "to": 85
+    },
+    {
+      "from": 301,
+      "to": 29
+    },
+    {
+      "from": 302,
+      "to": 299
+    },
+    {
+      "from": 302,
+      "to": 301
+    },
+    {
+      "from": 303,
+      "to": 302
+    },
+    {
+      "from": 304,
+      "to": 302
+    },
+    {
+      "from": 305,
+      "to": 302
+    },
+    {
+      "from": 305,
+      "to": 31
+    },
+    {
+      "from": 306,
+      "to": 302
+    },
+    {
+      "from": 307,
+      "to": 306
+    },
+    {
+      "from": 307,
+      "to": 308
+    },
+    {
+      "from": 308,
+      "to": 306
+    },
+    {
+      "from": 308,
+      "to": 15
+    },
+    {
+      "from": 309,
+      "to": 315
+    },
+    {
+      "from": 310,
+      "to": 309
+    },
+    {
+      "from": 311,
+      "to": 303
+    },
+    {
+      "from": 311,
+      "to": 294
+    },
+    {
+      "from": 312,
+      "to": 311
+    },
+    {
+      "from": 312,
+      "to": 41
+    },
+    {
+      "from": 313,
+      "to": 303
+    },
+    {
+      "from": 313,
+      "to": 64
+    },
+    {
+      "from": 314,
+      "to": 313
+    },
+    {
+      "from": 315,
+      "to": 312
+    },
+    {
+      "from": 315,
+      "to": 314
+    },
+    {
+      "from": 315,
+      "to": 316
+    },
+    {
+      "from": 316,
+      "to": 303
+    },
+    {
+      "from": 316,
+      "to": 33
+    },
+    {
+      "from": 317,
+      "to": 309
+    },
+    {
+      "from": 318,
+      "to": 317
+    },
+    {
+      "from": 319,
+      "to": 30
+    },
+    {
+      "from": 319,
+      "to": 294
+    },
+    {
+      "from": 320,
+      "to": 317
+    },
+    {
+      "from": 321,
+      "to": 320
+    },
+    {
+      "from": 322,
+      "to": 321
+    },
+    {
+      "from": 323,
+      "to": 320
+    },
+    {
+      "from": 324,
+      "to": 321
+    },
+    {
+      "from": 325,
+      "to": 320
+    },
+    {
+      "from": 326,
+      "to": 320
+    },
+    {
+      "from": 326,
+      "to": 138
+    },
+    {
+      "from": 326,
+      "to": 128
+    },
+    {
+      "from": 327,
+      "to": 323
+    },
+    {
+      "from": 328,
+      "to": 323
+    },
+    {
+      "from": 328,
+      "to": 326
+    },
+    {
+      "from": 328,
+      "to": 327
+    },
+    {
+      "from": 329,
+      "to": 320
+    },
+    {
+      "from": 330,
+      "to": 329
+    },
+    {
+      "from": 330,
+      "to": 321
+    },
+    {
+      "from": 330,
+      "to": 325
+    },
+    {
+      "from": 330,
+      "to": 328
+    },
+    {
+      "from": 331,
+      "to": 330
+    },
+    {
+      "from": 331,
+      "to": 322
+    },
+    {
+      "from": 331,
+      "to": 324
+    },
+    {
+      "from": 332,
+      "to": 1
+    },
+    {
+      "from": 333,
+      "to": 332
+    },
+    {
+      "from": 334,
+      "to": 304
+    },
+    {
+      "from": 334,
+      "to": 41
+    },
+    {
+      "from": 335,
+      "to": 299
+    },
+    {
+      "from": 335,
+      "to": 333
+    },
+    {
+      "from": 336,
+      "to": 335
+    },
+    {
+      "from": 337,
+      "to": 336
+    },
+    {
+      "from": 338,
+      "to": 337
+    },
+    {
+      "from": 339,
+      "to": 336
+    },
+    {
+      "from": 340,
+      "to": 336
+    },
+    {
+      "from": 340,
+      "to": 90
+    },
+    {
+      "from": 341,
+      "to": 334
+    },
+    {
+      "from": 341,
+      "to": 37
+    },
+    {
+      "from": 342,
+      "to": 230
+    },
+    {
+      "from": 342,
+      "to": 339
+    }
+  ]
+}
