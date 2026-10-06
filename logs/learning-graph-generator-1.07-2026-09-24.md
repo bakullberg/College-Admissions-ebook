@@ -25,3 +25,7 @@
 8. **Taxonomy distribution report:** written to `taxonomy-distribution.md`.
 9. **index.md:** generated from `index-template.md`.
 10. **Navigation:** the Learning Graph section in `mkdocs.yml` was updated. `mkdocs build --strict` passes.
+
+## Revision during book-chapter-generator v1.1.2
+
+Seven dependencies were loosened so that no concept depends on a concept taught in a later chapter: Financial Fit, College Scorecard, Applicant Portal, Five First Steps, Application Fee, Need-Blind Admissions, and Award Letter. The learning graph was regenerated: 567 edges, maximum chain length 29, valid DAG.

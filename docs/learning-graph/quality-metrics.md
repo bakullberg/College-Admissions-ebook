@@ -7,7 +7,7 @@
 - **Terminal Nodes** (nothing depends on them, but have prerequisites): 78
 - **Orphaned Nodes** (completely disconnected, no edges): 0
 - **Concepts with Dependencies**: 337
-- **Average Dependencies per Concept**: 1.69
+- **Average Dependencies per Concept**: 1.68
 
 ## Graph Structure Validation
 
@@ -27,7 +27,7 @@ These concepts have no prerequisites:
 
 ## Dependency Chain Analysis
 
-- **Maximum Dependency Chain Length**: 34
+- **Maximum Dependency Chain Length**: 29
 
 ### Longest Learning Path:
 
@@ -48,23 +48,18 @@ These concepts have no prerequisites:
 15. **Submission Confirmation** (ID: 230)
 16. **Application Review Process** (ID: 299)
 17. **Admission Decision** (ID: 302)
-18. **Award Letter** (ID: 287)
-19. **Reading an Award Letter** (ID: 288)
-20. **Out-of-Pocket Cost** (ID: 291)
-21. **Four-Year Cost Projection** (ID: 292)
-22. **Total Debt at Graduation** (ID: 293)
-23. **Award Letter Comparison** (ID: 294)
-24. **Comparing Offers** (ID: 311)
-25. **Side-by-Side Comparison** (ID: 312)
-26. **Final College Choice** (ID: 315)
-27. **Accepting an Offer** (ID: 309)
-28. **Enrollment Deposit** (ID: 317)
-29. **Getting Ready for Fall** (ID: 320)
-30. **Orientation** (ID: 323)
-31. **Placement Tests** (ID: 327)
-32. **Course Registration** (ID: 328)
-33. **Summer Transition Planning** (ID: 330)
-34. **Move-In Day** (ID: 331)
+18. **Acceptance** (ID: 303)
+19. **Comparing Offers** (ID: 311)
+20. **Side-by-Side Comparison** (ID: 312)
+21. **Final College Choice** (ID: 315)
+22. **Accepting an Offer** (ID: 309)
+23. **Enrollment Deposit** (ID: 317)
+24. **Getting Ready for Fall** (ID: 320)
+25. **Orientation** (ID: 323)
+26. **Placement Tests** (ID: 327)
+27. **Course Registration** (ID: 328)
+28. **Summer Transition Planning** (ID: 330)
+29. **Move-In Day** (ID: 331)
 
 ## Terminal Nodes Analysis
 
@@ -121,13 +116,13 @@ Top 10 concepts that are prerequisites for the most other concepts:
 | 1 | 1 | College Admissions Process | 13 |
 | 2 | 141 | Extracurricular Activities | 10 |
 | 3 | 57 | College Research Tools | 9 |
-| 4 | 245 | FAFSA | 8 |
-| 5 | 2 | Admissions Timeline | 7 |
-| 6 | 9 | High School Transcript | 7 |
-| 7 | 21 | Four-Year College | 7 |
-| 8 | 41 | College Fit | 7 |
-| 9 | 177 | Supplemental Essays | 7 |
-| 10 | 188 | Letters of Recommendation | 7 |
+| 4 | 236 | Cost of Attendance | 9 |
+| 5 | 245 | FAFSA | 8 |
+| 6 | 2 | Admissions Timeline | 7 |
+| 7 | 9 | High School Transcript | 7 |
+| 8 | 21 | Four-Year College | 7 |
+| 9 | 41 | College Fit | 7 |
+| 10 | 177 | Supplemental Essays | 7 |
 
 ## Outdegree Distribution
 
@@ -136,9 +131,9 @@ Top 10 concepts that are prerequisites for the most other concepts:
 | 0 | 5 |
 | 1 | 177 |
 | 2 | 123 |
-| 3 | 24 |
+| 3 | 25 |
 | 4 | 4 |
-| 5 | 3 |
+| 5 | 2 |
 | 6 | 2 |
 | 7 | 1 |
 | 8 | 3 |
@@ -147,7 +142,7 @@ Top 10 concepts that are prerequisites for the most other concepts:
 
 - ✅ **Terminal node percentage** (22.8%): Within healthy range (5-40%)
 - ✅ **DAG structure verified**: Graph supports valid learning progressions
-- ℹ️ **Long dependency chains** (34): Ensure students can follow extended learning paths
+- ℹ️ **Long dependency chains** (29): Ensure students can follow extended learning paths
 
 ---
 

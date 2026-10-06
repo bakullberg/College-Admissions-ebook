@@ -38,8 +38,26 @@ nav:
 
   - Chapters:
       - List of Chapters: chapters/index.md
-      # Add chapter entries here as content is generated, e.g.:
-      # - 1. Introduction: chapters/01-introduction/index.md
+      - 1. The College Landscape and Application Rounds: chapters/01-college-landscape-and-rounds/index.md
+      - 2. How Colleges Evaluate Applicants: chapters/02-how-colleges-evaluate/index.md
+      - 3. Finding Your Fit: chapters/03-finding-your-fit/index.md
+      - 4. Researching and Narrowing Your College List: chapters/04-researching-your-list/index.md
+      - 5. Getting Organized: chapters/05-getting-organized/index.md
+      - 6. The SAT and ACT Question: chapters/06-sat-act-question/index.md
+      - 7. Your Senior Year Course Load: chapters/07-senior-year-course-load/index.md
+      - 8. Activities and Resume: chapters/08-activities-and-resume/index.md
+      - 9. The Personal Essay: chapters/09-personal-essay/index.md
+      - 10. Supplemental Essays: chapters/10-supplemental-essays/index.md
+      - 11. Letters of Recommendation: chapters/11-letters-of-recommendation/index.md
+      - 12. Filling Out the Common App and Coalition App: chapters/12-common-app-coalition-app/index.md
+      - 13. Interviews: chapters/13-interviews/index.md
+      - 14. Understanding Financial Aid: chapters/14-understanding-financial-aid/index.md
+      - 15. Scholarships: chapters/15-scholarships/index.md
+      - 16. Comparing Award Letters: chapters/16-comparing-award-letters/index.md
+      - 17. Waiting and Managing Anxiety: chapters/17-waiting-and-anxiety/index.md
+      - 18. Handling Decisions: chapters/18-handling-decisions/index.md
+      - 19. Making Your Final Choice: chapters/19-making-your-final-choice/index.md
+      - 20. Getting Ready for Fall: chapters/20-getting-ready-for-fall/index.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md
