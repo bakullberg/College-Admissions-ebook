@@ -127,3 +127,34 @@ Budget sum: roughly 5,700-8,900 words.
 - Source material: manuscript chapter 3 and preface (five things to do this week), Iowa case study (application platforms)
 - Deliberate divergence from manuscript: passwords go in a private login record, not the shared tracker
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 6 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 13:37:40 |
+| End Time | 2026-10-08 13:41:03 |
+
+## Chapter 6 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 11 (Standardized Testing, Test-Required Policy, Test-Optional Policy, SAT, ACT, Section Scores, Composite Score, SAT-ACT Concordance, Score Benchmark Comparison, Score Submission Decision, Official Score Report) | 500-750 each |
+| B | 1 (Official Practice Tests) | 250-400 |
+| C | 13 (Test-Optional Myth, PSAT/NMSQT, Test-Blind Policy, Retesting Decision, Superscoring, Score Choice, Test Registration, Test Date Planning, Free Test Prep, Diagnostic Practice Test, Error Log, Timed Practice, Test Accommodations) | 120-200 each |
+
+Budget sum: roughly 7,300-10,900 words. Actual prose came in below the budget: closely related Tier A concepts (SAT/ACT, section/composite, benchmark/submission) share explanations and worked examples rather than repeating them, per the anti-padding rules.
+
+## Results
+
+- docs/chapters/06-sat-act-question/index.md
+- Prose words (excluding diagram specs): ~6,250; total file ~7,300
+- Non-text elements: 3 MicroSim specs (sat-act-converter, score-submission-planner, superscore-calculator), 6 tables, 4 LaTeX formulas, 11 worked examples, 5 self-check questions, many lists
+- Concepts covered: 25/25
+- Source material: manuscript chapter 4, preface (test-optional myth), Iowa case study (RAI, merit thresholds)
+- Continuity: Priya's June SAT (1280 = 680 RW + 600 M) and October retest carry forward from Chapter 1; Casey's ACT 24 from Chapter 2
+- mkdocs build --strict: pass
