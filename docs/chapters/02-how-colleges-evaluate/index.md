@@ -499,7 +499,7 @@ Here's how to read where you fall:
 - **Inside the range:** your numbers are typical. Other parts of the file will decide the outcome.
 - **Below the 25th percentile:** your numbers are a hurdle. Admission is possible but less likely, and the rest of the file has to carry more weight.
 
-Ranges are most often published in a college's **Common Data Set**, a standard report many colleges post each year, usually by searching the college's name plus "Common Data Set." Section C covers first-year admission and includes test-score ranges and GPA distributions. Two cautions apply. First, Common Data Set ranges usually describe *enrolled* students, not all *admitted* students, and the two groups can differ. Second, at test-optional colleges the test ranges include only students who chose to submit, and those students tend to be the ones with higher scores. That pushes the published range up. [Chapter 3](../03-finding-your-fit/index.md) uses these ranges to sort your list into reach, target, and likely schools.
+Ranges are most often published in a college's **Common Data Set**, a standard report many colleges post each year, usually by searching the college's name plus "Common Data Set." Section C covers first-year admission and includes test-score ranges and GPA distributions. Two cautions apply. First, Common Data Set ranges usually describe *enrolled* students, not all *admitted* students, and the two groups can differ. Second, at test-optional colleges the test ranges include only students who chose to submit, and those students tend to be the ones with higher scores. That pushes the published range up. [Chapter 3](../03-finding-your-fit/index.md) uses these ranges to sort your list into reach, target, and safety schools.
 
 #### Worked Example: Reading a Range
 
@@ -510,7 +510,7 @@ A fictional college, Westbrook University, reports these middle 50% ranges for e
 | Unweighted GPA | 3.60 | 3.95 |
 | ACT composite | 26 | 31 |
 
-Priya has a 3.71 unweighted GPA and a 27 ACT.
+Priya has a 3.71 unweighted GPA and an SAT score of 1280, which is about a 27 on the ACT scale.
 
 - **GPA:** 3.71 is inside the range, in its lower half.
 - **ACT:** 27 is inside the range, just above the 25th percentile.
@@ -548,7 +548,7 @@ Controls (HTML inputs above the chart):
 - A select of example colleges, all fictional and labeled as illustrative: "Westbrook University (GPA 3.60–3.95, ACT 26–31)," "Lakeside State (GPA 3.30–3.85, ACT 21–27)," "Harrow College (GPA 3.85–4.00, ACT 32–35)." Selecting one fills the percentile inputs.
 - A checkbox "Test-optional college," which adds a note under the ACT panel: "This range includes only students who submitted scores, so it likely overstates the typical admitted student's score."
 
-Default: Westbrook University with Priya's GPA 3.71 and ACT 27.
+Default: Westbrook University with Priya's GPA 3.71 and ACT-equivalent 27 (SAT 1280).
 
 Interaction: Hovering any bar region shows a tooltip explaining what share of students fall there. Changing an input redraws immediately.
 
