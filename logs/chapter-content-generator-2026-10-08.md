@@ -158,3 +158,35 @@ Budget sum: roughly 7,300-10,900 words. Actual prose came in below the budget: c
 - Source material: manuscript chapter 4, preface (test-optional myth), Iowa case study (RAI, merit thresholds)
 - Continuity: Priya's June SAT (1280 = 680 RW + 600 M) and October retest carry forward from Chapter 1; Casey's ACT 24 from Chapter 2
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 7 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 13:44:57 |
+| End Time | 2026-10-08 13:47:46 |
+
+## Chapter 7 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 0 | — |
+| B | 11 (Honors Courses, Senior Year Course Load, Senior Grades, Final Transcript, Advanced Placement, AP Exam, AP Score, International Baccalaureate, IB Diploma, Dual Enrollment, Application Stress) | 250-400 each |
+| C | 6 (Weighted GPA, Senioritis, Mid-Year Report, College Credit in High School, Course Selection Strategy, Balancing Rigor and Burnout) | 120-200 each |
+
+Budget sum: roughly 3,500-5,600 words.
+
+## Results
+
+- docs/chapters/07-senior-year-course-load/index.md
+- Prose words (excluding diagram specs): ~4,650; total file ~5,900
+- Non-text elements: 3 specs (advanced-pathways-compared, senior-grades-timeline, senior-schedule-balance), 3 tables, 1 inline formula, 8 worked examples, 5 self-check questions, many lists
+- Concepts covered: 17/17
+- Source material: manuscript chapter 5
+- Continuity: Priya's junior APs and four senior APs (Chapter 2), Elena's three-AP school (Chapter 2), Sam's two fall APs (Chapter 1), Marcus's Precalculus and CS-course exhaustion (Chapters 2-3), Riley's declining record (Chapter 2)
+- Includes 988 Suicide & Crisis Lifeline reference in Application Stress
+- mkdocs build --strict: pass
