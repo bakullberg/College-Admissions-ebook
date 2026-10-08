@@ -66,3 +66,33 @@ Budget sum: roughly 9,400-13,800 words. Several Tier A concepts are close cousin
 - Source material: manuscript chapter 2 and preface, University of Iowa case study
 - Consistency fixes to Chapter 2: Priya's test score changed from ACT 27 to SAT 1280 (ACT-equivalent 27) to match Chapter 1; "likely schools" changed to "safety schools"
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 4 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 13:24:21 |
+| End Time | 2026-10-08 13:26:55 |
+
+## Chapter 4 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 4 (College Research Tools, Long List, Narrowing the List, Final College List) | 500-750 each |
+| B | 1 (Campus Visit) | 250-400 |
+| C | 9 (College Search Website, Graduation Rate, College Scorecard, Common Data Set, Retention Rate, Virtual Tour, College Fair, Admissions Information Session, Student Reviews) | 120-200 each |
+
+Budget sum: roughly 3,350-4,800 words.
+
+## Results
+
+- docs/chapters/04-researching-your-list/index.md
+- Prose words (excluding diagram specs): ~4,600; total file ~5,850
+- Non-text elements: 3 MicroSim/chart specs (research-tool-matrix, college-outcomes-comparison, list-narrowing-funnel), 3 tables, 7 worked examples, 5 self-check questions, many lists
+- Concepts covered: 14/14
+- Source material: manuscript chapter 2 (research tools, narrowing passes); Marcus's priorities and Chapter 3 financial-fit table carried forward
+- mkdocs build --strict: pass
