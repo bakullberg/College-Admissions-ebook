@@ -255,3 +255,34 @@ Budget sum: roughly 5,100-8,100 words.
 - Running example: Ana's essay from brainstorm to fifth draft, continuing her activities-resume entry from Chapter 8 and her father's Sunday reading from Chapter 5
 - Source material: manuscript chapter 7
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 10 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 14:03:08 |
+| End Time | 2026-10-08 14:05:03 |
+
+## Chapter 10 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 1 (Supplemental Essays) | 500-750 |
+| B | 2 (School-Specific Research, Why Us Essay) | 250-400 each |
+| C | 8 (Why This Major Essay, Community Essay, Activity Essay, Short-Answer Questions, Optional Essays, Recycled Essay Trap, Essay Adaptation, Supplement Planning) | 120-200 each |
+
+Budget sum: roughly 2,000-3,150 words.
+
+## Results
+
+- docs/chapters/10-supplemental-essays/index.md
+- Prose words (excluding diagram specs): ~3,400; total file ~4,100 (slightly above budget, mainly the worked examples for the Tier A/B concepts)
+- Non-text elements: 2 specs (why-us-specificity-checker, supplement-planner), 2 tables, 5 worked examples, 5 self-check questions, lists
+- Concepts covered: 11/11
+- Continuity: Priya's 18 supplements reconcile with her Chapter 5 tracker (Hillcrest "Why Hillcrest" 300 words; flagship 250-word short answer); Marcus's Lakeshore research builds on his Chapter 4 visit
+- Source material: manuscript chapter 8
+- mkdocs build --strict: pass
