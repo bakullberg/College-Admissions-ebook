@@ -223,3 +223,35 @@ Tiering sanity check: 13 of the 17 Tier A concepts have CIS 262-267 almost entir
 - All sample activity descriptions verified at or under the 150-character Common App limit
 - Source material: manuscript chapter 6 and chapter 10 (activities section)
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 9 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 13:58:00 |
+| End Time | 2026-10-08 14:01:14 |
+
+## Chapter 9 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 2 (College Essay, Personal Essay) | 500-750 each |
+| B | 15 (Common App Essay Prompts, Essay Word Limit, Brainstorming, Essay Material List, Personal Story, Overused Essay Topics, Essay Topic Selection, Show Don't Tell, Authentic Voice, Essay Structure, Opening Hook, Reflection and Insight, Drafting, Feedback on Essays, Revision) | 250-400 each |
+| C | 3 (Essay Drafts Folder, Small Moment Essay, Editing and Proofreading) | 120-200 each |
+
+Budget sum: roughly 5,100-8,100 words.
+
+## Results
+
+- docs/chapters/09-personal-essay/index.md
+- Prose words (excluding diagram specs): ~6,600; total file ~7,800
+- Non-text elements: 3 specs (essay-prompt-matcher, show-dont-tell-practice, essay-structure-explorer), 3 tables, 13 worked examples, 5 self-check questions, many lists
+- Concepts covered: 20/20
+- Common App prompts are paraphrased (not quoted) with a pointer to the official wording
+- Running example: Ana's essay from brainstorm to fifth draft, continuing her activities-resume entry from Chapter 8 and her father's Sunday reading from Chapter 5
+- Source material: manuscript chapter 7
+- mkdocs build --strict: pass
