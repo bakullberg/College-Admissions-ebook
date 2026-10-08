@@ -96,3 +96,34 @@ Budget sum: roughly 3,350-4,800 words.
 - Concepts covered: 14/14
 - Source material: manuscript chapter 2 (research tools, narrowing passes); Marcus's priorities and Chapter 3 financial-fit table carried forward
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 5 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 13:29:34 |
+| End Time | 2026-10-08 13:32:49 |
+
+## Chapter 5 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 6 (Getting Organized, Dedicated Email Address, Institutional Application, Common App, Common App Account, College-Specific Requirements) | 500-750 each |
+| B | 4 (Deadline Tracker, Parent and Family Role, Filing System, School Counselor) | 250-400 each |
+| C | 14 (Shared Tracker, Supporting Document Deadline, Priority Deadline, Calendar Reminders, Application Checklist, Digital Document Folder, Transcript Copies, Applicant Portal, Login Credentials Record, Counselor Meeting, Independent Counselor, Summer Before Senior Year, Senior Year Calendar, Five First Steps) | 120-200 each |
+
+Budget sum: roughly 5,700-8,900 words.
+
+## Results
+
+- docs/chapters/05-getting-organized/index.md
+- Prose words (excluding diagram specs): ~6,450; total file ~7,200
+- Non-text elements: 2 MicroSim specs (college-requirements-matrix, organized-setup-checklist), 4 tables, 9 worked examples, 5 self-check questions, many lists
+- Concepts covered: 24/24
+- Source material: manuscript chapter 3 and preface (five things to do this week), Iowa case study (application platforms)
+- Deliberate divergence from manuscript: passwords go in a private login record, not the shared tracker
+- mkdocs build --strict: pass
