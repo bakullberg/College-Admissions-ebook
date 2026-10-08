@@ -190,3 +190,36 @@ Budget sum: roughly 3,500-5,600 words.
 - Continuity: Priya's junior APs and four senior APs (Chapter 2), Elena's three-AP school (Chapter 2), Sam's two fall APs (Chapter 1), Marcus's Precalculus and CS-course exhaustion (Chapters 2-3), Riley's declining record (Chapter 2)
 - Includes 988 Suicide & Crisis Lifeline reference in Application Stress
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 8 Session
+
+**Execution Mode:** Sequential (single chapter)
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-08 13:50:00 |
+| End Time | 2026-10-08 13:53:29 |
+
+## Chapter 8 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 17 (all except Well-Rounded Applicant Myth) | 500-750 each |
+| B | 0 | — |
+| C | 1 (Well-Rounded Applicant Myth) | 120-200 |
+
+Budget sum: roughly 8,600-12,950 words.
+
+Tiering sanity check: 13 of the 17 Tier A concepts have CIS 262-267 almost entirely because they all feed Activities Resume (CIS 262), which in turn feeds three later concepts. They are narrow, practical concepts, so a full 500-750 words with a diagram for each would be padding. Every Tier A concept got a worked example; diagrams/tables are shared across related concepts. Prose came in deliberately below budget.
+
+## Results
+
+- docs/chapters/08-activities-and-resume/index.md
+- Prose words (excluding diagram specs): ~6,250; total file ~7,550
+- Non-text elements: 3 specs (depth-vs-breadth-map, activity-entry-builder, what-counts-activity-sorter), 2 tables, 1 formula, 16 worked examples, 5 self-check questions, many lists
+- Concepts covered: 18/18
+- All sample activity descriptions verified at or under the 150-character Common App limit
+- Source material: manuscript chapter 6 and chapter 10 (activities section)
+- mkdocs build --strict: pass
