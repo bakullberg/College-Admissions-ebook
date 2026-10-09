@@ -253,7 +253,7 @@ Implementation: p5.js built-in controls; canvas parented to the main element.
 
 Many high schools have stopped ranking, often to reduce competition between students for tenths of a GPA point. If your school doesn't rank, your transcript will say so or simply leave rank off, and colleges won't hold that against you. They'll use your school profile instead, which often shows how GPAs are distributed across the class.
 
-Rank still matters in a few places. Texas law, for example, guarantees admission to its public universities for students near the top of their class, with the flagship in Austin setting a smaller cutoff than the 10% used elsewhere. If your school ranks and you're applying in a state with a rule like that, rank is worth checking. Otherwise, treat it as one more view of your GPA rather than a separate thing to manage.
+Rank still matters in a few places. Texas law, for example, guarantees admission to its public universities for students near the top of their class, with the flagship in Austin setting a smaller cutoff (the top 5% for students entering in 2026) than the 10% used elsewhere. If your school ranks and you're applying in a state with a rule like that, rank is worth checking. Otherwise, treat it as one more view of your GPA rather than a separate thing to manage.
 
 ## Course Rigor
 
@@ -261,7 +261,7 @@ Rank still matters in a few places. Texas law, for example, guarantees admission
 
 The key words in that definition are *what your high school offers*. Readers judge rigor in context, using the school profile. A student at a school with four AP courses who takes all four has shown maximum rigor. A student at a school with twenty-five APs who takes four has shown a moderate amount. The same schedule can mean very different things depending on where it was built.
 
-Colleges get help with this judgment from your counselor. On the Common App's school report, your counselor is asked to rate the rigor of your course selection compared with other students at your school, on a scale that runs from "most demanding" down to "below average." Selective colleges pay close attention to that checkbox, because the counselor knows what was actually available to you.
+Colleges get help with this judgment from your counselor. On the Common App's school report, your counselor is asked to rate the rigor of your course selection compared with other students at your school, on a five-step scale that runs from "most demanding" down to "less than demanding." Selective colleges pay close attention to that checkbox, because the counselor knows what was actually available to you.
 
 Rigor and grades work together, and the trade-off between them is the most common question students ask: *Is it better to get an A in a regular class or a B in an AP?* At selective colleges, the honest answer is that they'd prefer the A in the AP. Between your two options, a solid B in a challenging course you chose deliberately usually reads better than an A in a course that didn't stretch you, especially in subjects tied to your interests. But rigor has limits. A schedule so heavy that your grades drop across the board, or that leaves no time for anything else, works against you. [Chapter 7](../07-senior-year-course-load/index.md) covers how to strike that balance in senior year.
 
@@ -294,9 +294,9 @@ Learning Objective: Students will compare course schedules across high schools w
 Canvas layout:
 - Left panel: "The high school." A slider "Advanced courses offered" (0 to 30, default 12) and a row of small course tiles representing the offerings, shaded gray.
 - Middle panel: "The student's schedule." A slider "Advanced courses taken" (0 to the number offered, default 4). Tiles the student took turn blue.
-- Right panel: "How a reader sees it." A share bar showing taken ÷ offered as a percentage, and a counselor-rating gauge with five bands: Below average, Average, Demanding, Very demanding, Most demanding.
+- Right panel: "How a reader sees it." A share bar showing taken ÷ offered as a percentage, and a counselor-rating gauge with five bands: Less than demanding, Average, Demanding, Very demanding, Most demanding.
 
-Rating rule (illustrative, stated on screen): the gauge uses the share of available advanced courses taken, adjusted for very small offerings. If offered is 0, the gauge reads "No advanced courses offered — readers look at core-course completion and grades instead." Otherwise, share ≥ 80% → Most demanding; 55–79% → Very demanding; 30–54% → Demanding; 10–29% → Average; under 10% → Below average. A note under the gauge says: "Real counselors also consider which subjects and grade levels the courses fall in; this model uses the share alone."
+Rating rule (illustrative, stated on screen): the gauge uses the share of available advanced courses taken, adjusted for very small offerings. If offered is 0, the gauge reads "No advanced courses offered — readers look at core-course completion and grades instead." Otherwise, share ≥ 80% → Most demanding; 55–79% → Very demanding; 30–54% → Demanding; 10–29% → Average; under 10% → Less than demanding. A note under the gauge says: "Real counselors also consider which subjects and grade levels the courses fall in; this model uses the share alone."
 
 Preset buttons:
 - "Elena" (offered 3, taken 3 → Most demanding)
@@ -307,7 +307,7 @@ Controls (all created in setup() before positioning): two createSlider controls 
 
 Interaction: Moving either slider updates tiles, share bar, and gauge immediately. Hovering a gauge band shows a one-line description of what that rating suggests to a reader.
 
-Color scheme: offered tiles gray, taken tiles blue, gauge bands from light gray (below average) to deep green (most demanding), active band outlined in gold.
+Color scheme: offered tiles gray, taken tiles blue, gauge bands from light gray (less than demanding) to deep green (most demanding), active band outlined in gold.
 
 Responsive behavior: Call updateCanvasSize() first in setup(); panels stack vertically on narrow screens and controls reposition on resize.
 
@@ -429,7 +429,7 @@ The clearest real example is the University of Iowa, the running example in this
 \text{RAI} = (3 \times \text{ACT composite}) + (30 \times \text{GPA}) + (5 \times \text{years of core courses})
 \]
 
-The formula multiplies each of three numbers by a weight and adds the results. The weights explain how much each input matters. A full point of GPA is worth 30 RAI points, while a single ACT point is worth 3. SAT scores are converted to ACT equivalents. For Iowa's College of Liberal Arts and Sciences, the minimum RAI has been 245 for Iowa residents and 255 for nonresidents, and other colleges within the university, such as Engineering, can set higher thresholds. Iowa is test-optional, and applicants without a score are evaluated with a version of the index that leaves the test out. These figures reflect recent application cycles, so confirm the current formula and thresholds at [admissions.uiowa.edu](https://admissions.uiowa.edu) before relying on them.
+The formula multiplies each of three numbers by a weight and adds the results. The weights explain how much each input matters. A full point of GPA is worth 30 RAI points, while a single ACT point is worth 3. SAT scores are converted to ACT equivalents. For Iowa's College of Liberal Arts and Sciences, the minimum RAI has been 245 for Iowa residents and 255 for nonresidents, and other colleges within the university, such as Engineering, can set higher thresholds. Iowa is test-optional. Applicants without a test score can still be admitted, but because the formula needs all three inputs, their applications are reviewed individually rather than scored automatically. These figures reflect recent application cycles, so confirm the current formula and thresholds at [admissions.uiowa.edu](https://admissions.uiowa.edu) before relying on them.
 
 #### Worked Example: Running the RAI
 
@@ -474,7 +474,7 @@ Controls (all created in setup() before positioning):
 - createButton presets "Casey (ACT 24)" and "Casey (ACT 22)" from the worked example.
 - createButton "Show formula" toggles the full arithmetic line, e.g. "(3 × 24) + (30 × 3.40) + (5 × 17) = 259."
 
-Notes shown on screen: "Thresholds shown are for the College of Liberal Arts and Sciences in recent cycles and can change. Some colleges within the university set higher minimums. Test-optional applicants use a different version of the index. Confirm at admissions.uiowa.edu."
+Notes shown on screen: "Thresholds shown are for the College of Liberal Arts and Sciences in recent cycles and can change. Some colleges within the university set higher minimums. Applicants without a test score are reviewed individually instead of by formula. Confirm at admissions.uiowa.edu."
 
 Interaction: The bar and status lines update as sliders move. Hovering a bar segment shows how many RAI points one more unit of that input would add (ACT +3, GPA +0.1 → +3, Core +1 year → +5), so students can see which input is most movable.
 

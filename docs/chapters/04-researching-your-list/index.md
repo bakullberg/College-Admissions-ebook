@@ -150,7 +150,7 @@ Two cautions apply. Not every college publishes a CDS, and the most recent one m
 
 ### Graduation Rate
 
-A college's **graduation rate** is the percentage of students who start there as first-time, full-time students and finish a bachelor's degree within a set time. The standard federal measure uses **six years**, which is 150% of the normal four. Many colleges also report a four-year rate, which is usually lower.
+A college's **graduation rate** is the percentage of students who start there as first-time, full-time students and finish a bachelor's degree within a set time. The standard federal measure uses **six years**, which is 150% of the normal four. Many colleges also report a four-year rate, which is usually lower. The College Scorecard uses a broader measure: the share of *all* entering students, full-time and part-time, who finish within **eight years**. Its numbers won't match a college's six-year rate, so compare colleges using the same source.
 
 Graduation rate matters because a college you start but don't finish costs time and money without giving you the degree. A high rate suggests that students are well supported, can get the classes they need, and can afford to stay. A low rate isn't automatically a dealbreaker, since colleges that serve many working or part-time students often have lower rates for reasons beyond the college's control. But it's a reason to ask questions. When you compare, look at the **four-year rate** too. A college where most students take five or six years to finish costs you an extra year or two of tuition and living expenses.
 

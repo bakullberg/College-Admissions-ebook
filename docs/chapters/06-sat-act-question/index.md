@@ -92,7 +92,7 @@ Every college sets a **testing policy**, its rule about whether applicants must 
 
 ### Test-Required Policy
 
-A **test-required policy** means a college requires every applicant to submit an SAT or ACT score. An application without one is incomplete and won't be reviewed. Before 2020, this was the norm. Many colleges then went test-optional, and a number of them have since gone back to requiring scores. Highly selective private colleges such as MIT, Dartmouth, and Harvard require them, as do some public universities, including Purdue, and the public university systems of a few states.
+A **test-required policy** means a college requires every applicant to submit an SAT or ACT score. An application without one is incomplete and won't be reviewed. Before 2020, this was the norm. Many colleges then went test-optional, and a number of them have since gone back to requiring scores. Highly selective private colleges such as MIT, Dartmouth, and Harvard require them, as do the public university systems of a few states, including Florida and Georgia. A few colleges, such as Purdue, call themselves **test-expected**: they ask every applicant for a score and accept an application without one only in exceptional cases. For planning purposes, treat test-expected as test-required.
 
 At a test-required college, the submission decision is made for you. You must send a score, so the question becomes how to make that score as strong as you reasonably can, and whether to retest. Some test-required colleges also accept other exams in place of the SAT or ACT, such as AP or IB scores. Read the policy closely, because it may be more flexible than the headline suggests.
 
@@ -105,7 +105,7 @@ Test-optional policies have fine print worth reading:
 - **Scholarships may still use scores.** At Iowa, scores at or above about a 26 ACT or 1230 SAT open access to larger merit scholarships, even though admission doesn't require a test.
 - **Some programs may require scores** even when the college as a whole doesn't, for example honors colleges, nursing, or engineering.
 - **Some applicants may need scores,** such as homeschooled students or applicants from schools without traditional grades.
-- **Formulas may change.** Iowa's Regent Admission Index uses a different version for students who apply without a score.
+- **Formulas may change how you're reviewed.** Iowa's Regent Admission Index needs a test score to calculate. Applicants who apply without one can still be admitted, but they're reviewed individually instead of by formula.
 
 So "test-optional" really means "optional for admission, under the rules on this college's page." Check each college's own wording.
 

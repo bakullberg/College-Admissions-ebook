@@ -88,7 +88,7 @@ Her weighted points total \(5 + 3 + 4 + 5 + 4 + (4 \times 0.5) = 23\) over 5.5 c
 
 ## Advanced Placement
 
-**Advanced Placement (AP)** is a program run by the College Board that offers college-level courses in high school, taught by high school teachers using a standard national course framework. There are about 40 AP subjects, from Calculus and Biology to Art History and Computer Science Principles, though most high schools offer only some of them. AP is the most widely available advanced program in U.S. high schools, so it's the rigor signal admissions readers know best.
+**Advanced Placement (AP)** is a program run by the College Board that offers college-level courses in high school, taught by high school teachers using a standard national course framework. There are more than 40 AP subjects (42 in 2026–27), from Calculus and Biology to Art History and Computer Science Principles, though most high schools offer only some of them. AP is the most widely available advanced program in U.S. high schools, so it's the rigor signal admissions readers know best.
 
 An AP course has two parts: the year-long **class**, which appears on your transcript with a grade, and an optional **exam** in May. Colleges see the class as soon as you list it on your senior schedule. They see the exam result only if you report it.
 
