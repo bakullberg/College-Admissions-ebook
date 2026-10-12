@@ -219,7 +219,7 @@ She records "Packet sent Aug 28" in her tracker and sets a reminder for October 
 
 The **FERPA waiver** is a choice you make on your application about whether to give up your right to see your recommendation letters in the future. FERPA, the Family Educational Rights and Privacy Act, is a federal law that gives students the right to view their education records after they enroll at a college. On the Common App, you complete the FERPA release before you can invite recommenders, and you decide whether to **waive** your right to see the letters.
 
-**Most counselors advise waiving it.** When you waive your right, colleges know your recommenders wrote freely, knowing you'd never read the letter. That makes the letters more credible. Some teachers also prefer to write only for students who have waived. Not waiving doesn't disqualify you, but it can make a reader wonder about the letter. Your decision is shared with your recommenders and colleges, and it generally can't be changed once recommenders have started, so make it carefully before you invite anyone.
+**Most counselors advise waiving it.** When you waive your right, colleges know your recommenders wrote freely, knowing you'd never read the letter. That makes the letters more credible. Some teachers also prefer to write only for students who have waived. Not waiving doesn't disqualify you, but it can make a reader wonder about the letter. Your decision is shared with your recommenders and colleges, applies to every college on your list, and can't be changed once you've invited your first recommender, so make it carefully before you invite anyone.
 
 ### Thank-You Notes
 
