@@ -233,3 +233,37 @@ Budget sum: roughly 2,250-3,600 words.
 - Resolves all four running students' final choices (Priya: Hillcrest; Marcus: Lakeshore; Ana: Northfield; Casey: Iowa), consistent with Chapters 3, 14-18
 - Source material: manuscript chapter 17
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 20 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:42:30 |
+| End Time | 2026-10-12 12:45:28 |
+
+## Chapter 20 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| B | 3 (Getting Ready for Fall, Housing Application, Orientation) | 250-400 each |
+| C | 12 (Month-by-Month Planner, Verifying Current Policies, Capstone Application Roadmap, Roommate Selection, Living Learning Community, Health Forms, AP Credit Transfer, Placement Tests, Course Registration, Summer Melt, Summer Transition Planning, Move-In Day) | 120-200 each |
+
+Budget sum: roughly 2,200-3,600 words. Over budget by design: the planner table and the 19-step Iowa capstone roadmap synthesize the whole book.
+
+## Pre-writing fact check
+
+- Iowa housing: apply Jan 6-May 3; finish by May 1 and schedule orientation by May 15 for June online room selection; earlier months get earlier timeslots; LLC application inside housing portal (housing.uiowa.edu)
+- Iowa On Iowa! welcome week, the week before fall classes, covered by acceptance fee (oniowa.uiowa.edu)
+- College Board: one free AP score send per year if designated by June 20 (apstudents.collegeboard.org)
+- Summer melt: Castleman & Page, 10-40% of college-intending students across studied districts
+
+## Results
+
+- docs/chapters/20-getting-ready-for-fall/index.md
+- Prose words (excluding diagram specs): ~4,350; total file ~5,050
+- Non-text elements: 2 MicroSim specs (summer-countdown, personal-application-roadmap), 3 tables (Ana's checklist, month-by-month planner, Iowa capstone roadmap), 4 worked examples, 5 self-check questions, lists
+- Concepts covered: 15/15
+- mkdocs build --strict: pass
+- All 20 chapters now have full content (no TODO placeholders remain)
