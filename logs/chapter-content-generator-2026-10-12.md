@@ -29,3 +29,40 @@ Budget sum: roughly 1,350-2,200 words.
 - Over budget: Interview Preparation (Tier C) absorbs the manuscript's "what colleges are listening for" and common-questions material, which is the practical core of the chapter
 - Source material: manuscript chapter 11
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 14 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:11:03 |
+| End Time | 2026-10-12 12:14:49 |
+
+## Chapter 14 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 5 (Financial Aid, Grants, Federal Aid, FAFSA, Institutional Aid) | 500-750 each |
+| B | 6 (Net Price, Student Aid Index, Demonstrated Financial Need, Need-Based Aid, Merit Aid, Pell Grant) | 250-400 each |
+| C | 14 (Net Price Calculator, FAFSA Opening Date, FSA ID, FAFSA Contributors, Federal School Code, CSS Profile, State Aid, Need-Blind Admissions, Need-Aware Admissions, Unmet Need, Meets Full Need, Verification, Aid Priority Deadline, First-Come First-Served Aid) | 120-200 each |
+
+Budget sum: roughly 5,700-8,950 words.
+
+## Pre-writing fact check (2026-10-12)
+
+- 2027-28 FAFSA opened Sept 23, 2026 (law requires by Oct 1)
+- Max Pell 2026-27: $7,395, min $740; OBBBA: ineligible if SAI >= 2x max Pell ($14,790) or non-federal aid covers full COA
+- SAI replaced EFC in 2024-25; range from -1,500; contributor = parent who provided more support; consent required
+- CSS Profile: $25 first college, $16 each additional; ~250 colleges; automatic waivers for many families
+- Iowa: 2027-28 FAFSA priority Dec 1, 2026; school code 001892; aid first-come first-served
+- About one-third of FAFSAs selected for verification
+
+## Results
+
+- docs/chapters/14-understanding-financial-aid/index.md
+- Prose words (excluding diagram specs): ~6,300; total file ~7,050
+- Non-text elements: 2 MicroSim specs (financial-aid-map, need-and-aid-calculator), 3 tables, 2 formulas, 12 worked examples, 5 self-check questions, lists
+- Concepts covered: 25/25
+- Continuity: Hillcrest $22,000 net price and Marcus's Chapter 3 net prices reconciled; Midland State COA from Chapter 3
+- mkdocs build --strict: pass
