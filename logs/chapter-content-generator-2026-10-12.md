@@ -164,3 +164,39 @@ Budget sum: roughly 2,350-3,750 words.
 - Includes 988 Suicide & Crisis Lifeline in Support Network (consistent with Chapter 7)
 - Source material: manuscript chapter 15 and preface "A Note on Stress"
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 18 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:30:08 |
+| End Time | 2026-10-12 12:32:06 |
+
+## Chapter 18 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| B | 2 (Admission Decision, Acceptance) | 250-400 each |
+| C | 11 (Rescinded Admission, Financial Aid Appeal, Competing Offer Leverage, Denial, Deferral, Waitlist, Letter of Continued Interest, Waitlist Strategy, Early Decision Release, Rejection as Fit, Long-Term Perspective) | 120-200 each |
+
+Budget sum: roughly 1,800-3,000 words.
+
+## Results
+
+- docs/chapters/18-handling-decisions/index.md
+- Prose words (excluding diagram specs): ~3,600; total file ~4,000
+- Non-text elements: 1 MicroSim spec (decision-response-guide), 1 table, 5 worked examples (incl. a full sample letter of continued interest), 5 self-check questions, lists
+- Concepts covered: 13/13
+- Over budget: worked examples for deferral, waitlist letter, competing-offer appeal, and ED release carry the practical guidance
+- Continuity: Marcus's Lakeshore EA deferral matches the December portal email (Chapter 5) and March admission/April appeal (Chapters 16-17); Priya's College A waitlist builds on her Chapter 13 interview
+- Source material: manuscript chapter 16, preface
+- mkdocs build --strict: pass
+
+## Chapter 18 fact check (after writing)
+
+- Corrected: an ED deferral releases the student from the binding agreement; a regular-round admission is not binding (Barnard, Tufts, UConn policies)
+- Clarified: insufficient aid is the main (often only) basis for ED release; release terms vary by college
+- Added: Common App one-deposit affirmation; NACAC waitlist exception to double depositing; May 1 applies at most colleges
+- Waitlist admit rates kept general (no current national figure found)
