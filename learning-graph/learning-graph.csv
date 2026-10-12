@@ -42,7 +42,7 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 41,College Fit,40|45,LIST
 42,Academic Fit,41|47|20,LIST
 43,Social Fit,41|52,LIST
-44,Financial Fit,41|241,LIST
+44,Financial Fit,41|236,LIST
 45,Self-Assessment,46,LIST
 46,Personal Priorities,1,LIST
 47,Intended Major,45,LIST
@@ -57,7 +57,7 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 56,Balanced College List,53|54|55,LIST
 57,College Research Tools,40,LIST
 58,College Search Website,57,LIST
-59,College Scorecard,57|61|241,LIST
+59,College Scorecard,57|61|236,LIST
 60,Common Data Set,57|20,LIST
 61,Graduation Rate,21,LIST
 62,Retention Rate,61,LIST
@@ -83,7 +83,7 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 82,Essay Drafts Folder,79|158,ORG
 83,Login Credentials Record,79|85,ORG
 84,Dedicated Email Address,71,ORG
-85,Applicant Portal,84|229,ORG
+85,Applicant Portal,84|212,ORG
 86,Checking Portals Regularly,85|300,ORG
 87,School Counselor,1,ORG
 88,Counselor Meeting,87,ORG
@@ -92,10 +92,10 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 91,Summer Before Senior Year,2,ORG
 92,Senior Year Calendar,2|29,ORG
 93,Month-by-Month Planner,92|72|246|115,ORG
-94,Five First Steps,73|213|192|157|163,ORG
+94,Five First Steps,71|73|213,ORG
 95,Verifying Current Policies,234|2,ORG
 96,Capstone Application Roadmap,93|70|95|106|187|195|292|320,ORG
-97,Application Fee,229,ORG
+97,Application Fee,212,ORG
 98,Fee Waiver,97|18,ORG
 99,Standardized Testing,1,TEST
 100,SAT,99,TEST
@@ -254,7 +254,7 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 253,Institutional Aid,235,AID
 254,Need-Based Aid,244,AID
 255,Merit Aid,253|8,AID
-256,Need-Blind Admissions,254|302,AID
+256,Need-Blind Admissions,254|6,AID
 257,Need-Aware Admissions,256,AID
 258,Meets Full Need,254|259,AID
 259,Unmet Need,244,AID
@@ -285,7 +285,7 @@ ConceptID,ConceptLabel,Dependencies,TaxonomyID
 284,Scholarship Scams,275,SCHOL
 285,Scam Warning Signs,284,SCHOL
 286,Award Displacement,275|253,SCHOL
-287,Award Letter,235|302,SCHOL
+287,Award Letter,235|253,SCHOL
 288,Reading an Award Letter,287|236|290,SCHOL
 289,Free Money vs. Borrowed Money,260|263,SCHOL
 290,Loans vs. Grants,289|264|265|266|267|262|261,SCHOL

@@ -108,62 +108,62 @@
       "label": "College Admissions Process",
       "group": "FOUND",
       "shape": "box",
-      "cis": 27808
+      "cis": 14783
     },
     {
       "id": 2,
       "label": "Admissions Timeline",
       "group": "FOUND",
-      "cis": 2835
+      "cis": 1465
     },
     {
       "id": 3,
       "label": "Selective Admissions",
       "group": "FOUND",
-      "cis": 1348
+      "cis": 797
     },
     {
       "id": 4,
       "label": "Admissions Office",
       "group": "FOUND",
-      "cis": 1642
+      "cis": 952
     },
     {
       "id": 5,
       "label": "Admissions Officer",
       "group": "FOUND",
-      "cis": 1350
+      "cis": 799
     },
     {
       "id": 6,
       "label": "Holistic Review",
       "group": "FOUND",
-      "cis": 1347
+      "cis": 796
     },
     {
       "id": 7,
       "label": "Formula-Based Admissions",
       "group": "FOUND",
-      "cis": 255
+      "cis": 123
     },
     {
       "id": 8,
       "label": "Academic Record",
       "group": "FOUND",
-      "cis": 1934
+      "cis": 1112
     },
     {
       "id": 9,
       "label": "High School Transcript",
       "group": "FOUND",
       "shape": "box",
-      "cis": 11481
+      "cis": 6386
     },
     {
       "id": 10,
       "label": "Grade Point Average",
       "group": "FOUND",
-      "cis": 4532
+      "cis": 2459
     },
     {
       "id": 11,
@@ -181,7 +181,7 @@
       "id": 13,
       "label": "Course Rigor",
       "group": "FOUND",
-      "cis": 1948
+      "cis": 1126
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
       "id": 16,
       "label": "Institutional Priorities",
       "group": "FOUND",
-      "cis": 270
+      "cis": 131
     },
     {
       "id": 17,
@@ -211,32 +211,32 @@
       "id": 18,
       "label": "First-Generation Student",
       "group": "FOUND",
-      "cis": 268
+      "cis": 129
     },
     {
       "id": 19,
       "label": "Admission Rate",
       "group": "FOUND",
-      "cis": 5667
+      "cis": 3031
     },
     {
       "id": 20,
       "label": "Middle 50% Range",
       "group": "FOUND",
-      "cis": 2584
+      "cis": 1333
     },
     {
       "id": 21,
       "label": "Four-Year College",
       "group": "FOUND",
       "shape": "box",
-      "cis": 11845
+      "cis": 6297
     },
     {
       "id": 22,
       "label": "Public University",
       "group": "FOUND",
-      "cis": 260
+      "cis": 128
     },
     {
       "id": 23,
@@ -278,7 +278,7 @@
       "id": 29,
       "label": "Application Rounds",
       "group": "FOUND",
-      "cis": 290
+      "cis": 158
     },
     {
       "id": 30,
@@ -344,49 +344,49 @@
       "id": 40,
       "label": "College List",
       "group": "LIST",
-      "cis": 5294
+      "cis": 2792
     },
     {
       "id": 41,
       "label": "College Fit",
       "group": "LIST",
-      "cis": 2925
+      "cis": 1535
     },
     {
       "id": 42,
       "label": "Academic Fit",
       "group": "LIST",
-      "cis": 577
+      "cis": 299
     },
     {
       "id": 43,
       "label": "Social Fit",
       "group": "LIST",
-      "cis": 578
+      "cis": 300
     },
     {
       "id": 44,
       "label": "Financial Fit",
       "group": "LIST",
-      "cis": 1155
+      "cis": 599
     },
     {
       "id": 45,
       "label": "Self-Assessment",
       "group": "LIST",
-      "cis": 4840
+      "cis": 2615
     },
     {
       "id": 46,
       "label": "Personal Priorities",
       "group": "LIST",
-      "cis": 4841
+      "cis": 2616
     },
     {
       "id": 47,
       "label": "Intended Major",
       "group": "LIST",
-      "cis": 582
+      "cis": 304
     },
     {
       "id": 48,
@@ -398,13 +398,13 @@
       "id": 49,
       "label": "School Size",
       "group": "LIST",
-      "cis": 616
+      "cis": 338
     },
     {
       "id": 50,
       "label": "Campus Setting",
       "group": "LIST",
-      "cis": 616
+      "cis": 338
     },
     {
       "id": 51,
@@ -416,37 +416,37 @@
       "id": 52,
       "label": "Campus Culture",
       "group": "LIST",
-      "cis": 615
+      "cis": 337
     },
     {
       "id": 53,
       "label": "Reach School",
       "group": "LIST",
-      "cis": 1734
+      "cis": 900
     },
     {
       "id": 54,
       "label": "Target School",
       "group": "LIST",
-      "cis": 1156
+      "cis": 600
     },
     {
       "id": 55,
       "label": "Safety School",
       "group": "LIST",
-      "cis": 578
+      "cis": 300
     },
     {
       "id": 56,
       "label": "Balanced College List",
       "group": "LIST",
-      "cis": 577
+      "cis": 299
     },
     {
       "id": 57,
       "label": "College Research Tools",
       "group": "LIST",
-      "cis": 634
+      "cis": 356
     },
     {
       "id": 58,
@@ -512,25 +512,25 @@
       "id": 68,
       "label": "Long List",
       "group": "LIST",
-      "cis": 577
+      "cis": 299
     },
     {
       "id": 69,
       "label": "Narrowing the List",
       "group": "LIST",
-      "cis": 576
+      "cis": 298
     },
     {
       "id": 70,
       "label": "Final College List",
       "group": "LIST",
-      "cis": 575
+      "cis": 297
     },
     {
       "id": 71,
       "label": "Getting Organized",
       "group": "ORG",
-      "cis": 1632
+      "cis": 799
     },
     {
       "id": 72,
@@ -548,7 +548,7 @@
       "id": 74,
       "label": "Application Deadline",
       "group": "ORG",
-      "cis": 2529
+      "cis": 1292
     },
     {
       "id": 75,
@@ -608,7 +608,7 @@
       "id": 84,
       "label": "Dedicated Email Address",
       "group": "ORG",
-      "cis": 1616
+      "cis": 782
     },
     {
       "id": 85,
@@ -626,7 +626,7 @@
       "id": 87,
       "label": "School Counselor",
       "group": "ORG",
-      "cis": 12
+      "cis": 11
     },
     {
       "id": 88,
@@ -698,19 +698,19 @@
       "id": 99,
       "label": "Standardized Testing",
       "group": "TEST",
-      "cis": 2207
+      "cis": 1095
     },
     {
       "id": 100,
       "label": "SAT",
       "group": "TEST",
-      "cis": 832
+      "cis": 415
     },
     {
       "id": 101,
       "label": "ACT",
       "group": "TEST",
-      "cis": 831
+      "cis": 414
     },
     {
       "id": 102,
@@ -722,13 +722,13 @@
       "id": 103,
       "label": "Test-Optional Policy",
       "group": "TEST",
-      "cis": 271
+      "cis": 132
     },
     {
       "id": 104,
       "label": "Test-Required Policy",
       "group": "TEST",
-      "cis": 272
+      "cis": 133
     },
     {
       "id": 105,
@@ -740,31 +740,31 @@
       "id": 106,
       "label": "Score Submission Decision",
       "group": "TEST",
-      "cis": 268
+      "cis": 129
     },
     {
       "id": 107,
       "label": "Score Benchmark Comparison",
       "group": "TEST",
-      "cis": 271
+      "cis": 132
     },
     {
       "id": 108,
       "label": "Composite Score",
       "group": "TEST",
-      "cis": 817
+      "cis": 400
     },
     {
       "id": 109,
       "label": "Section Scores",
       "group": "TEST",
-      "cis": 819
+      "cis": 402
     },
     {
       "id": 110,
       "label": "SAT-ACT Concordance",
       "group": "TEST",
-      "cis": 272
+      "cis": 133
     },
     {
       "id": 111,
@@ -800,13 +800,13 @@
       "id": 116,
       "label": "Official Score Report",
       "group": "TEST",
-      "cis": 271
+      "cis": 132
     },
     {
       "id": 117,
       "label": "Self-Reported Scores",
       "group": "TEST",
-      "cis": 267
+      "cis": 128
     },
     {
       "id": 118,
@@ -884,7 +884,7 @@
       "id": 130,
       "label": "Core Academic Courses",
       "group": "ACAD",
-      "cis": 1991
+      "cis": 1169
     },
     {
       "id": 131,
@@ -951,115 +951,115 @@
       "label": "Extracurricular Activities",
       "group": "ACTV",
       "shape": "box",
-      "cis": 7060
+      "cis": 3433
     },
     {
       "id": 142,
       "label": "Activities List",
       "group": "ACTV",
-      "cis": 1631
+      "cis": 794
     },
     {
       "id": 143,
       "label": "Activity Description",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 144,
       "label": "Leadership Roles",
       "group": "ACTV",
-      "cis": 1087
+      "cis": 529
     },
     {
       "id": 145,
       "label": "Part-Time Job",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 146,
       "label": "Family Responsibilities",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 147,
       "label": "Community Service",
       "group": "ACTV",
-      "cis": 543
+      "cis": 264
     },
     {
       "id": 148,
       "label": "Summer Experiences",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 149,
       "label": "Personal Interests",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 150,
       "label": "Honors and Awards",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 151,
       "label": "Depth Over Breadth",
       "group": "ACTV",
-      "cis": 544
+      "cis": 265
     },
     {
       "id": 152,
       "label": "Sustained Commitment",
       "group": "ACTV",
-      "cis": 545
+      "cis": 266
     },
     {
       "id": 153,
       "label": "Measurable Impact",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 154,
       "label": "Action Verbs",
       "group": "ACTV",
-      "cis": 543
+      "cis": 264
     },
     {
       "id": 155,
       "label": "Hours per Week",
       "group": "ACTV",
-      "cis": 546
+      "cis": 267
     },
     {
       "id": 156,
       "label": "Activity Ordering",
       "group": "ACTV",
-      "cis": 542
+      "cis": 263
     },
     {
       "id": 157,
       "label": "Activities Resume",
       "group": "ACTV",
-      "cis": 541
+      "cis": 262
     },
     {
       "id": 158,
       "label": "College Essay",
       "group": "ESSAY",
-      "cis": 1038
+      "cis": 620
     },
     {
       "id": 159,
       "label": "Personal Essay",
       "group": "ESSAY",
-      "cis": 741
+      "cis": 462
     },
     {
       "id": 160,
@@ -1077,13 +1077,13 @@
       "id": 162,
       "label": "Brainstorming",
       "group": "ESSAY",
-      "cis": 99
+      "cis": 98
     },
     {
       "id": 163,
       "label": "Essay Material List",
       "group": "ESSAY",
-      "cis": 48
+      "cis": 47
     },
     {
       "id": 164,
@@ -1167,7 +1167,7 @@
       "id": 177,
       "label": "Supplemental Essays",
       "group": "ESSAY",
-      "cis": 295
+      "cis": 156
     },
     {
       "id": 178,
@@ -1233,37 +1233,37 @@
       "id": 188,
       "label": "Letters of Recommendation",
       "group": "RECS",
-      "cis": 32
+      "cis": 29
     },
     {
       "id": 189,
       "label": "Teacher Recommendation",
       "group": "RECS",
-      "cis": 8
+      "cis": 7
     },
     {
       "id": 190,
       "label": "Counselor Recommendation",
       "group": "RECS",
-      "cis": 8
+      "cis": 7
     },
     {
       "id": 191,
       "label": "Choosing Recommenders",
       "group": "RECS",
-      "cis": 7
+      "cis": 6
     },
     {
       "id": 192,
       "label": "Asking for a Recommendation",
       "group": "RECS",
-      "cis": 5
+      "cis": 4
     },
     {
       "id": 193,
       "label": "Recommendation Request Timing",
       "group": "RECS",
-      "cis": 6
+      "cis": 5
     },
     {
       "id": 194,
@@ -1365,103 +1365,103 @@
       "id": 210,
       "label": "Common App",
       "group": "PLAT",
-      "cis": 1658
+      "cis": 824
     },
     {
       "id": 211,
       "label": "Coalition App",
       "group": "PLAT",
-      "cis": 265
+      "cis": 126
     },
     {
       "id": 212,
       "label": "Institutional Application",
       "group": "PLAT",
-      "cis": 2223
+      "cis": 1118
     },
     {
       "id": 213,
       "label": "Common App Account",
       "group": "PLAT",
-      "cis": 1610
+      "cis": 776
     },
     {
       "id": 214,
       "label": "Common App Dashboard",
       "group": "PLAT",
-      "cis": 274
+      "cis": 135
     },
     {
       "id": 215,
       "label": "Adding Colleges",
       "group": "PLAT",
-      "cis": 273
+      "cis": 134
     },
     {
       "id": 216,
       "label": "Profile Section",
       "group": "PLAT",
-      "cis": 1334
+      "cis": 639
     },
     {
       "id": 217,
       "label": "Family Section",
       "group": "PLAT",
-      "cis": 266
+      "cis": 127
     },
     {
       "id": 218,
       "label": "Education Section",
       "group": "PLAT",
-      "cis": 1067
+      "cis": 511
     },
     {
       "id": 219,
       "label": "Testing Section",
       "group": "PLAT",
-      "cis": 266
+      "cis": 127
     },
     {
       "id": 220,
       "label": "Activities Section",
       "group": "PLAT",
-      "cis": 533
+      "cis": 255
     },
     {
       "id": 221,
       "label": "Writing Section",
       "group": "PLAT",
-      "cis": 532
+      "cis": 254
     },
     {
       "id": 222,
       "label": "Additional Information Section",
       "group": "PLAT",
-      "cis": 266
+      "cis": 127
     },
     {
       "id": 223,
       "label": "Courses and Grades Section",
       "group": "PLAT",
-      "cis": 266
+      "cis": 127
     },
     {
       "id": 224,
       "label": "Self-Reported Academic Record",
       "group": "PLAT",
-      "cis": 267
+      "cis": 128
     },
     {
       "id": 225,
       "label": "Member Questions",
       "group": "PLAT",
-      "cis": 267
+      "cis": 128
     },
     {
       "id": 226,
       "label": "Writing Supplements",
       "group": "PLAT",
-      "cis": 266
+      "cis": 127
     },
     {
       "id": 227,
@@ -1473,19 +1473,19 @@
       "id": 228,
       "label": "Application Preview",
       "group": "PLAT",
-      "cis": 265
+      "cis": 126
     },
     {
       "id": 229,
       "label": "Application Submission",
       "group": "PLAT",
-      "cis": 264
+      "cis": 125
     },
     {
       "id": 230,
       "label": "Submission Confirmation",
       "group": "PLAT",
-      "cis": 256
+      "cis": 124
     },
     {
       "id": 231,
@@ -1509,50 +1509,50 @@
       "id": 234,
       "label": "College-Specific Requirements",
       "group": "PLAT",
-      "cis": 299
+      "cis": 160
     },
     {
       "id": 235,
       "label": "Financial Aid",
       "group": "AID",
-      "cis": 2443
+      "cis": 1417
     },
     {
       "id": 236,
       "label": "Cost of Attendance",
       "group": "AID",
       "shape": "box",
-      "cis": 7599
+      "cis": 2549
     },
     {
       "id": 237,
       "label": "Sticker Price",
       "group": "AID",
-      "cis": 1243
+      "cis": 87
     },
     {
       "id": 238,
       "label": "Tuition",
       "group": "AID",
-      "cis": 1243
+      "cis": 87
     },
     {
       "id": 239,
       "label": "Room and Board",
       "group": "AID",
-      "cis": 1243
+      "cis": 87
     },
     {
       "id": 240,
       "label": "Indirect Costs",
       "group": "AID",
-      "cis": 1243
+      "cis": 87
     },
     {
       "id": 241,
       "label": "Net Price",
       "group": "AID",
-      "cis": 1242
+      "cis": 86
     },
     {
       "id": 242,
@@ -1624,7 +1624,7 @@
       "id": 253,
       "label": "Institutional Aid",
       "group": "AID",
-      "cis": 68
+      "cis": 198
     },
     {
       "id": 254,
@@ -1666,7 +1666,7 @@
       "id": 260,
       "label": "Grants",
       "group": "AID",
-      "cis": 1417
+      "cis": 261
     },
     {
       "id": 261,
@@ -1900,7 +1900,7 @@
       "id": 299,
       "label": "Application Review Process",
       "group": "DEC",
-      "cis": 254
+      "cis": 122
     },
     {
       "id": 300,
@@ -1912,13 +1912,13 @@
       "id": 301,
       "label": "Decision Release Date",
       "group": "DEC",
-      "cis": 245
+      "cis": 113
     },
     {
       "id": 302,
       "label": "Admission Decision",
       "group": "DEC",
-      "cis": 244
+      "cis": 112
     },
     {
       "id": 303,
@@ -2416,7 +2416,7 @@
     },
     {
       "from": 44,
-      "to": 241
+      "to": 236
     },
     {
       "from": 45,
@@ -2512,7 +2512,7 @@
     },
     {
       "from": 59,
-      "to": 241
+      "to": 236
     },
     {
       "from": 60,
@@ -2680,7 +2680,7 @@
     },
     {
       "from": 85,
-      "to": 229
+      "to": 212
     },
     {
       "from": 86,
@@ -2736,23 +2736,15 @@
     },
     {
       "from": 94,
+      "to": 71
+    },
+    {
+      "from": 94,
       "to": 73
     },
     {
       "from": 94,
       "to": 213
-    },
-    {
-      "from": 94,
-      "to": 192
-    },
-    {
-      "from": 94,
-      "to": 157
-    },
-    {
-      "from": 94,
-      "to": 163
     },
     {
       "from": 95,
@@ -2796,7 +2788,7 @@
     },
     {
       "from": 97,
-      "to": 229
+      "to": 212
     },
     {
       "from": 98,
@@ -3860,7 +3852,7 @@
     },
     {
       "from": 256,
-      "to": 302
+      "to": 6
     },
     {
       "from": 257,
@@ -4044,7 +4036,7 @@
     },
     {
       "from": 287,
-      "to": 302
+      "to": 253
     },
     {
       "from": 288,
