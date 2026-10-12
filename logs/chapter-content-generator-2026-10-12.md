@@ -134,3 +134,33 @@ Budget sum: roughly 4,750-7,500 words.
 - All dollar figures computed (loan payment $307/mo on $27,000; four-year projections at 3%)
 - Source material: manuscript chapter 14
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 17 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:26:51 |
+| End Time | 2026-10-12 12:28:19 |
+
+## Chapter 17 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 1 (Application Review Process) | 500-750 |
+| B | 4 (Decision Release Date, Managing Uncertainty, Waiting Period, Healthy Coping Strategies) | 250-400 each |
+| C | 7 (Application Status, Checking Portals Regularly, Limiting Comparison, Social Media Boundaries, Self-Care Routine, Support Network, Celebrating Milestones) | 120-200 each |
+
+Budget sum: roughly 2,350-3,750 words.
+
+## Results
+
+- docs/chapters/17-waiting-and-anxiety/index.md
+- Prose words (excluding diagram specs): ~3,000; total file ~3,400
+- Non-text elements: 1 MicroSim spec (what-can-i-control), 1 table, 3 worked examples, 5 self-check questions, lists
+- Concepts covered: 12/12
+- Avoids repeating Chapter 1's file-journey diagram; focuses on the calendar of the wait
+- Includes 988 Suicide & Crisis Lifeline in Support Network (consistent with Chapter 7)
+- Source material: manuscript chapter 15 and preface "A Note on Stress"
+- mkdocs build --strict: pass
