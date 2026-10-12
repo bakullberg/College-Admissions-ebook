@@ -98,3 +98,39 @@ Budget sum: roughly 2,200-3,600 words.
 - Concepts covered: 15/15
 - Source material: manuscript chapter 13
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 16 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:20:27 |
+| End Time | 2026-10-12 12:23:27 |
+
+## Chapter 16 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| A | 2 (Federal Direct Loan, Award Letter) | 500-750 each |
+| B | 14 (Work-Study, Subsidized/Unsubsidized/Parent PLUS/Private Loan, Aid Renewal, Free vs. Borrowed Money, Loans vs. Grants, Reading an Award Letter, Out-of-Pocket Cost, Four-Year Cost Projection, Total Debt at Graduation, Award Letter Comparison) | 250-400 each |
+| C | 2 (Change in Circumstances, Aid Reconsideration Request) | 120-200 each |
+
+Budget sum: roughly 4,750-7,500 words.
+
+## Pre-writing fact check
+
+- 2026-27 Direct Loan rates (first disbursed 7/1/2026-6/30/2027): undergraduate 6.52%, Parent PLUS 9.07%; origination ~1.057% and ~4.228%
+- OBBBA: new Parent PLUS borrowers from 7/1/2026 capped at $20,000/yr and $65,000 per student; standard repayment only; new loans repay under standard plan or RAP
+- Federal Work-Study paid by paycheck, not applied to bill; award is a ceiling
+- Shopping Sheet renamed College Financing Plan; voluntary
+
+## Results
+
+- docs/chapters/16-comparing-award-letters/index.md
+- Prose words (excluding diagram specs): ~4,900; total file ~5,550
+- Non-text elements: 2 specs (award-letter-decoder, award-comparison-chart), 5 tables, 2 formulas, 10 worked examples, 5 self-check questions, lists
+- Concepts covered: 17/17
+- All dollar figures computed (loan payment $307/mo on $27,000; four-year projections at 3%)
+- Source material: manuscript chapter 14
+- mkdocs build --strict: pass
