@@ -66,3 +66,35 @@ Budget sum: roughly 5,700-8,950 words.
 - Concepts covered: 25/25
 - Continuity: Hillcrest $22,000 net price and Marcus's Chapter 3 net prices reconciled; Midland State COA from Chapter 3
 - mkdocs build --strict: pass
+
+---
+
+# Chapter 15 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:16:53 |
+| End Time | 2026-10-12 12:19:14 |
+
+## Chapter 15 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| B | 3 (Scholarships, Outside Scholarship, Renewable Scholarship) | 250-400 each |
+| C | 12 (Automatic Merit, Competitive, Local, Search Engine, Eligibility, Renewal Criteria, Expected Value of Applying, Prioritization, Essay Reuse, Scams, Scam Warning Signs, Award Displacement) | 120-200 each |
+
+Budget sum: roughly 2,200-3,600 words.
+
+## Pre-writing fact check
+
+- Scholarship displacement restricted in Maryland (2017), New Jersey, Pennsylvania (2022), California (2022, Pell/Dream Act students), Washington, Minnesota (2024)
+- FTC: "guaranteed or your money back" is a scammer line; never pay to apply; report at reportfraud.ftc.gov
+
+## Results
+
+- docs/chapters/15-scholarships/index.md
+- Prose words (excluding diagram specs): ~3,600; total file ~4,400 (at the top of budget)
+- Non-text elements: 2 MicroSim specs (scholarship-priority-calculator, scholarship-or-scam), 2 tables, 1 formula, 6 worked examples, 5 self-check questions, lists
+- Concepts covered: 15/15
+- Source material: manuscript chapter 13
+- mkdocs build --strict: pass
