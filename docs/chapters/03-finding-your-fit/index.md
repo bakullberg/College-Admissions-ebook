@@ -132,7 +132,7 @@ The interactive below walks you through the self-assessment. You rate how much e
 
 #### Diagram: College Self-Assessment Builder
 
-<iframe src="../../sims/college-self-assessment/main.html" width="100%" height="580px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/college-self-assessment/main.html" width="100%" height="580px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>College Self-Assessment Builder</summary>
@@ -293,7 +293,7 @@ The interactive below maps campus size against setting and lets you click each c
 
 #### Diagram: Campus Size and Setting Explorer
 
-<iframe src="../../sims/campus-size-setting-explorer/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/campus-size-setting-explorer/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Campus Size and Setting Explorer</summary>
@@ -384,7 +384,7 @@ Notice three things. Room and board, books, and personal expenses are the same f
 
 #### Diagram: Cost of Attendance Builder
 
-<iframe src="../../sims/cost-of-attendance-builder/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/cost-of-attendance-builder/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Cost of Attendance Builder</summary>
@@ -556,7 +556,7 @@ The classifier below combines all of these tests. Enter your numbers and a colle
 
 #### Diagram: Reach, Target, Safety Classifier
 
-<iframe src="../../sims/reach-target-safety-classifier/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/reach-target-safety-classifier/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Reach, Target, Safety Classifier</summary>
@@ -624,7 +624,7 @@ Her new list has ten schools. Every one fits her priorities, every safety is aff
 
 #### Diagram: Balanced College List Builder
 
-<iframe src="../../sims/balanced-list-builder/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/balanced-list-builder/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Balanced College List Builder</summary>

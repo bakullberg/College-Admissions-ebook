@@ -117,7 +117,7 @@ It also helps to **prepare for every outcome in advance,** not just the best one
 
 #### Diagram: What Can I Control?
 
-<iframe src="../../sims/what-can-i-control/main.html" width="100%" height="460px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/what-can-i-control/main.html" width="100%" height="460px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>What Can I Control?</summary>

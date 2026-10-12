@@ -200,7 +200,7 @@ The guide below brings every decision type together. Choose the decision you rec
 
 #### Diagram: Decision Response Guide
 
-<iframe src="../../sims/decision-response-guide/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/decision-response-guide/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Decision Response Guide</summary>

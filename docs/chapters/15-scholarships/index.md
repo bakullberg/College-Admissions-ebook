@@ -144,7 +144,7 @@ The national scholarship sounds the most exciting, but per hour, it's the weakes
 
 #### Diagram: Scholarship Priority Calculator
 
-<iframe src="../../sims/scholarship-priority-calculator/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/scholarship-priority-calculator/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Scholarship Priority Calculator</summary>
@@ -238,7 +238,7 @@ If something looks off, search the scholarship's name with the word "scam," and 
 
 #### Diagram: Scholarship or Scam?
 
-<iframe src="../../sims/scholarship-or-scam/main.html" width="100%" height="460px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/scholarship-or-scam/main.html" width="100%" height="460px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Scholarship or Scam?</summary>

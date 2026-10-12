@@ -121,7 +121,7 @@ Priya's instinct is to ask Ms. Chen, since English is her intended major. But Mr
 
 #### Diagram: Recommender Comparison Tool
 
-<iframe src="../../sims/recommender-comparison/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/recommender-comparison/main.html" width="100%" height="500px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Recommender Comparison Tool</summary>

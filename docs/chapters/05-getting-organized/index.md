@@ -149,7 +149,7 @@ Before the matrix below, here's how to read it. Each row is a college and each c
 
 #### Diagram: College Requirements Matrix
 
-<iframe src="../../sims/college-requirements-matrix/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/college-requirements-matrix/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>College Requirements Matrix</summary>
@@ -396,7 +396,7 @@ The checklist below tracks your progress on these five steps and the setup tasks
 
 #### Diagram: Getting Organized Setup Checklist
 
-<iframe src="../../sims/organized-setup-checklist/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/organized-setup-checklist/main.html" width="100%" height="500px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Getting Organized Setup Checklist</summary>

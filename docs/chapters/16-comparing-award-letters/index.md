@@ -204,7 +204,7 @@ The decoder below walks you through these steps for any letter.
 
 #### Diagram: Award Letter Decoder
 
-<iframe src="../../sims/award-letter-decoder/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/award-letter-decoder/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Award Letter Decoder</summary>
@@ -306,7 +306,7 @@ Once the numbers are side by side, the decision isn't just "pick the cheapest." 
 
 #### Diagram: Award Letter Comparison Chart
 
-<iframe src="../../sims/award-comparison-chart/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/award-comparison-chart/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Award Letter Comparison Chart</summary>

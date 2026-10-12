@@ -273,7 +273,7 @@ Read the preview slowly, top to bottom. Check your name, contact information, an
 
 #### Diagram: Pre-Submission Checklist
 
-<iframe src="../../sims/pre-submission-checklist/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/pre-submission-checklist/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Pre-Submission Checklist</summary>

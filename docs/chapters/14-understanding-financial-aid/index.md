@@ -86,7 +86,7 @@ Before the diagram below, here are two more terms you'll need. **Need-based aid*
 
 #### Diagram: Financial Aid Map
 
-<iframe src="../../sims/financial-aid-map/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/financial-aid-map/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Financial Aid Map</summary>
@@ -308,7 +308,7 @@ The private college's need figure is the largest by far. Whether that turns into
 
 #### Diagram: Need and Aid Calculator
 
-<iframe src="../../sims/need-and-aid-calculator/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/need-and-aid-calculator/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Need and Aid Calculator</summary>

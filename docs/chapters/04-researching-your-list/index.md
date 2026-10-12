@@ -66,7 +66,7 @@ Before you look at the matrix below, keep one more distinction in mind. Some too
 
 #### Diagram: Research Tool Matrix
 
-<iframe src="../../sims/research-tool-matrix/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/research-tool-matrix/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Research Tool Matrix</summary>
@@ -174,7 +174,7 @@ Lakeshore stands out: students stay, and most finish in four years. Midland's si
 
 #### Diagram: College Outcomes Comparison
 
-<iframe src="../../sims/college-outcomes-comparison/main.html" width="100%" height="480px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/college-outcomes-comparison/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>College Outcomes Comparison</summary>
@@ -285,7 +285,7 @@ The order matters. Cutting on fit first means you never waste time classifying c
 
 #### Diagram: List Narrowing Funnel
 
-<iframe src="../../sims/list-narrowing-funnel/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/list-narrowing-funnel/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>List Narrowing Funnel</summary>

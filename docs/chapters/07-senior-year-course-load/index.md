@@ -171,7 +171,7 @@ The comparison below summarizes the three advanced pathways covered above. Click
 
 #### Diagram: Advanced Course Pathways Compared
 
-<iframe src="../../sims/advanced-pathways-compared/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/advanced-pathways-compared/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Advanced Course Pathways Compared</summary>
@@ -258,7 +258,7 @@ The timeline below shows when colleges see each part of your senior record.
 
 #### Diagram: When Colleges See Senior Grades
 
-<iframe src="../../sims/senior-grades-timeline/main.html" width="100%" height="440px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/senior-grades-timeline/main.html" width="100%" height="440px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>When Colleges See Senior Grades</summary>
@@ -333,7 +333,7 @@ A sustainable senior year usually means two to four rigorous courses aligned wit
 
 #### Diagram: Senior Schedule Balance Planner
 
-<iframe src="../../sims/senior-schedule-balance/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/senior-schedule-balance/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Senior Schedule Balance Planner</summary>

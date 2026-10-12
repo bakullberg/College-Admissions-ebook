@@ -231,7 +231,7 @@ The prompt matcher below helps you test a topic. Describe your story with a few 
 
 #### Diagram: Essay Topic and Prompt Matcher
 
-<iframe src="../../sims/essay-prompt-matcher/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/essay-prompt-matcher/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Essay Topic and Prompt Matcher</summary>
@@ -298,7 +298,7 @@ The revision never uses the words "patient" or "caring." It doesn't need to. The
 
 #### Diagram: Show-Don't-Tell Practice
 
-<iframe src="../../sims/show-dont-tell-practice/main.html" width="100%" height="480px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/show-dont-tell-practice/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Show-Don't-Tell Practice</summary>
@@ -371,7 +371,7 @@ The outline adds up to about 650 words. It also shows her where the translation 
 
 #### Diagram: Personal Essay Structure Explorer
 
-<iframe src="../../sims/essay-structure-explorer/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/essay-structure-explorer/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Personal Essay Structure Explorer</summary>

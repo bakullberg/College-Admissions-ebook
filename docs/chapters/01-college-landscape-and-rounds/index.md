@@ -72,7 +72,7 @@ The diagram below shows the six stages as a single roadmap. Click any stage to s
 
 #### Diagram: College Admissions Process Roadmap
 
-<iframe src="../../sims/admissions-process-roadmap/main.html" width="100%" height="450px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/admissions-process-roadmap/main.html" width="100%" height="450px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>College Admissions Process Roadmap</summary>
@@ -142,7 +142,7 @@ The interactive timeline below lays these anchor points across the senior year. 
 
 #### Diagram: Senior Year Admissions Timeline
 
-<iframe src="../../sims/senior-year-admissions-timeline/main.html" width="100%" height="480px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/senior-year-admissions-timeline/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Senior Year Admissions Timeline</summary>
@@ -294,7 +294,7 @@ Practice sorting real colleges with the interactive sorter below. It works best 
 
 #### Diagram: College Type Sorter
 
-<iframe src="../../sims/college-type-sorter/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/college-type-sorter/main.html" width="100%" height="500px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>College Type Sorter</summary>
@@ -391,7 +391,7 @@ Try the calculator below to see how the rate responds when applications or admit
 
 #### Diagram: Admission Rate Calculator
 
-<iframe src="../../sims/admission-rate-calculator/main.html" width="100%" height="420px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/admission-rate-calculator/main.html" width="100%" height="420px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Admission Rate Calculator</summary>
@@ -499,7 +499,7 @@ The interactive diagram below follows one application from the moment it's submi
 
 #### Diagram: The Journey of an Application File
 
-<iframe src="../../sims/application-file-journey/main.html" width="100%" height="480px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/application-file-journey/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>The Journey of an Application File</summary>
@@ -609,7 +609,7 @@ Choosing a round is a decision you make school by school, and the right answer d
 
 #### Diagram: Application Round Explorer
 
-<iframe src="../../sims/application-round-explorer/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/application-round-explorer/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Application Round Explorer</summary>

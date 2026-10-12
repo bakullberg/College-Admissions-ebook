@@ -153,7 +153,7 @@ The chart below compares two applicants' activity patterns, one deep and one bro
 
 #### Diagram: Depth vs. Breadth Activity Map
 
-<iframe src="../../sims/depth-vs-breadth-map/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/depth-vs-breadth-map/main.html" width="100%" height="500px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Depth vs. Breadth Activity Map</summary>
@@ -373,7 +373,7 @@ The builder below lets you draft an entry with live character counts for every f
 
 #### Diagram: Activity Entry Builder
 
-<iframe src="../../sims/activity-entry-builder/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/activity-entry-builder/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Activity Entry Builder</summary>
@@ -494,7 +494,7 @@ The sorter below tests your sense of what counts as an activity. Try it before y
 
 #### Diagram: What Counts as an Activity?
 
-<iframe src="../../sims/what-counts-activity-sorter/main.html" width="100%" height="480px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/what-counts-activity-sorter/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>What Counts as an Activity?</summary>

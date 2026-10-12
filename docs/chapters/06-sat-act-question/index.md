@@ -257,7 +257,7 @@ Casey's 24 ACT concords to an SAT total between 1160 and 1190. A college Casey i
 
 #### Diagram: SAT-ACT Score Converter
 
-<iframe src="../../sims/sat-act-converter/main.html" width="100%" height="420px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/sat-act-converter/main.html" width="100%" height="420px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>SAT-ACT Score Converter</summary>
@@ -344,7 +344,7 @@ For College C, Priya weighs her record. Her 3.71 GPA sits inside College C's ran
 
 #### Diagram: Score Submission Planner
 
-<iframe src="../../sims/score-submission-planner/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/score-submission-planner/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Score Submission Planner</summary>
@@ -409,7 +409,7 @@ Her October total, 1310, is a modest gain, because her Reading and Writing score
 
 #### Diagram: Superscore Calculator
 
-<iframe src="../../sims/superscore-calculator/main.html" width="100%" height="460px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/superscore-calculator/main.html" width="100%" height="460px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Superscore Calculator</summary>

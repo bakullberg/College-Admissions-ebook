@@ -81,7 +81,7 @@ The total isn't a verdict, and you shouldn't let a spreadsheet choose your colle
 
 #### Diagram: Final Choice Comparison Matrix
 
-<iframe src="../../sims/final-choice-matrix/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/final-choice-matrix/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Final Choice Comparison Matrix</summary>

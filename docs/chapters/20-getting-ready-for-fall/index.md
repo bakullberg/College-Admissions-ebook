@@ -163,7 +163,7 @@ The checklist below gathers these summer steps into a countdown you can work thr
 
 #### Diagram: Summer-to-Move-In Countdown
 
-<iframe src="../../sims/summer-countdown/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/summer-countdown/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Summer-to-Move-In Countdown</summary>
@@ -258,7 +258,7 @@ None of this changed the process. It's the same sequence from Chapter 1, applied
 
 #### Diagram: Personal Application Roadmap
 
-<iframe src="../../sims/personal-application-roadmap/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/personal-application-roadmap/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Personal Application Roadmap</summary>

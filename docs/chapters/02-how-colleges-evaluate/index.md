@@ -67,7 +67,7 @@ Transcripts don't share one standard format. Every school uses its own layout, a
 
 #### Diagram: Annotated Transcript Explorer
 
-<iframe src="../../sims/annotated-transcript-explorer/main.html" width="100%" height="560px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/annotated-transcript-explorer/main.html" width="100%" height="560px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Annotated Transcript Explorer</summary>
@@ -210,7 +210,7 @@ The GPA calculator below lets you enter your own courses, switch between "all co
 
 #### Diagram: GPA Calculator
 
-<iframe src="../../sims/gpa-calculator/main.html" width="100%" height="520px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/gpa-calculator/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>GPA Calculator</summary>
@@ -276,7 +276,7 @@ On paper, their schedules are identical. To a reader, Elena has taken the hardes
 
 #### Diagram: Rigor in Context
 
-<iframe src="../../sims/rigor-in-context/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/rigor-in-context/main.html" width="100%" height="500px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Rigor in Context</summary>
@@ -372,7 +372,7 @@ A reader would likely give both the same academic rating. Applicant B would prob
 
 #### Diagram: Holistic Review Rating Explorer
 
-<iframe src="../../sims/holistic-review-explorer/main.html" width="100%" height="540px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/holistic-review-explorer/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Holistic Review Rating Explorer</summary>
@@ -447,7 +447,7 @@ The calculator below runs this formula for any combination of inputs and shows w
 
 #### Diagram: Regent Admission Index Calculator
 
-<iframe src="../../sims/rai-calculator/main.html" width="100%" height="480px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/rai-calculator/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Regent Admission Index Calculator</summary>
@@ -519,7 +519,7 @@ Both numbers are typical for Westbrook, but on the lower side of typical. Her nu
 
 #### Diagram: Middle 50% Range Plotter
 
-<iframe src="../../sims/middle-50-range-plotter/main.html" width="100%" height="460px" scrolling="no"></iframe>
+<!-- SIM-NOT-BUILT <iframe src="../../sims/middle-50-range-plotter/main.html" width="100%" height="460px" scrolling="no"></iframe> -->
 
 <details markdown="1">
 <summary>Middle 50% Range Plotter</summary>
