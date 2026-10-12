@@ -200,3 +200,36 @@ Budget sum: roughly 1,800-3,000 words.
 - Clarified: insufficient aid is the main (often only) basis for ED release; release terms vary by college
 - Added: Common App one-deposit affirmation; NACAC waitlist exception to double depositing; May 1 applies at most colleges
 - Waitlist admit rates kept general (no current national figure found)
+
+---
+
+# Chapter 19 Session
+
+| Metric | Value |
+|--------|-------|
+| Start Time | 2026-10-12 12:35:31 |
+| End Time | 2026-10-12 12:37:11 |
+
+## Chapter 19 Elaboration Budget
+
+| Tier | Concepts | Target words |
+|------|----------|--------------|
+| B | 8 (Comparing Offers, Side-by-Side Comparison, Admitted Student Day, Campus Revisit, May 1 Decision Deadline, Final College Choice, Accepting an Offer, Enrollment Deposit) | 250-400 each |
+| C | 2 (Declining Offers, Double Depositing) | 120-200 each |
+
+Budget sum: roughly 2,250-3,600 words.
+
+## Pre-writing fact check
+
+- Iowa acceptance fee $325, due May 3, refundable before May 3; deferred to first bill for application-fee-waiver students; required before orientation reservations (admissions.uiowa.edu)
+- May 1 reply date and double-depositing rules carried from the Chapter 18 check
+
+## Results
+
+- docs/chapters/19-making-your-final-choice/index.md
+- Prose words (excluding diagram specs): ~3,000; total file ~3,400
+- Non-text elements: 1 MicroSim spec (final-choice-matrix), 1 table, 5 worked examples, 5 self-check questions, lists
+- Concepts covered: 10/10
+- Resolves all four running students' final choices (Priya: Hillcrest; Marcus: Lakeshore; Ana: Northfield; Casey: Iowa), consistent with Chapters 3, 14-18
+- Source material: manuscript chapter 17
+- mkdocs build --strict: pass
