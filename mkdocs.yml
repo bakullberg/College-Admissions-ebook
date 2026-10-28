@@ -67,6 +67,8 @@ nav:
       - Concept Taxonomy: learning-graph/concept-taxonomy.md
       - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
       - Glossary Quality Report: learning-graph/glossary-quality-report.md
+      - FAQ Quality Report: learning-graph/faq-quality-report.md
+      - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
 
   - MicroSims:
     - List of MicroSims: sims/index.md
@@ -124,6 +126,7 @@ nav:
 
 
 
+  - FAQ: faq.md
   - Glossary: glossary.md
   - License: license.md
   - Contact: contact.md
