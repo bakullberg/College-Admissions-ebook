@@ -66,6 +66,7 @@ nav:
       - Graph Quality Analysis: learning-graph/quality-metrics.md
       - Concept Taxonomy: learning-graph/concept-taxonomy.md
       - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
+      - Glossary Quality Report: learning-graph/glossary-quality-report.md
 
   - MicroSims:
     - List of MicroSims: sims/index.md
@@ -123,6 +124,7 @@ nav:
 
 
 
+  - Glossary: glossary.md
   - License: license.md
   - Contact: contact.md
 
