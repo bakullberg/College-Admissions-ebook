@@ -1,0 +1,71 @@
+{
+  "title": "Middle 50% Range Plotter",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Plot your GPA and ACT score against a college's middle 50% range and see whether you fall below, inside, or above it.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/middle-50-range-plotter/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Middle 50% Range Plotter",
+    "learningObjectives": [
+      "Students will interpret a college's middle 50% range for GPA and test scores and classify their own numbers as above, inside, or below the range."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "interpret",
+      "classify"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 2: How Colleges Evaluate Applicants"
+    ]
+  },
+  "technical": {
+    "framework": "Chart.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 570
+    },
+    "responsive": true,
+    "dependencies": [
+      "Chart.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Example college dropdown",
+      "Test-optional checkbox",
+      "Your GPA and Your ACT inputs",
+      "25th and 75th percentile inputs for GPA and ACT"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "What fraction of admitted students scored below the 25th percentile?",
+      "Why might a test-optional college's reported ACT range be higher than its typical admitted student's score?",
+      "Does being inside the range guarantee admission? Why not?"
+    ],
+    "commonMisconceptions": [
+      "The middle 50% range is the minimum required to be admitted.",
+      "Scores below the 25th percentile mean automatic rejection."
+    ],
+    "assessmentOpportunities": [
+      "Students correctly classify a given GPA and test score against a stated middle 50% range and explain what each zone means."
+    ]
+  },
+  "chapter": "02-how-colleges-evaluate"
+}

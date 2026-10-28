@@ -1,0 +1,72 @@
+{
+  "title": "List Narrowing Funnel",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Run Marcus's 18-college long list through three narrowing passes (fit, balance, and picturing yourself there) and watch each cut get logged with its reason.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/list-narrowing-funnel/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "List Narrowing Funnel",
+    "learningObjectives": [
+      "Students will judge which colleges to cut from a long list at each narrowing pass and justify each cut using fit criteria and list balance."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "judge",
+      "justify"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 4: Researching and Narrowing Your College List"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 600
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Run Pass 1, 2, and 3 buttons (Finish Pass in manual mode)",
+      "Reset button",
+      "Let me decide checkbox",
+      "Reason for my cuts dropdown",
+      "Clickable college cards"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does the balance pass come after the fit pass and not before?",
+      "Is \"I can't say why I want it\" a good reason to cut a college? Why?",
+      "What would you do if Pass 2 left you with only one safety?"
+    ],
+    "commonMisconceptions": [
+      "The final list should keep the most prestigious names.",
+      "Cutting is only about admission chances, not fit or cost."
+    ],
+    "assessmentOpportunities": [
+      "Students narrow the long list to a final list that passes every balance check and justify each cut with a fit criterion or a balance reason."
+    ]
+  },
+  "chapter": "04-researching-your-list"
+}

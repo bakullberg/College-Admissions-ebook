@@ -1,0 +1,71 @@
+{
+  "title": "When Colleges See Senior Grades",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "A timeline of when colleges receive senior-year course and grade information, and how that timing differs for early, regular, and deferred applicants.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/senior-grades-timeline/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "When Colleges See Senior Grades",
+    "learningObjectives": [
+      "Students will explain when colleges receive senior-year course and grade information and interpret how that timing affects early, regular, and deferred applicants."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "explain",
+      "interpret"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 7: Your Senior Year Course Load"
+    ]
+  },
+  "technical": {
+    "framework": "vis-timeline",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 520
+    },
+    "responsive": true,
+    "dependencies": [
+      "vis-timeline"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Show me as dropdown",
+      "Pan buttons",
+      "Show all button",
+      "Clickable timeline events"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can colleges judge your senior-year rigor before any senior grades exist?",
+      "Why does the mid-year report matter more for Regular Decision than for Early Action applicants?",
+      "What happens if your final transcript shows a serious drop?"
+    ],
+    "commonMisconceptions": [
+      "Senior grades don't matter once you've applied.",
+      "AP exam scores affect admission decisions."
+    ],
+    "assessmentOpportunities": [
+      "Students explain which senior-year grade information a given applicant's college sees before the decision, and what the final transcript confirms."
+    ]
+  },
+  "chapter": "07-senior-year-course-load"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Essay Topic and Prompt Matcher",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Test a candidate essay topic against the qualities of a strong personal story, and see which Common App prompts it fits.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/essay-prompt-matcher/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Essay Topic and Prompt Matcher",
+    "learningObjectives": [
+      "Students will assess a candidate essay topic against criteria for a strong personal story and select the Common App prompts it fits."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "assess",
+      "select"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 9: The Personal Essay"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 600
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Topic input",
+      "Five question dropdowns",
+      "Three preset buttons",
+      "Hoverable prompt cards"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why should you choose the story before the prompt?",
+      "What makes a common topic work anyway?",
+      "Why does a single moment often make a stronger essay than a long summary?"
+    ],
+    "commonMisconceptions": [
+      "The prompt you choose matters more than the story.",
+      "Some topics are off-limits."
+    ],
+    "assessmentOpportunities": [
+      "Students evaluate two candidate topics and justify choosing one using specificity, what it reveals, and its meaning."
+    ]
+  },
+  "chapter": "09-personal-essay"
+}

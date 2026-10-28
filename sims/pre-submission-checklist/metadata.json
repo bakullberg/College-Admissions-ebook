@@ -1,0 +1,73 @@
+{
+  "title": "Pre-Submission Checklist",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "A college-by-college review of your Common App application before you press Submit, so common errors are caught first.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/pre-submission-checklist/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Pre-Submission Checklist",
+    "learningObjectives": [
+      "Students will execute a structured pre-submission review of a Common App application for one college, checking every section and college-specific requirement before submitting."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "execute",
+      "check"
+    ],
+    "duration": "20–30 minutes per college",
+    "prerequisites": [
+      "Chapter 12: Filling Out the Common App and Coalition App"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 640
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "College name input",
+      "Round dropdown",
+      "Courses and Grades checkbox",
+      "Group buttons (narrow screens)",
+      "Checklist checkboxes",
+      "Show only unchecked and Reset buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does selecting the wrong round matter so much?",
+      "Why read the PDF preview instead of the form?",
+      "What goes wrong if your counselor isn't assigned before you submit?"
+    ],
+    "commonMisconceptions": [
+      "The Common App catches every error before you submit.",
+      "Recommenders are assigned automatically to every college."
+    ],
+    "assessmentOpportunities": [
+      "Students complete the checklist for one real or practice application and name the item they almost missed."
+    ]
+  },
+  "chapter": "12-common-app-coalition-app"
+}

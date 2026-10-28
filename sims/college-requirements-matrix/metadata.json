@@ -1,0 +1,71 @@
+{
+  "title": "College Requirements Matrix",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare application requirements across every college on your list, spot the one-of-a-kind requirements before they're missed, and total the workload.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/college-requirements-matrix/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "College Requirements Matrix",
+    "learningObjectives": [
+      "Students will compare application requirements across colleges and organize them to identify which requirements are shared and which are unique to one college."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "compare",
+      "organize"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 5: Getting Organized"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 630
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Add college, Edit selected, Remove selected, and Load Priya's list buttons",
+      "Highlight unique requirements only checkbox",
+      "Row editor with dropdowns and inputs for each requirement",
+      "Sortable column headers"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why might a requirement appear only on a college's own website and not on its Common App page?",
+      "How can you write fewer, better supplemental essays across a long list?",
+      "Why do teacher letters rarely multiply your work even when ten colleges ask for them?"
+    ],
+    "commonMisconceptions": [
+      "Every college on the Common App asks for the same things.",
+      "Ten colleges means asking ten sets of teachers for letters."
+    ],
+    "assessmentOpportunities": [
+      "Students build a matrix for their own list and name every unique requirement and its deadline."
+    ]
+  },
+  "chapter": "05-getting-organized"
+}

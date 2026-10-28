@@ -1,0 +1,71 @@
+{
+  "title": "Show-Don't-Tell Practice",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Practice telling a general claim apart from a specific showing sentence, then write and check your own showing revision.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/show-dont-tell-practice/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Show-Don't-Tell Practice",
+    "learningObjectives": [
+      "Students will distinguish telling sentences from showing sentences and revise telling sentences into specific, concrete showing sentences."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "distinguish",
+      "revise"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 9: The Personal Essay"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 610
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Three answer buttons",
+      "Next button",
+      "Write your own / Back to the deck button",
+      "Telling and showing text inputs"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does piling on adjectives still count as telling?",
+      "What does a number add to a showing sentence?",
+      "Should every sentence in an essay show? Where does telling belong?"
+    ],
+    "commonMisconceptions": [
+      "Stronger adjectives make a claim more convincing.",
+      "Showing means adding more description, not more action."
+    ],
+    "assessmentOpportunities": [
+      "Students pick the showing option on at least six of eight cards and revise one of their own telling sentences into a specific showing sentence."
+    ]
+  },
+  "chapter": "09-personal-essay"
+}

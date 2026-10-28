@@ -1,0 +1,73 @@
+{
+  "title": "College Type Sorter",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "A drag-and-drop sorting activity: classify twelve real colleges as public or private and as a research university or liberal arts college, then decide which public research universities are flagships.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/college-type-sorter/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "College Type Sorter",
+    "learningObjectives": [
+      "Students will classify a four-year college as public or private and as a research university or liberal arts college, and explain the clue in its description that decides each label."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "classify"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 1: The College Landscape and Application Rounds"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 536
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Reset button",
+      "School name input",
+      "Add my own school button",
+      "State funded / Many graduate programs / Mainly undergraduates checkboxes",
+      "Place it button",
+      "Flagship yes/no buttons",
+      "Draggable school card"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is every flagship a public research university, but not every public research university a flagship?",
+      "Which clue in a profile tells you a school is public?",
+      "Why might a public liberal arts college be rare?"
+    ],
+    "commonMisconceptions": [
+      "A school called a 'College' must be small or undergraduate-only (Dartmouth College is a research university).",
+      "Every big public university is the state's flagship (Iowa State is not)."
+    ],
+    "assessmentOpportunities": [
+      "Students sort at least ten of twelve cards correctly on the first try and can name the deciding clue for any card."
+    ]
+  },
+  "chapter": "01-college-landscape-and-rounds"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Depth vs. Breadth Activity Map",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Plot activities by years of involvement and weekly hours to see the difference between a deep activity profile and a broad one, then plot your own.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/depth-vs-breadth-map/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Depth vs. Breadth Activity Map",
+    "learningObjectives": [
+      "Students will compare activity profiles by years of involvement and weekly hours, and distinguish a profile that shows depth from one that shows breadth alone."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "compare",
+      "distinguish"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 8: Activities and Resume"
+    ]
+  },
+  "technical": {
+    "framework": "Chart.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 660
+    },
+    "responsive": true,
+    "dependencies": [
+      "Chart.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Show Applicant A, Show Applicant B, and Show both buttons",
+      "Activity form: name, years, hours per week, weeks per year, leadership checkbox",
+      "Add / Save changes, Cancel edit, and Clear mine buttons",
+      "Clickable bubbles"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can four activities tell a reader more than ten?",
+      "Does an activity have to be in the depth zone to be worth listing?",
+      "What counts as a 'growing role' if you don't have a title?"
+    ],
+    "commonMisconceptions": [
+      "More activities always make a stronger application.",
+      "Only formal leadership titles show growth."
+    ],
+    "assessmentOpportunities": [
+      "Students distinguish a deep profile from a broad one using years, hours, and role, and identify one of their own activities with the most depth."
+    ]
+  },
+  "chapter": "08-activities-and-resume"
+}

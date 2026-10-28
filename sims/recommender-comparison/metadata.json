@@ -1,0 +1,73 @@
+{
+  "title": "Recommender Comparison Tool",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare possible teacher recommenders on how well they know you, how recently they taught you, subject, and reliability, and see which two would write the strongest, most complementary letters.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/recommender-comparison/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Recommender Comparison Tool",
+    "learningObjectives": [
+      "Students will compare potential recommenders on how well they know the student, recency, subject, and reliability, and choose two teachers whose letters will be specific and complementary."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "compare",
+      "choose"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 11: Letters of Recommendation"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 620
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Teacher name input",
+      "Subject, grade taught, and your grade dropdowns",
+      "Knows you slider (1–5)",
+      "Reliable letters checkbox",
+      "Add teacher, Remove selected, two presets, and Clear buttons",
+      "Clickable teacher cards"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does how well a teacher knows you matter more than the grade you earned?",
+      "Why are 11th-grade teachers usually the best choice?",
+      "When might a teacher from an elective be a good additional recommender?"
+    ],
+    "commonMisconceptions": [
+      "The teacher who gave you the highest grade writes the best letter.",
+      "Both letters should come from your intended major's subject."
+    ],
+    "assessmentOpportunities": [
+      "Students choose two recommenders for a scenario and justify the choice using how well each knows them and what each letter would add."
+    ]
+  },
+  "chapter": "11-letters-of-recommendation"
+}

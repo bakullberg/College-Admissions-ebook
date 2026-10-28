@@ -1,0 +1,71 @@
+{
+  "title": "Scholarship Priority Calculator",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Rank scholarships by expected dollars per hour of work, see how renewability and reusing an essay change the ranking, and fit the best ones into the hours you have.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/scholarship-priority-calculator/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Scholarship Priority Calculator",
+    "learningObjectives": [
+      "Students will prioritize a list of scholarships by calculating expected value per hour of work and judge how renewability and reusable essays change the ranking."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "prioritize",
+      "judge"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 15: Scholarships"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 660
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Scholarship name, amount, awards, applicants, hours, and years inputs",
+      "Renewable and Can reuse an existing essay checkboxes",
+      "Add, Remove selected, two presets, and Clear buttons",
+      "Hours budget slider"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a likely $1,000 be worth more than an unlikely $10,000?",
+      "How does reusing an essay change which scholarships are worth applying for?",
+      "Where can you find out how many students applied last year?"
+    ],
+    "commonMisconceptions": [
+      "Bigger national scholarships are always the best use of time.",
+      "Local scholarships are too small to matter."
+    ],
+    "assessmentOpportunities": [
+      "Students rank five scholarships by value per hour and justify which to apply for within a fixed time budget."
+    ]
+  },
+  "chapter": "15-scholarships"
+}

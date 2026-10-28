@@ -1,0 +1,74 @@
+{
+  "title": "Reach, Target, Safety Classifier",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Classify a college as a reach, target, or safety for you from your GPA and test score, its admission rate and middle 50% ranges, and its financial fit.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/reach-target-safety-classifier/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Reach, Target, Safety Classifier",
+    "learningObjectives": [
+      "Students will apply admission-rate, middle 50% range, and affordability criteria to classify colleges as reach, target, or safety schools for themselves."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "classify",
+      "apply"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 3: Finding Your Fit"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 620
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "GPA and test score inputs",
+      "SAT/ACT dropdown",
+      "Admission rate input",
+      "GPA and test 25th/75th percentile inputs",
+      "Financial fit dropdown",
+      "Glad to attend checkbox",
+      "Four preset buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is a college with a 6% admission rate a reach even for a student with top scores?",
+      "Why isn't a likely admission enough to make a college a safety?",
+      "What would you need to check before calling a college affordable?"
+    ],
+    "commonMisconceptions": [
+      "High scores make any college a safety.",
+      "A safety is any college that will probably admit you, whatever it costs."
+    ],
+    "assessmentOpportunities": [
+      "Students classify three colleges correctly using the five rules and name the deciding rule for each."
+    ]
+  },
+  "chapter": "03-finding-your-fit"
+}

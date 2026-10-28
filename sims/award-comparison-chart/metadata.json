@@ -1,0 +1,72 @@
+{
+  "title": "Award Letter Comparison Chart",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare up to four financial aid offers side by side on first-year net price, out-of-pocket cost, projected four-year cost, and debt.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/award-comparison-chart/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Award Letter Comparison Chart",
+    "learningObjectives": [
+      "Students will compare multiple financial aid offers on first-year net price, out-of-pocket cost, projected four-year cost, and total debt, and judge which offers are affordable for their family."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "compare",
+      "judge"
+    ],
+    "duration": "15–20 minutes",
+    "prerequisites": [
+      "Chapter 16: Comparing Award Letters"
+    ]
+  },
+  "technical": {
+    "framework": "Chart.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 800
+    },
+    "responsive": true,
+    "dependencies": [
+      "Chart.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Family yearly contribution and yearly cost increase inputs",
+      "Grants rise with cost checkbox",
+      "Per-college inputs and merit checkbox",
+      "Add college, Remove last, and Reset to Marcus buttons",
+      "Edit college dropdown and chart buttons (narrow screens)"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a small first-year gap become a large four-year gap?",
+      "Why do merit scholarships usually lose value over four years?",
+      "What should you ask each aid office before you decide?"
+    ],
+    "commonMisconceptions": [
+      "The first-year price is the price every year.",
+      "An offer that fits in year 1 fits all four years."
+    ],
+    "assessmentOpportunities": [
+      "Students compare three offers on four-year net price and borrowing and justify which are affordable for a given family contribution."
+    ]
+  },
+  "chapter": "16-comparing-award-letters"
+}

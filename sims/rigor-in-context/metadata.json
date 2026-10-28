@@ -1,0 +1,71 @@
+{
+  "title": "Rigor in Context",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "See why course rigor is judged against what your high school offers: compare the share of available advanced courses taken, not the raw count.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/rigor-in-context/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Rigor in Context",
+    "learningObjectives": [
+      "Students will compare course schedules across high schools with different offerings and differentiate between the number of advanced courses a student took and the rigor that number represents."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "compare",
+      "differentiate"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 2: How Colleges Evaluate Applicants"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 495
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Advanced courses offered slider (0–30)",
+      "Advanced courses taken slider (0 to offered)",
+      "Elena, Jordan, and Priya preset buttons",
+      "Hoverable rating bands"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Is a student penalized for attending a school with few advanced courses? Why not?",
+      "What does this model leave out that a real counselor would consider?",
+      "Why does Jordan's counselor rate Jordan higher than the model does?"
+    ],
+    "commonMisconceptions": [
+      "Colleges simply count AP courses.",
+      "Students at small schools are at a disadvantage because they can't take many APs."
+    ],
+    "assessmentOpportunities": [
+      "Students explain, using the share of available courses taken, why two students with the same number of AP courses receive different rigor ratings."
+    ]
+  },
+  "chapter": "02-how-colleges-evaluate"
+}

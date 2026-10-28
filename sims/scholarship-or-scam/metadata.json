@@ -1,0 +1,71 @@
+{
+  "title": "Scholarship or Scam?",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Practice spotting scholarship scams by deciding whether twelve realistic offers look legitimate or like a scam, and naming the sign that decides it.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/scholarship-or-scam/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Scholarship or Scam?",
+    "learningObjectives": [
+      "Students will detect warning signs in scholarship offers and classify each offer as likely legitimate or likely a scam, naming the sign that decided it."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "detect",
+      "classify"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 15: Scholarships"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 530
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Looks legitimate button",
+      "Looks like a scam button",
+      "Next button",
+      "Restart button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is any fee a warning sign, even a small one?",
+      "Why should you never pay to file the FAFSA?",
+      "What can you do to check an unfamiliar sponsor?"
+    ],
+    "commonMisconceptions": [
+      "Legitimate scholarships sometimes charge a small processing fee.",
+      "A professional-looking website means a sponsor is real."
+    ],
+    "assessmentOpportunities": [
+      "Students correctly classify at least ten of the eleven clear-cut offers and name the deciding warning sign for each scam."
+    ]
+  },
+  "chapter": "15-scholarships"
+}

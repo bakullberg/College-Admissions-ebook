@@ -1,0 +1,71 @@
+{
+  "title": "What Counts as an Activity?",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Decide whether fourteen everyday commitments, from jobs and family duties to hobbies, belong on your activities list, and see which activity type each would go under.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/what-counts-activity-sorter/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "What Counts as an Activity?",
+    "learningObjectives": [
+      "Students will classify everyday commitments as listable activities or not and explain which activity type each belongs to and why."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "classify",
+      "explain"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 8: Activities and Resume"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 500
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "List it button",
+      "Probably not button",
+      "Next button",
+      "Restart button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why do family responsibilities count as activities?",
+      "What makes a paid summer program weaker than a part-time job on an application?",
+      "When does a hobby become an activity?"
+    ],
+    "commonMisconceptions": [
+      "Only school-sponsored activities count.",
+      "Expensive programs impress readers more than jobs or family duties."
+    ],
+    "assessmentOpportunities": [
+      "Students correctly classify at least nine of the eleven clear-cut cards and explain one gray-area card's condition."
+    ]
+  },
+  "chapter": "08-activities-and-resume"
+}

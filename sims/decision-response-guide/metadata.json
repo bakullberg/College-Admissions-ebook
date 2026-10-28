@@ -1,0 +1,71 @@
+{
+  "title": "Decision Response Guide",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "An interactive guide to the next steps and deadlines for every kind of admission decision: acceptances, Early Decision outcomes, deferrals, waitlists, denials, and offers for a different program or term.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/decision-response-guide/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Decision Response Guide",
+    "learningObjectives": [
+      "Students will select the decision they received and carry out the correct next steps, including deadlines, for acceptances, denials, deferrals, waitlists, and Early Decision outcomes."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "execute",
+      "respond"
+    ],
+    "duration": "10 minutes, then as decisions arrive",
+    "prerequisites": [
+      "Chapter 18: Handling Decisions"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 620
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Back and Next step buttons",
+      "Mark this step done checkbox",
+      "Three multiple-decision dropdowns",
+      "Clickable decision and step nodes"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "What should you do first when an Early Decision offer isn't affordable?",
+      "Why is depositing at two colleges a problem?",
+      "How can you keep a denial in perspective?"
+    ],
+    "commonMisconceptions": [
+      "A deferral is a polite denial.",
+      "You can hold deposits at several colleges until you decide."
+    ],
+    "assessmentOpportunities": [
+      "Students list the correct next steps and deadline for three different decisions without the guide."
+    ]
+  },
+  "chapter": "18-handling-decisions"
+}

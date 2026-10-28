@@ -1,0 +1,73 @@
+{
+  "title": "Regent Admission Index Calculator",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Run the University of Iowa's Regent Admission Index formula and see how GPA, ACT score, core courses, and residency decide whether you clear the admission threshold.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/rai-calculator/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Regent Admission Index Calculator",
+    "learningObjectives": [
+      "Students will use the Regent Admission Index formula to calculate a score from GPA, ACT, and core-course years and determine whether it meets the resident and nonresident thresholds."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "calculate",
+      "use"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 2: How Colleges Evaluate Applicants"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 500
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Cumulative GPA slider (2.00–4.00)",
+      "ACT composite slider (12–36)",
+      "Years of core courses slider (10–22)",
+      "Residency dropdown",
+      "Casey preset buttons",
+      "Show formula button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "A full GPA point is worth 30 RAI points and an ACT point is worth 3. What does that weighting say about what Iowa values?",
+      "Why can one more year of a core course matter as much as almost two ACT points?",
+      "How does Iowa review an applicant who doesn't submit a test score?"
+    ],
+    "commonMisconceptions": [
+      "Test-optional means the formula ignores the ACT; in fact applicants without scores are reviewed individually.",
+      "The same score means the same outcome for every applicant regardless of residency."
+    ],
+    "assessmentOpportunities": [
+      "Students calculate an RAI by hand from three inputs and state whether it clears the resident and nonresident thresholds."
+    ]
+  },
+  "chapter": "02-how-colleges-evaluate"
+}

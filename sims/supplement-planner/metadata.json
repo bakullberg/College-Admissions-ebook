@@ -1,0 +1,72 @@
+{
+  "title": "Supplement Planner",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Enter every supplemental essay prompt on your list, group them by type to see where one core essay can be adapted, and schedule the writing backward from deadlines.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/supplement-planner/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Supplement Planner",
+    "learningObjectives": [
+      "Students will plan their supplemental essays by organizing prompts by type, identifying where core material can be adapted, and scheduling each piece before its deadline."
+    ],
+    "bloomsTaxonomy": "Create",
+    "bloomsVerbs": [
+      "plan",
+      "organize"
+    ],
+    "duration": "15–20 minutes",
+    "prerequisites": [
+      "Chapter 10: Supplemental Essays"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 580
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "College input, type dropdown, word limit input, and deadline date input",
+      "Add prompt button",
+      "Group view and Calendar view buttons",
+      "Remove selected, Priya's list, and Clear buttons",
+      "Clickable prompt cards"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a community essay be adapted but a Why Us essay can't?",
+      "How does seeing every prompt in August change your fall?",
+      "Which pieces would you write first, and why?"
+    ],
+    "commonMisconceptions": [
+      "Supplements can be written in an evening each.",
+      "The same Why Us essay can be reused with a different college name."
+    ],
+    "assessmentOpportunities": [
+      "Students produce a plan in which no week has more than three pieces and every core essay is scheduled before its adaptations."
+    ]
+  },
+  "chapter": "10-supplemental-essays"
+}

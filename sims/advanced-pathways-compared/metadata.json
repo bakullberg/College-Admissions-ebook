@@ -1,0 +1,70 @@
+{
+  "title": "Advanced Course Pathways Compared",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare Advanced Placement, the International Baccalaureate, and dual enrollment on sign-up, commitment, assessment, college credit, and fit, and find the pathway that matches your situation.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/advanced-pathways-compared/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Advanced Course Pathways Compared",
+    "learningObjectives": [
+      "Students will compare AP, IB, and dual enrollment and differentiate among them by structure, commitment, how they are assessed, and how college credit is earned."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "compare",
+      "differentiate"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 7: Your Senior Year Course Load"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 630
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Three Which fits me? dropdowns",
+      "AP, IB, and DE tab buttons (narrow screens)",
+      "Clickable cells and column headers"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why might a dual-enrollment grade matter more later than an AP class grade?",
+      "When is the IB Diploma worth its extra hours?",
+      "How does your school profile help a college read whichever pathway you choose?"
+    ],
+    "commonMisconceptions": [
+      "One pathway is always more impressive to colleges.",
+      "AP, IB, and dual enrollment credits transfer the same way everywhere."
+    ],
+    "assessmentOpportunities": [
+      "Students choose a pathway for a described student and justify it using two rows of the comparison."
+    ]
+  },
+  "chapter": "07-senior-year-course-load"
+}

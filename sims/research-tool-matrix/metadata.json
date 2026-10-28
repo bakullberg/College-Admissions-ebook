@@ -1,0 +1,71 @@
+{
+  "title": "Research Tool Matrix",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "A matrix showing which college research tools best answer which questions, from admission chances and cost to campus culture.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/research-tool-matrix/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Research Tool Matrix",
+    "learningObjectives": [
+      "Students will select the research tool best suited to a given question about a college and differentiate between data tools and experience tools."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "select",
+      "differentiate"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 4: Researching and Narrowing Your College List"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 570
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "I want to know... dropdown",
+      "Quiz me button",
+      "Previous tool and Next tool buttons (narrow screens)",
+      "Clickable cells and column headers"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is a neutral source like the College Scorecard useful even when a college's own website has the same number?",
+      "Which questions can't any data tool answer well?",
+      "How should you use student reviews that anyone can post?"
+    ],
+    "commonMisconceptions": [
+      "A college's own website is the best place to answer every question.",
+      "A single review tells you what a campus is like."
+    ],
+    "assessmentOpportunities": [
+      "Students choose the strongest tool for five different questions and explain the difference between data tools and experience tools."
+    ]
+  },
+  "chapter": "04-researching-your-list"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Why Us Specificity Checker",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Test a Why Us essay draft for specificity: highlight generic phrases and specific details, and run the swap test with another college's name.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/why-us-specificity-checker/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Why Us Specificity Checker",
+    "learningObjectives": [
+      "Students will critique a Why Us essay draft by applying the swap test and assessing whether each sentence names a specific college detail and connects it to the writer."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "critique",
+      "assess"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 10: Supplemental Essays"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 640
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "College name and different college inputs",
+      "Draft text area with word count",
+      "Check and Swap test buttons",
+      "Two Priya preset buttons and Clear"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "What makes a detail specific to one college?",
+      "Why isn't a specific detail enough on its own without a connection to you?",
+      "Where can you find details that most applicants won't mention?"
+    ],
+    "commonMisconceptions": [
+      "Praising a college's reputation shows interest.",
+      "Listing facts from the website is the same as being specific."
+    ],
+    "assessmentOpportunities": [
+      "Students revise a Why Us draft until it fails the swap test and every specific detail connects to them."
+    ]
+  },
+  "chapter": "10-supplemental-essays"
+}
