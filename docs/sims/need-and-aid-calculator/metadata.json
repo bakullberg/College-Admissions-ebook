@@ -1,0 +1,73 @@
+{
+  "title": "Need and Aid Calculator",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "See how cost of attendance, the Student Aid Index, and a college's aid package combine into demonstrated need, net price, and unmet need.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/need-and-aid-calculator/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Need and Aid Calculator",
+    "learningObjectives": [
+      "Students will calculate demonstrated need, net price, and unmet need from a cost of attendance, Student Aid Index, and aid package, and compare outcomes at colleges with different aid policies."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "calculate",
+      "compare"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 14: Understanding Financial Aid"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 560
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Cost of attendance slider",
+      "Student Aid Index slider",
+      "Grants, Work-study, and Loans sliders",
+      "Allow aid above need checkbox",
+      "Meets full need checkbox",
+      "Three preset buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why isn't the Student Aid Index the amount your family will pay?",
+      "Why can a college with a higher sticker price end up cheaper?",
+      "What does a \"meets full need\" policy promise, and what doesn't it promise?"
+    ],
+    "commonMisconceptions": [
+      "The SAI is the bill your family will receive.",
+      "Loans reduce the price of college."
+    ],
+    "assessmentOpportunities": [
+      "Students calculate demonstrated need, net price, and unmet need for a new set of numbers and match the calculator."
+    ]
+  },
+  "chapter": "14-understanding-financial-aid"
+}

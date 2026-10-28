@@ -1,0 +1,70 @@
+{
+  "title": "Senior Schedule Balance Planner",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Build a draft senior schedule and weekly commitments, then compare the rigor signal it sends with the weekly hours it demands, to find a sustainable plan.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/senior-schedule-balance/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Senior Schedule Balance Planner",
+    "learningObjectives": [
+      "Students will judge whether a draft senior schedule balances rigor against workload by comparing its rigor signal with its estimated weekly hours, and adjust it to reach a sustainable plan."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "judge",
+      "balance"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 7: Your Senior Year Course Load"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 520
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Six course-level dropdowns with core checkboxes",
+      "Job, activity, and application hour sliders",
+      "Three preset buttons and Reset"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a 'very demanding' schedule be a stronger choice than the 'most demanding' one?",
+      "What happens to the rigor signal when you drop a core subject?",
+      "Where in your week do application hours come from?"
+    ],
+    "commonMisconceptions": [
+      "More APs are always better for admission.",
+      "Senior year workload is the same as junior year's."
+    ],
+    "assessmentOpportunities": [
+      "Students propose a senior schedule that is at least demanding with a load under 50 hours and justify one trade-off they made."
+    ]
+  },
+  "chapter": "07-senior-year-course-load"
+}

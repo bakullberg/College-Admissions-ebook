@@ -1,0 +1,70 @@
+{
+  "title": "College Admissions Process Roadmap",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "An interactive road map of the six stages of the college admissions process, with a drag-and-drop quiz on their order.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/admissions-process-roadmap/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "College Admissions Process Roadmap",
+    "learningObjectives": [
+      "Students will identify the six stages of the college admissions process in order and recall roughly when each one happens in senior year."
+    ],
+    "bloomsTaxonomy": "Remember",
+    "bloomsVerbs": [
+      "identify",
+      "sequence"
+    ],
+    "duration": "5–10 minutes",
+    "prerequisites": [
+      "Chapter 1: The College Landscape and Application Rounds"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 480
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Quiz me / Exit quiz button",
+      "Show answers button",
+      "Clickable stops",
+      "Draggable label tiles"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Which stages overlap in time? What does that mean for your fall schedule?",
+      "Why does Build Your List come before Apply, even though some applications open in August?",
+      "Which stage happens after you're admitted, and what is its key deadline?"
+    ],
+    "commonMisconceptions": [
+      "Financial aid starts only after you're admitted; in fact the FAFSA opens in the fall while you are still applying."
+    ],
+    "assessmentOpportunities": [
+      "Students place all six tiles correctly in quiz mode and can name the month of the national commitment deadline (May 1)."
+    ]
+  },
+  "chapter": "01-college-landscape-and-rounds"
+}

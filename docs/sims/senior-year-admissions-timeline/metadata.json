@@ -1,0 +1,70 @@
+{
+  "title": "Senior Year Admissions Timeline",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "An interactive timeline of one senior year in admissions, with a personal track that changes as you choose Regular Decision, Early Action, or Early Decision.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/senior-year-admissions-timeline/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Senior Year Admissions Timeline",
+    "learningObjectives": [
+      "Students will interpret a senior-year timeline to explain when applications, financial aid forms, decisions, and the May 1 commitment happen, and how applying early shifts the workload."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "interpret"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 1: The College Landscape and Application Rounds"
+    ]
+  },
+  "technical": {
+    "framework": "vis-timeline",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 590
+    },
+    "responsive": true,
+    "dependencies": [
+      "vis-timeline"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Your plan dropdown (4 scenarios)",
+      "Zoom in/out buttons",
+      "Pan buttons",
+      "Show all button",
+      "Clickable timeline items"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Which plan makes October the busiest month, and why?",
+      "What does an Early Decision admit give up that an Early Action admit keeps?",
+      "Why does May 1 matter in every plan, even the ones that end early?"
+    ],
+    "commonMisconceptions": [
+      "Applying early always means finishing the whole process early; only an Early Decision admit ends the process in December."
+    ],
+    "assessmentOpportunities": [
+      "Students correctly state when Regular Decision results arrive, what happens on May 1, and how an Early Action plan shifts work from January into October."
+    ]
+  },
+  "chapter": "01-college-landscape-and-rounds"
+}

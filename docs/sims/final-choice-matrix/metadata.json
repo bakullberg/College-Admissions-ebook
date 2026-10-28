@@ -1,0 +1,74 @@
+{
+  "title": "Final Choice Comparison Matrix",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare two to four finalist colleges with a weighted decision matrix of cost, fit, outcomes, distance, and gut sense, and see which factors drive the result.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/final-choice-matrix/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Final Choice Comparison Matrix",
+    "learningObjectives": [
+      "Students will weigh their finalist colleges on cost, academic fit, social fit, outcomes, and personal sense using weights that reflect their own priorities, and justify a final choice by identifying the factors that most influence it."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "weigh",
+      "justify"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 19: Making Your Final Choice"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 730
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Finalist name inputs",
+      "Weight sliders (0–5)",
+      "Score dropdowns (1–5)",
+      "Four-year net price inputs",
+      "Override cost scores checkbox",
+      "Add factor, Add college, and Remove college buttons",
+      "Two preset buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why isn't the highest total automatically the right choice?",
+      "What does it mean when your gut disagrees with the total?",
+      "Which factor would you never trade away?"
+    ],
+    "commonMisconceptions": [
+      "A spreadsheet can make the decision for you.",
+      "Rankings should carry the most weight."
+    ],
+    "assessmentOpportunities": [
+      "Students build a matrix for their finalists and justify their choice by naming the factors that drive the result."
+    ]
+  },
+  "chapter": "19-making-your-final-choice"
+}

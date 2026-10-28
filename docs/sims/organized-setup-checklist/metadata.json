@@ -1,0 +1,70 @@
+{
+  "title": "Getting Organized Setup Checklist",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "An interactive checklist of the five first steps and the core setup tasks for getting organized, with a progress ring and a note on why each task matters.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/organized-setup-checklist/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Getting Organized Setup Checklist",
+    "learningObjectives": [
+      "Students will carry out the five first steps and the core setup tasks of getting organized, tracking their progress toward a complete organizational system."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "implement",
+      "carry out"
+    ],
+    "duration": "5 minutes now, then ongoing",
+    "prerequisites": [
+      "Chapter 5: Getting Organized"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 640
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Twelve task checkboxes",
+      "Show me what's next button",
+      "Reset button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why should the dedicated email come before the Common App account?",
+      "Which task would cost you the most time if you skipped it?",
+      "Who in your family will help with which tasks?"
+    ],
+    "commonMisconceptions": [
+      "Organization can wait until applications open.",
+      "A personal or school email is fine for college accounts."
+    ],
+    "assessmentOpportunities": [
+      "Students complete the five first steps and can explain the purpose of at least three foundation tasks."
+    ]
+  },
+  "chapter": "05-getting-organized"
+}

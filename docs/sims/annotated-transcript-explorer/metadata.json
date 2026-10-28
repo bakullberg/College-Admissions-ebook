@@ -1,0 +1,71 @@
+{
+  "title": "Annotated Transcript Explorer",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Explore a fictional high school transcript region by region and learn what each part tells an admissions reader.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/annotated-transcript-explorer/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Annotated Transcript Explorer",
+    "learningObjectives": [
+      "Students will identify the main regions of a high school transcript and explain what each one tells an admissions reader."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "identify",
+      "explain"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 2: How Colleges Evaluate Applicants"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 580
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Read it like an officer button",
+      "Back button",
+      "Next button",
+      "Clickable transcript regions"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why do colleges recalculate GPA instead of using the number on the transcript?",
+      "What does a reader learn from the senior-year courses before any senior grades exist?",
+      "If your school doesn't rank, what does the college use instead?"
+    ],
+    "commonMisconceptions": [
+      "The GPA is the only part of the transcript that matters.",
+      "Students can send their own transcript; it must come from the school."
+    ],
+    "assessmentOpportunities": [
+      "Students locate all nine regions on an unfamiliar transcript and explain what at least five of them tell a reader."
+    ]
+  },
+  "chapter": "02-how-colleges-evaluate"
+}

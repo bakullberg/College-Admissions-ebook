@@ -1,0 +1,71 @@
+{
+  "title": "The Journey of an Application File",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "A swimlane flowchart that walks an application through an admissions office, showing who touches the file at each of seven steps.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/application-file-journey/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "The Journey of an Application File",
+    "learningObjectives": [
+      "Students will explain the path an application takes through an admissions office and summarize the role of the admissions officer at each step."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "explain",
+      "summarize"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 1: The College Landscape and Application Rounds"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 556
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Follow a file button",
+      "Next button",
+      "Formula-based public university checkbox",
+      "Clickable steps"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is a file not 'complete' until operations staff have matched every document?",
+      "What does the first reader write, and who reads it next?",
+      "How does the path differ at a formula-based public university?"
+    ],
+    "commonMisconceptions": [
+      "A computer or a single person decides every application.",
+      "Missing documents are the college's problem to chase; in fact the file sits incomplete until they arrive."
+    ],
+    "assessmentOpportunities": [
+      "Students describe the path of a file in order and name the role of the first reader at the first-read and committee steps."
+    ]
+  },
+  "chapter": "01-college-landscape-and-rounds"
+}

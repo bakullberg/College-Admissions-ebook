@@ -1,0 +1,74 @@
+{
+  "title": "College Self-Assessment Builder",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "A five-step self-assessment of majors, size, setting, culture, and cost that turns your answers into a ranked priority profile with dealbreakers.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/college-self-assessment/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "College Self-Assessment Builder",
+    "learningObjectives": [
+      "Students will prioritize their own college criteria across majors, size, setting, culture, and cost, and judge which criteria are dealbreakers and which are trade-offs."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "prioritize",
+      "judge"
+    ],
+    "duration": "15–20 minutes",
+    "prerequisites": [
+      "Chapter 3: Finding Your Fit"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 560
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Back and Next buttons",
+      "Major, size, setting, distance, and cost dropdowns",
+      "Major and family contribution inputs",
+      "Four culture checkboxes",
+      "Six importance sliders",
+      "Five dealbreaker checkboxes",
+      "Load Marcus and Start over buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "What is the difference between a dealbreaker and a high priority?",
+      "Why does the profile warn you if you haven't talked with your family about cost?",
+      "Which of your factors could you trade away for a stronger fit on another?"
+    ],
+    "commonMisconceptions": [
+      "Every preference is a dealbreaker.",
+      "Cost can be figured out after you're admitted."
+    ],
+    "assessmentOpportunities": [
+      "Students produce a ranked profile with no more than two dealbreakers and can justify each dealbreaker in one sentence."
+    ]
+  },
+  "chapter": "03-finding-your-fit"
+}

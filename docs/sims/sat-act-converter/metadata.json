@@ -1,0 +1,72 @@
+{
+  "title": "SAT-ACT Score Converter",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Convert between SAT totals and ACT composites with the official concordance, and place the converted score in a college's middle 50% range.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/sat-act-converter/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "SAT-ACT Score Converter",
+    "learningObjectives": [
+      "Students will use the SAT-ACT concordance to convert a score from one test to the other and place the result within a college's middle 50% range."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "convert",
+      "use"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 6: The SAT and ACT Question"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 470
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "SAT/ACT dropdown",
+      "Score slider",
+      "College range low and high inputs",
+      "Range test dropdown",
+      "Three preset buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is the ACT scale uneven when it's drawn above the SAT scale?",
+      "Why shouldn't you treat a one-point ACT difference as meaningful?",
+      "When would you need to convert a score at all?"
+    ],
+    "commonMisconceptions": [
+      "Concordance gives an exact equivalent score.",
+      "An SAT score can be converted to the ACT by simple division."
+    ],
+    "assessmentOpportunities": [
+      "Students convert a score in both directions and correctly place it inside or outside a college's range."
+    ]
+  },
+  "chapter": "06-sat-act-question"
+}

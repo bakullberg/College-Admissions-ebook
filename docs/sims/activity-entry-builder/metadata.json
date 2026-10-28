@@ -1,0 +1,73 @@
+{
+  "title": "Activity Entry Builder",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Draft a Common App-style activity entry within the real character limits and get instant feedback on action verbs, specifics, and hours.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/activity-entry-builder/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Activity Entry Builder",
+    "learningObjectives": [
+      "Students will compose an activity entry within the Common App's character limits and revise its description to lead with an action verb and include specific, measurable detail."
+    ],
+    "bloomsTaxonomy": "Create",
+    "bloomsVerbs": [
+      "compose",
+      "revise"
+    ],
+    "duration": "15–20 minutes",
+    "prerequisites": [
+      "Chapter 8: Activities and Resume"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 690
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Activity type and timing dropdowns",
+      "Grade 9–12 checkboxes",
+      "Hours per week and weeks per year inputs",
+      "Position, organization, and description inputs with live counters",
+      "Four preset buttons",
+      "Copy entry text button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does the first word of a description matter so much?",
+      "What kinds of numbers can make an activity concrete?",
+      "What should you cut first when a description runs over 150 characters?"
+    ],
+    "commonMisconceptions": [
+      "Full sentences are required in activity descriptions.",
+      "Listing a title is enough to show what you did."
+    ],
+    "assessmentOpportunities": [
+      "Students write an entry that passes every check, stays within all character limits, and shows an action, a specific detail, and a result."
+    ]
+  },
+  "chapter": "08-activities-and-resume"
+}

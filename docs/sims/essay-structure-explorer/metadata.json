@@ -1,0 +1,71 @@
+{
+  "title": "Personal Essay Structure Explorer",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "See how the parts of a personal essay work together under three common structures, and plan your own essay with a 650-word budget.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/essay-structure-explorer/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Personal Essay Structure Explorer",
+    "learningObjectives": [
+      "Students will plan a personal essay by choosing a structure and organizing its parts within a 650-word budget."
+    ],
+    "bloomsTaxonomy": "Create",
+    "bloomsVerbs": [
+      "plan",
+      "organize"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 9: The Personal Essay"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 600
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Structure dropdown",
+      "Three preset buttons",
+      "One word-count slider per part",
+      "Clickable bar segments"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does a narrative essay need a turn?",
+      "When would a montage serve a story better than a narrative arc?",
+      "Why is an essay under 500 words usually missing reflection?"
+    ],
+    "commonMisconceptions": [
+      "A personal essay should follow the five-paragraph format.",
+      "More story always makes a stronger essay."
+    ],
+    "assessmentOpportunities": [
+      "Students produce an outline with a named structure, a job for each part, and a word budget between 550 and 650."
+    ]
+  },
+  "chapter": "09-personal-essay"
+}

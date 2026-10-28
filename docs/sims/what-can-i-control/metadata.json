@@ -1,0 +1,72 @@
+{
+  "title": "What Can I Control?",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Sort common waiting-period worries into what you can act on and what's out of your hands, and turn each controllable worry into a small next step.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/what-can-i-control/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "What Can I Control?",
+    "learningObjectives": [
+      "Students will classify common waiting-period worries as within or outside their control and plan one concrete action for each controllable worry."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "classify",
+      "plan"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 17: Waiting and Managing Anxiety"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 560
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "I can do something about this button",
+      "Out of my hands button",
+      "Next and Start over buttons",
+      "My next step input",
+      "Save step button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does checking the portal ten times a day make waiting harder?",
+      "Which of your worries has a next step you could take this week?",
+      "Who can you talk to when the waiting feels heavy?"
+    ],
+    "commonMisconceptions": [
+      "Worrying harder can change a decision.",
+      "Nothing can be done while you wait."
+    ],
+    "assessmentOpportunities": [
+      "Students sort the deck and produce a plan with at least three concrete, scheduled next steps."
+    ]
+  },
+  "chapter": "17-waiting-and-anxiety"
+}

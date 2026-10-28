@@ -1,0 +1,71 @@
+{
+  "title": "Score Submission Planner",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare your SAT or ACT score with every college on your list and get a college-by-college recommendation on whether to submit it, with the reason shown.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/score-submission-planner/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Score Submission Planner",
+    "learningObjectives": [
+      "Students will decide, college by college, whether to submit a test score by comparing it with each college's middle 50% range and policy, and justify each decision."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "decide",
+      "justify"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 6: The SAT and ACT Question"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 740
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "SAT/ACT dropdown and score input",
+      "Add college, Remove selected, and Load Priya's list buttons",
+      "Try a retest score button and slider",
+      "Row editor: name, policy, 25th, 75th, merit cutoff, inflated-range checkbox"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why make the submission decision college by college instead of once for your whole list?",
+      "When does a merit-scholarship cutoff override the range comparison?",
+      "Why might a test-optional college's published range overstate typical scores?"
+    ],
+    "commonMisconceptions": [
+      "Test-optional means scores no longer matter.",
+      "You should send your score everywhere or nowhere."
+    ],
+    "assessmentOpportunities": [
+      "Students justify a submit, don't-submit, or judgment-call decision for three colleges using the score's position against each range."
+    ]
+  },
+  "chapter": "06-sat-act-question"
+}

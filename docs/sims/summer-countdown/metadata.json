@@ -1,0 +1,71 @@
+{
+  "title": "Summer-to-Move-In Countdown",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Organize every task between committing to a college and move-in day on a timeline, check them off, and watch for the summer-melt risks that keep admitted students from arriving.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/summer-countdown/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Summer-to-Move-In Countdown",
+    "learningObjectives": [
+      "Students will organize their post-commitment tasks on a timeline from May to move-in day and carry them out before their deadlines, recognizing which missed steps put enrollment at risk."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "organize",
+      "carry out"
+    ],
+    "duration": "10 minutes now, then weekly through the summer",
+    "prerequisites": [
+      "Chapter 20: Getting Ready for Fall"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 820
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "My college, move-in date, and today date inputs",
+      "Task checkboxes and date inputs",
+      "New task name and lane, Add task, Load Iowa example, and Reset buttons",
+      "Who to call contact inputs"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "What is summer melt, and which tasks most often cause it?",
+      "Why do housing and orientation dates matter so much in May?",
+      "Who would you call first if a bill or form stopped you?"
+    ],
+    "commonMisconceptions": [
+      "Once you've deposited, nothing else is required until move-in.",
+      "Missing a summer deadline has no consequences."
+    ],
+    "assessmentOpportunities": [
+      "Students enter every task for their college with real dates and identify the three tasks that most threaten enrollment if missed."
+    ]
+  },
+  "chapter": "20-getting-ready-for-fall"
+}

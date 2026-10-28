@@ -1,0 +1,69 @@
+{
+  "title": "Financial Aid Map",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "An explorable map of where financial aid comes from (federal, state, institutional, private), the forms it takes, and which kinds are need-based or merit-based.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/financial-aid-map/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Financial Aid Map",
+    "learningObjectives": [
+      "Students will classify types of financial aid by source (federal, state, institutional, private), form (grant, scholarship, loan, work-study), and basis (need or merit), and explain which kinds must be repaid."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "classify",
+      "explain"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 14: Understanding Financial Aid"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 620
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Show only gift aid, Show only need-based, Show only what the FAFSA unlocks, and Show all buttons",
+      "Clickable aid chips"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why is a dollar of grant aid worth more than a dollar of loan aid?",
+      "Which aid can you get only by filling out a separate application?",
+      "Why should a family file the FAFSA even if they don't expect need-based aid?"
+    ],
+    "commonMisconceptions": [
+      "All financial aid is free money.",
+      "Only low-income families should file the FAFSA."
+    ],
+    "assessmentOpportunities": [
+      "Students classify six aid examples by source, form, and basis, and correctly say which must be repaid."
+    ]
+  },
+  "chapter": "14-understanding-financial-aid"
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Campus Size and Setting Explorer",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare typical campus experiences across twelve combinations of school size and setting, highlight your target zone, and pin the colleges on your list.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/campus-size-setting-explorer/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Campus Size and Setting Explorer",
+    "learningObjectives": [
+      "Students will compare typical campus experiences across combinations of school size and setting and classify colleges they know into the matching cells."
+    ],
+    "bloomsTaxonomy": "Understand",
+    "bloomsVerbs": [
+      "compare",
+      "classify"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 3: Finding Your Fit"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 640
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Preferred size dropdown",
+      "Preferred setting dropdown",
+      "College name input",
+      "Pin size and setting dropdowns",
+      "Place pin and Clear pins buttons",
+      "Clickable grid cells"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Which 'watch for' item would matter most to you, and why?",
+      "Can a large university feel small? What would you look for?",
+      "Why is a college's setting a different question from its distance from home?"
+    ],
+    "commonMisconceptions": [
+      "Every small college is rural and every large university is urban.",
+      "Large universities only have huge lecture classes."
+    ],
+    "assessmentOpportunities": [
+      "Students correctly place five colleges they know into the grid and describe one typical trade-off of their preferred cell."
+    ]
+  },
+  "chapter": "03-finding-your-fit"
+}

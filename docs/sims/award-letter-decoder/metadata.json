@@ -1,0 +1,72 @@
+{
+  "title": "Award Letter Decoder",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Translate any financial aid award letter into standard numbers: sort each line into free, earned, or borrowed money, then see the real net price and out-of-pocket cost.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/award-letter-decoder/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Award Letter Decoder",
+    "learningObjectives": [
+      "Students will classify each line of an award letter as free, earned, or borrowed money and calculate the offer's net price and out-of-pocket cost, ignoring misleading letter totals."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "classify",
+      "calculate"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 16: Comparing Award Letters"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 720
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Lakeshore, College C, Hillcrest, and Enter my own buttons",
+      "Cost of attendance input",
+      "Accept work-study and accept student loans checkboxes",
+      "Own-letter line name, amount, type, Add line, and Remove last controls",
+      "Draggable aid lines"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why isn't a Parent PLUS loan financial aid?",
+      "What is the difference between net price and out-of-pocket cost?",
+      "What should you do when a letter leaves out the cost of attendance?"
+    ],
+    "commonMisconceptions": [
+      "The letter's total aid is the discount.",
+      "Loans listed as awards are free money."
+    ],
+    "assessmentOpportunities": [
+      "Students sort a new award letter correctly and calculate its net price and out-of-pocket cost."
+    ]
+  },
+  "chapter": "16-comparing-award-letters"
+}

@@ -155,7 +155,7 @@ A **practice interview** is a mock interview with a parent, teacher, counselor, 
 
 #### Diagram: Interview Practice Deck
 
-<!-- SIM-NOT-BUILT <iframe src="../../sims/interview-practice-deck/main.html" width="100%" height="480px" scrolling="no"></iframe> -->
+<iframe src="../../sims/interview-practice-deck/main.html" width="100%" height="552px" scrolling="no"></iframe>
 
 <details markdown="1">
 <summary>Interview Practice Deck</summary>

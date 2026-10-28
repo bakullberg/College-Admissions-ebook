@@ -1,0 +1,70 @@
+{
+  "title": "Admission Rate Calculator",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Calculate a college's admission rate from its applications and admits, and see why a surge in applications lowers the rate even when admits stay the same.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/admission-rate-calculator/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Admission Rate Calculator",
+    "learningObjectives": [
+      "Students will calculate a college's admission rate from its applicant and admit counts and explain how a change in applications changes the rate even when the number of admitted students stays the same."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "calculate"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 1: The College Landscape and Application Rounds"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 495
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Applications received slider (1,000–100,000)",
+      "Students admitted slider (100–50,000)",
+      "College A and College B buttons",
+      "Application surge button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a college's admission rate fall even when it admits the same number of students?",
+      "Does a 15% admission rate mean you personally have a 15% chance? Why not?",
+      "What band is a college with 25,000 applicants and 5,000 admits in?"
+    ],
+    "commonMisconceptions": [
+      "The admission rate is your personal chance of admission.",
+      "A falling admission rate means a college's education got better."
+    ],
+    "assessmentOpportunities": [
+      "Students compute an admission rate correctly from two counts, place it in the right selectivity band, and explain the effect of an application surge in their own words."
+    ]
+  },
+  "chapter": "01-college-landscape-and-rounds"
+}

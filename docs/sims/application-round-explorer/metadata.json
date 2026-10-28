@@ -1,0 +1,73 @@
+{
+  "title": "Application Round Explorer",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Answer five questions about one college and one student, and the explorer recommends an application round, explains why, and shows its deadline, decision, and commitment dates.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/application-round-explorer/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Application Round Explorer",
+    "learningObjectives": [
+      "Students will judge which application round (ED, EA, REA, RD, or rolling) best fits a given student and college, and justify the choice using whether the round is binding and whether it allows comparing aid offers."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "judge",
+      "recommend"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 1: The College Landscape and Application Rounds"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 576
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Six round checkboxes (ED, ED II, EA, REA, RD, Rolling)",
+      "First-choice dropdown",
+      "Compare-aid dropdown",
+      "Fall-grades dropdown",
+      "Early-elsewhere dropdown",
+      "Three scenario buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does needing to compare financial aid rule out Early Decision?",
+      "When is Regular Decision a stronger choice than any early round?",
+      "What rule do you break by applying Early Decision to two colleges?"
+    ],
+    "commonMisconceptions": [
+      "Applying early is always the smart move.",
+      "Early Action and Early Decision are the same thing."
+    ],
+    "assessmentOpportunities": [
+      "Students justify a recommended round for a new scenario using two criteria: whether the round is binding and whether it lets the family compare aid offers."
+    ]
+  },
+  "chapter": "01-college-landscape-and-rounds"
+}

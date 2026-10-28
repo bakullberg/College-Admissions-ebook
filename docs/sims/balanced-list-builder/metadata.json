@@ -1,0 +1,74 @@
+{
+  "title": "Balanced College List Builder",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Build a college list of eight to twelve schools across reach, target, and safety, and check live whether it is balanced and includes an affordable safety you'd be glad to attend.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/balanced-list-builder/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Balanced College List Builder",
+    "learningObjectives": [
+      "Students will construct a balanced college list of eight to twelve schools and design it so that at least one affordable college they'd be glad to attend is very likely to admit them."
+    ],
+    "bloomsTaxonomy": "Create",
+    "bloomsVerbs": [
+      "construct",
+      "design"
+    ],
+    "duration": "15–20 minutes",
+    "prerequisites": [
+      "Chapter 3: Finding Your Fit"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 590
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "College name input",
+      "Category dropdown",
+      "Financial fit dropdown",
+      "Glad to attend checkbox",
+      "Add button",
+      "Remove selected, Move left, and Move right buttons",
+      "Two Priya preset buttons and Clear"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why must at least one safety be both affordable and a place you'd be glad to attend?",
+      "What makes a list with seven reaches risky, even for a strong student?",
+      "Why is 'Not checked' treated as a warning?"
+    ],
+    "commonMisconceptions": [
+      "Applying to more reaches raises your chances of a good outcome.",
+      "Any college likely to admit you counts as a safety."
+    ],
+    "assessmentOpportunities": [
+      "Students build a list that passes every check and name their safest good outcome."
+    ]
+  },
+  "chapter": "03-finding-your-fit"
+}

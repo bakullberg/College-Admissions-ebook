@@ -1,0 +1,73 @@
+{
+  "title": "Holistic Review Rating Explorer",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare applicant files with similar grades and see how a first reader's separate Academic, Activities, and Personal ratings respond to each part of the file, and to context.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/holistic-review-explorer/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Holistic Review Rating Explorer",
+    "learningObjectives": [
+      "Students will compare applicant files with similar academic numbers and attribute differences in reader ratings to specific parts of each file."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "compare",
+      "attribute"
+    ],
+    "duration": "15 minutes",
+    "prerequisites": [
+      "Chapter 2: How Colleges Evaluate Applicants"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 560
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Applicant A, Applicant B, and Dana buttons",
+      "Activities depth dropdown",
+      "Essay specificity dropdown",
+      "Recommendation detail dropdown",
+      "Reader has the school profile checkbox",
+      "Clickable folder tabs"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why don't readers add the three ratings into one score?",
+      "Which parts of an application can you still change in senior year?",
+      "What does the school profile tell a reader that the transcript can't?"
+    ],
+    "commonMisconceptions": [
+      "Identical GPAs and test scores guarantee the same outcome.",
+      "More activities always earn a better activities rating than fewer, deeper ones."
+    ],
+    "assessmentOpportunities": [
+      "Students attribute a difference in reader ratings between two files to a specific part of the application and explain the role of context."
+    ]
+  },
+  "chapter": "02-how-colleges-evaluate"
+}

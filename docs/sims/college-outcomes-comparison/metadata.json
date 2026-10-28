@@ -1,0 +1,71 @@
+{
+  "title": "College Outcomes Comparison",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Compare retention, four-year, and six-year graduation rates for up to four colleges, and see which gaps are a reason to ask questions.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/college-outcomes-comparison/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "College Outcomes Comparison",
+    "learningObjectives": [
+      "Students will compare retention and graduation rates across colleges and assess which differences signal a reason to investigate further."
+    ],
+    "bloomsTaxonomy": "Evaluate",
+    "bloomsVerbs": [
+      "compare",
+      "assess"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 4: Researching and Narrowing Your College List"
+    ]
+  },
+  "technical": {
+    "framework": "Chart.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 690
+    },
+    "responsive": true,
+    "dependencies": [
+      "Chart.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "College name and three rate inputs per row",
+      "Add college and remove (✕) buttons",
+      "Show the four-to-six-year gap checkbox",
+      "Reset to example button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a college with a solid six-year graduation rate still be expensive to finish?",
+      "What questions would you ask on a visit to a college with low retention?",
+      "Why should you compare rates from the same source?"
+    ],
+    "commonMisconceptions": [
+      "Most students finish college in four years.",
+      "A low graduation rate always means a bad college."
+    ],
+    "assessmentOpportunities": [
+      "Students identify which flagged differences warrant further investigation and write one question to ask each college about its outcomes."
+    ]
+  },
+  "chapter": "04-researching-your-list"
+}

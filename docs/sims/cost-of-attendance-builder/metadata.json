@@ -1,0 +1,72 @@
+{
+  "title": "Cost of Attendance Builder",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Build a college's cost of attendance from tuition, room and board, and indirect costs, and compare how residency and housing choices change the total.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/cost-of-attendance-builder/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Cost of Attendance Builder",
+    "learningObjectives": [
+      "Students will break down a cost of attendance into direct and indirect costs and compare how residency and housing choices change the total."
+    ],
+    "bloomsTaxonomy": "Analyze",
+    "bloomsVerbs": [
+      "break down",
+      "compare"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 3: Finding Your Fit"
+    ]
+  },
+  "technical": {
+    "framework": "Chart.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 620
+    },
+    "responsive": true,
+    "dependencies": [
+      "Chart.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Residency dropdown",
+      "Housing dropdown",
+      "Compare against dropdown",
+      "Five cost-item number inputs",
+      "Reset to Midland State button"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why would a student who looks only at tuition underestimate the real cost?",
+      "Which costs on the chart can you control, and which can't you?",
+      "Why do indirect costs still matter even though the college doesn't bill them?"
+    ],
+    "commonMisconceptions": [
+      "Tuition is the whole price of college.",
+      "Costs the college doesn't bill aren't part of what college costs."
+    ],
+    "assessmentOpportunities": [
+      "Students break a published cost of attendance into direct and indirect costs and explain how one residency or housing change affects the total."
+    ]
+  },
+  "chapter": "03-finding-your-fit"
+}

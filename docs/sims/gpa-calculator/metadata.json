@@ -1,0 +1,72 @@
+{
+  "title": "GPA Calculator",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Calculate an unweighted GPA from your own courses and see how credits, single grades, and a college's core-only recalculation change the result.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/gpa-calculator/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "GPA Calculator",
+    "learningObjectives": [
+      "Students will calculate an unweighted GPA from a list of courses and demonstrate how a college's core-only recalculation can produce a different number."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "calculate",
+      "demonstrate"
+    ],
+    "duration": "10–15 minutes",
+    "prerequisites": [
+      "Chapter 2: How Colleges Evaluate Applicants"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 586
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Course name inputs",
+      "Grade dropdowns (A–F)",
+      "Credit dropdowns (1.0 or 0.5)",
+      "Core checkboxes",
+      "Add course, Remove last, Load Priya's year, and Show the math buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why does a half-credit course move the GPA less than a full-credit one?",
+      "Why might a college's core-only GPA differ from the one on your transcript?",
+      "When could dropping electives raise a GPA, and when could it lower it?"
+    ],
+    "commonMisconceptions": [
+      "Every course counts equally no matter its credits.",
+      "Colleges always use the GPA printed on the transcript."
+    ],
+    "assessmentOpportunities": [
+      "Students calculate an unweighted GPA by hand for a new set of courses, match the calculator's result, and explain why the core-only GPA differs."
+    ]
+  },
+  "chapter": "02-how-colleges-evaluate"
+}

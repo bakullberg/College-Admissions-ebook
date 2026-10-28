@@ -1,0 +1,71 @@
+{
+  "title": "Interview Practice Deck",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Practice answering 24 common college interview questions out loud, with a timer, likely follow-ups, and a quick self-check.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/interview-practice-deck/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Interview Practice Deck",
+    "learningObjectives": [
+      "Students will practice answering common college interview questions aloud and demonstrate answers that use a specific example and stay within a natural length."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "practice",
+      "demonstrate"
+    ],
+    "duration": "15–20 minutes",
+    "prerequisites": [
+      "Chapter 13: Interviews"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 550
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Category dropdown",
+      "Next question, Start answering, Stop, and Follow-up buttons",
+      "Interviewer mode checkbox",
+      "Four self-check checkboxes"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why do memorized answers sound worse than practiced stories?",
+      "What makes a good question to ask an interviewer?",
+      "How can a follow-up question help you?"
+    ],
+    "commonMisconceptions": [
+      "Interviews are tests with right answers.",
+      "Longer answers show more effort."
+    ],
+    "assessmentOpportunities": [
+      "Students answer three questions in under two minutes each, using a specific example and saying why it matters to them."
+    ]
+  },
+  "chapter": "13-interviews"
+}

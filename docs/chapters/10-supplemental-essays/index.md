@@ -142,7 +142,7 @@ The tool below runs the swap test for you and flags generic phrases.
 
 #### Diagram: Why Us Specificity Checker
 
-<!-- SIM-NOT-BUILT <iframe src="../../sims/why-us-specificity-checker/main.html" width="100%" height="520px" scrolling="no"></iframe> -->
+<iframe src="../../sims/why-us-specificity-checker/main.html" width="100%" height="642px" scrolling="no"></iframe>
 
 <details markdown="1">
 <summary>Why Us Specificity Checker</summary>
@@ -246,7 +246,7 @@ She schedules the Early Action Why Us essays first, in early October. Then come 
 
 #### Diagram: Supplement Planner
 
-<!-- SIM-NOT-BUILT <iframe src="../../sims/supplement-planner/main.html" width="100%" height="540px" scrolling="no"></iframe> -->
+<iframe src="../../sims/supplement-planner/main.html" width="100%" height="582px" scrolling="no"></iframe>
 
 <details markdown="1">
 <summary>Supplement Planner</summary>

@@ -68,8 +68,60 @@ nav:
       - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
 
   - MicroSims:
-      - List of MicroSims: sims/index.md
-      - Learning Graph Viewer: sims/graph-viewer/index.md
+    - List of MicroSims: sims/index.md
+    - Activity Entry Builder: sims/activity-entry-builder/index.md
+    - Admission Rate Calculator: sims/admission-rate-calculator/index.md
+    - Advanced Course Pathways Compared: sims/advanced-pathways-compared/index.md
+    - Annotated Transcript Explorer: sims/annotated-transcript-explorer/index.md
+    - Application Round Explorer: sims/application-round-explorer/index.md
+    - Award Letter Comparison Chart: sims/award-comparison-chart/index.md
+    - Award Letter Decoder: sims/award-letter-decoder/index.md
+    - Balanced College List Builder: sims/balanced-list-builder/index.md
+    - Campus Size and Setting Explorer: sims/campus-size-setting-explorer/index.md
+    - College Admissions Process Roadmap: sims/admissions-process-roadmap/index.md
+    - College Outcomes Comparison: sims/college-outcomes-comparison/index.md
+    - College Requirements Matrix: sims/college-requirements-matrix/index.md
+    - College Self-Assessment Builder: sims/college-self-assessment/index.md
+    - College Type Sorter: sims/college-type-sorter/index.md
+    - Cost of Attendance Builder: sims/cost-of-attendance-builder/index.md
+    - Decision Response Guide: sims/decision-response-guide/index.md
+    - Depth vs. Breadth Activity Map: sims/depth-vs-breadth-map/index.md
+    - Essay Topic and Prompt Matcher: sims/essay-prompt-matcher/index.md
+    - Final Choice Comparison Matrix: sims/final-choice-matrix/index.md
+    - Financial Aid Map: sims/financial-aid-map/index.md
+    - Getting Organized Setup Checklist: sims/organized-setup-checklist/index.md
+    - GPA Calculator: sims/gpa-calculator/index.md
+    - Holistic Review Rating Explorer: sims/holistic-review-explorer/index.md
+    - Interview Practice Deck: sims/interview-practice-deck/index.md
+    - Learning Graph Viewer: sims/graph-viewer/index.md
+    - List Narrowing Funnel: sims/list-narrowing-funnel/index.md
+    - Middle 50% Range Plotter: sims/middle-50-range-plotter/index.md
+    - Need and Aid Calculator: sims/need-and-aid-calculator/index.md
+    - Personal Application Roadmap: sims/personal-application-roadmap/index.md
+    - Personal Essay Structure Explorer: sims/essay-structure-explorer/index.md
+    - Pre-Submission Checklist: sims/pre-submission-checklist/index.md
+    - Reach, Target, Safety Classifier: sims/reach-target-safety-classifier/index.md
+    - Recommender Comparison Tool: sims/recommender-comparison/index.md
+    - Regent Admission Index Calculator: sims/rai-calculator/index.md
+    - Research Tool Matrix: sims/research-tool-matrix/index.md
+    - Rigor in Context: sims/rigor-in-context/index.md
+    - SAT-ACT Score Converter: sims/sat-act-converter/index.md
+    - Scholarship or Scam?: sims/scholarship-or-scam/index.md
+    - Scholarship Priority Calculator: sims/scholarship-priority-calculator/index.md
+    - Score Submission Planner: sims/score-submission-planner/index.md
+    - Senior Schedule Balance Planner: sims/senior-schedule-balance/index.md
+    - Senior Year Admissions Timeline: sims/senior-year-admissions-timeline/index.md
+    - Show-Don't-Tell Practice: sims/show-dont-tell-practice/index.md
+    - Summer-to-Move-In Countdown: sims/summer-countdown/index.md
+    - Superscore Calculator: sims/superscore-calculator/index.md
+    - Supplement Planner: sims/supplement-planner/index.md
+    - The Journey of an Application File: sims/application-file-journey/index.md
+    - What Can I Control?: sims/what-can-i-control/index.md
+    - What Counts as an Activity?: sims/what-counts-activity-sorter/index.md
+    - When Colleges See Senior Grades: sims/senior-grades-timeline/index.md
+    - Why Us Specificity Checker: sims/why-us-specificity-checker/index.md
+
+
 
   - License: license.md
   - Contact: contact.md

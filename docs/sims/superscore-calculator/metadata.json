@@ -1,0 +1,71 @@
+{
+  "title": "Superscore Calculator",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Calculate an SAT or ACT superscore from several test dates and compare it with your best single-sitting score.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/superscore-calculator/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Superscore Calculator",
+    "learningObjectives": [
+      "Students will calculate an SAT or ACT superscore from multiple test dates and compare it with each single-sitting composite."
+    ],
+    "bloomsTaxonomy": "Apply",
+    "bloomsVerbs": [
+      "calculate",
+      "compare"
+    ],
+    "duration": "10 minutes",
+    "prerequisites": [
+      "Chapter 6: The SAT and ACT Question"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 540
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "Test dropdown (SAT/ACT)",
+      "Test-date name and section score inputs",
+      "Add test date and Remove last buttons",
+      "Load Priya and Load Casey buttons"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Why can a superscore be higher than any single test date?",
+      "Why does rounding sometimes erase a superscore gain on the ACT?",
+      "Why should you check each college's superscoring policy before you retest?"
+    ],
+    "commonMisconceptions": [
+      "Every college superscores.",
+      "A superscore always beats your best single sitting."
+    ],
+    "assessmentOpportunities": [
+      "Students calculate a superscore from two or three test dates and compare it with the best single sitting."
+    ]
+  },
+  "chapter": "06-sat-act-question"
+}

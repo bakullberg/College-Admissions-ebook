@@ -1,0 +1,71 @@
+{
+  "title": "Personal Application Roadmap",
+  "creator": "Beth Kullberg",
+  "subject": "College Admissions",
+  "description": "Build a complete, college-specific application roadmap with 19 stops, from list-building to fall move-in. Each stop links to the chapter that explains it, holds that college's specifics and deadline, and has a checkbox for verifying it on the college's own website.",
+  "date": "2026-10-13",
+  "type": "Interactive Simulation",
+  "format": "text/html",
+  "language": "en",
+  "rights": "CC BY-NC-SA 4.0",
+  "identifier": "https://bakullberg.github.io/College-Admissions-ebook/sims/personal-application-roadmap/",
+  "educational": {
+    "gradeLevel": [
+      "11",
+      "12"
+    ],
+    "subjectArea": "College Admissions",
+    "topic": "Personal Application Roadmap",
+    "learningObjectives": [
+      "Students will construct a complete application roadmap for one college on their list, filling in that college's specific policies, codes, and deadlines for every stage from list-building to move-in, and verifying each against the college's own website."
+    ],
+    "bloomsTaxonomy": "Create",
+    "bloomsVerbs": [
+      "construct",
+      "plan"
+    ],
+    "duration": "15 minutes in class, then ongoing through senior year",
+    "prerequisites": [
+      "Chapter 20: Getting Ready for Fall"
+    ]
+  },
+  "technical": {
+    "framework": "p5.js",
+    "canvasDimensions": {
+      "width": "responsive",
+      "height": 700
+    },
+    "responsive": true,
+    "dependencies": [
+      "p5.js"
+    ],
+    "accessibility": {
+      "hasAltText": true,
+      "keyboardNavigable": false
+    }
+  },
+  "userInterface": {
+    "controls": [
+      "College name input and Starting from select",
+      "Load Iowa (Casey), Blank roadmap, and Print / save as PDF buttons",
+      "Per-stop specifics input, date input, Verified checkbox, and chapter link",
+      "Earlier stops and Later stops paging buttons; clickable road stops"
+    ]
+  },
+  "pedagogical": {
+    "teachingStrategy": "Interactive exploration",
+    "keyQuestions": [
+      "Which stops on your roadmap have hard deadlines, and which are ongoing?",
+      "Why does every stop need to be verified on the college's own website rather than a third-party site?",
+      "How would your roadmap change if you were starting in the fall of senior year instead of junior spring?"
+    ],
+    "commonMisconceptions": [
+      "Every college follows the same timeline, so one generic roadmap works for all of them.",
+      "Dates from last year's website or a ranking site are good enough without checking."
+    ],
+    "assessmentOpportunities": [
+      "Students submit a printed roadmap for one college with all 19 stops filled, every date verified, and at least one catch-up decision explained."
+    ]
+  },
+  "chapter": "20-getting-ready-for-fall"
+}
