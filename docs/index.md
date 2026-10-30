@@ -1,7 +1,9 @@
 ---
 title: 'College Admissions Roadmap'
-description: 'A step-by-step guide for students through the college admissions process, from building your list to getting ready for fall.'
+description: 'A free, interactive guide for high school students through the whole college admissions process, from building your list to getting ready for fall.'
 image: img/cover.png
+hide:
+  - toc
 ---
 
 # College Admissions Roadmap
@@ -10,31 +12,68 @@ image: img/cover.png
   ![College Admissions Roadmap cover](./img/cover.png){ width="100%" }
 </figure>
 
-A step-by-step guide for students through the college admissions process, from building your list to getting ready for fall.
+Applying to college can feel like a giant project with no instructions. This book is the instructions. It walks you through the whole process, one step at a time, from your first college list in the summer before senior year to move-in day the following fall.
 
-## Getting Started
+It's written to you, the student, and it assumes you're starting from zero. Parents, guardians and school counselors can read along too.
 
-This is an intelligent textbook built with MkDocs Material. Use the navigation
-sidebar on the left to explore chapters, the learning graph, MicroSims, and
-supporting reference content.
+## Where to Start
 
-## Front Matter
+- **Just getting started?** Read [The College Landscape and Application Rounds](chapters/01-college-landscape-and-rounds/index.md) for a map of the whole process, then do the five first steps at the end of [Getting Organized](chapters/05-getting-organized/index.md).
+- **Have a deadline coming up?** Jump straight to the chapter you need. Every chapter stands on its own.
+- **Holding an award letter?** Go to [Comparing Award Letters](chapters/16-comparing-award-letters/index.md).
+- **Feeling overwhelmed?** Read [Waiting and Managing Anxiety](chapters/17-waiting-and-anxiety/index.md). Uncertainty is a normal part of this, and it takes months, not days.
 
-- **About** — audience, prerequisites, and how to read the book
-- **Course Description** — the seed document used to generate the learning graph
+## What's Inside
 
-## Chapters
+- **20 chapters** that follow the order of senior year
+- **50 interactive MicroSims** that let you try the ideas with your own numbers, like calculating your GPA, plotting your test score against a college's range, or comparing award letters
+- **A 10-question quiz** and **10 annotated references** for every chapter
+- **A [Glossary](glossary.md)** of 342 terms in plain language
+- **An [FAQ](faq.md)** with 87 common questions and answers
+- **A running example:** a senior named Priya works through the process in most chapters, and the book ends with a complete application roadmap for one real school, the University of Iowa
 
-The main body of the book lives under [Chapters](chapters/index.md). Each
-chapter has its own folder with a two-digit prefix (e.g. `01-introduction`).
+## The Chapters
 
-## Learning Graph
+**Laying the Groundwork**
 
-The [Learning Graph](learning-graph/index.md) shows how concepts depend on each
-other. Concepts are introduced in dependency order so prerequisites are always
-covered before they are used.
+1. [The College Landscape and Application Rounds](chapters/01-college-landscape-and-rounds/index.md)
+2. [How Colleges Evaluate Applicants](chapters/02-how-colleges-evaluate/index.md)
+3. [Finding Your Fit](chapters/03-finding-your-fit/index.md)
+4. [Researching and Narrowing Your College List](chapters/04-researching-your-list/index.md)
+5. [Getting Organized](chapters/05-getting-organized/index.md)
 
-## MicroSims
+**Testing and Academics**
 
-Interactive simulations live under [MicroSims](sims/index.md). Each MicroSim
-focuses on one concept and is embeddable as an iframe inside chapter content.
+6. [The SAT and ACT Question](chapters/06-sat-act-question/index.md)
+7. [Your Senior Year Course Load](chapters/07-senior-year-course-load/index.md)
+
+**Building the Application**
+
+8. [Activities and Resume](chapters/08-activities-and-resume/index.md)
+9. [The Personal Essay](chapters/09-personal-essay/index.md)
+10. [Supplemental Essays](chapters/10-supplemental-essays/index.md)
+11. [Letters of Recommendation](chapters/11-letters-of-recommendation/index.md)
+12. [Filling Out the Common App and Coalition App](chapters/12-common-app-coalition-app/index.md)
+13. [Interviews](chapters/13-interviews/index.md)
+
+**Paying for College**
+
+14. [Understanding Financial Aid](chapters/14-understanding-financial-aid/index.md)
+15. [Scholarships](chapters/15-scholarships/index.md)
+16. [Comparing Award Letters](chapters/16-comparing-award-letters/index.md)
+
+**Decisions and the Finish Line**
+
+17. [Waiting and Managing Anxiety](chapters/17-waiting-and-anxiety/index.md)
+18. [Handling Decisions](chapters/18-handling-decisions/index.md)
+19. [Making Your Final Choice](chapters/19-making-your-final-choice/index.md)
+20. [Getting Ready for Fall](chapters/20-getting-ready-for-fall/index.md)
+
+## How to Use This Book
+
+- Use the menu on the left to move between chapters. Each chapter has its **Content**, a **Quiz** and **Annotated References**.
+- Use the search bar at the top of any page to find a term.
+- Try the MicroSims as you reach them. They're the fastest way to see how an idea applies to you. You can also browse all of them on the [MicroSims](sims/index.md) page.
+- Policies, dates and dollar amounts change every year. Always confirm details on each college's website and on [studentaid.gov](https://studentaid.gov/).
+
+The book is free and open. Learn more [about this book](about.md).

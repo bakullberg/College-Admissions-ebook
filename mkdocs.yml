@@ -274,6 +274,7 @@ exclude_docs: |
   **/image-prompts*.md
   **/character-sheet.md
   **/cover-prompt.md
+  **/cover-image-prompt.md
   **/TODO.md
 
 # Rebuild on changes during `mkdocs serve`
