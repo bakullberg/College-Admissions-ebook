@@ -26,6 +26,10 @@ writing-style rules, the MicroSim expectations, and the Markdown formatting
 rules for this book. Content that ignores it produces broken layouts and an
 inconsistent student experience.
 
+It also defines the learning mascot, **Scout the Turtle**, and when Scout may
+appear. The teacher guide, instructor guide and other instructor-facing content
+do not use the mascot.
+
 ## Project facts
 
 | | |

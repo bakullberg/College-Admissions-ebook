@@ -470,3 +470,5 @@ Same need, same college, a difference of $8,500 a year in free money, determined
 
 ??? question "Your state's grant program is first-come, first-served, and your top college's aid priority deadline is December 1. When should you file the FAFSA?"
     **As soon as possible after it opens** in the fall, well before December 1. Filing early gives you the best chance at limited state and college funds.
+
+[See Annotated References](./references.md)

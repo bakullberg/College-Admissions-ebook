@@ -563,3 +563,5 @@ After two or three practice tests, sort the log by question type and by reason. 
 
 ??? question "Why should you save official practice tests instead of using them for everyday practice?"
     They're the most accurate measure of your real score. If you use them up early, you won't have a realistic way to measure progress before test day. Use other materials for drilling skills.
+
+[See Annotated References](./references.md)

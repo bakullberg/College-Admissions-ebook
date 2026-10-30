@@ -231,3 +231,5 @@ It's brief, specific, and genuine. It reminds the interviewer of their conversat
 
 ??? question "What should an interview thank-you note include, and what shouldn't it?"
     Include thanks, **one specific detail** from the conversation, and genuine interest. Don't add new accomplishments or ask about admission chances. Keep it to a few sentences.
+
+[See Annotated References](./references.md)

@@ -387,3 +387,5 @@ Two weeks later, Lakeshore increases his grant by $2,000 a year. It doesn't matc
 
 ??? question "Your parent was laid off in January, after you filed the FAFSA. What should you do?"
     Contact each college's **financial aid office**, explain the **change in circumstances**, and provide documentation such as a layoff letter and recent pay stubs. Financial aid officers can use **professional judgment** to adjust your aid.
+
+[See Annotated References](./references.md)

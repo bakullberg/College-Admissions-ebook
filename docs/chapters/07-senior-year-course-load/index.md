@@ -394,3 +394,5 @@ Implementation: p5.js with createSelect, createCheckbox, createSlider, and creat
 
 ??? question "Which senior schedule is likely to read better: six APs with falling grades and rushed essays, or four APs in your strongest subjects with strong grades and careful essays?"
     **Four APs handled well.** Readers judge rigor in context and can tell when a schedule has stretched a student too thin. Sustained strong work across the application beats a maximal schedule handled poorly.
+
+[See Annotated References](./references.md)

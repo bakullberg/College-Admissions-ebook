@@ -264,3 +264,5 @@ Implementation: p5.js with createButton, createCheckbox, and createSelect; canva
 
 ??? question "A friend says a denial means they 'weren't good enough.' How would you reframe it?"
     A denial reflects **fit and circumstance**, meaning how one file compared with a specific pool and a college's needs that year. At selective colleges, most denied applicants are fully qualified.
+
+[See Annotated References](./references.md)

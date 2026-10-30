@@ -321,3 +321,5 @@ Implementation: p5.js with createInput, createSelect, createCheckbox, and create
 
 ??? question "Using the capstone roadmap, name three Iowa-specific details a student would need to find for any other college on their list."
     Examples: admission criteria or formula, testing policy and merit cutoffs, application platform and essay requirements, institution codes, aid forms and priority deadlines, acceptance deadline and fee, housing and orientation dates.
+
+[See Annotated References](./references.md)

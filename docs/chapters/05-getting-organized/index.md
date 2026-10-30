@@ -459,3 +459,5 @@ Implementation: p5.js with createCheckbox and createButton; canvas parented to t
 
 ??? question "Name two things only your school counselor can do in the application process."
     Any two of: send your **official transcript** and **school profile**; complete the **school report** and counselor recommendation, including the course-rigor rating; send **mid-year and final grades**.
+
+[See Annotated References](./references.md)

@@ -659,3 +659,5 @@ Three other myths, about finding one "right" school, test-optional policies, and
 
 ??? question "How can you find out whether a particular college considers demonstrated interest?"
     Look up the college's **Common Data Set**, Section C7, which rates "level of applicant's interest" as very important, important, considered, or not considered.
+
+[See Annotated References](./references.md)

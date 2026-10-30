@@ -689,3 +689,5 @@ Implementation: p5.js with createInput, createSelect, createCheckbox, and create
 
 ??? question "A list has six reaches, two targets, and one safety. What's the main risk, and how would you fix it?"
     The risk is ending up with few or no options you'd want. Too much of the list depends on unlikely outcomes. Cut the reaches to 2–3 and add targets and at least one more affordable safety you'd be glad to attend.
+
+[See Annotated References](./references.md)

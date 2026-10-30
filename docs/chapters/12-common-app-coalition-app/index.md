@@ -381,3 +381,5 @@ Casey, an Iowa resident applying Early Action to the University of Iowa, plans t
 
 ??? question "Why should you submit a few days before the deadline instead of the night of?"
     Servers slow down, payments can fail, and last-minute problems happen near deadlines. Submitting early turns those into **minor annoyances** and gives you time to confirm submission.
+
+[See Annotated References](./references.md)

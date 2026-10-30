@@ -679,3 +679,5 @@ Implementation: p5.js with createCheckbox, createSelect, and createButton; all c
 
 ??? question "Why might an out-of-state applicant find a public flagship harder to get into than an in-state applicant with the same record?"
     Public universities are funded partly by their state and reserve most seats for residents. Some, like UNC–Chapel Hill, cap the share of out-of-state students, so out-of-state applicants compete for fewer spots.
+
+[See Annotated References](./references.md)

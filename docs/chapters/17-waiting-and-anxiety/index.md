@@ -232,3 +232,5 @@ Your **support network** is the people you can lean on during stressful times: f
 
 ??? question "Name two healthy coping strategies and one unhealthy one."
     Healthy: a routine with set times for college tasks, exercise, time with friends, absorbing hobbies, talking worries through. Unhealthy: constant portal checking, endless comparison, skipping sleep, withdrawing from people.
+
+[See Annotated References](./references.md)

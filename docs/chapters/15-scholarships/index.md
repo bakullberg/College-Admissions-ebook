@@ -320,3 +320,5 @@ At College 1, the scholarship is worth the full $2,000 to Ana. At College 2, it'
 
 ??? question "Why do local scholarships often offer better odds than national ones?"
     They're **rarely listed on national search engines** and are limited to a small area, so far fewer students apply.
+
+[See Annotated References](./references.md)

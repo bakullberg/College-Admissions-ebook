@@ -304,3 +304,5 @@ Implementation: p5.js with createInput, createSelect, and createButton; canvas p
 
 ??? question "Why plan all your supplements in August rather than writing them in deadline order?"
     Planning reveals the **total workload**, groups prompts so core essays are written once and adapted, and schedules work before deadlines pile up, rather than leaving the last supplements to be rushed.
+
+[See Annotated References](./references.md)

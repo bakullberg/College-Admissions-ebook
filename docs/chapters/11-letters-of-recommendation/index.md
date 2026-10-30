@@ -268,3 +268,5 @@ The robotics coach can describe leadership and teamwork that neither classroom t
 
 ??? question "A college accepts optional additional letters. You could ask a third teacher who'd say similar things, or your manager at work. Which is better, and why?"
     The **manager**, because that letter shows a side of you (responsibility, work ethic, leadership at work) that teacher letters can't. An additional letter should add something new, not repeat the others.
+
+[See Annotated References](./references.md)

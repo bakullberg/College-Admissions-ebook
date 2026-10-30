@@ -225,3 +225,5 @@ On April 20, Casey logs in to MyUI, Iowa's student portal, accepts the offer of 
 
 ??? question "You're admitted from College A's waitlist in June after depositing at Hillcrest. Can you accept? What must you do?"
     **Yes.** Accepting a waitlist offer is the one accepted exception. Accept College A's offer, then **immediately withdraw from Hillcrest**, usually forfeiting that deposit.
+
+[See Annotated References](./references.md)

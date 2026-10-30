@@ -41,63 +41,83 @@ nav:
       - 1. The College Landscape and Application Rounds:
         - Content: chapters/01-college-landscape-and-rounds/index.md
         - Quiz: chapters/01-college-landscape-and-rounds/quiz.md
+        - Annotated References: chapters/01-college-landscape-and-rounds/references.md
       - 2. How Colleges Evaluate Applicants:
         - Content: chapters/02-how-colleges-evaluate/index.md
         - Quiz: chapters/02-how-colleges-evaluate/quiz.md
+        - Annotated References: chapters/02-how-colleges-evaluate/references.md
       - 3. Finding Your Fit:
         - Content: chapters/03-finding-your-fit/index.md
         - Quiz: chapters/03-finding-your-fit/quiz.md
+        - Annotated References: chapters/03-finding-your-fit/references.md
       - 4. Researching and Narrowing Your College List:
         - Content: chapters/04-researching-your-list/index.md
         - Quiz: chapters/04-researching-your-list/quiz.md
+        - Annotated References: chapters/04-researching-your-list/references.md
       - 5. Getting Organized:
         - Content: chapters/05-getting-organized/index.md
         - Quiz: chapters/05-getting-organized/quiz.md
+        - Annotated References: chapters/05-getting-organized/references.md
       - 6. The SAT and ACT Question:
         - Content: chapters/06-sat-act-question/index.md
         - Quiz: chapters/06-sat-act-question/quiz.md
+        - Annotated References: chapters/06-sat-act-question/references.md
       - 7. Your Senior Year Course Load:
         - Content: chapters/07-senior-year-course-load/index.md
         - Quiz: chapters/07-senior-year-course-load/quiz.md
+        - Annotated References: chapters/07-senior-year-course-load/references.md
       - 8. Activities and Resume:
         - Content: chapters/08-activities-and-resume/index.md
         - Quiz: chapters/08-activities-and-resume/quiz.md
+        - Annotated References: chapters/08-activities-and-resume/references.md
       - 9. The Personal Essay:
         - Content: chapters/09-personal-essay/index.md
         - Quiz: chapters/09-personal-essay/quiz.md
+        - Annotated References: chapters/09-personal-essay/references.md
       - 10. Supplemental Essays:
         - Content: chapters/10-supplemental-essays/index.md
         - Quiz: chapters/10-supplemental-essays/quiz.md
+        - Annotated References: chapters/10-supplemental-essays/references.md
       - 11. Letters of Recommendation:
         - Content: chapters/11-letters-of-recommendation/index.md
         - Quiz: chapters/11-letters-of-recommendation/quiz.md
+        - Annotated References: chapters/11-letters-of-recommendation/references.md
       - 12. Filling Out the Common App and Coalition App:
         - Content: chapters/12-common-app-coalition-app/index.md
         - Quiz: chapters/12-common-app-coalition-app/quiz.md
+        - Annotated References: chapters/12-common-app-coalition-app/references.md
       - 13. Interviews:
         - Content: chapters/13-interviews/index.md
         - Quiz: chapters/13-interviews/quiz.md
+        - Annotated References: chapters/13-interviews/references.md
       - 14. Understanding Financial Aid:
         - Content: chapters/14-understanding-financial-aid/index.md
         - Quiz: chapters/14-understanding-financial-aid/quiz.md
+        - Annotated References: chapters/14-understanding-financial-aid/references.md
       - 15. Scholarships:
         - Content: chapters/15-scholarships/index.md
         - Quiz: chapters/15-scholarships/quiz.md
+        - Annotated References: chapters/15-scholarships/references.md
       - 16. Comparing Award Letters:
         - Content: chapters/16-comparing-award-letters/index.md
         - Quiz: chapters/16-comparing-award-letters/quiz.md
+        - Annotated References: chapters/16-comparing-award-letters/references.md
       - 17. Waiting and Managing Anxiety:
         - Content: chapters/17-waiting-and-anxiety/index.md
         - Quiz: chapters/17-waiting-and-anxiety/quiz.md
+        - Annotated References: chapters/17-waiting-and-anxiety/references.md
       - 18. Handling Decisions:
         - Content: chapters/18-handling-decisions/index.md
         - Quiz: chapters/18-handling-decisions/quiz.md
+        - Annotated References: chapters/18-handling-decisions/references.md
       - 19. Making Your Final Choice:
         - Content: chapters/19-making-your-final-choice/index.md
         - Quiz: chapters/19-making-your-final-choice/quiz.md
+        - Annotated References: chapters/19-making-your-final-choice/references.md
       - 20. Getting Ready for Fall:
         - Content: chapters/20-getting-ready-for-fall/index.md
         - Quiz: chapters/20-getting-ready-for-fall/quiz.md
+        - Annotated References: chapters/20-getting-ready-for-fall/references.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md
@@ -110,6 +130,7 @@ nav:
       - FAQ Quality Report: learning-graph/faq-quality-report.md
       - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
       - Quiz Generation Report: learning-graph/quiz-generation-report.md
+      - Mascot Test: learning-graph/mascot-test.md
 
   - MicroSims:
     - List of MicroSims: sims/index.md
@@ -239,6 +260,7 @@ markdown_extensions:
 # Custom CSS — file is created by init-textbook
 extra_css:
   - css/extra.css
+  - css/mascot.css
 
 # Custom JavaScript — uncomment once a corresponding file exists
 # extra_javascript:
@@ -248,6 +270,7 @@ extra_css:
 exclude_docs: |
   **/image-prompt*.md
   **/image-prompts*.md
+  **/character-sheet.md
   **/cover-prompt.md
   **/TODO.md
 

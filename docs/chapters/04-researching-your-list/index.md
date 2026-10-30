@@ -387,3 +387,5 @@ Every college has a reason that ties back to his priorities. The list is balance
 
 ??? question "A student's final list has ten colleges, but they can't say why they'd be happy at three of them. What should they do?"
     Apply the **picture-yourself test**: research those three until they can name a specific reason, or cut them and, if needed, replace them with colleges that clearly fit.
+
+[See Annotated References](./references.md)

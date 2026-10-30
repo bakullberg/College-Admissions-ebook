@@ -569,3 +569,5 @@ Implementation: p5.js with createButton; canvas parented to the main element.
 
 ??? question "What's wrong with the idea that colleges want well-rounded applicants?"
     Colleges aim for a **well-rounded class** made of students with **depth** in a few areas. A shallow list of many activities usually reads as weaker than serious commitment to a few.
+
+[See Annotated References](./references.md)

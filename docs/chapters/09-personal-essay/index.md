@@ -543,3 +543,5 @@ Proofread in ways that make you see the words fresh. Read the essay aloud, slowl
 
 ??? question "A parent rewrites several of your sentences so they sound more polished. What's the risk?"
     The essay may lose your **authentic voice** and sound adult-written, which costs readers' trust. Substantial rewriting by someone else is also dishonest. Take feedback as information, and keep the writing yours.
+
+[See Annotated References](./references.md)
