@@ -131,6 +131,8 @@ nav:
       - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
       - Quiz Generation Report: learning-graph/quiz-generation-report.md
       - Mascot Test: learning-graph/mascot-test.md
+      - Book Metrics: learning-graph/book-metrics.md
+      - Chapter Metrics: learning-graph/chapter-metrics.md
 
   - MicroSims:
     - List of MicroSims: sims/index.md
@@ -281,6 +283,9 @@ watch:
 
 # Extra
 extra:
+  # Book development stage, reported in learning-graph/book-metrics.md
+  development_stage: Beta
+
   # Suppress the "Made with Material for MkDocs" footer line
   generator: false
 
