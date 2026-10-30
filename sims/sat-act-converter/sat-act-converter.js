@@ -24,7 +24,7 @@ const CONCORD = {
 
 let testSelect, scoreSlider, lowInput, highInput, rangeTest;
 let haveLabel, rangeLabel, toLabel, presetLabel;
-let priyaButton, caseyButton, iowaButton;
+let emilyButton, caseyButton, iowaButton;
 let presetNote = '';
 let ticks = [];
 
@@ -63,8 +63,8 @@ function setup() {
   rangeTest.option('ACT');
 
   presetLabel = createSpan('Try:');
-  priyaButton = createButton('Priya (SAT 1280)');
-  priyaButton.mousePressed(() => preset('SAT', 1280, '', '', 'SAT', ''));
+  emilyButton = createButton('Emily (SAT 1280)');
+  emilyButton.mousePressed(() => preset('SAT', 1280, '', '', 'SAT', ''));
   caseyButton = createButton('Casey (ACT 24)');
   caseyButton.mousePressed(() => preset('ACT', 24, 1100, 1280, 'SAT', 'A college Casey is considering reports only SAT ranges: 1100–1280.'));
   iowaButton = createButton('Iowa merit threshold (ACT 26 / SAT 1230)');
@@ -86,7 +86,7 @@ function positionControls() {
     y += 32;
   }
   y = flowRow([rangeLabel, lowInput, toLabel, highInput, rangeTest], 10, y + 36, 30) + 36;
-  flowRow([presetLabel, priyaButton, caseyButton, iowaButton], 10, y, 30);
+  flowRow([presetLabel, emilyButton, caseyButton, iowaButton], 10, y, 30);
 }
 
 // Place controls left to right using their real widths; wrap when the row is full.

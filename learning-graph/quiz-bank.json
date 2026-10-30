@@ -491,7 +491,7 @@
         "D": "College X fits the budget, because net price is what the family would actually pay"
       },
       "correct_answer": "D",
-      "explanation": "Sticker price is the published cost before aid, while net price is sticker price minus grants and scholarships. College X's net price of $27,000 is within the family's $30,000, and College Y's $38,000 is not. Judging by sticker price would cut the wrong school, just as Priya almost cut Hillcrest College. The chapter says calculators give estimates, not promises, but they are accurate enough to keep you from making that mistake.",
+      "explanation": "Sticker price is the published cost before aid, while net price is sticker price minus grants and scholarships. College X's net price of $27,000 is within the family's $30,000, and College Y's $38,000 is not. Judging by sticker price would cut the wrong school, just as Emily almost cut Hillcrest College. The chapter says calculators give estimates, not promises, but they are accurate enough to keep you from making that mistake.",
       "bloom_level": "Apply",
       "concept": "Financial Fit",
       "chapter_file": "docs/chapters/03-finding-your-fit/index.md",
@@ -729,7 +729,7 @@
         "D": "A friend who applied to the college last year"
       },
       "correct_answer": "A",
-      "explanation": "College-specific requirements, such as extra essays, recommendations, testing rules, and portfolios, are found on the college's own admissions website, usually on a \"first-year requirements\" or \"how to apply\" page. The Common App lists each member's requirements, but the chapter says to treat the college's site as the final word because it's updated most directly. Policies change yearly, so a friend's experience last year can be out of date, as Priya's graded-paper example shows.",
+      "explanation": "College-specific requirements, such as extra essays, recommendations, testing rules, and portfolios, are found on the college's own admissions website, usually on a \"first-year requirements\" or \"how to apply\" page. The Common App lists each member's requirements, but the chapter says to treat the college's site as the final word because it's updated most directly. Policies change yearly, so a friend's experience last year can be out of date, as Emily's graded-paper example shows.",
       "bloom_level": "Remember",
       "concept": "College-Specific Requirements",
       "chapter_file": "docs/chapters/05-getting-organized/index.md",
@@ -2072,7 +2072,7 @@
         "D": "Only if the interviewer asks you to write"
       },
       "correct_answer": "B",
-      "explanation": "Interview follow-up is a short, sincere thank-you sent within a day or two after the interview, usually by email. It should thank the interviewer, mention one specific thing you enjoyed discussing, and say, if true, that the conversation increased your interest. Waiting until a decision arrives defeats the purpose. The chapter doesn't make follow-up depend on being asked, and Priya sends hers the same evening.",
+      "explanation": "Interview follow-up is a short, sincere thank-you sent within a day or two after the interview, usually by email. It should thank the interviewer, mention one specific thing you enjoyed discussing, and say, if true, that the conversation increased your interest. Waiting until a decision arrives defeats the purpose. The chapter doesn't make follow-up depend on being asked, and Emily sends hers the same evening.",
       "bloom_level": "Remember",
       "concept": "Interview Follow-Up",
       "chapter_file": "docs/chapters/13-interviews/index.md",
@@ -2191,7 +2191,7 @@
         "D": "Skip it, since optional interviews don't affect decisions"
       },
       "correct_answer": "B",
-      "explanation": "The chapter says some colleges require you to request an interview by a certain date, often weeks before the application deadline, which is what happened with Priya's College A. Checking the policy and requesting early is the only way not to miss it. Waiting until December or January would be too late for this college. Optional interviews are almost always worth doing, since they're a low-risk chance to add a positive impression.",
+      "explanation": "The chapter says some colleges require you to request an interview by a certain date, often weeks before the application deadline, which is what happened with Emily's College A. Checking the policy and requesting early is the only way not to miss it. Waiting until December or January would be too late for this college. Optional interviews are almost always worth doing, since they're a low-risk chance to add a positive impression.",
       "bloom_level": "Apply",
       "concept": "Interviews",
       "chapter_file": "docs/chapters/13-interviews/index.md",
@@ -2616,7 +2616,7 @@
         "D": "A loan that must be repaid after graduation"
       },
       "correct_answer": "B",
-      "explanation": "The chapter says the work-study amount is a ceiling, not a payment. You earn it only by finding a work-study job and working the hours, and you're paid by paycheck as you work. It isn't subtracted from your bill, it isn't guaranteed, and it isn't a loan. That's why Priya budgeted her August payment without it and planned to use her earnings for books and personal expenses.",
+      "explanation": "The chapter says the work-study amount is a ceiling, not a payment. You earn it only by finding a work-study job and working the hours, and you're paid by paycheck as you work. It isn't subtracted from your bill, it isn't guaranteed, and it isn't a loan. That's why Emily budgeted her August payment without it and planned to use her earnings for books and personal expenses.",
       "bloom_level": "Understand",
       "concept": "Work-Study",
       "chapter_file": "docs/chapters/16-comparing-award-letters/index.md",
@@ -3050,7 +3050,7 @@
     {
       "id": "ch18-q010",
       "chapter": "Handling Decisions",
-      "question_text": "Priya is waitlisted at her first choice and plans to send a letter of continued interest. Which draft best meets the chapter's standards?",
+      "question_text": "Emily is waitlisted at her first choice and plans to send a letter of continued interest. Which draft best meets the chapter's standards?",
       "options": {
         "A": "A short letter with new grades and a recent award, a specific reason the college fits, and an honest statement that she'd enroll if admitted",
         "B": "A short letter telling each of her three waitlist colleges that it is her first choice",
@@ -3194,7 +3194,7 @@
         "D": "Keep only the most selective college as the finalist"
       },
       "correct_answer": "A",
-      "explanation": "The chapter says to narrow offers to two or three finalists that are affordable and that you'd be glad to attend. Remove any college that fails a dealbreaker or whose net price your family can't manage without unreasonable debt. Priya also cut a university that admitted her to general studies instead of English, since other offers admitted her to English directly. Keeping all five skips the narrowing, and selectivity isn't a reason to choose.",
+      "explanation": "The chapter says to narrow offers to two or three finalists that are affordable and that you'd be glad to attend. Remove any college that fails a dealbreaker or whose net price your family can't manage without unreasonable debt. Emily also cut a university that admitted her to general studies instead of English, since other offers admitted her to English directly. Keeping all five skips the narrowing, and selectivity isn't a reason to choose.",
       "bloom_level": "Analyze",
       "concept": "Finalists",
       "chapter_file": "docs/chapters/19-making-your-final-choice/index.md",

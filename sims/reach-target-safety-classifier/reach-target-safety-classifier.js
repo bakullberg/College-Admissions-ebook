@@ -25,8 +25,8 @@ const COLORS = { 'Reach': 'rebeccapurple', 'Target': 'royalblue', 'Target leanin
                  'Safety': 'seagreen', 'Likely admit — not yet a safety': 'darkorange' };
 
 const presets = [
-  { label: 'Priya → College A', v: { gpa: 3.71, score: 1280, rate: 6, g25: 3.85, g75: 4.0, t25: 1500, t75: 1560 }, test: 'SAT', fit: 'Not checked yet', glad: true },
-  { label: 'Priya → College C', v: { gpa: 3.71, score: 1280, rate: 45, g25: 3.5, g75: 3.9, t25: 1220, t75: 1390 }, test: 'SAT', fit: 'Affordable', glad: true },
+  { label: 'Emily → College A', v: { gpa: 3.71, score: 1280, rate: 6, g25: 3.85, g75: 4.0, t25: 1500, t75: 1560 }, test: 'SAT', fit: 'Not checked yet', glad: true },
+  { label: 'Emily → College C', v: { gpa: 3.71, score: 1280, rate: 45, g25: 3.5, g75: 3.9, t25: 1220, t75: 1390 }, test: 'SAT', fit: 'Affordable', glad: true },
   { label: 'Casey → state university (resident)', v: { gpa: 3.40, score: 24, rate: 85, g25: 3.0, g75: 3.35, t25: 19, t75: 23 }, test: 'ACT', fit: 'Affordable', glad: true,
     note: 'Illustrative numbers, not a real college\'s. At Iowa, Casey\'s RAI of 259 clears the resident threshold, so admission is very likely.' },
   { label: "Likely admit, can't afford", v: { gpa: 3.9, score: 1400, rate: 70, g25: 3.3, g75: 3.8, t25: 1150, t75: 1350 }, test: 'SAT', fit: 'Out of reach', glad: true }

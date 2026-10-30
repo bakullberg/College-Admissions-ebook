@@ -46,7 +46,7 @@
   },
   "userInterface": {
     "controls": [
-      "Add college, Edit selected, Remove selected, and Load Priya's list buttons",
+      "Add college, Edit selected, Remove selected, and Load Emily's list buttons",
       "Highlight unique requirements only checkbox",
       "Row editor with dropdowns and inputs for each requirement",
       "Sortable column headers"

@@ -2140,10 +2140,10 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#worked-example-two-rows-of-priyas-tracker" class="md-nav__link">
+  <a href="#worked-example-two-rows-of-emilys-tracker" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Worked Example: Two Rows of Priya's Tracker
+        Worked Example: Two Rows of Emily's Tracker
       
     </span>
   </a>
@@ -2859,7 +2859,7 @@
 <li><strong>Testing policy,</strong> and whether you plan to submit scores.</li>
 <li><strong>Status:</strong> not started, in progress, submitted, or complete.</li>
 </ul>
-<h4 id="worked-example-two-rows-of-priyas-tracker">Worked Example: Two Rows of Priya's Tracker<a class="headerlink" href="#worked-example-two-rows-of-priyas-tracker" title="Permanent link">&para;</a></h4>
+<h4 id="worked-example-two-rows-of-emilys-tracker">Worked Example: Two Rows of Emily's Tracker<a class="headerlink" href="#worked-example-two-rows-of-emilys-tracker" title="Permanent link">&para;</a></h4>
 <table>
 <thead>
 <tr>
@@ -2902,7 +2902,7 @@
 </tr>
 </tbody>
 </table>
-<p>Notice that Priya's flagship row has an aid priority date (December 1) that comes <em>after</em> her application but <em>before</em> she'd hear back. Without the tracker, she might assume aid comes after admission. Also notice that Hillcrest requires the CSS Profile, an extra aid form <a href="../14-understanding-financial-aid/">Chapter 14</a> explains, so it gets its own deadline.</p>
+<p>Notice that Emily's flagship row has an aid priority date (December 1) that comes <em>after</em> her application but <em>before</em> she'd hear back. Without the tracker, she might assume aid comes after admission. Also notice that Hillcrest requires the CSS Profile, an extra aid form <a href="../14-understanding-financial-aid/">Chapter 14</a> explains, so it gets its own deadline.</p>
 <h3 id="the-shared-tracker">The Shared Tracker<a class="headerlink" href="#the-shared-tracker" title="Permanent link">&para;</a></h3>
 <p>A <strong>shared tracker</strong> is your deadline tracker made visible to the people helping you, usually a parent or guardian and sometimes your counselor, through a shared online spreadsheet or document. Sharing it doesn't hand over control. You still own the process. What it does is give someone else a chance to notice a problem you're too close to see, like a missing aid deadline, two essays due the same week, or a status that hasn't changed in a month. Decide together how you'll use it. For example, your parent might check it every Sunday and add questions as comments rather than sending reminders all week. One caution: never put passwords in a shared tracker. They belong in your private login record, covered later in this chapter.</p>
 <h3 id="supporting-document-deadlines">Supporting Document Deadlines<a class="headerlink" href="#supporting-document-deadlines" title="Permanent link">&para;</a></h3>
@@ -2945,20 +2945,20 @@ Learning Objective: Students will compare application requirements across colleg
 - Each cell shows a short value ("2 essays," "Test-optional," "Required") on a colored background: gray for not required, blue for required and shared by most colleges on the list, gold for required and unique to that college.
 - A totals row at the bottom: total supplemental essays, number of colleges needing a counselor rec, and so on.
 - A summary line: "Your list requires X supplemental essays and Y teacher letters. Z requirements are unique to one college."</p>
-<p>Default data: Priya's ten-college list from Chapter 3 with fictional but realistic requirements (for example, the state flagship uses its own application with one short answer and no recs; Hillcrest uses the Common App with one supplement and two teacher letters; one reach requires an optional interview; one target requires a graded writing sample, marked gold).</p>
+<p>Default data: Emily's ten-college list from Chapter 3 with fictional but realistic requirements (for example, the state flagship uses its own application with one short answer and no recs; Hillcrest uses the Common App with one supplement and two teacher letters; one reach requires an optional interview; one target requires a graded writing sample, marked gold).</p>
 <p>Controls (all created in setup() before positioning):
 - createButton "Add college," which opens a row of createSelect and createInput controls for each column.
 - createButton "Edit selected" and "Remove selected" for the clicked row.
 - createCheckbox "Highlight unique requirements only," which dims shared cells.
-- createButton "Load Priya's list."</p>
+- createButton "Load Emily's list."</p>
 <p>Interaction: Hovering a cell shows a tooltip explaining the requirement type ("Test-optional: you choose whether to send scores; see Chapter 6"). Clicking a column header sorts rows by that column. Unique (gold) cells pulse once when the list changes, so new unique requirements are noticed.</p>
 <p>Color scheme: gray not required, blue shared, gold unique; selected row outlined.</p>
 <p>Responsive behavior: Call updateCanvasSize() first in setup(); on narrow screens the grid becomes one card per college with requirement chips, and controls reposition on resize.</p>
 <p>Implementation: p5.js with createButton, createSelect, createInput, and createCheckbox; canvas parented to the main element.</p>
 </details>
 <h4 id="worked-example-finding-the-unique-requirement">Worked Example: Finding the Unique Requirement<a class="headerlink" href="#worked-example-finding-the-unique-requirement" title="Permanent link">&para;</a></h4>
-<p>Priya fills in her requirements matrix for all ten colleges. Most columns look similar: eight colleges use the Common App, most want two teacher letters, and all ten are test-optional. But one cell stands out in gold. One of her target colleges asks applicants to submit a <strong>graded analytical paper</strong> from a high school class, with the teacher's comments. It's mentioned only on that college's own "first-year requirements" page, not on its Common App page.</p>
-<p>Because she found it in September, Priya has time to pick her best AP U.S. History paper, ask her teacher whether she can submit it, and scan it into her files. If she'd found it the week of the deadline, she might not have had a graded paper on hand at all.</p>
+<p>Emily fills in her requirements matrix for all ten colleges. Most columns look similar: eight colleges use the Common App, most want two teacher letters, and all ten are test-optional. But one cell stands out in gold. One of her target colleges asks applicants to submit a <strong>graded analytical paper</strong> from a high school class, with the teacher's comments. It's mentioned only on that college's own "first-year requirements" page, not on its Common App page.</p>
+<p>Because she found it in September, Emily has time to pick her best AP U.S. History paper, ask her teacher whether she can submit it, and scan it into her files. If she'd found it the week of the deadline, she might not have had a graded paper on hand at all.</p>
 <h2 id="the-filing-system">The Filing System<a class="headerlink" href="#the-filing-system" title="Permanent link">&para;</a></h2>
 <p>A <strong>filing system</strong> is an organized set of folders, digital, paper, or both, where every document in your application process has a known place. You'll create and receive dozens of documents this year: transcripts, score reports, essay drafts, recommendation requests, financial forms, confirmation emails, and award letters. Without a system, finding the right one in a hurry becomes a scavenger hunt.</p>
 <p>A simple structure works best. Create one main folder with these subfolders:</p>
@@ -3064,7 +3064,7 @@ Learning Objective: Students will compare application requirements across colleg
 </ol>
 <p>After that, add the colleges on your list and invite your counselor through the Education section. The Common App connects you with your counselor, and from there, to your teachers. Chapter 12 explains how recommenders are invited.</p>
 <h4 id="worked-example-a-summer-head-start">Worked Example: A Summer Head Start<a class="headerlink" href="#worked-example-a-summer-head-start" title="Permanent link">&para;</a></h4>
-<p>Priya creates her Common App account in June after junior year. Over July, she fills in the Profile, Family, and Education sections, using her unofficial transcript to enter her courses. She drafts her activities list from her activities resume. On August 1, the new year opens and her information carries over. She adds her eight Common App colleges, reads each one's requirements page, and copies every supplemental essay prompt into her tracker.</p>
+<p>Emily creates her Common App account in June after junior year. Over July, she fills in the Profile, Family, and Education sections, using her unofficial transcript to enter her courses. She drafts her activities list from her activities resume. On August 1, the new year opens and her information carries over. She adds her eight Common App colleges, reads each one's requirements page, and copies every supplemental essay prompt into her tracker.</p>
 <p>By mid-August, the only parts of her application left are essays and recommendations. While some of her classmates spend September typing addresses and course names, she spends it writing.</p>
 <h2 id="the-people-who-help">The People Who Help<a class="headerlink" href="#the-people-who-help" title="Permanent link">&para;</a></h2>
 <p>You own your applications, but you shouldn't do them alone. Several people can help, and knowing what each one does keeps you from asking the wrong person or asking too late.</p>

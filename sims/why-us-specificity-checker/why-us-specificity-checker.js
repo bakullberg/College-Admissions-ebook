@@ -60,9 +60,9 @@ function setup() {
   checkButton.mousePressed(() => runCheck('check'));
   swapButton = createButton('Swap test');
   swapButton.mousePressed(() => runCheck('swap'));
-  firstButton = createButton('Priya — first draft');
+  firstButton = createButton('Emily — first draft');
   firstButton.mousePressed(() => { draftBox.value(DRAFTS.first); collegeInput.value('Hillcrest College'); otherInput.value('College C'); runCheck('check'); });
-  revisionButton = createButton('Priya — revision');
+  revisionButton = createButton('Emily — revision');
   revisionButton.mousePressed(() => { draftBox.value(DRAFTS.revision); collegeInput.value('Hillcrest College'); otherInput.value('College C'); runCheck('check'); });
   clearButton = createButton('Clear');
   clearButton.mousePressed(() => { draftBox.value(''); mode = 'idle'; results = null; });
@@ -175,7 +175,7 @@ function draw() {
 
   if (mode === 'idle' || !results) {
     fill('dimgray');
-    text('Paste your Why Us draft below and press Check, or load one of Priya\'s drafts. Then try the Swap test.', px + 12, py + 12, pw - 24);
+    text('Paste your Why Us draft below and press Check, or load one of Emily\'s drafts. Then try the Swap test.', px + 12, py + 12, pw - 24);
   } else if (mode === 'swap') {
     const other = otherInput.value().trim() || 'another college';
     const college = collegeInput.value().trim() || 'your college';

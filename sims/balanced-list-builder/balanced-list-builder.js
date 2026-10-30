@@ -60,9 +60,9 @@ function setup() {
   leftButton.mousePressed(() => moveSelected(-1));
   rightButton = createButton('Move right ▶');
   rightButton.mousePressed(() => moveSelected(1));
-  originalButton = createButton("Priya's original list");
+  originalButton = createButton("Emily's original list");
   originalButton.mousePressed(() => loadList(original));
-  rebalancedButton = createButton("Priya's rebalanced list");
+  rebalancedButton = createButton("Emily's rebalanced list");
   rebalancedButton.mousePressed(() => loadList(rebalanced));
   clearButton = createButton('Clear');
   clearButton.mousePressed(() => { colleges = []; selected = -1; });

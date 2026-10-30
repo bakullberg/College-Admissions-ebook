@@ -26,8 +26,8 @@ let presetButtons = [];
 let resetButton;
 
 const PRESETS = {
-  'Priya Draft 1': { slots: [['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', false]], job: 0, act: 6, app: 8 },
-  'Priya Draft 2': { slots: [['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['Regular', true], ['Elective', false]], job: 0, act: 6, app: 8 },
+  'Emily Draft 1': { slots: [['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', false]], job: 0, act: 6, app: 8 },
+  'Emily Draft 2': { slots: [['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['AP/IB', true], ['Regular', true], ['Elective', false]], job: 0, act: 6, app: 8 },
   'Marcus': { slots: [['AP/IB', true], ['AP/IB', true], ['Dual enrollment', false], ['Dual enrollment', true], ['Regular', true], ['Elective', false]], job: 15, act: 0, app: 6 }
 };
 

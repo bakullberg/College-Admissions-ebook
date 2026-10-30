@@ -1,6 +1,6 @@
 // Annotated Transcript Explorer
 // CANVAS_HEIGHT: 580
-// A fictional transcript for Priya Raman. Hover a region for a one-line tooltip, click it
+// A fictional transcript for Emily A. Johnson. Hover a region for a one-line tooltip, click it
 // for the full explanation, or press "Read it like an officer" to step through the regions
 // in the order an admissions reader usually scans them. The GPA box is computed from the
 // course list below (A = 4, A- = 3.67, B = 3; weighted adds +1.0 for AP and +0.5 for Honors).
@@ -72,7 +72,7 @@ function buildRegions() {
       info: 'How much each course counts. A full-year course is often 1.0 credit; a semester course 0.5.' },
     { name: 'Year-by-year layout', rects: headRects,
       tip: 'Shows your grade trend over time.',
-      info: 'Lets the reader see your grade trend. An upward trend is a strong signal. Priya\'s record holds steady even as junior year got harder.' },
+      info: 'Lets the reader see your grade trend. An upward trend is a strong signal. Emily\'s record holds steady even as junior year got harder.' },
     { name: 'Cumulative GPA', rects: [[12, 396, 242, 44]],
       tip: 'Your average, as your school calculates it.',
       info: 'Your average. Schools differ in how they calculate it, so many colleges recalculate it themselves. Here the weighted GPA adds +1.0 for AP and +0.5 for Honors; other schools use other rules.' },
@@ -81,7 +81,7 @@ function buildRegions() {
       info: 'Many high schools no longer rank students. When they don\'t, colleges rely on the school profile instead.' },
     { name: 'Senior courses (In Progress)', rects: [[t12.x, t12.y + HEAD_H, TABLE_W, years[3].courses.length * ROW_H + 4]],
       tip: 'What you\'re taking this year.',
-      info: 'Colleges see what you\'re taking this year and will ask for your final grades. Four APs as a senior shows Priya kept challenging herself.' },
+      info: 'Colleges see what you\'re taking this year and will ask for your final grades. Four APs as a senior shows Emily kept challenging herself.' },
     { name: 'Counselor signature and seal', rects: [[266, 396, 242, 70]],
       tip: 'Makes it official.',
       info: 'Marks the document as official. It must come from the school, not from you.' }
@@ -108,7 +108,7 @@ function setup() {
   nextButton.mousePressed(() => stepTour(1));
   positionControls();
   layout();
-  describe('A fictional high school transcript for Priya Raman with nine labeled regions: header, course names, grades, credits, year-by-year layout, cumulative GPA, class rank, senior courses in progress, and the counselor signature. Hover or click a region to read what it tells an admissions reader.');
+  describe('A fictional high school transcript for Emily A. Johnson with nine labeled regions: header, course names, grades, credits, year-by-year layout, cumulative GPA, class rank, senior courses in progress, and the counselor signature. Hover or click a region to read what it tells an admissions reader.');
 }
 
 function positionControls() {
@@ -193,7 +193,7 @@ function drawPage() {
   text('Official Academic Transcript · CEEB code 123456', 12, 28);
   textSize(12);
   fill(30);
-  text('Student: Priya Raman', 12, 48);
+  text('Student: Emily A. Johnson', 12, 48);
   text('Date of birth: 03/14/2009', 170, 48);
   text('Expected graduation: June 2027', 330, 48);
   stroke(180);

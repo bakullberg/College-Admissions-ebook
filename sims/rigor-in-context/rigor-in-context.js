@@ -14,7 +14,7 @@ let sliderLeftMargin = 260;
 let defaultTextSize = 16;
 
 let offeredSlider, takenSlider;
-let elenaButton, jordanButton, priyaButton;
+let elenaButton, jordanButton, emilyButton;
 let presetNote = '';
 
 const bands = [
@@ -47,8 +47,8 @@ function setup() {
   elenaButton.mousePressed(() => preset(3, 3, 'Elena\'s small rural school offers 3 AP courses. She took all 3.'));
   jordanButton = createButton('Jordan');
   jordanButton.mousePressed(() => preset(22, 3, 'Jordan took 3 of 22. Jordan\'s counselor checked "demanding" because Jordan also took honors courses, which this share-only model can\'t see.'));
-  priyaButton = createButton('Priya');
-  priyaButton.mousePressed(() => preset(12, 7, 'Priya took 7 of her school\'s 12 APs across junior and senior years.'));
+  emilyButton = createButton('Emily');
+  emilyButton.mousePressed(() => preset(12, 7, 'Emily took 7 of her school\'s 12 APs across junior and senior years.'));
 
   positionControls();
   describe('A rigor-in-context model. Sliders set how many advanced courses a high school offers and how many a student took. Course tiles, a share bar, and a five-band counselor rating gauge show how a reader sees that schedule relative to the school.');
@@ -61,7 +61,7 @@ function positionControls() {
   takenSlider.size(canvasWidth - sliderLeftMargin - margin);
   elenaButton.position(10, drawHeight + 80);
   jordanButton.position(80, drawHeight + 80);
-  priyaButton.position(160, drawHeight + 80);
+  emilyButton.position(160, drawHeight + 80);
 }
 
 // The student can't take more advanced courses than the school offers
