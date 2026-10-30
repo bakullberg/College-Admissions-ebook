@@ -226,7 +226,7 @@ The FAFSA is free and takes most families under an hour. Casey's parents file it
 
 ## The FAFSA
 
-The **FAFSA**, the Free Application for Federal Student Aid, is the form that determines your eligibility for federal aid, and it's used by most states and many colleges to award their own aid too. It's free. If any website charges you to file it, you're in the wrong place. The official site is [studentaid.gov](https://studentaid.gov).
+The **FAFSA**, the Free Application for Federal Student Aid, is the form that determines your eligibility for federal aid, and it's used by most states and many colleges to award their own aid too. It's free. The F really does stand for Free. If any website charges you to file it, you're in the wrong place. The official site is [studentaid.gov](https://studentaid.gov).
 
 The FAFSA asks about your family's finances: income from tax returns, current savings and investments, and some assets. It uses **prior-prior year** tax information, meaning a student applying for aid in fall 2027 uses the family's 2025 tax return. That's why families can file in the fall, long before the year starts. The form draws tax information directly from the IRS once each contributor gives **consent**, which makes filing faster and more accurate.
 

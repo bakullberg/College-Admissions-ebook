@@ -173,7 +173,7 @@ Because colleges treat the two tests equally, choose the one that fits you. The 
 | Math share | About half the score | About one-third of the composite |
 | Reading style | Short passages, one question each | Longer passages, several questions each |
 
-The best way to choose is to take a free official practice test of each under timed conditions and compare the results using the concordance tables later in this chapter. If your scores are about the same, pick the test whose format you found more comfortable.
+The best way to choose is to take a free official practice test of each under timed conditions and compare the results using the concordance tables later in this chapter. If your scores are about the same, pick the test whose format you found more comfortable. There's no prize for choosing the one you liked less.
 
 #### Worked Example: Choosing a Test
 
@@ -519,7 +519,7 @@ A **diagnostic practice test** is a full-length official practice test taken at 
 
 ### Error Log
 
-An **error log** is a running record of every practice question you get wrong, noting the question type, why you missed it, and what you'll do differently. It turns mistakes into a study plan. Most students who review only their score miss the pattern behind it.
+An **error log** is a running record of every practice question you get wrong, noting the question type, why you missed it, and what you'll do differently. It turns mistakes into a study plan. It's the one place in this process where getting things wrong is the whole point. Most students who review only their score miss the pattern behind it.
 
 A simple error log has these columns:
 

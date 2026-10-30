@@ -41,7 +41,7 @@ This chapter builds on concepts from:
 
 ## A Conversation, Not a Test
 
-Many colleges never interview applicants. Of those that do, most treat the interview as optional, and it's rarely what decides an application. But an interview does something nothing else in your file can: it lets a real person hear you think and talk. A good one adds warmth and color to an application. A poorly prepared one is an easy miss to avoid.
+Many colleges never interview applicants. Of those that do, most treat the interview as optional, and it's rarely what decides an application. Nobody has ever been turned down for saying "um." But an interview does something nothing else in your file can: it lets a real person hear you think and talk. A good one adds warmth and color to an application. A poorly prepared one is an easy miss to avoid.
 
 The good news is that interviewers aren't trying to catch you out. They aren't testing facts or looking for polished speeches. Mostly, they want to have a genuine conversation with a curious, engaged person. This chapter explains the different kinds of interviews, then covers how to prepare, practice, ask good questions, and follow up.
 
@@ -115,7 +115,7 @@ Marcus has a virtual alumni interview with Lakeshore University on a Thursday ev
 
 ### Interview Preparation
 
-**Interview preparation** is getting ready to have a natural, engaged conversation about yourself and the college. You're not memorizing answers. Good preparation has four parts.
+**Interview preparation** is getting ready to have a natural, engaged conversation about yourself and the college. You're not memorizing answers. You're preparing to be yourself, slightly more awake. Good preparation has four parts.
 
 **Know your own application.** Reread your activities list, personal essay, and supplements for that college. Be ready to talk about any of it naturally, especially your intended major, your most important activities, and why you're interested in this college.
 

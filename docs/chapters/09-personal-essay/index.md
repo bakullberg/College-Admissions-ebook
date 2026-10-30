@@ -152,7 +152,7 @@ Most strong essays use most of the space, roughly 550 to 650 words. An essay muc
 - **Mine your activities resume.** Your resume from Chapter 8 lists where your time goes. The moments inside those activities are often essay material.
 - **Use object and place prompts.** List ten objects in your room that matter to you, or five places where you feel most like yourself. Write a sentence about why for each.
 
-Brainstorming should feel loose. Write everything down, including ideas that seem silly. You're collecting, not judging.
+Brainstorming should feel loose. Write everything down, including ideas that seem silly. You're collecting, not judging. (Plenty of strong essays started as "this is probably dumb, but…")
 
 #### Worked Example: Ana's Brainstorm
 
@@ -350,7 +350,7 @@ Her revision: *"I found out I like the exact second someone finally gets it, the
 
 ### Essay Structure
 
-**Essay structure** is the way an essay's parts are arranged: where it begins, how it moves, and where it ends. A personal essay doesn't need the five-paragraph format from English class. It needs a shape that carries the reader through your story and into your reflection. Three structures work well for most personal essays:
+**Essay structure** is the way an essay's parts are arranged: where it begins, how it moves, and where it ends. A personal essay doesn't need the five-paragraph format from English class. Your English teacher will understand. It needs a shape that carries the reader through your story and into your reflection. Three structures work well for most personal essays:
 
 - **Narrative arc:** a single story told mostly in order, with an opening scene, a turning point, and reflection on what changed. It's the most common structure and the easiest to control.
 - **Montage:** several short scenes or images connected by a common thread, such as an object, a place, or a quality, with reflection tying them together. It works well when no single moment tells the whole story.
@@ -456,7 +456,7 @@ The revision connects the story to her present life, names a specific insight, a
 
 ### Drafting
 
-**Drafting** is the stage of writing where you get the whole essay down on the page for the first time. The most useful advice about drafting is to **write the first draft fast and messy.** Don't edit while you draft. Get the entire story down, even badly, from beginning to end, before you start refining anything. Students who try to make each sentence perfect before writing the next often stall for weeks.
+**Drafting** is the stage of writing where you get the whole essay down on the page for the first time. The most useful advice about drafting is to **write the first draft fast and messy.** Don't edit while you draft. Your inner critic can have the next draft. Get the entire story down, even badly, from beginning to end, before you start refining anything. Students who try to make each sentence perfect before writing the next often stall for weeks.
 
 A good drafting session looks like this:
 
@@ -515,7 +515,7 @@ The story never changed after Draft 1. What changed was where it started, what i
 
 **Editing and proofreading** are the final checks of an essay, after revision is done, for errors in grammar, spelling, punctuation, word choice, and formatting. **Editing** looks at sentences: clarity, wordiness, and word choice. **Proofreading** is the last pass for typos and mechanical mistakes. Errors don't usually sink an essay, but they can distract a reader and suggest carelessness.
 
-Proofread in ways that make you see the words fresh. Read the essay aloud, slowly. Read it on paper or in a different font. Read it backward, sentence by sentence, to catch typos your brain auto-corrects. Have one careful reader do a final proofread. Then paste the essay into the Common App box and **read it there,** since formatting such as italics, paragraph breaks, and special characters sometimes changes when you paste. Check the word count in the box itself. Finally, save the exact submitted version in your essay drafts folder, labeled "FINAL — submitted."
+Proofread in ways that make you see the words fresh. Read the essay aloud, slowly. Read it on paper or in a different font. Read it backward, sentence by sentence, to catch typos your brain auto-corrects. Have one careful reader do a final proofread. Then paste the essay into the Common App box and **read it there,** since formatting such as italics, paragraph breaks, and special characters sometimes changes when you paste. Check the word count in the box itself. Finally, save the exact submitted version in your essay drafts folder, labeled "FINAL — submitted." (Not "FINAL — submitted (2).")
 
 ## Key Takeaways
 

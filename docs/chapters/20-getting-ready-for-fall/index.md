@@ -53,7 +53,7 @@ This chapter builds on concepts from:
 
 ## From Decision to Day One
 
-Committing to a college by May 1 can feel like the end of the process. It isn't. It's the start of a different, more practical one. The months between your deposit and move-in day are full of forms and small deadlines, such as housing, orientation, health records, and course registration. They're easy to lose track of once the emotional weight of decisions has lifted and senior year is ending.
+Committing to a college by May 1 can feel like the end of the process. It isn't. (Sorry.) It's the start of a different, more practical one. The months between your deposit and move-in day are full of forms and small deadlines, such as housing, orientation, health records, and course registration. They're easy to lose track of once the emotional weight of decisions has lifted and senior year is ending.
 
 This chapter carries you from your deposit to your first day on campus. You'll plan the summer transition, apply for housing and choose a roommate, register for orientation, sort out placement tests and AP credit, register for classes, complete health forms, and avoid **summer melt**, the surprisingly common problem of admitted students who never arrive. Then the book closes by pulling everything together. You'll get a month-by-month planner for senior year, a reminder to verify every policy for your own year, and a complete application roadmap for one real school, the University of Iowa, from the first spreadsheet to move-in day.
 

@@ -89,7 +89,7 @@ Emily's list wasn't bad because it was ambitious. It was risky because it had be
 
 Your **personal priorities** are the things you most need from a college experience, ranked by how much they matter to you. They might include studying a particular subject, staying close to family, keeping costs low, playing a sport, finding a strong religious community, living in a city, or having small classes where professors know your name.
 
-Priorities differ from preferences in one important way: **you have to rank them.** Almost everyone would like a beautiful campus, famous professors, great food, and a low price. No college has all of those, so the real question is which ones you'd give up to keep the others. If you'd choose a lower price over a bigger name, that's a priority. If you'd choose a city campus over a lower price, that's a priority too. Neither answer is wrong. The point is to know which way you lean before a glossy brochure or a friend's opinion decides for you.
+Priorities differ from preferences in one important way: **you have to rank them.** Almost everyone would like a beautiful campus, famous professors, great food, and a low price. No college has all of those, so the real question is which ones you'd give up to keep the others. If you'd choose a lower price over a bigger name, that's a priority. If you'd choose a city campus over a lower price, that's a priority too. Neither answer is wrong. The point is to know which way you lean before a glossy brochure or a friend's opinion decides for you. Brochures are very persuasive. It's always sunny in a brochure.
 
 Priorities usually fall into a few groups:
 
@@ -114,7 +114,7 @@ Ranking changed Marcus's search. When he found a college with a famous CS progra
 
 ## Self-Assessment
 
-A **self-assessment** is a structured set of questions you answer about yourself to identify your personal priorities before you start researching colleges. Many students find they don't know what they want until something forces them to think it through. A self-assessment does that by breaking a vague question ("What kind of college do I want?") into specific ones you can actually answer.
+A **self-assessment** is a structured set of questions you answer about yourself to identify your personal priorities before you start researching colleges. Many students find they don't know what they want until something forces them to think it through. This section is that something. A self-assessment does that by breaking a vague question ("What kind of college do I want?") into specific ones you can actually answer.
 
 A useful self-assessment covers five areas. Each one gets its own section later in this chapter, so for now the goal is just to answer the questions honestly:
 
@@ -270,7 +270,7 @@ Sam's evidence points toward a small or medium school, with a check on activitie
 - **College town:** a small or mid-sized town shaped by the college, where much of the town's life revolves around students. These towns often combine a strong campus feel with a lively downtown.
 - **Rural:** in the countryside, often with beautiful surroundings and outdoor activities, a strong campus-centered community, and fewer off-campus options.
 
-Climate belongs here too. Students underestimate how much weather affects daily life. A long northern winter or a humid southern summer can be an adjustment if you've never lived through one. It doesn't need to rule a college out, but it's worth knowing before you go.
+Climate belongs here too. Students underestimate how much weather affects daily life. A long northern winter or a humid southern summer can be an adjustment if you've never lived through one. Campus tours, oddly, are rarely scheduled for February. It doesn't need to rule a college out, but it's worth knowing before you go.
 
 ### Distance From Home
 

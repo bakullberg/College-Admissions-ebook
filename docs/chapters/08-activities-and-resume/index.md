@@ -49,7 +49,7 @@ This chapter builds on concepts from:
 
 Your transcript shows what you did in class. Everything else you do with your time, including clubs, sports, jobs, caring for family, volunteering, and teaching yourself to code or cook or repair bikes, shows something a transcript can't: what you choose to do when no one is assigning it. That's why colleges ask about it. It tells a reader what you care about, how you take on responsibility, and what you might add to a campus.
 
-Many students underestimate this part of their application in one of two ways. Some assume only official, school-sponsored activities count, so they leave off a job or family duties that take twenty hours a week. Others assume more is always better, so they list every club they ever joined. Both mistakes come from the same misunderstanding of what readers are looking for.
+Many students underestimate this part of their application in one of two ways. Some assume only official, school-sponsored activities count, so they leave off a job or family duties that take twenty hours a week. Others assume more is always better, so they list every club they ever joined, including the one that met twice in ninth grade. Both mistakes come from the same misunderstanding of what readers are looking for.
 
 This chapter corrects it. You'll start with what counts as an extracurricular activity, which is far more than most students think. Then you'll look at the qualities readers value, including leadership, sustained commitment, depth, and measurable impact, and why being well-rounded matters less than you've heard. Next comes the specific kinds of activities worth listing, from jobs and family responsibilities to summer experiences and personal interests. Finally, you'll learn to write the activities list itself, entry by entry, and build an activities resume that also feeds your essays and recommendations.
 
@@ -359,7 +359,7 @@ Sam's tutoring entry starts as *"Helped with tutoring at the middle school."* Sa
 
 An **activity description** is the short text, up to 150 characters on the Common App, that explains what you did in an activity and what came of it. It's where readers learn the substance behind a title. A strong description follows a simple pattern: **action + specifics + result.** Lead with your strongest action verb, add a number or concrete detail, and end with the result or scope.
 
-A few techniques help you fit more into less space:
+A few techniques help you fit more into less space, a bit like writing a very serious text message:
 
 - **Skip "I" and full sentences.** Write in clipped phrases, like a résumé: "Trained 2 new servers," not "I trained two new servers."
 - **Use numerals and common abbreviations.** "3 hrs/wk" saves space, and readers expect it.

@@ -86,7 +86,7 @@ Your **application status** is the current state of your application at a colleg
 
 ### Checking Portals Regularly
 
-**Checking portals regularly** means logging in to each college's applicant portal on a sensible schedule to catch missing documents, requests for information, and decisions, without checking compulsively. A good rhythm is **once a week** until every file is complete, then **once a week or less** during reading season, plus checking the morning of each published decision date. Daily or hourly checking rarely turns up anything new. It mostly produces anxiety. Most colleges also email you when something changes, so make sure portal and college emails reach the dedicated inbox from Chapter 5 and aren't filtered as spam.
+**Checking portals regularly** means logging in to each college's applicant portal on a sensible schedule to catch missing documents, requests for information, and decisions, without checking compulsively. A good rhythm is **once a week** until every file is complete, then **once a week or less** during reading season, plus checking the morning of each published decision date. Daily or hourly checking rarely turns up anything new. Like a watched pot, a portal has never once updated faster because someone was staring at it. It mostly produces anxiety. Most colleges also email you when something changes, so make sure portal and college emails reach the dedicated inbox from Chapter 5 and aren't filtered as spam.
 
 ### Decision Release Dates
 

@@ -60,7 +60,7 @@ This chapter builds on concepts from:
 
 ## Where Everything Comes Together
 
-Every earlier chapter built a piece of your application: your list, your test plan, your activities, your essays, your recommenders. This chapter is where those pieces go into the form itself. Most of the Common App is straightforward. But a few spots trip up nearly every applicant, such as a misspelled name, a missing dual-enrollment course, a self-reported grade that doesn't match the transcript, or a recommender never assigned to a college. Mistakes like these can delay or derail an application that's otherwise strong.
+Every earlier chapter built a piece of your application: your list, your test plan, your activities, your essays, your recommenders. This chapter is where those pieces go into the form itself. Think of it as assembling furniture: all the parts are here, and the instructions matter. Most of the Common App is straightforward. But a few spots trip up nearly every applicant, such as a misspelled name, a missing dual-enrollment course, a self-reported grade that doesn't match the transcript, or a recommender never assigned to a college. Mistakes like these can delay or derail an application that's otherwise strong.
 
 This chapter walks through the application in the order you'll meet it. It starts with the two shared platforms, the Common App and the Coalition App, and the Common App's dashboard, where you add colleges. Then it goes section by section through the core application: profile, family, education, testing, activities, and writing, plus the courses-and-grades section some colleges require. Next come each college's own questions and writing supplements, and assigning recommenders. The chapter ends with fees and waivers, previewing and submitting, confirming submission, and sending official transcripts and test scores.
 
@@ -269,7 +269,7 @@ A **fee waiver** is a request to have an application fee waived because paying i
 
 The **application preview** is the PDF of your completed application, exactly as a college will see it, which the Common App generates before you submit. Preview your application for every college before submitting, even if you've already submitted to others. Each college's version includes its own questions and supplements, and formatting can shift between the entry form and the PDF. Line breaks, special characters, and essay paragraphs sometimes display differently.
 
-Read the preview slowly, top to bottom. Check your name, contact information, and every date. Read your activities and essay as a reader would. Confirm that every section you expected is present. The preview is your last chance to catch errors before a reader does. The checklist below walks you through a full pre-submission review.
+Read the preview slowly, top to bottom. Check your name, contact information, and every date. Read your activities and essay as a reader would. Confirm that every section you expected is present. The preview is your last chance to catch errors before a reader does. Typos have a way of appearing the moment after you click Submit, so look now. The checklist below walks you through a full pre-submission review.
 
 #### Diagram: Pre-Submission Checklist
 

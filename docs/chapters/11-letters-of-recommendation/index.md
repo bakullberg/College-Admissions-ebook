@@ -44,7 +44,7 @@ This chapter builds on concepts from:
 
 ## Someone Else's Words About You
 
-Almost everything in your application comes from you: your activities list, your essays, your self-reported courses. Recommendation letters are different. They're other people's words about you, written by adults who have watched you learn and work. That's what makes them valuable to readers, and also what makes them feel out of your control.
+Almost everything in your application comes from you: your activities list, your essays, your self-reported courses. Recommendation letters are different. They're the one part of your application you can't write, edit, or spell-check. They're other people's words about you, written by adults who have watched you learn and work. That's what makes them valuable to readers, and also what makes them feel out of your control.
 
 You can't write your own letters, and you shouldn't try to see them. But you have far more influence over them than most students realize. You choose who writes them. You choose when to ask and how. You also give your recommenders the material they need, so they can write a specific, vivid letter instead of a generic one.
 
@@ -154,7 +154,7 @@ Implementation: p5.js with createInput, createSelect, createSlider, createCheckb
 
 ### Recommendation Request Timing
 
-**Recommendation request timing** is when you ask teachers to write your letters. Ask **in the spring of junior year or at the very start of senior year,** well before fall deadlines. Teachers who write letters often receive many requests, and some limit how many they accept. The earliest askers get the most time and attention, and asking in spring also gives teachers the summer to think. A good rule is to ask at least **six to eight weeks** before your first deadline. For a November 1 Early Action application, that means mid-September at the latest. Chapter 1's worked example on planning backward from a deadline showed exactly this. If your school has its own timeline for requests, such as a counselor's form due in May, follow it.
+**Recommendation request timing** is when you ask teachers to write your letters. Ask **in the spring of junior year or at the very start of senior year,** well before fall deadlines. Teachers who write great letters are in high demand, and nobody wants to be request number forty. Teachers who write letters often receive many requests, and some limit how many they accept. The earliest askers get the most time and attention, and asking in spring also gives teachers the summer to think. A good rule is to ask at least **six to eight weeks** before your first deadline. For a November 1 Early Action application, that means mid-September at the latest. Chapter 1's worked example on planning backward from a deadline showed exactly this. If your school has its own timeline for requests, such as a counselor's form due in May, follow it.
 
 ### Asking for a Recommendation
 

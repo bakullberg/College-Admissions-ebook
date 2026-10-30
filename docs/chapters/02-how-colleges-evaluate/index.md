@@ -202,7 +202,7 @@ The core-only number is a little lower, because the easy A in Health no longer p
 
 ### Unweighted GPA
 
-An **unweighted GPA** is a GPA calculated on a plain scale where every course counts the same way, no matter how difficult it is. An A is worth 4 points whether it comes from AP Physics or a study-skills elective. That means an unweighted GPA tops out at 4.0. The calculation above is unweighted.
+An **unweighted GPA** is a GPA calculated on a plain scale where every course counts the same way, no matter how difficult it is. An A is worth 4 points whether it comes from AP Physics or a study-skills elective. (The A in AP Physics just costs more sleep.) That means an unweighted GPA tops out at 4.0. The calculation above is unweighted.
 
 Colleges like the unweighted GPA because it's the closest thing to a common language across high schools. Weighting systems differ from school to school, but an A is an A nearly everywhere. Report it accurately on your applications, using the number from your transcript, and leave course difficulty to show up where colleges look for it: in the courses themselves.
 
@@ -257,7 +257,7 @@ Rank still matters in a few places. Texas law, for example, guarantees admission
 
 ## Course Rigor
 
-**Course rigor** is how challenging your schedule is compared with what your high school offers. It's measured by the level of your courses, not by how hard they felt to you. Honors, AP, IB, and dual-enrollment courses all signal rigor, and so does taking a subject further than required, such as a fourth year of math or a third year of lab science.
+**Course rigor** is how challenging your schedule is compared with what your high school offers. It's measured by the level of your courses, not by how hard they felt to you. "This class made me question everything" is not, sadly, a recognized course level. Honors, AP, IB, and dual-enrollment courses all signal rigor, and so does taking a subject further than required, such as a fourth year of math or a third year of lab science.
 
 The key words in that definition are *what your high school offers*. Readers judge rigor in context, using the school profile. A student at a school with four AP courses who takes all four has shown maximum rigor. A student at a school with twenty-five APs who takes four has shown a moderate amount. The same schedule can mean very different things depending on where it was built.
 
@@ -621,7 +621,7 @@ The result is that Marcus's limited time goes where it can actually change an ou
 
 ## Admissions Myths
 
-**Admissions myths** are widely repeated beliefs about how colleges choose students that don't match how admissions offices actually work. They spread because the process is hidden and the stakes feel high. They do harm because students make real decisions based on them. With this chapter's vocabulary, you can test four common ones against the facts:
+**Admissions myths** are widely repeated beliefs about how colleges choose students that don't match how admissions offices actually work. They spread because the process is hidden and the stakes feel high, and usually through a friend's cousin who "knows someone in admissions." They do harm because students make real decisions based on them. With this chapter's vocabulary, you can test four common ones against the facts:
 
 - **"You need a perfect GPA."** Most colleges admit a wide range of GPAs. Even at selective schools, a quarter of enrolled students fall below the middle 50% range, and rigor and trend matter alongside the number.
 - **"Holistic means grades don't really matter."** The academic record is the most important factor at nearly every holistic college. Holistic review adds context to it. It doesn't replace it.

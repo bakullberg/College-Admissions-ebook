@@ -53,7 +53,7 @@ Throughout the chapter, you'll follow Marcus from earlier chapters. His prioriti
 
 ## College Research Tools
 
-**College research tools** are the sources you use to learn about specific colleges: data about admissions, cost, and outcomes, and first-hand impressions of what it's like to study and live there. No single tool tells you everything. Each one is good at answering certain questions and weak at others, so effective research means knowing which tool to reach for.
+**College research tools** are the sources you use to learn about specific colleges: data about admissions, cost, and outcomes, and first-hand impressions of what it's like to study and live there. No single tool tells you everything. (If one did, this chapter would be much shorter.) Each one is good at answering certain questions and weak at others, so effective research means knowing which tool to reach for.
 
 It helps to sort research tools into two groups:
 
@@ -124,7 +124,7 @@ Without the matching step, Marcus might have tried to answer all four questions 
 
 A **college search website** is a third-party site that lets you search and filter many colleges at once by traits like size, location, majors, cost, and selectivity. Examples include the College Board's BigFuture, Niche, and Cappex. These sites are good for **casting a wide net**. You can find colleges you've never heard of that match your priorities, which is exactly what a long list needs.
 
-Use them with two cautions. First, their numbers usually come from federal data or the Common Data Set, sometimes a year or two old, so check important figures against the source. Second, treat any "match score," "grade," or ranking as a starting point, not a verdict. Those scores reflect someone else's choices about what matters, not your priorities.
+Use them with two cautions. First, their numbers usually come from federal data or the Common Data Set, sometimes a year or two old, so check important figures against the source. Second, treat any "match score," "grade," or ranking as a starting point, not a verdict. Those scores reflect someone else's choices about what matters, not your priorities. A 94% match is a compliment from an algorithm, not a promise.
 
 ### The College Scorecard
 
@@ -213,7 +213,7 @@ Implementation: Chart.js grouped bar chart with a custom plugin for the gap brac
 
 A **campus visit** is a trip to a college to see it in person, usually including a guided tour and often an admissions information session. It's the single best way to judge campus culture and social fit, because it shows you things no website can: how students talk to each other, how the place feels on an ordinary day, and whether you can picture yourself there.
 
-A visit is worth more when you plan it. A few habits make the difference:
+A visit is worth more when you plan it. Tour guides are trained to walk backward and stay cheerful; your job is to notice everything they walk past. A few habits make the difference:
 
 - **Visit while classes are in session** if you can, so you see the campus on a normal day rather than an empty one.
 - **Go beyond the tour.** Tour guides are trained, enthusiastic volunteers. Also eat in a dining hall, sit in on a class if the college allows it, walk through the neighborhood, and read the student newspaper or bulletin boards.
@@ -237,7 +237,7 @@ In his notes he writes: *Big intro CS but good support. Friendly, collaborative.
 
 An **admissions information session** is a presentation by a college's admissions staff, usually about an hour long, that explains the college's academics, student life, admissions process, and financial aid. Sessions are held on campus, often before tours, and many colleges also run them online or in high schools and hotels as part of regional travel.
 
-Sessions are useful because they give you the college's own description of what it looks for and how its process works, sometimes including details you won't find online, such as how it reads applications by region or which majors are hardest to enter. They're also a chance to ask questions. Come with one or two specific ones, and remember that the session is a recruiting event, so pair what you hear with neutral data.
+Sessions are useful because they give you the college's own description of what it looks for and how its process works, sometimes including details you won't find online, such as how it reads applications by region or which majors are hardest to enter. They're also a chance to ask questions. Come with one or two specific ones, and remember that the session is a recruiting event, so pair what you hear with neutral data. Every college, it turns out, has "a really strong sense of community."
 
 ### Virtual Tours
 

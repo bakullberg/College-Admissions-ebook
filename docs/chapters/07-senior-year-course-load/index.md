@@ -244,7 +244,7 @@ Riley wrote an honest, brief explanation, took responsibility, and described a p
 
 ### Senioritis
 
-**Senioritis** is the informal name for the drop in motivation and effort many seniors feel, especially after college applications are submitted or decisions arrive. It's real, and it's understandable. You've worked hard for years, and the finish line feels close. The goal isn't to work as hard as you did junior year. It's to **not check out completely.** Keep attending, keep turning in work, and keep your grades roughly where they were. Go easier on extras, not on the courses you committed to.
+**Senioritis** is the informal name for the drop in motivation and effort many seniors feel, especially after college applications are submitted or decisions arrive. It's real, and it's understandable. It is not, unfortunately, an excuse colleges accept. You've worked hard for years, and the finish line feels close. The goal isn't to work as hard as you did junior year. It's to **not check out completely.** Keep attending, keep turning in work, and keep your grades roughly where they were. Go easier on extras, not on the courses you committed to.
 
 ### The Mid-Year Report
 

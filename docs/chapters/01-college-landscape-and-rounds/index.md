@@ -51,7 +51,7 @@ This chapter assumes only the prerequisites listed in the [course description](.
 
 Before you build a list or write a word of an essay, it helps to know the ground you're crossing. Applying to college has its own vocabulary — *Early Action*, *flagship*, *admit rate*, *binding* — and admissions offices use those words as if everyone already knows them. Students with a parent or private counselor who has done this before pick the vocabulary up at the dinner table. Everyone else has to learn it from scratch, usually in a panic in October.
 
-This chapter is that vocabulary, in the order you'll need it. You'll start with the process as a whole and the calendar it runs on. Then you'll look at the kinds of four-year colleges you can apply to and what "selective" really means. You'll meet the people who read your application. Finally, you'll learn the different application rounds, which ones lock you in, and which ones keep your options open. Every later chapter builds on these terms.
+This chapter is that vocabulary, in the order you'll need it. You'll start with the process as a whole and the calendar it runs on. Then you'll look at the kinds of four-year colleges you can apply to and what "selective" really means. You'll meet the people who read your application. Finally, you'll learn the different application rounds, which ones lock you in, and which ones keep your options open. Every later chapter builds on these terms. Consider this your phrasebook for a country called Admissions.
 
 ## The College Admissions Process
 
@@ -202,7 +202,7 @@ The deadline on the college's website is November 1, but your real deadline for 
 
 An **application deadline** is the date and time by which a college must receive your application for it to be considered in a given round. That definition has two details worth slowing down on.
 
-First, *receive*, not *start*. If the Common App's servers are slow at 11:30 p.m. on deadline night, which happens nearly every year, that is your problem, not the college's. Submitting a few days early is the only reliable protection.
+First, *receive*, not *start*. If the Common App's servers are slow at 11:30 p.m. on deadline night, which happens nearly every year, that is your problem, not the college's. Submitting a few days early is the only reliable protection. Nobody has ever said, "I'm so glad I waited until the last ten minutes."
 
 Second, a "deadline" is usually several deadlines. Most colleges separate the application form itself from the materials that support it, and some set additional dates for financial aid or scholarships. A single college can easily have three or four dates that matter to you:
 
@@ -233,7 +233,7 @@ Two things stand out. First, the financial aid priority date of December 1 falls
 
 A **four-year college** is a school that awards the **bachelor's degree**, the undergraduate degree designed to take about four years of full-time study. This book is about applying to four-year colleges, as opposed to community colleges, which mainly award two-year associate degrees and generally admit anyone with a high school diploma.
 
-"College" and "university" are used loosely in everyday speech, and the names on campus signs aren't always consistent. Dartmouth College is a research university with graduate schools; some places called "university" are small and focus on undergraduates. So don't judge a school by its name. Ask what kind of institution it actually is.
+"College" and "university" are used loosely in everyday speech, and the names on campus signs aren't always consistent. Dartmouth College is a research university with graduate schools; some places called "university" are small and focus on undergraduates. So don't judge a school by its name. Ask what kind of institution it actually is. (Some "colleges" are huge universities, and some "universities" could almost fit in your high school gym.)
 
 There are more than two thousand four-year colleges in the United States. They are sorted along two main lines that you'll use to describe any school on your list:
 
@@ -345,7 +345,7 @@ Implementation: p5.js with createButton, createInput, and drag handling on canva
 
 Because public universities are funded by state taxpayers, they distinguish between applicants who live in the state and those who don't.
 
-**In-state residency** is the legal status of a student whose home is officially in a public university's state, which qualifies that student for the lower in-state tuition rate. Each state sets its own rules. For most high school seniors, residency follows where your parents or guardians live and pay taxes. Most states require at least a year of living there before you enroll. Moving to a state just to attend college usually doesn't make you a resident right away.
+**In-state residency** is the legal status of a student whose home is officially in a public university's state, which qualifies that student for the lower in-state tuition rate. Each state sets its own rules. For most high school seniors, residency follows where your parents or guardians live and pay taxes. Most states require at least a year of living there before you enroll. Moving to a state just to attend college usually doesn't make you a resident right away. A summer road trip doesn't count either.
 
 An **out-of-state applicant** is a student applying to a public university in a state where they are not a legal resident. Out-of-state students pay a higher tuition rate, often two to three times the in-state rate. At some public universities they also face a tougher admissions bar, because the school reserves most of its seats for residents. The University of North Carolina at Chapel Hill, for example, limits out-of-state students to about 18 percent of each first-year class by state policy.
 
@@ -459,7 +459,7 @@ Marcus's application is the same in all three cases. What changes is how selecti
 
 The **admissions office** is the department of a college that recruits students, reads applications, makes admission decisions, and manages the process of turning admitted students into enrolled ones. When you email a question, attend an information session, or submit an application, you're dealing with the admissions office. At most colleges it works closely with, but separately from, the financial aid office, which decides what you'll pay.
 
-An admissions office has two jobs that pull in opposite directions. It wants as many good applications as possible, so it markets the college to students: visits to high schools, college fairs, emails, campus tours. Then it has to turn most of those applicants away, or at least choose among them, to build a class that fits the college's goals. Understanding both jobs explains a lot of what you'll experience. The glossy brochures are the first job. The careful reading of your file is the second.
+An admissions office has two jobs that pull in opposite directions. It wants as many good applications as possible, so it markets the college to students: visits to high schools, college fairs, emails, campus tours. Then it has to turn most of those applicants away, or at least choose among them, to build a class that fits the college's goals. Understanding both jobs explains a lot of what you'll experience. The glossy brochures are the first job. The careful reading of your file is the second. Your mailbox will meet the first job long before you meet the second.
 
 Admissions offices also run on the calendar you saw earlier. Fall is travel season, when staff visit high schools and fairs. Winter is reading season, when the office reads applications almost full time. Spring is decision and recruitment season, when admitted students are invited to campus. Summer is planning for the next cycle.
 

@@ -43,7 +43,7 @@ This chapter builds on concepts from:
 
 ## One Choice, Made Deliberately
 
-Every earlier chapter led here. You built a list from your priorities, applied with care, compared aid offers, and responded to every decision. Now you choose one college. That's a big decision, but it's not a mysterious one. You already have most of what you need: your priorities from Chapter 3, your cost comparisons from Chapter 16, and the decisions from Chapter 18. What's left is to bring them together, test them against what you learn from revisiting campuses, and commit.
+Every earlier chapter led here. No pressure. You built a list from your priorities, applied with care, compared aid offers, and responded to every decision. Now you choose one college. That's a big decision, but it's not a mysterious one. You already have most of what you need: your priorities from Chapter 3, your cost comparisons from Chapter 16, and the decisions from Chapter 18. What's left is to bring them together, test them against what you learn from revisiting campuses, and commit.
 
 This chapter is about making that choice deliberately, not by default or under deadline pressure. You'll compare your offers side by side, weighing cost, fit, and outcomes. You'll use admitted student days and campus revisits to test your top options. Then you'll make your final choice, accept your offer with an enrollment deposit by May 1, and decline your other offers the right way, without double depositing.
 

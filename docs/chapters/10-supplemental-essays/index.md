@@ -75,7 +75,7 @@ Emily's requirements matrix from Chapter 5 shows that her ten colleges ask for:
 - **One college:** a 200-word major essay and three short answers (50 words each).
 - **College A, her top reach:** a 250-word activity essay, a 250-word community essay, and five short answers (100 words or less).
 
-That's **18 separate pieces of writing**, about 3,000 words in total, more than four times the length of her personal essay. Seeing the total in August, rather than discovering it one college at a time in October, changes how she schedules her fall.
+That's **18 separate pieces of writing**, about 3,000 words in total, more than four times the length of her personal essay. Surprise: the personal essay was the short part. Seeing the total in August, rather than discovering it one college at a time in October, changes how she schedules her fall.
 
 ## School-Specific Research
 
@@ -213,7 +213,7 @@ The revision is specific, a little funny, and shows a trait, care with details, 
 
 ### The Recycled Essay Trap
 
-The **recycled essay trap** is the mistake of writing one supplemental essay, usually a Why Us essay, and sending it to several colleges with only the name changed. With a long list, it's tempting. Readers can usually tell, and it undercuts an otherwise strong application. A generic essay signals low genuine interest, which matters at colleges that track demonstrated interest. Worse, recycled essays sometimes keep the wrong college's name or details, which readers notice every year. Reusing your *thinking* and *material* across colleges is fine, and smart. Reusing your *sentences* unchanged is the trap.
+The **recycled essay trap** is the mistake of writing one supplemental essay, usually a Why Us essay, and sending it to several colleges with only the name changed. With a long list, it's tempting. It's also how a college ends up reading about how much you love a different college's library. Readers can usually tell, and it undercuts an otherwise strong application. A generic essay signals low genuine interest, which matters at colleges that track demonstrated interest. Worse, recycled essays sometimes keep the wrong college's name or details, which readers notice every year. Reusing your *thinking* and *material* across colleges is fine, and smart. Reusing your *sentences* unchanged is the trap.
 
 ### Essay Adaptation
 
