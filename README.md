@@ -26,7 +26,7 @@ every step.
 The book's 20 chapters follow the order of senior year: how admissions works, building and researching a
 list, getting organized, the SAT and ACT, senior-year courses, activities, the personal and supplemental
 essays, recommendations, the Common App, interviews, financial aid, scholarships, award letters, waiting,
-decisions, the final choice and the summer before college. A fictional senior, Priya, works through each
+decisions, the final choice and the summer before college. A fictional senior, Emily, works through each
 step as a running example, and the book closes with a complete application roadmap for one real school, the
 University of Iowa.
 

@@ -73,7 +73,7 @@ A reader sees a student who took the harder option in nearly every subject where
 
 A **weighted GPA** is a GPA that gives extra points for harder courses, such as honors, AP, IB, or dual enrollment, so that an A in an advanced class counts for more than an A in a standard one. A common system adds 0.5 points for honors and 1.0 point for AP, IB, and dual enrollment, so on a 4.0 base an A in an AP course counts as 5.0. Weighted GPAs can therefore go above 4.0. Schools use many different weighting systems, though, which is why many colleges ignore the weighted number and recalculate GPA themselves, as Chapter 2 described.
 
-Here's Priya's junior year from Chapter 2, recalculated with that common weighting:
+Here's Emily's junior year from Chapter 2, recalculated with that common weighting:
 
 | Course | Grade | Unweighted points | Weight | Weighted points | Credits |
 |--------|-------|-------------------|--------|-----------------|---------|
@@ -118,7 +118,7 @@ For admissions, AP scores are usually **optional to report**. Most colleges let 
 
 #### Worked Example: What an AP Score Is Worth
 
-Priya scored a 5 on AP U.S. History, a 4 on AP English Language, and a 3 on AP Chemistry as a junior. On her applications, she self-reports the 5 and the 4 and leaves off the 3.
+Emily scored a 5 on AP U.S. History, a 4 on AP English Language, and a 3 on AP Chemistry as a junior. On her applications, she self-reports the 5 and the 4 and leaves off the 3.
 
 After she enrolls, credit depends on the college. At her state flagship, the posted policy grants credit for 3s and up in all three subjects, about 11 semester hours, close to a full semester. At Hillcrest College, only 4s and 5s count, and AP credit can't replace the first-year writing seminar, so she'd receive 3 credits for U.S. History and none for the other two. The same scores are worth very different amounts depending on where she enrolls, which is something to check when she compares offers in the spring.
 
@@ -223,12 +223,12 @@ Dropping a core subject or easing off sharply to make senior year lighter is one
 
 #### Worked Example: Two Senior Schedules
 
-Priya's school counselor reviews two draft senior schedules with her.
+Emily's school counselor reviews two draft senior schedules with her.
 
 - **Draft 1:** AP Literature, AP Government, AP Calculus AB, AP Biology, AP Spanish, and AP Psychology. Six APs.
 - **Draft 2:** AP Literature, AP Government, AP Calculus AB, AP Spanish, regular Physics, and a creative writing elective. Four APs.
 
-Draft 1 is the most demanding schedule her school allows. But Priya is also writing ten applications, and her math grades have been her weak spot. Draft 2 keeps all five core subjects, keeps math at the AP level, adds a fourth year of science, and continues her humanities strength with an elective she loves. Her counselor tells her Draft 2 still earns a "very demanding" rating. Priya chooses Draft 2. It's the schedule she's described in earlier chapters, with four APs as a senior.
+Draft 1 is the most demanding schedule her school allows. But Emily is also writing ten applications, and her math grades have been her weak spot. Draft 2 keeps all five core subjects, keeps math at the AP level, adds a fourth year of science, and continues her humanities strength with an elective she loves. Her counselor tells her Draft 2 still earns a "very demanding" rating. Emily chooses Draft 2. It's the schedule she's described in earlier chapters, with four APs as a senior.
 
 ## Senior Grades
 
@@ -358,7 +358,7 @@ Canvas layout:
 
 Rules shown on screen: dropping below four core subjects triggers a warning ("Dropping a core subject can weaken your application"). Six AP/IB courses plus more than 15 job or activity hours triggers the burnout-risk message regardless of total.
 
-Presets (createButton): "Priya Draft 1" (6 AP, activity 6, applications 8 → Most demanding, Burnout risk), "Priya Draft 2" (4 AP, regular Physics, creative writing elective, activity 6, applications 8 → Very demanding, Heavy but manageable), "Marcus" (2 AP, 2 dual enrollment, regular English, elective, job 15, applications 6).
+Presets (createButton): "Emily Draft 1" (6 AP, activity 6, applications 8 → Most demanding, Burnout risk), "Emily Draft 2" (4 AP, regular Physics, creative writing elective, activity 6, applications 8 → Very demanding, Heavy but manageable), "Marcus" (2 AP, 2 dual enrollment, regular English, elective, job 15, applications 6).
 
 Controls (all created in setup() before positioning): createSelect and createCheckbox per slot, three createSlider controls, and createButton presets and "Reset."
 

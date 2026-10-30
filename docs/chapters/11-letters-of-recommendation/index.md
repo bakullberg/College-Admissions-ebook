@@ -56,7 +56,7 @@ This chapter covers what recommendation letters are and the two kinds most colle
 
 Letters matter because they give readers **outside confirmation** of who you are. Your transcript says you earned an A in chemistry. A teacher's letter can say that you were the student who asked why the textbook's explanation didn't match the lab results, then stayed after class to work it out. Holistic readers, as Chapter 2 described, often use letters to inform the "personal qualities" part of their rating.
 
-The strongest letters share one trait: **specificity.** They describe particular moments, projects, and habits that only someone who knows you could describe. A letter that says "Priya is a hardworking, intelligent student" tells a reader almost nothing, since nearly every letter says something similar. A letter that describes how Priya rewrote a classmate's struggling thesis statement in a peer workshop without taking it over tells them a lot.
+The strongest letters share one trait: **specificity.** They describe particular moments, projects, and habits that only someone who knows you could describe. A letter that says "Emily is a hardworking, intelligent student" tells a reader almost nothing, since nearly every letter says something similar. A letter that describes how Emily rewrote a classmate's struggling thesis statement in a peer workshop without taking it over tells them a lot.
 
 You can't control what a recommender writes. But you can make specificity much more likely by choosing someone who knows you well and giving them concrete material to work with. That's the strategy behind everything in this chapter.
 
@@ -106,9 +106,9 @@ Weigh these factors:
 - **Relevance to your goals.** If you're applying to engineering, a math or science letter makes sense. If you're applying undecided, choose the two who know you best.
 - **Their reliability.** A teacher known for meeting deadlines and writing thoughtful letters is worth a lot. Your counselor or older students can tell you who they are.
 
-#### Worked Example: Priya Chooses Two Teachers
+#### Worked Example: Emily Chooses Two Teachers
 
-Priya considers four teachers:
+Emily considers four teachers:
 
 | Teacher | Subject and year | Grade | Knows her well? | Notes |
 |---------|------------------|-------|-----------------|-------|
@@ -117,7 +117,7 @@ Priya considers four teachers:
 | Mr. Grant | AP Chemistry, 11th | B | Yes. She struggled, came for help often, and improved a lot. | Can speak to persistence |
 | Mrs. Diaz | Spanish III, 11th | A | Somewhat | Good relationship, little depth |
 
-Priya's instinct is to ask Ms. Chen, since English is her intended major. But Mr. Okafor knows her work best, and Mr. Grant can describe her persistence in her hardest class, which shows a side of her that her A's don't. She asks Mr. Okafor and Mr. Grant. Ms. Chen still knows her through the literary magazine, so Priya keeps her in mind as a possible additional recommender. The interactive below lets you compare your own options the same way.
+Emily's instinct is to ask Ms. Chen, since English is her intended major. But Mr. Okafor knows her work best, and Mr. Grant can describe her persistence in her hardest class, which shows a side of her that her A's don't. She asks Mr. Okafor and Mr. Grant. Ms. Chen still knows her through the literary magazine, so Emily keeps her in mind as a possible additional recommender. The interactive below lets you compare your own options the same way.
 
 #### Diagram: Recommender Comparison Tool
 
@@ -141,7 +141,7 @@ Canvas layout:
 - Middle: one horizontal card per teacher with a "letter strength" bar. Strength is computed as: knows-you (weight 50%), recency (12th or 11th = full, 10th = half, 9th = low; weight 20%), core subject (weight 15%), reliability checkbox (weight 15%). The grade earned is shown on the card but given no weight, with a note: "Your grade isn't part of the score — readers care more about what the teacher can describe."
 - Bottom: "Best pair" panel that picks the two highest-scoring teachers, preferring different subject areas when scores are close (within 10%). It explains its choice in one sentence.
 
-Presets (createButton): "Priya's four teachers" (from the chapter table), "Two English teachers" (shows the variety preference), and "Clear."
+Presets (createButton): "Emily's four teachers" (from the chapter table), "Two English teachers" (shows the variety preference), and "Clear."
 
 Controls (all created in setup() before positioning): the inputs above and createButton presets.
 
@@ -160,13 +160,13 @@ Implementation: p5.js with createInput, createSelect, createSlider, createCheckb
 
 **Asking for a recommendation** is the conversation, ideally in person, in which you request a letter from a teacher. Keep it simple and direct. Say you'd value their recommendation, and explain *why them* in a specific sentence: what you think they can speak to. Then give them an easy way to decline. Ask, *"Would you feel comfortable writing me a strong recommendation?"* That gives a teacher who doesn't know you well enough room to say so gracefully. You want a letter from someone who says yes with enthusiasm, not one who feels obligated. Follow up the same day with a short email confirming the request and saying when you'll send your materials.
 
-#### Worked Example: Priya Asks Mr. Grant
+#### Worked Example: Emily Asks Mr. Grant
 
-In May of junior year, Priya stops by Mr. Grant's room after class:
+In May of junior year, Emily stops by Mr. Grant's room after class:
 
 *"Mr. Grant, I'm applying to colleges this fall, and I'd really value a recommendation from you. AP Chem was my hardest class, and you saw me work through it, especially stoichiometry, where I came in four or five times. I think you could speak to how I handle things that don't come easily. Would you feel comfortable writing me a strong recommendation?"*
 
-Mr. Grant says yes. That evening, Priya sends a short email thanking him, saying her first deadline is November 1, and telling him she'll send a brag sheet and list of colleges by the end of August.
+Mr. Grant says yes. That evening, Emily sends a short email thanking him, saying her first deadline is November 1, and telling him she'll send a brag sheet and list of colleges by the end of August.
 
 ## Giving Recommenders What They Need
 
@@ -185,7 +185,7 @@ Write it in plain language, and keep it brief. Teachers are busy, and the goal i
 
 #### Worked Example: A Brag Sheet Entry
 
-Here's the "moments" section of Priya's brag sheet for Mr. Grant:
+Here's the "moments" section of Emily's brag sheet for Mr. Grant:
 
 > **Moments from AP Chemistry I'm proud of:**
 >
@@ -193,7 +193,7 @@ Here's the "moments" section of Priya's brag sheet for Mr. Grant:
 > - **Lab report on reaction rates, February.** My group's results didn't match the expected curve. Instead of adjusting the numbers, I suggested we write about why: our water bath temperature drifted. You read part of our discussion section to the class.
 > - **Study group, spring.** I started a Thursday study group for the AP exam, with six classmates.
 
-Each entry gives Mr. Grant a specific, accurate detail he can use, and a reason to remember Priya as more than a B on a gradebook.
+Each entry gives Mr. Grant a specific, accurate detail he can use, and a reason to remember Emily as more than a B on a gradebook.
 
 ### Recommender Deadlines
 
@@ -203,9 +203,9 @@ Each entry gives Mr. Grant a specific, accurate detail he can use, and a reason 
 
 The **recommender packet** is the complete set of materials you give each recommender at once: a short cover note thanking them, your brag sheet for them, your activities resume, a list of your colleges with deadlines and how letters will be submitted, and any school-specific forms. Packaging everything together saves recommenders from having to search through separate emails and makes it far more likely they'll write a strong letter on time. Send it as one email with attachments, or as one shared folder, by the date you promised when you asked, ideally at least four to six weeks before your first deadline. Keep a copy in your filing system's Recommendations folder (Chapter 5).
 
-#### Worked Example: Priya's Packet for Mr. Grant
+#### Worked Example: Emily's Packet for Mr. Grant
 
-On August 28, Priya emails Mr. Grant one message, *"Recommendation materials — Priya Raman,"* with:
+On August 28, Emily emails Mr. Grant one message, *"Recommendation materials — Emily A. Johnson,"* with:
 
 1. A three-sentence note thanking him again.
 2. Her brag sheet for AP Chemistry (one page).

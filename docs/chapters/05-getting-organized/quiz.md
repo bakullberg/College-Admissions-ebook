@@ -50,7 +50,7 @@ Test your understanding of trackers, filing systems, application accounts, and t
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **A**. College-specific requirements, such as extra essays, recommendations, testing rules, and portfolios, are found on the college's own admissions website, usually on a "first-year requirements" or "how to apply" page. The Common App lists each member's requirements, but the chapter says to treat the college's site as the final word because it's updated most directly. Policies change yearly, so a friend's experience last year can be out of date, as Priya's graded-paper example shows.
+    The correct answer is **A**. College-specific requirements, such as extra essays, recommendations, testing rules, and portfolios, are found on the college's own admissions website, usually on a "first-year requirements" or "how to apply" page. The Common App lists each member's requirements, but the chapter says to treat the college's site as the final word because it's updated most directly. Policies change yearly, so a friend's experience last year can be out of date, as Emily's graded-paper example shows.
 
     **Concept Tested:** College-Specific Requirements
 

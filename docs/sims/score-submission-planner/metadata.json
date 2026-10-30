@@ -47,7 +47,7 @@
   "userInterface": {
     "controls": [
       "SAT/ACT dropdown and score input",
-      "Add college, Remove selected, and Load Priya's list buttons",
+      "Add college, Remove selected, and Load Emily's list buttons",
       "Try a retest score button and slider",
       "Row editor: name, policy, 25th, 75th, merit cutoff, inflated-range checkbox"
     ]

@@ -82,7 +82,7 @@ Bloom Level: Understand (L2)
 Bloom Verb: identify, explain
 Learning Objective: Students will identify the main regions of a high school transcript and explain what each one tells an admissions reader.
 
-Visual style: A realistic but fictional transcript for "Priya Raman, Lincoln High School," drawn as a white page with a header block and four year-by-year course tables (grades 9-12; grade 12 shows "In Progress"). Each region has a faint colored outline that brightens on hover.
+Visual style: A realistic but fictional transcript for "Emily A. Johnson, Lincoln High School," drawn as a white page with a header block and four year-by-year course tables (grades 9-12; grade 12 shows "In Progress"). Each region has a faint colored outline that brightens on hover.
 
 Regions and infobox text (tooltip on hover, full infobox on click):
 1. Header (name, birthdate, school, CEEB code) — "Identifies you and your school. The CEEB code is the six-digit code colleges use to match the transcript to your school profile."
@@ -107,16 +107,16 @@ Responsive behavior: Canvas width follows the container; call updateCanvasSize()
 Implementation: p5.js with createButton controls; canvas parented to the main element.
 </details>
 
-#### Worked Example: What Priya's Transcript Says
+#### Worked Example: What Emily's Transcript Says
 
-Priya, the senior from Chapter 1, attends a mid-sized public high school whose profile lists twelve AP courses. Her transcript shows:
+Emily, the senior from Chapter 1, attends a mid-sized public high school whose profile lists twelve AP courses. Her transcript shows:
 
 - Four years of English, math, science, and social studies, plus three years of Spanish.
 - Honors English and Honors Biology as a sophomore, and three APs as a junior (U.S. History, Chemistry, and English Language). She's taking four APs as a senior.
 - Mostly A's, with B's in Honors Geometry, Precalculus, and AP Chemistry.
 - Steady grades across all three years, holding up even as junior year got harder.
 
-A reader would summarize this in a sentence or two: *strong, consistent record with increasing challenge; took a solid share of the school's AP offerings, leaning humanities; B's in math and AP Chem are the soft spots.* Notice that the reader never needed Priya to explain anything. The transcript and profile told the story on their own. That's why the transcript is the foundation of the application. Most other numbers in this chapter are calculated from it.
+A reader would summarize this in a sentence or two: *strong, consistent record with increasing challenge; took a solid share of the school's AP offerings, leaning humanities; B's in math and AP Chem are the soft spots.* Notice that the reader never needed Emily to explain anything. The transcript and profile told the story on their own. That's why the transcript is the foundation of the application. Most other numbers in this chapter are calculated from it.
 
 ## Core Academic Courses
 
@@ -174,7 +174,7 @@ Because of all this variation, many colleges **recalculate** your GPA using thei
 
 #### Worked Example: Calculating a GPA
 
-Here are Priya's junior-year grades. Grade points use a plain 4.0 scale: A = 4, B = 3, C = 2, D = 1, F = 0.
+Here are Emily's junior-year grades. Grade points use a plain 4.0 scale: A = 4, B = 3, C = 2, D = 1, F = 0.
 
 | Course | Grade | Points | Credits | Points × Credits |
 |--------|-------|--------|---------|------------------|
@@ -230,12 +230,12 @@ Canvas layout:
 - Bottom: two large readouts, "Unweighted GPA (all courses)" and "Core-only GPA," each shown to two decimals, with a horizontal bar from 0.0 to 4.0 under each.
 - Right side (below on narrow screens): a "What moved it?" panel that names the course whose change most recently shifted the GPA and by how much (for example "Health A (0.5 credit): +0.04").
 
-Default data: Priya's junior year from the chapter worked example (AP English Language A 1.0 core; Precalculus B 1.0 core; AP Chemistry B 1.0 core; AP U.S. History A 1.0 core; Spanish III A 1.0 core; Health A 0.5 not core). Default readouts: 3.64 and 3.60.
+Default data: Emily's junior year from the chapter worked example (AP English Language A 1.0 core; Precalculus B 1.0 core; AP Chemistry B 1.0 core; AP U.S. History A 1.0 core; Spanish III A 1.0 core; Health A 0.5 not core). Default readouts: 3.64 and 3.60.
 
 Controls (all created in setup() before positioning):
 - createInput, createSelect, and createCheckbox for each row.
 - createButton "Add course" (up to 8 rows) and "Remove last."
-- createButton "Load Priya's year" to restore defaults.
+- createButton "Load Emily's year" to restore defaults.
 - createButton "Show the math" toggles a line showing the sum of points × credits over the sum of credits for each readout.
 
 Behavior: Readouts update immediately on any change. Rows with no grade are ignored. The core-only readout shows "—" if no core course is checked.
@@ -301,7 +301,7 @@ Rating rule (illustrative, stated on screen): the gauge uses the share of availa
 Preset buttons:
 - "Elena" (offered 3, taken 3 → Most demanding)
 - "Jordan" (offered 22, taken 3 → Average, with note that taking honors courses as well would raise it)
-- "Priya" (offered 12, taken 7 across junior and senior years → Very demanding)
+- "Emily" (offered 12, taken 7 across junior and senior years → Very demanding)
 
 Controls (all created in setup() before positioning): two createSlider controls and three createButton presets.
 
@@ -510,7 +510,7 @@ A fictional college, Westbrook University, reports these middle 50% ranges for e
 | Unweighted GPA | 3.60 | 3.95 |
 | ACT composite | 26 | 31 |
 
-Priya has a 3.71 unweighted GPA and an SAT score of 1280, which is about a 27 on the ACT scale.
+Emily has a 3.71 unweighted GPA and an SAT score of 1280, which is about a 27 on the ACT scale.
 
 - **GPA:** 3.71 is inside the range, in its lower half.
 - **ACT:** 27 is inside the range, just above the 25th percentile.
@@ -548,7 +548,7 @@ Controls (HTML inputs above the chart):
 - A select of example colleges, all fictional and labeled as illustrative: "Westbrook University (GPA 3.60–3.95, ACT 26–31)," "Lakeside State (GPA 3.30–3.85, ACT 21–27)," "Harrow College (GPA 3.85–4.00, ACT 32–35)." Selecting one fills the percentile inputs.
 - A checkbox "Test-optional college," which adds a note under the ACT panel: "This range includes only students who submitted scores, so it likely overstates the typical admitted student's score."
 
-Default: Westbrook University with Priya's GPA 3.71 and ACT-equivalent 27 (SAT 1280).
+Default: Westbrook University with Emily's GPA 3.71 and ACT-equivalent 27 (SAT 1280).
 
 Interaction: Hovering any bar region shows a tooltip explaining what share of students fall there. Changing an input redraws immediately.
 

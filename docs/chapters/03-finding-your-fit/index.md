@@ -75,7 +75,7 @@ Building a list happens in three stages, and this chapter covers the first two. 
 
 #### Worked Example: A List Built From Names
 
-When Priya started her search as a junior, her list was ten colleges: five she'd seen in national rankings, three her friends were applying to, her older cousin's university, and the state flagship. She couldn't say what any of them had in common except that people had heard of them.
+When Emily started her search as a junior, her list was ten colleges: five she'd seen in national rankings, three her friends were applying to, her older cousin's university, and the state flagship. She couldn't say what any of them had in common except that people had heard of them.
 
 When she checked them against the questions in this chapter, she found that:
 
@@ -83,7 +83,7 @@ When she checked them against the questions in this chapter, she found that:
 - Four were in big cities, and she'd realized on a summer visit that she preferred a campus with green space and a college-town feel.
 - Two had sticker prices over $85,000 a year, and her family hadn't yet talked about what they could pay.
 
-Priya's list wasn't bad because it was ambitious. It was risky because it had been built from reputation instead of from her own priorities. The rest of this chapter follows her as she rebuilds it.
+Emily's list wasn't bad because it was ambitious. It was risky because it had been built from reputation instead of from her own priorities. The rest of this chapter follows her as she rebuilds it.
 
 ## Personal Priorities
 
@@ -209,12 +209,12 @@ Neither end is automatically good or bad. What matters is that you choose knowin
 
 #### Worked Example: Two Kinds of Academic Fit
 
-Priya, with a 3.71 GPA and an SAT score of 1280, wants to study English or history. She compares two colleges:
+Emily, with a 3.71 GPA and an SAT score of 1280, wants to study English or history. She compares two colleges:
 
 - **Hillcrest College** is a small liberal arts college whose middle 50% GPA is 3.65–3.95. Its English department is well known, and upper-level classes have about 15 students.
 - **The state flagship** has a middle 50% GPA of about 3.4–3.9. Its history department is solid, and introductory classes have 200 students, but its honors college offers small seminars and accepts students with GPAs above about 3.7.
 
-Priya sits in the lower half of Hillcrest's range and near the top of the flagship's. Both are academic fits, in different ways. At Hillcrest she'd be among peers in a strong program with small classes from the start. At the flagship she'd probably qualify for the honors college and might earn merit aid, but she'd take some big lecture courses. She doesn't need to decide yet. Seeing *why* each one fits tells her which questions to ask next.
+Emily sits in the lower half of Hillcrest's range and near the top of the flagship's. Both are academic fits, in different ways. At Hillcrest she'd be among peers in a strong program with small classes from the start. At the flagship she'd probably qualify for the honors college and might earn merit aid, but she'd take some big lecture courses. She doesn't need to decide yet. Seeing *why* each one fits tells her which questions to ask next.
 
 ## Intended Major
 
@@ -328,7 +328,7 @@ Implementation: p5.js with createSelect, createInput, and createButton; canvas p
 
 #### Worked Example: Naming a Culture You Want
 
-On visits and virtual sessions, Priya noticed that the colleges she liked shared some patterns. Students talked about working in study groups, not about class rank. Campus events filled the weekends. People seemed interested in ideas without being competitive about them. She also realized she didn't care much about big-time athletics, though she liked the idea of a school with traditions.
+On visits and virtual sessions, Emily noticed that the colleges she liked shared some patterns. Students talked about working in study groups, not about class rank. Campus events filled the weekends. People seemed interested in ideas without being competitive about them. She also realized she didn't care much about big-time athletics, though she liked the idea of a school with traditions.
 
 She turned those observations into a short list of culture priorities: *collaborative academics, an active campus social life, a reading-and-talking culture, and traditions without a sports-centered calendar.* That list became a filter. When a college's students described it as "cutthroat," or when every student she met talked about game days first, she knew to look more closely before keeping it.
 
@@ -443,7 +443,7 @@ Room and board depends on choices you make. A single room costs more than a doub
 
 #### Worked Example: Room and Board Choices
 
-Midland State lists room and board at $12,500, based on a double room and the standard meal plan. Priya checks the college's housing page and finds that a single room adds $1,800, while the smallest meal plan saves $900. If she chose a double with the small plan, her room and board would be $11,600. If she chose a single with the standard plan, it would be $14,300. That's a $2,700 difference a year, or more than $10,000 over four years, from two choices she controls.
+Midland State lists room and board at $12,500, based on a double room and the standard meal plan. Emily checks the college's housing page and finds that a single room adds $1,800, while the smallest meal plan saves $900. If she chose a double with the small plan, her room and board would be $11,600. If she chose a single with the standard plan, it would be $14,300. That's a $2,700 difference a year, or more than $10,000 over four years, from two choices she controls.
 
 ### Indirect Costs
 
@@ -465,12 +465,12 @@ The practical lesson is that **sticker price tells you where to start, not where
 
 #### Worked Example: When Sticker Price Misleads
 
-Priya's family can pay about $25,000 a year. She compares two colleges:
+Emily's family can pay about $25,000 a year. She compares two colleges:
 
 - **Hillcrest College** (private) has a sticker price of $82,000. Its net price calculator estimates that, based on her family's income, Hillcrest would offer about $60,000 in grants, for a net price of about **$22,000**.
 - **An out-of-state public university** has a sticker price of $50,000. Its calculator estimates about $8,000 in aid, for a net price of about **$42,000**.
 
-Judging by sticker price alone, Priya would have cut Hillcrest first. Judging by net price, Hillcrest fits her family's budget and the public university doesn't. Calculators give estimates, not promises, but they're accurate enough to keep you from cutting the wrong school.
+Judging by sticker price alone, Emily would have cut Hillcrest first. Judging by net price, Hillcrest fits her family's budget and the public university doesn't. Calculators give estimates, not promises, but they're accurate enough to keep you from cutting the wrong school.
 
 ## Financial Fit
 
@@ -515,7 +515,7 @@ Reach schools belong on a list. They're how you give yourself a shot at a colleg
 
 #### Worked Example: Is It a Reach?
 
-Priya, with a 3.71 GPA and a 1280 SAT, checks three colleges:
+Emily, with a 3.71 GPA and a 1280 SAT, checks three colleges:
 
 - **College A** admits 6% of applicants, with a middle 50% SAT range of 1500–1560. Her score is well below the range, and the college is in the most selective band. This is a clear **reach**.
 - **College B** admits 22% of applicants, with a range of 1350–1480. Her score is below the 25th percentile. This is a **reach**.
@@ -532,9 +532,9 @@ Targets are the core of a good list. They're the colleges you're most likely to 
 
 #### Worked Example: Is It a Target?
 
-College C from the previous example admits 45% of applicants, with a middle 50% SAT range of 1220–1390 and a GPA range of 3.5–3.9. Priya's 1280 and 3.71 are both inside the range, near the middle. College C is a **target** for her.
+College C from the previous example admits 45% of applicants, with a middle 50% SAT range of 1220–1390 and a GPA range of 3.5–3.9. Emily's 1280 and 3.71 are both inside the range, near the middle. College C is a **target** for her.
 
-If Priya's SAT were 1210, just below the range, but her GPA were 3.85, near the top, College C would be a harder call. Most counselors would label it a target leaning toward reach, and they'd say the rest of her application would decide it. When a college falls between categories, place it in the more cautious one.
+If Emily's SAT were 1210, just below the range, but her GPA were 3.85, near the top, College C would be a harder call. Most counselors would label it a target leaning toward reach, and they'd say the rest of her application would decide it. When a college falls between categories, place it in the more cautious one.
 
 ### Safety School
 
@@ -583,7 +583,7 @@ Classification rules (stated on screen as a simplified guide, not a prediction):
 4. Otherwise: Target. If admission rate < 25%, label "Target leaning reach."
 5. A candidate Safety becomes a Safety only if financial fit is Affordable AND "I'd be glad to attend" is checked. Otherwise the badge reads "Likely admit — not yet a safety," with the missing test named ("Check net price" or "Would you be glad to attend?").
 
-Presets (createButton): "Priya → College A" (6%, SAT 1500–1560 → Reach), "Priya → College C" (45%, SAT 1220–1390, GPA 3.5–3.9 → Target), "Casey → Iowa (resident)" (admission rate shown as 85% for illustration, GPA and ACT above the 75th percentile, affordable, glad to attend → Safety), "Likely admit, can't afford" (→ Likely admit — not yet a safety).
+Presets (createButton): "Emily → College A" (6%, SAT 1500–1560 → Reach), "Emily → College C" (45%, SAT 1220–1390, GPA 3.5–3.9 → Target), "Casey → Iowa (resident)" (admission rate shown as 85% for illustration, GPA and ACT above the 75th percentile, affordable, glad to attend → Safety), "Likely admit, can't afford" (→ Likely admit — not yet a safety).
 
 Controls (all created in setup() before positioning): createInput for numeric fields, createSelect for test type and financial fit, createCheckbox, and createButton presets.
 
@@ -610,9 +610,9 @@ These numbers aren't rules. A student applying mostly to formula-based public un
 
 Two checks keep a list honest. First, **check the categories against financial fit.** A list with three safeties, all of them out of reach financially, has no safeties at all. Second, **check every school against your priorities.** If a college is on your list only because of its name, and you can't say why it fits you, it's taking up a slot. Chapter 4 walks you through narrowing a long list to a final one. The aim here is to know what balance looks like before you start cutting.
 
-#### Worked Example: Priya Rebalances Her List
+#### Worked Example: Emily Rebalances Her List
 
-Priya's original list had seven reaches, two targets, and one school she'd called a safety, which turned out to be out of reach financially. After her self-assessment and net price calculations, she rebuilt it:
+Emily's original list had seven reaches, two targets, and one school she'd called a safety, which turned out to be out of reach financially. After her self-assessment and net price calculations, she rebuilt it:
 
 | Category | Colleges | Notes |
 |----------|----------|-------|
@@ -651,7 +651,7 @@ Canvas layout:
   - No college with financial fit "Not checked"
   Each line shows a green check or an orange warning with a short explanation.
 
-Presets (createButton): "Priya's original list" (7 reach, 2 target, 1 safety marked out of reach → several warnings) and "Priya's rebalanced list" (3/5/2, all safeties affordable and hearted → all checks pass).
+Presets (createButton): "Emily's original list" (7 reach, 2 target, 1 safety marked out of reach → several warnings) and "Emily's rebalanced list" (3/5/2, all safeties affordable and hearted → all checks pass).
 
 Interaction: The balance panel recomputes on every change. A summary line reads, for example, "Balanced: yes. Your safest good outcome: [name of the affordable, hearted safety]." If no such safety exists, it reads in orange: "No safe, affordable option yet — add or research a safety."
 

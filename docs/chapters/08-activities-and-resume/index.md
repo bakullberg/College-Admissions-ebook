@@ -133,13 +133,13 @@ Be **honest and realistic.** Give a typical week, not your busiest week. Inflate
 
 #### Worked Example: Calculating Real Hours
 
-Priya edits her school's literary magazine. During the school year, the staff meets once a week for 1.5 hours, and she spends about 2 more hours a week reading submissions and editing. In the three weeks before each of the two issues, she adds about 5 extra hours a week for layout.
+Emily edits her school's literary magazine. During the school year, the staff meets once a week for 1.5 hours, and she spends about 2 more hours a week reading submissions and editing. In the three weeks before each of the two issues, she adds about 5 extra hours a week for layout.
 
 - **Regular weeks:** 3.5 hours a week for 30 weeks = 105 hours.
 - **Production weeks:** 8.5 hours a week for 6 weeks = 51 hours.
 - **Total:** 156 hours over 36 weeks, which averages about 4.3 hours a week.
 
-Priya reports **4 hours per week, 36 weeks per year.** The average is honest, and the total it implies, 144 hours, is close to her real time. She doesn't report her busiest production week as typical.
+Emily reports **4 hours per week, 36 weeks per year.** The average is honest, and the total it implies, 144 hours, is close to her real time. She doesn't report her busiest production week as typical.
 
 ### Depth Over Breadth
 
@@ -282,7 +282,7 @@ Personal interests are especially valuable because they're **self-directed**. No
 
 #### Worked Example: A Hobby That Counts
 
-Priya has baked bread since 9th grade. She thought of it as just a hobby until her counselor asked how much time she spends on it. The answer: about 4 hours a week, and she now bakes for her family, sells loaves at a farmers market stand once a month in summer, and has taught three friends to make sourdough.
+Emily has baked bread since 9th grade. She thought of it as just a hobby until her counselor asked how much time she spends on it. The answer: about 4 hours a week, and she now bakes for her family, sells loaves at a farmers market stand once a month in summer, and has taught three friends to make sourdough.
 
 Her entry reads: *"Self-taught sourdough baker; sell loaves at monthly summer farmers market; taught 3 friends."* It adds something her other activities don't. Her list is otherwise all reading and writing, and this entry shows she builds things with her hands, sticks with a craft, and shares it. It also gives her a possible essay topic.
 
@@ -301,7 +301,7 @@ Choose the most significant honors first, and keep descriptions specific: "1st p
 
 #### Worked Example: Choosing Five Honors
 
-Priya has seven possible honors. She ranks them by level and significance and lists five:
+Emily has seven possible honors. She ranks them by level and significance and lists five:
 
 1. State young writers award, poetry (grade 11), state level.
 2. Scholastic Art & Writing Awards Gold Key, short story (grade 11), regional level.
@@ -416,7 +416,7 @@ Implementation: p5.js with createInput, createSelect, createCheckbox, and create
 
 #### Worked Example: Cutting to 150 Characters
 
-Priya's first draft for her literary magazine entry runs 217 characters:
+Emily's first draft for her literary magazine entry runs 217 characters:
 
 *"I am the editor-in-chief of our school's literary magazine, which publishes two issues each year. I am responsible for reading all the submissions and working with the staff on editing and on the layout of each issue."*
 

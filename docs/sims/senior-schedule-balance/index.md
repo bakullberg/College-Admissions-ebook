@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 7: Your Senior Year Course Load](../../chapters/
 - Choose a level for each of six courses and check the box for core academic subjects.
 - Set your weekly job, activity, and application-work hours with the sliders.
 - Read the two gauges (rigor signal and weekly load) and the feedback line that combines them.
-- Load **Priya Draft 1**, **Priya Draft 2**, or **Marcus** to compare the chapter's schedules. **Reset** starts a regular schedule. Hour estimates are rough averages.
+- Load **Emily Draft 1**, **Emily Draft 2**, or **Marcus** to compare the chapter's schedules. **Reset** starts a regular schedule. Hour estimates are rough averages.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 7](../../chapters/07-senior-year-course-load/index.
 
 ### Activities
 
-1. **Compare Priya's drafts (5 min):** Load both drafts. What did Priya give up in Draft 2, and what did she gain?
+1. **Compare Emily's drafts (5 min):** Load both drafts. What did Emily give up in Draft 2, and what did she gain?
 2. **Marcus's week (4 min):** Load Marcus. Which single change brings his load below 50 hours while keeping his rigor signal?
 3. **Your plan (6 min):** Enter your own senior schedule and real weekly hours. Adjust until the feedback is at least heavy but manageable.
 

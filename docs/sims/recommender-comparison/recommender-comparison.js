@@ -17,7 +17,7 @@ const CORE = ['English', 'Math', 'Science', 'Social studies', 'World language'];
 const RECENCY = { 9: 0.25, 10: 0.5, 11: 1, 12: 1 };
 
 const PRESETS = {
-  "Priya's four teachers": [
+  "Emily's four teachers": [
     { name: 'Mr. Okafor (AP U.S. History)', subject: 'Social studies', taught: 11, grade: 'A', knows: 5, reliable: true },
     { name: 'Ms. Chen (AP English Language)', subject: 'English', taught: 11, grade: 'A', knows: 3, reliable: true },
     { name: 'Mr. Grant (AP Chemistry)', subject: 'Science', taught: 11, grade: 'B', knows: 5, reliable: true },
@@ -74,7 +74,7 @@ function setup() {
   clearButton = createButton('Clear');
   clearButton.mousePressed(() => { teachers = []; selected = -1; loadEditor(); });
 
-  teachers = PRESETS["Priya's four teachers"].map(t => ({ ...t }));
+  teachers = PRESETS["Emily's four teachers"].map(t => ({ ...t }));
   selected = 0;
   loadEditor();
   describe('A recommender comparison tool. Each teacher card shows a letter strength bar weighted by how well the teacher knows you, how recently they taught you, whether it is a core subject, and whether they write thoughtful, on-time letters. Your grade is shown but not counted. A best pair panel picks two teachers and explains why.');

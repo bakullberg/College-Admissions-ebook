@@ -69,13 +69,13 @@ Work-study has real advantages too. Campus jobs are usually flexible around clas
 
 #### Worked Example: What $2,500 in Work-Study Means
 
-Priya's Hillcrest offer includes $2,500 in Federal Work-Study. She works out what it would take:
+Emily's Hillcrest offer includes $2,500 in Federal Work-Study. She works out what it would take:
 
 - Hillcrest's work-study jobs pay about $13 an hour.
 - $2,500 ÷ $13 ≈ **192 hours** over the year.
 - Over about 30 weeks of classes, that's roughly **6 to 7 hours a week.**
 
-That's manageable alongside a full course load. But the $2,500 won't arrive as a discount on her August bill. It will arrive in paychecks between September and April. Priya plans to use it for books and personal expenses, not tuition, and she budgets her August payment without it.
+That's manageable alongside a full course load. But the $2,500 won't arrive as a discount on her August bill. It will arrive in paychecks between September and April. Emily plans to use it for books and personal expenses, not tuition, and she budgets her August payment without it.
 
 ## Federal Loans
 
@@ -184,7 +184,7 @@ Colleges aren't required to use a standard format. Many use some version of a fe
 
 #### Worked Example: A Letter Missing the Cost
 
-Priya's offer from College C lists only her aid: a $12,000 merit scholarship, a $6,000 grant, $5,500 in federal loans, and work-study. It never states the cost of attendance. Without it, she can't calculate her net price.
+Emily's offer from College C lists only her aid: a $12,000 merit scholarship, a $6,000 grant, $5,500 in federal loans, and work-study. It never states the cost of attendance. Without it, she can't calculate her net price.
 
 She finds College C's published cost of attendance on its financial aid website: $64,000 for students living on campus. Now she can do the math. Her net price is $64,000 − $18,000 = **$46,000,** far above what her family can pay. The letter's warm language about her "generous award" had hidden that. A letter that leaves out the cost of attendance isn't necessarily misleading on purpose, but it always requires you to look up the missing number.
 

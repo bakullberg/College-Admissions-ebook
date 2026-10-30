@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 6: The SAT and ACT Question](../../chapters/06-s
 - Choose **SAT** or **ACT**, then enter each section score for each test date. Each row shows that date's own total or composite.
 - The bars compare each section across dates. The best score in each section is outlined in gold.
 - The second chart and the readout compare the superscore (green) with the best single sitting (blue).
-- Use **Add test date** (up to four) and **Remove last**, or load the chapter's **Priya** (SAT) and **Casey** (ACT) examples.
+- Use **Add test date** (up to four) and **Remove last**, or load the chapter's **Emily** (SAT) and **Casey** (ACT) examples.
 
 ## Iframe Embed Code
 
@@ -63,9 +63,9 @@ Read the section of [Chapter 6](../../chapters/06-sat-act-question/index.md) tha
 
 ### Activities
 
-1. **Check the examples (3 min):** Confirm Priya's superscore of 1330 and Casey's 25 by hand.
+1. **Check the examples (3 min):** Confirm Emily's superscore of 1330 and Casey's 25 by hand.
 2. **Why no gain? (3 min):** Casey's superscore equals the best single sitting. Explain why, using the rounding rule.
-3. **Plan a retest (4 min):** Add a third date for Priya with a higher Math score. How much does the superscore move?
+3. **Plan a retest (4 min):** Add a third date for Emily with a higher Math score. How much does the superscore move?
 
 ### Discussion Questions
 

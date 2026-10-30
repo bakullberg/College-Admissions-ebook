@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 6: The SAT and ACT Question](../../chapters/06-s
 - Choose **SAT** or **ACT** and move the slider to your score. Gold markers show it on both scales.
 - Read the conversion line: the matching score and the full concordance range.
 - Enter a college's middle 50% range, choose which test it uses, and see where your score falls. The range shows as a blue band.
-- Hover over any tick to see its concordance pair. The presets load Priya's, Casey's, and Iowa's merit-threshold examples.
+- Hover over any tick to see its concordance pair. The presets load Emily's, Casey's, and Iowa's merit-threshold examples.
 
 ## Iframe Embed Code
 

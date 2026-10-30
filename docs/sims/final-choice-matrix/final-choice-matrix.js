@@ -24,7 +24,7 @@ const SEG_COLORS = ['seagreen', 'steelblue', 'mediumpurple', 'darkorange', 'teal
 const MAX_COLLEGES = 4, MAX_FACTORS = 8;
 
 const PRESETS = {
-  'Priya: Hillcrest vs. Flagship honors': {
+  'Emily: Hillcrest vs. Flagship honors': {
     names: ['Hillcrest', 'Flagship honors'], prices: [88000, 56000],
     weights: [4, 5, 4, 3, 2, 4], scores: [[3, 5], [5, 4], [5, 3], [4, 4], [3, 5], [5, 3]] },
   'Marcus: Lakeshore vs. Brookfield vs. Regional': {
@@ -69,7 +69,7 @@ function setup() {
     presetButtons.push(b);
   });
 
-  loadPreset(PRESETS['Priya: Hillcrest vs. Flagship honors']);
+  loadPreset(PRESETS['Emily: Hillcrest vs. Flagship honors']);
   describe('A weighted decision matrix for choosing among two to four finalist colleges. Weight factors such as cost, academic fit, social fit, outcomes, distance, and gut sense, score each college from 1 to 5, and see each college\'s weighted total as a segmented bar, plus the factors driving the difference between the top two.');
 }
 

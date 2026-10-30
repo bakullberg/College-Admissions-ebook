@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 11: Letters of Recommendation](../../chapters/11
 - Each card shows a teacher's letter-strength bar: how well they know you (50%), recency (20%), core subject (15%), and a reputation for thoughtful, on-time letters (15%). Your grade is shown but not counted.
 - Click a card to edit that teacher. **Add teacher** adds a card (up to five) and **Remove selected** deletes one.
 - The **Best pair** panel picks two teachers, preferring different subjects when scores are within 10%, and explains why.
-- Hover over a bar to see each factor's contribution. Load **Priya's four teachers** or **Two English teachers** to compare the presets.
+- Hover over a bar to see each factor's contribution. Load **Emily's four teachers** or **Two English teachers** to compare the presets.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 11](../../chapters/11-letters-of-recommendation/ind
 
 ### Activities
 
-1. **Priya's choice (3 min):** Load Priya's four teachers. Why does Mr. Grant beat Ms. Chen even though Priya earned a B in his class?
+1. **Emily's choice (3 min):** Load Emily's four teachers. Why does Mr. Grant beat Ms. Chen even though Emily earned a B in his class?
 2. **Variety (3 min):** Load Two English teachers. Why does the tool pick Ms. Cole over Mr. Brooks?
 3. **Your teachers (4 min):** Enter the teachers you might ask and compare the result with your instinct.
 

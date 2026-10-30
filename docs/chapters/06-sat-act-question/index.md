@@ -123,14 +123,14 @@ The table below summarizes the three policies covered in the sections above.
 
 #### Worked Example: One List, Three Policies
 
-Priya checks the testing policy for every college on her ten-school list and records it in her tracker:
+Emily checks the testing policy for every college on her ten-school list and records it in her tracker:
 
 - **College A**, her top reach, is **test-required**. She must send a score no matter what.
 - **Seven colleges**, including College B, College C, Hillcrest, and her state flagship, are **test-optional**.
 - **One college** in California is **test-blind**. She won't send anything there.
 - **One test-optional college** offers merit scholarships with a published score cutoff. She marks it, because a score could be worth money there even if it doesn't affect admission.
 
-Before checking, Priya had assumed she'd either send her score everywhere or nowhere. Now she sees that she has one required decision, seven real choices, one non-decision, and one scholarship question. The rest of this chapter shows how she makes each choice.
+Before checking, Emily had assumed she'd either send her score everywhere or nowhere. Now she sees that she has one required decision, seven real choices, one non-decision, and one scholarship question. The rest of this chapter shows how she makes each choice.
 
 ### The Test-Optional Myth
 
@@ -214,7 +214,7 @@ Colleges report their score ranges using composite scores, so the composite is t
 
 #### Worked Example: Calculating Composites
 
-Priya's June SAT section scores were Reading and Writing 680 and Math 600:
+Emily's June SAT section scores were Reading and Writing 680 and Math 600:
 
 \[
 \text{SAT total} = 680 + 600 = 1280
@@ -226,7 +226,7 @@ Casey's ACT section scores were English 25, Math 22, and Reading 26:
 \text{ACT composite} = \frac{25 + 22 + 26}{3} = \frac{73}{3} \approx 24.3 \rightarrow 24
 \]
 
-Both composites hide a pattern. Priya's Math score is 80 points below her Reading and Writing score, and Casey's Math is three or four points below the other sections. For both students, math is where extra prep would most likely raise the composite.
+Both composites hide a pattern. Emily's Math score is 80 points below her Reading and Writing score, and Casey's Math is three or four points below the other sections. For both students, math is where extra prep would most likely raise the composite.
 
 ### SAT-ACT Concordance
 
@@ -283,7 +283,7 @@ Controls (all created in setup() before positioning):
 - createSelect "I have a score on the": SAT / ACT.
 - createSlider for the score (SAT 400–1600 step 10, or ACT 1–36 step 1), default SAT 1280.
 - createInput pairs "College range low" and "College range high," plus a createSelect for which test the range uses.
-- createButton presets: "Priya (SAT 1280)," "Casey (ACT 24)," "Iowa merit threshold (ACT 26 / SAT 1230)."
+- createButton presets: "Emily (SAT 1280)," "Casey (ACT 24)," "Iowa merit threshold (ACT 26 / SAT 1230)."
 
 Output: A readout line: "SAT 1280 ≈ ACT 27 (ACT 27 corresponds to SAT 1260–1290)." If a college range is entered, a second line reports "Inside the range, lower half," "Above the range," and so on.
 
@@ -328,9 +328,9 @@ Three other factors can override the rule:
 
 Make the decision **college by college**, not once for your whole list. Students often submit everywhere or nowhere, which almost guarantees sending a weak score somewhere or withholding a strong one somewhere else.
 
-#### Worked Example: Priya Decides College by College
+#### Worked Example: Emily Decides College by College
 
-Priya's SAT is 1280. Here's her comparison for five of her colleges:
+Emily's SAT is 1280. Here's her comparison for five of her colleges:
 
 | College | Policy | Middle 50% SAT | Estimated midpoint | Where 1280 falls | Decision |
 |---------|--------|----------------|--------------------|------------------|----------|
@@ -340,7 +340,7 @@ Priya's SAT is 1280. Here's her comparison for five of her colleges:
 | State flagship | Test-optional | 1150–1320 | 1235 | Above midpoint | **Submit** |
 | Merit-cutoff college | Test-optional | 1180–1350 | 1265 | Above midpoint; clears 1250 scholarship cutoff | **Submit** (admission and money) |
 
-For College C, Priya weighs her record. Her 3.71 GPA sits inside College C's range, and her course rigor is strong, but her score is 25 points below the estimated midpoint. Her counselor points out that College C is test-optional, so its published range is probably inflated. Priya decides to submit if a retest raises her score and to withhold it otherwise. That leads straight to the next question, whether to retest. The planner below runs this kind of comparison for your whole list.
+For College C, Emily weighs her record. Her 3.71 GPA sits inside College C's range, and her course rigor is strong, but her score is 25 points below the estimated midpoint. Her counselor points out that College C is test-optional, so its published range is probably inflated. Emily decides to submit if a retest raises her score and to withhold it otherwise. That leads straight to the next question, whether to retest. The planner below runs this kind of comparison for your whole list.
 
 #### Diagram: Score Submission Planner
 
@@ -374,7 +374,7 @@ A checkbox per row "Range is test-optional (likely inflated)" adds a note to jud
 
 Controls (all created in setup() before positioning):
 - createInput and createSelect per college row for name, policy, 25th, 75th, and optional merit cutoff; createButton "Add college" and "Remove selected."
-- createButton "Load Priya's list" (the five colleges from the chapter table) and "Try a retest score," which opens a slider to adjust the score and shows which badges change.
+- createButton "Load Emily's list" (the five colleges from the chapter table) and "Try a retest score," which opens a slider to adjust the score and shows which badges change.
 
 Interaction: Clicking a row selects it and shows the explanation. Moving the retest slider updates all badges live, and changed badges flash gold.
 
@@ -395,9 +395,9 @@ Don't retest endlessly, though. Two sittings are enough for most students. A thi
 
 **Superscoring** is a college policy of combining your highest section scores from different test dates into a new, higher composite. If you took the SAT twice and scored higher in Math the second time but higher in Reading and Writing the first time, a college that superscores uses the best of each. For the ACT, superscoring averages your best English, Math, and Reading scores across dates. Many colleges superscore, but not all, so check each college's policy. Superscoring makes retesting more attractive, because you can focus prep on one section without worrying that another will slip.
 
-#### Worked Example: Priya's Retest and Superscore
+#### Worked Example: Emily's Retest and Superscore
 
-Priya's June SAT was Reading and Writing 680, Math 600, for a total of 1280. She meets the three retest conditions. College C is a judgment call and College A requires a score. Her Math section is clearly weaker. And there's an October test date before her November and January deadlines. She spends eight weeks on math prep and retests in October:
+Emily's June SAT was Reading and Writing 680, Math 600, for a total of 1280. She meets the three retest conditions. College C is a judgment call and College A requires a score. Her Math section is clearly weaker. And there's an October test date before her November and January deadlines. She spends eight weeks on math prep and retests in October:
 
 | Test date | Reading and Writing | Math | Total |
 |-----------|---------------------|------|-------|
@@ -432,7 +432,7 @@ Canvas layout:
 
 Composite rules: SAT total = sum of the two sections. ACT composite = average of English, Math, and Reading, rounded to the nearest whole number. For superscores, use the highest score in each section across all dates, then apply the same rule.
 
-Controls (all created in setup() before positioning): createSelect for test type; createInput fields for each section and date; createButton "Add test date" (max 4) and "Remove last"; createButton "Load Priya" (SAT June 680/600, October 660/650) and "Load Casey" (ACT: date 1 English 25, Math 22, Reading 26; date 2 English 24, Math 25, Reading 26 → superscore (25 + 25 + 26) ÷ 3 = 25.3 → 25).
+Controls (all created in setup() before positioning): createSelect for test type; createInput fields for each section and date; createButton "Add test date" (max 4) and "Remove last"; createButton "Load Emily" (SAT June 680/600, October 660/650) and "Load Casey" (ACT: date 1 English 25, Math 22, Reading 26; date 2 English 24, Math 25, Reading 26 → superscore (25 + 25 + 26) ÷ 3 = 25.3 → 25).
 
 Note on screen: "Not every college superscores. Check each college's policy."
 
@@ -457,13 +457,13 @@ Plan for timing. Official reports take time to arrive and be matched to your fil
 
 #### Worked Example: Which Report Goes Where
 
-Priya has to send scores to three colleges:
+Emily has to send scores to three colleges:
 
 - **College A (test-required)** requires an official report at the time of application. She orders it from her College Board account the day her October scores post. College A superscores, so she sends both test dates.
 - **College C (test-optional, superscores)** accepts self-reported scores. She enters her best Reading and Writing and best Math scores from different dates, as College C's instructions allow, and will send an official report only if she enrolls.
 - **Her state flagship (test-optional)** also accepts self-reported scores. She enters them and adds a note in her tracker to send an official report after she commits in May.
 
-By using self-reporting where it's allowed, Priya pays for one official report instead of three.
+By using self-reporting where it's allowed, Emily pays for one official report instead of three.
 
 ### Score Choice
 

@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 2: How Colleges Evaluate Applicants](../../chapt
 - Each row is one course: type its name, pick a grade and credit value, and check the box if it is a core academic course.
 - Both readouts update immediately: the GPA for all courses and the core-only GPA many colleges recalculate.
 - **What moved it?** names the course whose last change shifted the GPA, and by how much.
-- Use **Add course** and **Remove last** for up to eight rows, **Load Priya's year** to restore the chapter example (3.64 and 3.60), and **Show the math** to see the sums.
+- Use **Add course** and **Remove last** for up to eight rows, **Load Emily's year** to restore the chapter example (3.64 and 3.60), and **Show the math** to see the sums.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 2](../../chapters/02-how-colleges-evaluate/index.md
 
 ### Activities
 
-1. **Check the example (3 min):** With Priya's year loaded, confirm 20.0 ÷ 5.5 = 3.64 and 18.0 ÷ 5.0 = 3.60 using Show the math.
+1. **Check the example (3 min):** With Emily's year loaded, confirm 20.0 ÷ 5.5 = 3.64 and 18.0 ÷ 5.0 = 3.60 using Show the math.
 2. **Credit weight (4 min):** Change Health from A to C, then change AP Chemistry from B to C. Which change moves the GPA more, and why?
 3. **Your own year (6 min):** Enter your own courses from last year and compare your all-courses and core-only GPAs.
 

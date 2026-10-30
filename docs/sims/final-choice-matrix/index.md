@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 19: Making Your Final Choice](../../chapters/19-
 - Type your finalists' names, set a weight (0–5) for each factor, and score each college 1–5.
 - Enter four-year net prices to score cost automatically (lowest price = 5), or check **Override cost scores** to score cost yourself.
 - Each college's bar is split by factor; the leader is outlined in gold. **What's driving this?** names the two factors with the biggest weighted difference between the top two.
-- Use **Add factor** for your own criteria and **Add college** or **Remove college** for up to four finalists. Load the Priya or Marcus preset to see the chapter's examples. Hover over a bar segment for weight × score.
+- Use **Add factor** for your own criteria and **Add college** or **Remove college** for up to four finalists. Load the Emily or Marcus preset to see the chapter's examples. Hover over a bar segment for weight × score.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 19](../../chapters/19-making-your-final-choice/inde
 
 ### Activities
 
-1. **Priya's matrix (4 min):** Load Priya's preset and confirm 95 vs. 86. Which factors favor the flagship?
+1. **Emily's matrix (4 min):** Load Emily's preset and confirm 95 vs. 86. Which factors favor the flagship?
 2. **Change the weights (4 min):** Raise Cost to 5 and lower Gut sense to 2. Does the leader change? What does that tell you?
 3. **Your finalists (7 min):** Enter your own finalists and weights, then compare the total with your gut.
 

@@ -64,7 +64,7 @@ Read the section of [Chapter 2](../../chapters/02-how-colleges-evaluate/index.md
 ### Activities
 
 1. **Tour (4 min):** Step through the officer tour and write one word for what each region tells the reader.
-2. **Find the trend (3 min):** Compare Priya's grade 9, 10, and 11 tables. Is her record steady, rising, or falling as courses get harder?
+2. **Find the trend (3 min):** Compare Emily's grade 9, 10, and 11 tables. Is her record steady, rising, or falling as courses get harder?
 3. **Check your own (3 min):** Request an unofficial copy of your transcript and find each of the nine regions on it.
 
 ### Discussion Questions

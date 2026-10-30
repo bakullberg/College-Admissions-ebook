@@ -158,7 +158,7 @@ Test your understanding of personal priorities, the three kinds of college fit, 
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **D**. Sticker price is the published cost before aid, while net price is sticker price minus grants and scholarships. College X's net price of $27,000 is within the family's $30,000, and College Y's $38,000 is not. Judging by sticker price would cut the wrong school, just as Priya almost cut Hillcrest College. The chapter says calculators give estimates, not promises, but they are accurate enough to keep you from making that mistake.
+    The correct answer is **D**. Sticker price is the published cost before aid, while net price is sticker price minus grants and scholarships. College X's net price of $27,000 is within the family's $30,000, and College Y's $38,000 is not. Judging by sticker price would cut the wrong school, just as Emily almost cut Hillcrest College. The chapter says calculators give estimates, not promises, but they are accurate enough to keep you from making that mistake.
 
     **Concept Tested:** Financial Fit
 

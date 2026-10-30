@@ -109,9 +109,9 @@ Responsive behavior: Canvas width follows the container; call updateCanvasSize()
 Implementation: p5.js with built-in createButton controls; canvas parented to the main element.
 </details>
 
-#### Worked Example: Where Is Priya Right Now?
+#### Worked Example: Where Is Emily Right Now?
 
-It's late September. Priya, a senior, has a list of ten colleges, took the SAT once in June, and has a rough draft of her personal essay. She hasn't opened a financial aid form yet.
+It's late September. Emily, a senior, has a list of ten colleges, took the SAT once in June, and has a rough draft of her personal essay. She hasn't opened a financial aid form yet.
 
 - **Build your list:** mostly done. She has a list, but she still needs to check that it includes schools she's very likely to get into.
 - **Test:** in progress. She needs to decide whether to retake the SAT in October or stop here.
@@ -119,7 +119,7 @@ It's late September. Priya, a senior, has a list of ten colleges, took the SAT o
 - **Seek aid:** not started, and that's fine for September. The main federal form opens in the fall.
 - **Decide** and **Enroll:** not yet.
 
-Placing yourself on the roadmap like this turns "I'm so behind" into a short list of the next moves. Priya's next moves are to settle her testing plan and finish one application completely before starting the others.
+Placing yourself on the roadmap like this turns "I'm so behind" into a short list of the next moves. Emily's next moves are to settle her testing plan and finish one application completely before starting the others.
 
 ## The Admissions Timeline
 

@@ -66,7 +66,7 @@ Because supplements are short, students often assume they matter less than the p
 
 #### Worked Example: Counting the Real Workload
 
-Priya's requirements matrix from Chapter 5 shows that her ten colleges ask for:
+Emily's requirements matrix from Chapter 5 shows that her ten colleges ask for:
 
 - **Two colleges:** no supplements.
 - **Her state flagship:** one 250-word short answer about her intended major.
@@ -128,7 +128,7 @@ The simplest check is the **swap test.** Replace the college's name with another
 
 #### Worked Example: Passing the Swap Test
 
-Priya's first draft of her 300-word "Why Hillcrest" essay begins:
+Emily's first draft of her 300-word "Why Hillcrest" essay begins:
 
 *"I want to attend Hillcrest College because of its excellent English program, small class sizes, and welcoming community. I know that at Hillcrest I will be challenged academically and grow as a person."*
 
@@ -136,7 +136,7 @@ She runs the swap test, replacing "Hillcrest" with "College C." It still works p
 
 *"On my visit, I sat in on Professor Lin's seminar on the novel and memory, where eleven students argued for forty minutes about one paragraph of* Mrs. Dalloway *and nobody checked their phone. I want four years of that. Hillcrest's writing-intensive first-year seminar and its student-run literary review, the* Hillcrest Quarterly, *would let me keep doing what I love most about editing my school's magazine: arguing over a single sentence until it's right."*
 
-Now the swap test fails in the right way. The essay names a specific class, a seminar requirement, and a student publication, and it ties each one to Priya's experience.
+Now the swap test fails in the right way. The essay names a specific class, a seminar requirement, and a student publication, and it ties each one to Emily's experience.
 
 The tool below runs the swap test for you and flags generic phrases.
 
@@ -168,7 +168,7 @@ Canvas layout:
 - A "Swap test" view shows the full draft with every instance of the college name replaced by the other college's name, and asks: "Does this still make sense? If yes, add details only true of [college]."
 - A summary: "Specific details: X. Generic phrases: Y. Sentences connecting a detail to you: Z."
 
-Presets (createButton): "Priya — first draft" (generic; many orange highlights) and "Priya — revision" (specific; green and blue).
+Presets (createButton): "Emily — first draft" (generic; many orange highlights) and "Emily — revision" (specific; green and blue).
 
 Controls (all created in setup() before positioning): createInput fields, the text area, createButton "Check," createButton "Swap test," createButton presets, and createButton "Clear."
 
@@ -203,7 +203,7 @@ College A asks: *"What is something you love to do that most people would find b
 
 **Revised:** *"Proofreading. I read our school literary magazine's final proofs aloud, every word, the night before it goes to print. Last spring I caught a poet's name misspelled on the cover. I still think about it."* (35 words)
 
-The revision is specific, a little funny, and shows a trait, care with details, that matches the rest of Priya's application.
+The revision is specific, a little funny, and shows a trait, care with details, that matches the rest of Emily's application.
 
 ### Optional Essays
 
@@ -230,9 +230,9 @@ The method that works:
 
 **Supplement planning** is mapping every supplemental prompt across your whole list before you write, grouping prompts by type, deciding where material can be adapted, and scheduling each piece by deadline. Without a plan, students write supplements one college at a time, in deadline order, and run out of time for the last ones. With a plan, you write each core essay once and adapt it efficiently. You'll also see which prompts need fresh research and which are short. Copy every prompt into your tracker in August, when the Common App opens and colleges post their prompts, then group them by type and schedule the work backward from your early deadlines.
 
-#### Worked Example: Priya's Supplement Plan
+#### Worked Example: Emily's Supplement Plan
 
-Priya groups her 18 pieces by type:
+Emily groups her 18 pieces by type:
 
 | Type | Colleges | Plan |
 |------|----------|------|
@@ -267,7 +267,7 @@ Canvas layout:
 - Toggle to Calendar view: a week-by-week strip from August to January placing each card in a suggested writing week two weeks before its deadline (one week for short answers), with core essays scheduled first. Weeks with more than three pieces turn orange.
 - Bottom: totals: number of pieces, total words, number of core essays to write, number of adaptations, and estimated hours (fresh essays 3 hours per 250 words; adaptations 1.5 hours; short answers 0.5 hours each).
 
-Presets (createButton): "Priya's list" (the 18 pieces from the chapter) and "Clear."
+Presets (createButton): "Emily's list" (the 18 pieces from the chapter) and "Clear."
 
 Controls (all created in setup() before positioning): the entry controls, createButton "Group view" and "Calendar view," createButton "Remove selected," and presets.
 

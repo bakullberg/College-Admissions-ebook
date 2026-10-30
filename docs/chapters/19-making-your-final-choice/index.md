@@ -61,9 +61,9 @@ Start by narrowing your offers to **finalists**, usually two or three colleges t
 
 Weigh these by **what matters to you,** using the priorities you ranked in Chapter 3, not by national rankings or what others expect. A college ranked higher nationally isn't automatically the better choice for your goals, budget, and life.
 
-#### Worked Example: Priya Narrows to Finalists
+#### Worked Example: Emily Narrows to Finalists
 
-Priya has six acceptances and one waitlist. She narrows them:
+Emily has six acceptances and one waitlist. She narrows them:
 
 - **College C:** net price $46,000 (Chapter 16), far above her family's $25,000. **Out.**
 - **The university that admitted her to general studies,** not English, has a strong program, but she'd have to compete to transfer in. **Out,** given that her other options admit her to English directly.
@@ -103,7 +103,7 @@ Canvas layout:
 - Bottom: a horizontal bar per college showing its weighted total, with each bar segmented by factor so students see which factors contribute most. The leading college's bar is outlined in gold.
 - Right panel: "What's driving this?" lists the two factors with the largest weighted difference between the top two colleges, e.g., "Cost: Flagship +12; Academic fit: Hillcrest +8."
 
-Presets (createButton): "Priya: Hillcrest vs. Flagship honors" (weights: Academic 5, Social 4, Cost 4, Outcomes 3, Distance 2, Gut 4; scores reflecting the chapter worked example) and "Marcus: Lakeshore vs. Brookfield vs. Regional."
+Presets (createButton): "Emily: Hillcrest vs. Flagship honors" (weights: Academic 5, Social 4, Cost 4, Outcomes 3, Distance 2, Gut 4; scores reflecting the chapter worked example) and "Marcus: Lakeshore vs. Brookfield vs. Regional."
 
 Note on screen: "The total is a tool for thinking, not a verdict. If your gut disagrees with the total, look at what's driving the difference."
 
@@ -116,9 +116,9 @@ Responsive behavior: Call updateCanvasSize() first in setup(); on narrow screens
 Implementation: p5.js with createInput, createSlider, createSelect, createCheckbox, and createButton; canvas parented to the main element.
 </details>
 
-#### Worked Example: Priya's Matrix
+#### Worked Example: Emily's Matrix
 
-Priya weights her factors using her Chapter 3 priorities and scores her two finalists:
+Emily weights her factors using her Chapter 3 priorities and scores her two finalists:
 
 | Factor | Weight | Hillcrest score | Weighted | Flagship honors score | Weighted |
 |--------|--------|-----------------|----------|-----------------------|----------|
@@ -130,7 +130,7 @@ Priya weights her factors using her Chapter 3 priorities and scores her two fina
 | Gut sense | 4 | 5 | 20 | 3 | 12 |
 | **Total** | | | **95** | | **86** |
 
-Hillcrest leads, driven by academic fit, social fit, and her gut sense. The flagship leads on cost and distance. The four-year cost difference is about $32,000 ($8,000 a year), which is real money. Priya's family can afford Hillcrest within their $25,000-a-year budget, and she'd borrow only the federal loans in her package. She decides the table matches what she felt, but she wants to visit both one more time before committing.
+Hillcrest leads, driven by academic fit, social fit, and her gut sense. The flagship leads on cost and distance. The four-year cost difference is about $32,000 ($8,000 a year), which is real money. Emily's family can afford Hillcrest within their $25,000-a-year budget, and she'd borrow only the federal loans in her package. She decides the table matches what she felt, but she wants to visit both one more time before committing.
 
 ## Testing Your Finalists
 
@@ -172,7 +172,7 @@ It's normal to feel some doubt, even after a careful decision. Every choice invo
 
 After revisits and comparisons, the students in this book choose:
 
-- **Priya:** **Hillcrest College.** Her revisit confirmed the seminar culture she'd loved in the fall, and the cost fits her family's budget. She stays on College A's waitlist, but she's not counting on it.
+- **Emily:** **Hillcrest College.** Her revisit confirmed the seminar culture she'd loved in the fall, and the cost fits her family's budget. She stays on College A's waitlist, but she's not counting on it.
 - **Marcus:** **Lakeshore University.** After his appeal, Lakeshore's net price fell to $20,000, within $1,000 of Brookfield, and its CS program and internship record won out.
 - **Ana:** **Northfield University,** her first choice, which her appeal (Chapter 18) made affordable.
 - **Casey:** **the University of Iowa.** It was a true safety for Casey from the start (Chapter 3), and its affordable in-state cost and writing programs made it Casey's first choice by spring.

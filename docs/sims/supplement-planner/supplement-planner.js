@@ -28,7 +28,7 @@ const TIPS = {
   'Other': 'Read the prompt closely and decide whether existing material fits.'
 };
 
-const PRIYA = [
+const EMILY = [
   ['State flagship', 'Major', 250, '2026-11-15'],
   ['College B', 'Why Us', 250, '2027-01-01'],
   ['College C', 'Why Us', 200, '2026-11-01'],
@@ -53,7 +53,7 @@ const WEEK0 = new Date(2026, 7, 3);   // Monday, August 3
 const WEEKS = 27;                     // through the end of January
 
 let collegeInput, typeSelect, wordsInput, dateInput, addButton;
-let groupButton, calendarButton, removeButton, priyaButton, clearButton;
+let groupButton, calendarButton, removeButton, emilyButton, clearButton;
 let pieces = [];     // { college, type, words, deadline: Date }
 let view = 'group';
 let selected = -1;
@@ -83,12 +83,12 @@ function setup() {
   calendarButton.mousePressed(() => { view = 'calendar'; styleViewButtons(); });
   removeButton = createButton('Remove selected');
   removeButton.mousePressed(() => { if (selected >= 0) { pieces.splice(selected, 1); selected = -1; } });
-  priyaButton = createButton("Priya's list");
-  priyaButton.mousePressed(loadPriya);
+  emilyButton = createButton("Emily's list");
+  emilyButton.mousePressed(loadEmily);
   clearButton = createButton('Clear');
   clearButton.mousePressed(() => { pieces = []; selected = -1; });
 
-  loadPriya();
+  loadEmily();
   styleViewButtons();
   positionControls();
   describe('A supplemental essay planner. Add each prompt with its college, type, word limit, and deadline. A group view sorts prompts by type and marks which can be adapted from a core essay, a calendar view schedules each piece two weeks before its deadline, and totals estimate the hours of work.');
@@ -97,7 +97,7 @@ function setup() {
 function positionControls() {
   let y = drawHeight + 8;
   y = flowRow([collegeInput, typeSelect, wordsInput, dateInput, addButton], 10, y, 32) + 40;
-  flowRow([groupButton, calendarButton, removeButton, priyaButton, clearButton], 10, y, 32);
+  flowRow([groupButton, calendarButton, removeButton, emilyButton, clearButton], 10, y, 32);
 }
 
 // Place controls left to right using their real widths; wrap when the row is full.
@@ -124,8 +124,8 @@ function parseDate(s) {
   return new Date(y, m - 1, d);
 }
 
-function loadPriya() {
-  pieces = PRIYA.map(p => ({ college: p[0], type: p[1], words: p[2], deadline: parseDate(p[3]) }));
+function loadEmily() {
+  pieces = EMILY.map(p => ({ college: p[0], type: p[1], words: p[2], deadline: parseDate(p[3]) }));
   selected = -1;
 }
 
@@ -354,7 +354,7 @@ function emptyNote(top) {
   fill('dimgray');
   textAlign(LEFT, TOP);
   textSize(15);
-  text('Add your supplemental prompts below, or load Priya\'s list.', margin + 6, top + 10, canvasWidth - 2 * margin);
+  text('Add your supplemental prompts below, or load Emily\'s list.', margin + 6, top + 10, canvasWidth - 2 * margin);
 }
 
 function drawTotals(r) {

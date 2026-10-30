@@ -16,7 +16,7 @@ const SHORT = { 'Reading and Writing': 'R&W', 'Math': 'Math', 'English': 'Englis
 const RANGE = { SAT: [200, 800, 10], ACT: [1, 36, 1] };
 const DATE_GRAYS = ['silver', 'darkgray', 'gray', 'dimgray'];
 
-let testSelect, addButton, removeButton, priyaButton, caseyButton, testLabel;
+let testSelect, addButton, removeButton, emilyButton, caseyButton, testLabel;
 let rows = [];       // { date: input, scores: [inputs] }
 let dateCount = 2;
 let barRects = [];
@@ -36,14 +36,14 @@ function setup() {
   addButton.mousePressed(() => { if (dateCount < 4) { dateCount++; positionControls(); } });
   removeButton = createButton('Remove last');
   removeButton.mousePressed(() => { if (dateCount > 1) { dateCount--; positionControls(); } });
-  priyaButton = createButton('Load Priya');
-  priyaButton.mousePressed(loadPriya);
+  emilyButton = createButton('Load Emily');
+  emilyButton.mousePressed(loadEmily);
   caseyButton = createButton('Load Casey');
   caseyButton.mousePressed(loadCasey);
   testLabel.style('font-size', '15px');
 
   buildRows();
-  loadPriya();
+  loadEmily();
   describe('A superscore calculator. Enter section scores for up to four SAT or ACT test dates. Bars compare each section across dates with the best outlined in gold, and a second chart compares the superscore with the best single-sitting score.');
 }
 
@@ -71,7 +71,7 @@ function buildRows() {
 
 function positionControls() {
   let y = drawHeight + 8;
-  flowRow([testLabel, testSelect, addButton, removeButton, priyaButton, caseyButton], 10, y, 30);
+  flowRow([testLabel, testSelect, addButton, removeButton, emilyButton, caseyButton], 10, y, 30);
   const wrapped = (caseyButton.y || 0) > y + 5;
   y += (wrapped ? 64 : 34) + 18;   // leave a line for the column headers drawn on the canvas
   rows.forEach((r, i) => {
@@ -111,9 +111,9 @@ function setRows(test, data) {
   positionControls();
 }
 
-function loadPriya() { setRows('SAT', [['June', 680, 600], ['October', 660, 650]]); }
+function loadEmily() { setRows('SAT', [['June', 680, 600], ['October', 660, 650]]); }
 function loadCasey() { setRows('ACT', [['Date 1', 25, 22, 26], ['Date 2', 24, 25, 26]]); }
-function loadDefaults() { testSelect.value() === 'SAT' ? loadPriya() : loadCasey(); }
+function loadDefaults() { testSelect.value() === 'SAT' ? loadEmily() : loadCasey(); }
 
 function scoresFor(i) {
   return rows[i].scores.map(s => parseFloat(s.value()));

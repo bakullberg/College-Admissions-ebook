@@ -99,14 +99,14 @@ For each college, a good tracker includes:
 - **Testing policy,** and whether you plan to submit scores.
 - **Status:** not started, in progress, submitted, or complete.
 
-#### Worked Example: Two Rows of Priya's Tracker
+#### Worked Example: Two Rows of Emily's Tracker
 
 | College | Round | Deadline | My due date | Docs due | Aid priority | Platform | Supplements | Recs | Status |
 |---------|-------|----------|-------------|----------|--------------|----------|-------------|------|--------|
 | State flagship | EA | Nov 1, 11:59 p.m. local | Oct 27 | Nov 8 | Dec 1 (FAFSA) | Own application | 1 short answer (250 words) | None required | In progress |
 | Hillcrest College | RD | Jan 15, 11:59 p.m. ET | Jan 9 | Feb 1 | Feb 15 (CSS Profile) | Common App | "Why Hillcrest" (300 words) | 2 teachers + counselor | Not started |
 
-Notice that Priya's flagship row has an aid priority date (December 1) that comes *after* her application but *before* she'd hear back. Without the tracker, she might assume aid comes after admission. Also notice that Hillcrest requires the CSS Profile, an extra aid form [Chapter 14](../14-understanding-financial-aid/index.md) explains, so it gets its own deadline.
+Notice that Emily's flagship row has an aid priority date (December 1) that comes *after* her application but *before* she'd hear back. Without the tracker, she might assume aid comes after admission. Also notice that Hillcrest requires the CSS Profile, an extra aid form [Chapter 14](../14-understanding-financial-aid/index.md) explains, so it gets its own deadline.
 
 ### The Shared Tracker
 
@@ -170,13 +170,13 @@ Canvas layout:
 - A totals row at the bottom: total supplemental essays, number of colleges needing a counselor rec, and so on.
 - A summary line: "Your list requires X supplemental essays and Y teacher letters. Z requirements are unique to one college."
 
-Default data: Priya's ten-college list from Chapter 3 with fictional but realistic requirements (for example, the state flagship uses its own application with one short answer and no recs; Hillcrest uses the Common App with one supplement and two teacher letters; one reach requires an optional interview; one target requires a graded writing sample, marked gold).
+Default data: Emily's ten-college list from Chapter 3 with fictional but realistic requirements (for example, the state flagship uses its own application with one short answer and no recs; Hillcrest uses the Common App with one supplement and two teacher letters; one reach requires an optional interview; one target requires a graded writing sample, marked gold).
 
 Controls (all created in setup() before positioning):
 - createButton "Add college," which opens a row of createSelect and createInput controls for each column.
 - createButton "Edit selected" and "Remove selected" for the clicked row.
 - createCheckbox "Highlight unique requirements only," which dims shared cells.
-- createButton "Load Priya's list."
+- createButton "Load Emily's list."
 
 Interaction: Hovering a cell shows a tooltip explaining the requirement type ("Test-optional: you choose whether to send scores; see Chapter 6"). Clicking a column header sorts rows by that column. Unique (gold) cells pulse once when the list changes, so new unique requirements are noticed.
 
@@ -189,9 +189,9 @@ Implementation: p5.js with createButton, createSelect, createInput, and createCh
 
 #### Worked Example: Finding the Unique Requirement
 
-Priya fills in her requirements matrix for all ten colleges. Most columns look similar: eight colleges use the Common App, most want two teacher letters, and all ten are test-optional. But one cell stands out in gold. One of her target colleges asks applicants to submit a **graded analytical paper** from a high school class, with the teacher's comments. It's mentioned only on that college's own "first-year requirements" page, not on its Common App page.
+Emily fills in her requirements matrix for all ten colleges. Most columns look similar: eight colleges use the Common App, most want two teacher letters, and all ten are test-optional. But one cell stands out in gold. One of her target colleges asks applicants to submit a **graded analytical paper** from a high school class, with the teacher's comments. It's mentioned only on that college's own "first-year requirements" page, not on its Common App page.
 
-Because she found it in September, Priya has time to pick her best AP U.S. History paper, ask her teacher whether she can submit it, and scan it into her files. If she'd found it the week of the deadline, she might not have had a graded paper on hand at all.
+Because she found it in September, Emily has time to pick her best AP U.S. History paper, ask her teacher whether she can submit it, and scan it into her files. If she'd found it the week of the deadline, she might not have had a graded paper on hand at all.
 
 ## The Filing System
 
@@ -312,7 +312,7 @@ After that, add the colleges on your list and invite your counselor through the 
 
 #### Worked Example: A Summer Head Start
 
-Priya creates her Common App account in June after junior year. Over July, she fills in the Profile, Family, and Education sections, using her unofficial transcript to enter her courses. She drafts her activities list from her activities resume. On August 1, the new year opens and her information carries over. She adds her eight Common App colleges, reads each one's requirements page, and copies every supplemental essay prompt into her tracker.
+Emily creates her Common App account in June after junior year. Over July, she fills in the Profile, Family, and Education sections, using her unofficial transcript to enter her courses. She drafts her activities list from her activities resume. On August 1, the new year opens and her information carries over. She adds her eight Common App colleges, reads each one's requirements page, and copies every supplemental essay prompt into her tracker.
 
 By mid-August, the only parts of her application left are essays and recommendations. While some of her classmates spend September typing addresses and course names, she spends it writing.
 

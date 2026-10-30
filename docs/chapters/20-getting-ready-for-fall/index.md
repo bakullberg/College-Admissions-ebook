@@ -197,9 +197,9 @@ Implementation: p5.js with createInput, createCheckbox, and createButton; canvas
 
 **Move-in day** is the day you move into your residence hall and begin college, usually a few days to a week before classes start, often scheduled by building or time slot to manage crowds. Bring your college ID or confirmation, your room key instructions, and only what fits your room, following the college's packing list. Arrive at your assigned time. Expect long lines and a little chaos, and expect help. Many colleges have volunteers ready to carry boxes. Meet your roommate and neighbors, find your classrooms before the first day, and go to the welcome events. It's the fastest way to start feeling at home. Then let your family go, and know that the nervousness most people feel that night usually fades within a week or two.
 
-#### Worked Example: Priya's Move-In Day
+#### Worked Example: Emily's Move-In Day
 
-Priya's move-in slot at Hillcrest is 9:00 a.m. on a Thursday. Her parents drive her the four hours, and student volunteers unload the car in ten minutes. By noon her room is set up. She and her roommate, whom she'd texted with all summer, have agreed on a rug and a lamp. In the afternoon, she walks the route to her first-year seminar room and finds the literary review's office in the student union. At the floor meeting that evening, she volunteers to organize a Sunday study group.
+Emily's move-in slot at Hillcrest is 9:00 a.m. on a Thursday. Her parents drive her the four hours, and student volunteers unload the car in ten minutes. By noon her room is set up. She and her roommate, whom she'd texted with all summer, have agreed on a rug and a lamp. In the afternoon, she walks the route to her first-year seminar room and finds the literary review's office in the student union. At the floor meeting that evening, she volunteers to organize a Sunday study group.
 
 When her parents call that night, she tells them she's tired and nervous and happy. All three are true, and all three are normal.
 

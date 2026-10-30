@@ -166,7 +166,7 @@ Test your understanding of responding to acceptances, denials, deferrals, and wa
 
 ---
 
-#### 10. Priya is waitlisted at her first choice and plans to send a letter of continued interest. Which draft best meets the chapter's standards?
+#### 10. Emily is waitlisted at her first choice and plans to send a letter of continued interest. Which draft best meets the chapter's standards?
 
 <div class="upper-alpha" markdown>
 1. A short letter with new grades and a recent award, a specific reason the college fits, and an honest statement that she'd enroll if admitted

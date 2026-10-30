@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 10: Supplemental Essays](../../chapters/10-suppl
 - Enter the college's name and a different college's name, then paste your draft.
 - Press **Check**. Orange sentences contain generic phrases, green sentences contain a likely specific detail, and a blue underline marks a detail connected to you.
 - Press **Swap test** to see your draft with the other college's name. If it still makes sense, it isn't specific enough.
-- Load **Priya — first draft** and **Priya — revision** to compare the chapter's example. The checker uses simple patterns and can't judge quality.
+- Load **Emily — first draft** and **Emily — revision** to compare the chapter's example. The checker uses simple patterns and can't judge quality.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 10](../../chapters/10-supplemental-essays/index.md)
 
 ### Activities
 
-1. **Priya's two drafts (4 min):** Check both drafts. Which details in the revision would be impossible to write about another college?
+1. **Emily's two drafts (4 min):** Check both drafts. Which details in the revision would be impossible to write about another college?
 2. **Swap your own (5 min):** Paste one of your Why Us drafts and run the swap test.
 3. **Add two details (6 min):** For each orange sentence, replace the generic phrase with a specific course, program, place, or person, and say why it matters to you.
 

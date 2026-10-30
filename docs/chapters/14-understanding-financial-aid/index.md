@@ -130,7 +130,7 @@ Implementation: p5.js with createButton; canvas parented to the main element.
 
 #### Worked Example: Reading an Aid Package by Source
 
-Priya receives this aid estimate from Hillcrest College, whose cost of attendance is $82,000:
+Emily receives this aid estimate from Hillcrest College, whose cost of attendance is $82,000:
 
 - Hillcrest Grant: $54,000 (institutional, need-based)
 - Hillcrest Merit Scholarship: $6,000 (institutional, merit)
@@ -354,7 +354,7 @@ A college that **meets full need** commits to covering 100% of every admitted st
 
 ## The CSS Profile
 
-The **CSS Profile** is a detailed financial aid application run by the College Board that about 250 colleges, mostly private, require in addition to the FAFSA to award their own institutional aid. It asks for more information than the FAFSA, such as your family's home equity and, at many colleges, a noncustodial parent's finances, so colleges can award their own grants more precisely. The CSS Profile opens October 1 each year. It costs **$25 for the first college and $16 for each additional college,** and fee waivers are automatically granted to many lower- and middle-income families. Each college sets its own CSS Profile deadline, often earlier than you'd expect, especially for Early Decision and Early Action applicants. Hillcrest, for example, sets February 15 in Priya's tracker. Check every college on your list. Many, including Iowa, require only the FAFSA.
+The **CSS Profile** is a detailed financial aid application run by the College Board that about 250 colleges, mostly private, require in addition to the FAFSA to award their own institutional aid. It asks for more information than the FAFSA, such as your family's home equity and, at many colleges, a noncustodial parent's finances, so colleges can award their own grants more precisely. The CSS Profile opens October 1 each year. It costs **$25 for the first college and $16 for each additional college,** and fee waivers are automatically granted to many lower- and middle-income families. Each college sets its own CSS Profile deadline, often earlier than you'd expect, especially for Early Decision and Early Action applicants. Hillcrest, for example, sets February 15 in Emily's tracker. Check every college on your list. Many, including Iowa, require only the FAFSA.
 
 ## State Aid
 
@@ -375,12 +375,12 @@ The best way to estimate a college's institutional aid before applying is its ne
 
 #### Worked Example: Two Colleges, Same Family
 
-Priya's family has an SAI of 31,000. Two private colleges, both with costs of attendance around $82,000, make offers:
+Emily's family has an SAI of 31,000. Two private colleges, both with costs of attendance around $82,000, make offers:
 
 - **Hillcrest College** meets full need using the CSS Profile. Its formula sets her family's ability to pay at about $16,000, and it meets the remaining $66,000 of need with $54,000 in grants, a $6,000 merit scholarship, and $6,000 in work-study and loans. **Net price: $22,000,** of which work-study and a loan can cover $6,000.
 - **College B** doesn't meet full need. It offers a $28,000 grant. **Net price: $54,000,** with a large unmet need.
 
-Both colleges saw the same family. The difference comes entirely from each college's institutional aid policy, which is why Priya ran both colleges' net price calculators before applying, and why she'll compare actual award letters in the spring.
+Both colleges saw the same family. The difference comes entirely from each college's institutional aid policy, which is why Emily ran both colleges' net price calculators before applying, and why she'll compare actual award letters in the spring.
 
 ## Need-Based and Merit Aid
 

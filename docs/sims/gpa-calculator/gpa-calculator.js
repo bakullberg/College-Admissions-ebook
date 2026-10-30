@@ -24,7 +24,7 @@ let showMath = false;
 let moved = null;        // { label, delta }
 let lastGPA = null;
 
-const priya = [
+const emily = [
   ['AP English Language', 'A', '1.0', true],
   ['Precalculus', 'B', '1.0', true],
   ['AP Chemistry', 'B', '1.0', true],
@@ -60,15 +60,15 @@ function setup() {
   addButton.mousePressed(addRow);
   removeButton = createButton('Remove last');
   removeButton.mousePressed(removeRow);
-  loadButton = createButton("Load Priya's year");
-  loadButton.mousePressed(loadPriya);
+  loadButton = createButton("Load Emily's year");
+  loadButton.mousePressed(loadEmily);
   mathButton = createButton('Show the math');
   mathButton.mousePressed(() => {
     showMath = !showMath;
     mathButton.html(showMath ? 'Hide the math' : 'Show the math');
   });
 
-  loadPriya();
+  loadEmily();
   positionControls();
   describe('A GPA calculator. A table of up to eight courses lets you set each grade, credit value, and whether it is a core course. Two readouts show the unweighted GPA for all courses and the core-only GPA, each with a bar from 0 to 4.');
 }
@@ -125,14 +125,14 @@ function removeRow() {
   if (before !== null && lastGPA !== null) moved = { label: 'Removed the last row', delta: lastGPA - before };
 }
 
-function loadPriya() {
-  priya.forEach((p, i) => {
+function loadEmily() {
+  emily.forEach((p, i) => {
     rows[i].name.value(p[0]);
     rows[i].grade.selected(p[1]);
     rows[i].credit.selected(p[2]);
     rows[i].core.checked(p[3]);
   });
-  rowCount = priya.length;
+  rowCount = emily.length;
   moved = null;
   lastGPA = null;
   positionControls();

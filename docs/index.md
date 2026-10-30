@@ -30,7 +30,7 @@ It's written to you, the student, and it assumes you're starting from zero. Pare
 - **A 10-question quiz** and **10 annotated references** for every chapter
 - **A [Glossary](glossary.md)** of 342 terms in plain language
 - **An [FAQ](faq.md)** with 87 common questions and answers
-- **A running example:** a senior named Priya works through the process in most chapters, and the book ends with a complete application roadmap for one real school, the University of Iowa
+- **A running example:** a senior named Emily works through the process in most chapters, and the book ends with a complete application roadmap for one real school, the University of Iowa
 
 ## The Chapters
 

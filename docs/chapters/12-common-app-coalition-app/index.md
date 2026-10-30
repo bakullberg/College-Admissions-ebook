@@ -83,7 +83,7 @@ The dashboard's job is to show you, at a glance, what's left. Each college has a
 
 #### Worked Example: Reading the Dashboard
 
-In mid-October, Priya's dashboard shows her eight Common App colleges. (Her state flagship isn't there, since it uses its own application.) For College C, her Early Action target, every item has a green check. For Hillcrest College, her Regular Decision target, she sees **"Writing supplement: in progress"** and **"Recommenders: not invited."**
+In mid-October, Emily's dashboard shows her eight Common App colleges. (Her state flagship isn't there, since it uses its own application.) For College C, her Early Action target, every item has a green check. For Hillcrest College, her Regular Decision target, she sees **"Writing supplement: in progress"** and **"Recommenders: not invited."**
 
 The first is expected, because her Why Hillcrest essay isn't finished yet. The second is a surprise. She'd invited her teachers through the Common App in September, but she'd added Hillcrest *after* assigning them, so they were never assigned to Hillcrest. She fixes it in My Colleges in two minutes. Without the dashboard, she'd have learned about it in January from a missing-documents email.
 
@@ -125,7 +125,7 @@ The core sections of the Common App are filled out once and sent to every colleg
 
 The **profile section** is the first section of the Common App, covering your personal information: legal name and any preferred name, birthdate, address, phone, email, citizenship, language, and optional demographic questions. It also includes **fee waiver** questions, covered later in this chapter. Everything you enter here is copied into every application you send, so a typo here becomes a typo everywhere.
 
-The most important detail is your **legal name.** It must match your official documents, including your transcript, test registrations, and eventually your financial aid forms, *exactly*. Colleges match incoming documents to your file partly by name. A mismatch, such as "Priya S. Raman" on the Common App and "Priya Sunita Raman" on the transcript, can leave documents unmatched and your file "incomplete." You can enter a preferred name separately. Use the email address from Chapter 5, and double-check your phone number and address. Demographic questions are optional, so answer what you're comfortable answering.
+The most important detail is your **legal name.** It must match your official documents, including your transcript, test registrations, and eventually your financial aid forms, *exactly*. Colleges match incoming documents to your file partly by name. A mismatch, such as "Emily Johnson" on the Common App and "Emily A. Johnson" on the transcript, can leave documents unmatched and your file "incomplete." You can enter a preferred name separately. Use the email address from Chapter 5, and double-check your phone number and address. Demographic questions are optional, so answer what you're comfortable answering.
 
 #### Worked Example: The Unmatched Transcript
 
@@ -169,7 +169,7 @@ Self-reporting comes with one firm rule: **accuracy.** If you're admitted and en
 
 #### Worked Example: Following Each College's Rule
 
-Priya, from Chapter 6, enters both of her SAT test dates in the Testing section: June (680 Reading and Writing, 600 Math) and October (660 and 650). Then she uses each college's own testing question to carry out her decisions:
+Emily, from Chapter 6, enters both of her SAT test dates in the Testing section: June (680 Reading and Writing, 600 Math) and October (660 and 650). Then she uses each college's own testing question to carry out her decisions:
 
 - **College A (test-required):** she answers "Yes, consider my scores" and sends official reports from her College Board account.
 - **College C (test-optional, superscores):** "Yes." She self-reports only for now.
@@ -185,7 +185,7 @@ Copy your entries from your activities resume into the form, then check three th
 
 #### Worked Example: The Truncated Description
 
-Priya pastes her literary magazine description into the activities form: *"Lead staff of 8; started first online issue; read 200+ submissions/yr; edit and lay out 2 print issues/yr."* That's 106 characters in her document. The form shows the full text, but in the preview, the "+" displays oddly. She changes "200+" to "over 200," which reads clearly at the same length. The issue is small, but this is exactly what the preview step later in this chapter is designed to catch.
+Emily pastes her literary magazine description into the activities form: *"Lead staff of 8; started first online issue; read 200+ submissions/yr; edit and lay out 2 print issues/yr."* That's 106 characters in her document. The form shows the full text, but in the preview, the "+" displays oddly. She changes "200+" to "over 200," which reads clearly at the same length. The issue is small, but this is exactly what the preview step later in this chapter is designed to catch.
 
 ### The Writing Section
 
@@ -251,7 +251,7 @@ Paste each supplement from your drafts folder, and check three things before mov
 
 ### Assigning Recommenders
 
-**Assigning recommenders** is the step of inviting your teachers and counselor through the Common App and connecting them to each college that needs their letters. It happens in My Colleges, under each college's recommenders section, after you've completed the FERPA release from Chapter 11. You invite each recommender once by email, then assign them to each college individually. Recommenders you invite aren't automatically assigned to colleges you add later, which is what happened to Priya with Hillcrest. Check every college's recommender status on the dashboard after adding a new college, and don't invite teachers until you've asked them in person, as Chapter 11 described.
+**Assigning recommenders** is the step of inviting your teachers and counselor through the Common App and connecting them to each college that needs their letters. It happens in My Colleges, under each college's recommenders section, after you've completed the FERPA release from Chapter 11. You invite each recommender once by email, then assign them to each college individually. Recommenders you invite aren't automatically assigned to colleges you add later, which is what happened to Emily with Hillcrest. Check every college's recommender status on the dashboard after adding a new college, and don't invite teachers until you've asked them in person, as Chapter 11 described.
 
 ## Fees and Waivers
 
@@ -319,7 +319,7 @@ Submit **early,** ideally a few days before your personal due date from Chapter 
 
 #### Worked Example: Submitting Early
 
-Priya's personal due date for College C's November 1 Early Action deadline is October 27. She finishes on October 25, previews the PDF, and submits that evening. On October 31, a classmate tells her the Common App is running slowly and a friend's payment failed twice. Priya isn't affected. She'd already received her confirmation and, on October 29, an email from the college with her applicant portal login.
+Emily's personal due date for College C's November 1 Early Action deadline is October 27. She finishes on October 25, previews the PDF, and submits that evening. On October 31, a classmate tells her the Common App is running slowly and a friend's payment failed twice. Emily isn't affected. She'd already received her confirmation and, on October 29, an email from the college with her applicant portal login.
 
 ### Submission Confirmation
 

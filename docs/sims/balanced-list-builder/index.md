@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 3: Finding Your Fit](../../chapters/03-finding-y
 - Type a college name, choose its **Category** and **Financial fit**, check **I'd be glad to attend** if true, and press **Add**.
 - Click a card to select it, then use **Remove selected**, **◀ Move left**, or **Move right ▶**.
 - The **Balance check** updates on every change. The bold line is required: at least one affordable safety you'd be glad to attend.
-- Load **Priya's original list** and **Priya's rebalanced list** to compare the chapter's before and after.
+- Load **Emily's original list** and **Emily's rebalanced list** to compare the chapter's before and after.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 3](../../chapters/03-finding-your-fit/index.md) tha
 
 ### Activities
 
-1. **Before and after (4 min):** Load Priya's original list. List every warning, then load the rebalanced list and explain what changed.
+1. **Before and after (4 min):** Load Emily's original list. List every warning, then load the rebalanced list and explain what changed.
 2. **Fix a list (5 min):** Start from the original list and use only Move and Remove to clear as many warnings as you can. What can't you fix without adding schools?
 3. **Your list (10 min):** Clear the board and build your own list from your research.
 

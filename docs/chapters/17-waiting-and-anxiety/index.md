@@ -65,11 +65,11 @@ Two facts make the wait easier to live with. First, **nothing about your admissi
 
 There *are* still a few tasks during the wait. They just aren't admissions tasks. Your counselor sends your mid-year report. You may need to complete financial aid forms or verification (Chapter 14). Scholarship deadlines continue (Chapter 15). And you still have senior-year classes, which matter as much as ever (Chapter 7). Keep those on your tracker so you're not left with nothing but the waiting.
 
-#### Worked Example: Priya's Calendar After Submission
+#### Worked Example: Emily's Calendar After Submission
 
-Priya submits her last Regular Decision application on January 9. She maps what happens next:
+Emily submits her last Regular Decision application on January 9. She maps what happens next:
 
-| When | What's happening | Anything for Priya to do? |
+| When | What's happening | Anything for Emily to do? |
 |------|------------------|---------------------------|
 | Mid-December (already passed) | College C's Early Action decision: admitted | Compare later |
 | January | Files processed and marked complete | Check each portal once, about a week after each deadline |
@@ -78,7 +78,7 @@ Priya submits her last Regular Decision application on January 9. She maps what 
 | Mid-March–early April | Regular Decision releases | Read each decision; start comparing award letters |
 | May 1 | Commitment deadline | Choose (Chapter 19) |
 
-Seeing the calendar helps. Priya realizes that from mid-January to mid-March, nothing at all will happen with her admissions decisions, and she can stop checking for news that won't come.
+Seeing the calendar helps. Emily realizes that from mid-January to mid-March, nothing at all will happen with her admissions decisions, and she can stop checking for news that won't come.
 
 ### Application Status
 

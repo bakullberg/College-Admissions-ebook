@@ -35,9 +35,9 @@ MicroSims are small interactive tools built into the chapters. Each one focuses 
 
 **Example:** The [GPA Calculator](sims/gpa-calculator/index.md) shows how one grade change moves your weighted and unweighted GPA.
 
-### Who is Priya and why does she appear in so many chapters?
+### Who is Emily and why does she appear in so many chapters?
 
-Priya is a fictional senior whose application season runs through the book as a worked example. You see her build a tracker, choose recommenders, decide whether to submit test scores, draft essays, compare award letters, and make her final choice. Following one student through the whole process shows how the pieces connect, which is hard to see when each topic is explained separately. Her choices aren't the "right" answers for everyone. They show the reasoning so you can apply the same steps to your own situation. The book's capstone, in [Getting Ready for Fall](chapters/20-getting-ready-for-fall/index.md), builds a complete application roadmap for one real school, the University of Iowa.
+Emily is a fictional senior whose application season runs through the book as a worked example. You see her build a tracker, choose recommenders, decide whether to submit test scores, draft essays, compare award letters, and make her final choice. Following one student through the whole process shows how the pieces connect, which is hard to see when each topic is explained separately. Her choices aren't the "right" answers for everyone. They show the reasoning so you can apply the same steps to your own situation. The book's capstone, in [Getting Ready for Fall](chapters/20-getting-ready-for-fall/index.md), builds a complete application roadmap for one real school, the University of Iowa.
 
 ### How long does the college application process take?
 
@@ -173,7 +173,7 @@ Supplemental essays are additional essays that individual colleges ask for beyon
 
 Most selective colleges ask for one or two teacher letters plus a counselor letter, while many less selective and formula-based colleges ask for none. For teacher letters, choose teachers from core academic subjects, ideally from junior year, who know you well and saw you grow, participate, or work through difficulty. A teacher who gave you a B+ but watched you improve can write a stronger letter than one who gave you an easy A and barely knows you. If you have an intended major, one letter from a related subject helps. See [Choosing Recommenders](chapters/11-letters-of-recommendation/index.md) and the [Recommender Comparison](sims/recommender-comparison/index.md).
 
-**Example:** Priya asks her junior-year chemistry teacher, who watched her raise a C on the first test to an A, for her main teacher recommendation.
+**Example:** Emily asks her junior-year chemistry teacher, who watched her raise a C on the first test to an A, for her main teacher recommendation.
 
 ### What is the Common App?
 
@@ -349,7 +349,7 @@ Yes. A **rescinded admission** is an acceptance that a college withdraws after o
 
 Build your system before you write a single essay. Start a **deadline tracker**, a spreadsheet with one row per college listing its round, deadline, testing policy, essays, recommendation requirements, and aid forms. Add supporting document deadlines and aid priority deadlines, and set calendar reminders a week ahead. Share it with a parent or counselor if that helps. Create a **dedicated email address** for applications, a digital folder for drafts and transcripts, and a secure record of your logins. These steps take an afternoon and save you from missed deadlines later. See [Getting Organized](chapters/05-getting-organized/index.md) and the [Organized Setup Checklist](sims/organized-setup-checklist/index.md).
 
-**Example:** Priya's tracker shows Hillcrest's CSS Profile is due February 15, weeks before she'd have guessed.
+**Example:** Emily's tracker shows Hillcrest's CSS Profile is due February 15, weeks before she'd have guessed.
 
 ### How do I research a college beyond its website?
 

@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 6: The SAT and ACT Question](../../chapters/06-s
 - Enter your score and choose SAT or ACT. ACT scores are converted to SAT with the official concordance.
 - Each row shows the college's middle 50% range (blue), its estimated midpoint (dark tick), any merit cutoff (green dashes), and your score (gold).
 - Click a row to read the rule behind its badge and to edit that college's name, policy, range, merit cutoff, and inflated-range flag.
-- Press **Try a retest score** and drag the slider to see which badges change. Changed badges flash gold. **Load Priya's list** restores the chapter's five colleges.
+- Press **Try a retest score** and drag the slider to see which badges change. Changed badges flash gold. **Load Emily's list** restores the chapter's five colleges.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 6](../../chapters/06-sat-act-question/index.md) tha
 
 ### Activities
 
-1. **Check Priya's table (4 min):** With Priya's list loaded, confirm each badge matches the chapter's decision column.
+1. **Check Emily's table (4 min):** With Emily's list loaded, confirm each badge matches the chapter's decision column.
 2. **Retest (5 min):** Drag the retest slider. What score would turn College C into a Submit? Is that gain realistic?
 3. **Your list (6 min):** Replace the colleges with your own, using each college's Common Data Set (Section C9) for the ranges.
 

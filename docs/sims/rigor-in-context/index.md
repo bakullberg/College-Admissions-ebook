@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 2: How Colleges Evaluate Applicants](../../chapt
 - Set **Advanced courses offered** for the school and **Advanced courses taken** for the student.
 - Gray tiles are the school's offerings; blue tiles are the courses the student took.
 - Read the share bar and the five-band counselor rating. Hover over a band to see what it suggests to a reader.
-- Press **Elena**, **Jordan**, or **Priya** to load the chapter's examples.
+- Press **Elena**, **Jordan**, or **Emily** to load the chapter's examples.
 
 ## Iframe Embed Code
 

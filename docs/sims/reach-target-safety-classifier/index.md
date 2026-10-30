@@ -64,7 +64,7 @@ Read the section of [Chapter 3](../../chapters/03-finding-your-fit/index.md) tha
 ### Activities
 
 1. **Run the presets (4 min):** Load all four and explain the deciding rule for each.
-2. **Find the edge (4 min):** From Priya → College C, change only the admission rate. At what rate does it become 'Target leaning reach'? What happens below 10%?
+2. **Find the edge (4 min):** From Emily → College C, change only the admission rate. At what rate does it become 'Target leaning reach'? What happens below 10%?
 3. **Your list (7 min):** Classify three colleges you are considering using their real numbers.
 
 ### Discussion Questions

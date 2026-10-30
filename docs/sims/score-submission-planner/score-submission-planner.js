@@ -26,7 +26,7 @@ const BADGES = {
   blind: { label: "Don't send — test-blind", color: 'gray' }
 };
 
-const PRIYA = [
+const EMILY = [
   { name: 'College A', policy: 'Test-required', p25: 1500, p75: 1560, merit: null, inflated: false },
   { name: 'College B', policy: 'Test-optional', p25: 1350, p75: 1480, merit: null, inflated: true },
   { name: 'College C', policy: 'Test-optional', p25: 1220, p75: 1390, merit: null, inflated: true },
@@ -64,8 +64,8 @@ function setup() {
   addButton.mousePressed(addCollege);
   removeButton = createButton('Remove selected');
   removeButton.mousePressed(() => { if (selected >= 0) { colleges.splice(selected, 1); selected = -1; refreshEditor(); } });
-  loadButton = createButton("Load Priya's list");
-  loadButton.mousePressed(loadPriya);
+  loadButton = createButton("Load Emily's list");
+  loadButton.mousePressed(loadEmily);
   retestButton = createButton('Try a retest score');
   retestButton.mousePressed(toggleRetest);
   retestLabel = createSpan('Retest score:');
@@ -84,7 +84,7 @@ function setup() {
   ed.inflated.changed(saveEditor);
   [scoreLabel, retestLabel, ed.l25, ed.l75, ed.lm].forEach(s => s.style('font-size', '14px'));
 
-  loadPriya();
+  loadEmily();
   describe('A score submission planner. Enter your SAT or ACT score. Each college on your list shows its testing policy, a bar for its middle 50% range with the midpoint, your score as a gold marker, and a badge: must submit, submit, judgment call, don\'t submit, or don\'t send. Select a row to edit it and read the rule that fired.');
 }
 
@@ -151,8 +151,8 @@ function satScore() {
   return ACT_TO_SAT[constrain(round(v), 11, 36)] || null;
 }
 
-function loadPriya() {
-  colleges = PRIYA.map(c => ({ ...c }));
+function loadEmily() {
+  colleges = EMILY.map(c => ({ ...c }));
   selected = -1;
   testSelect.selected('SAT');
   scoreInput.value(1280);

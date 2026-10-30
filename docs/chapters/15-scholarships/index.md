@@ -68,9 +68,9 @@ The table below previews the kinds of scholarships covered in this chapter. Each
 | Outside | Businesses, foundations, organizations | A separate application | Varies widely |
 | Local | Community groups near you | A separate application, often through your school | Usually low |
 
-#### Worked Example: Where Priya's Scholarship Money Comes From
+#### Worked Example: Where Emily's Scholarship Money Comes From
 
-By April, Priya has scholarship offers from three sources:
+By April, Emily has scholarship offers from three sources:
 
 - **Hillcrest College:** a $6,000-per-year merit scholarship, awarded automatically with her admission (Chapter 14).
 - **Her state flagship:** a $3,000-per-year honors college scholarship, awarded after a separate application and a short essay.

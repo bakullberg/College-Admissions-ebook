@@ -61,13 +61,13 @@ Check each college's interview policy on its admissions website and record it in
 
 #### Worked Example: Sorting Interview Policies
 
-Priya checks interview policies for her ten colleges:
+Emily checks interview policies for her ten colleges:
 
 - **Six colleges** don't offer interviews, including her state flagship. Nothing to do.
 - **Three colleges** offer optional alumni interviews after you apply. She plans to accept any she's offered.
 - **College A**, her top reach, offers optional evaluative interviews with alumni, but applicants must **request one by October 15** for the Regular Decision round.
 
-Without checking, Priya would have missed College A's request deadline, which falls two months before its application deadline. She requests the interview on October 3 and adds it to her tracker.
+Without checking, Emily would have missed College A's request deadline, which falls two months before its application deadline. She requests the interview on October 3 and adds it to her tracker.
 
 ## Kinds of Interviews
 
@@ -197,13 +197,13 @@ Implementation: p5.js with createButton, createSelect, and createCheckbox; canva
 
 **Interview follow-up** is the short, sincere thank-you you send your interviewer within a day or two after the interview, usually by email. Thank them for their time, mention one specific thing you enjoyed talking about, and, if it's true, say that the conversation increased your interest in the college. Keep it to three or four sentences. Don't use it to add new accomplishments or ask about your chances. If the interviewer gave you their email, use it. If not, ask the admissions office whether they can pass a note along, or send your thanks through the scheduling email. Then record the interview and follow-up in your tracker, and note anything you learned that might help you decide in the spring.
 
-#### Worked Example: Priya's Thank-You
+#### Worked Example: Emily's Thank-You
 
-After her College A interview, Priya emails her alumni interviewer that evening:
+After her College A interview, Emily emails her alumni interviewer that evening:
 
-*"Dear Ms. Patel, thank you for meeting with me today. I loved hearing about the late-night arguments in your first-year writing seminar. It made me even more excited about the seminar program. I'm grateful for your time and your advice about trying the student newspaper. Best, Priya Raman."*
+*"Dear Ms. Patel, thank you for meeting with me today. I loved hearing about the late-night arguments in your first-year writing seminar. It made me even more excited about the seminar program. I'm grateful for your time and your advice about trying the student newspaper. Best, Emily A. Johnson."*
 
-It's brief, specific, and genuine. It reminds the interviewer of their conversation and confirms Priya's interest, which is all a follow-up needs to do.
+It's brief, specific, and genuine. It reminds the interviewer of their conversation and confirms Emily's interest, which is all a follow-up needs to do.
 
 ## Key Takeaways
 

@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 10: Supplemental Essays](../../chapters/10-suppl
 - Add each prompt with its college, type, word limit, and deadline, then press **Add prompt**.
 - **Group view** sorts prompts by type. Community, Major, and Activity prompts share a core essay; Why Us prompts need fresh research.
 - **Calendar view** places each piece in a writing week two weeks before its deadline (one week for short answers). Weeks with more than three pieces turn orange.
-- Hover over a piece for details and a planning tip, click one to select it for **Remove selected**, and load **Priya's list** for the chapter's 18 pieces. The totals estimate your hours of writing.
+- Hover over a piece for details and a planning tip, click one to select it for **Remove selected**, and load **Emily's list** for the chapter's 18 pieces. The totals estimate your hours of writing.
 
 ## Iframe Embed Code
 
@@ -63,7 +63,7 @@ Read the section of [Chapter 10](../../chapters/10-supplemental-essays/index.md)
 
 ### Activities
 
-1. **Read Priya's plan (4 min):** Load Priya's list. How many essays does she write fresh, and how many does she adapt?
+1. **Read Emily's plan (4 min):** Load Emily's list. How many essays does she write fresh, and how many does she adapt?
 2. **Find the crunch (4 min):** Switch to Calendar view. Which week is orange, and what would you move earlier?
 3. **Your plan (10 min):** Clear the board and enter every supplement on your own list.
 

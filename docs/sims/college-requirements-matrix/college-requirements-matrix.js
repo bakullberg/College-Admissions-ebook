@@ -2,7 +2,7 @@
 // CANVAS_HEIGHT: 630
 // Rows are colleges, columns are requirement types. Gray = not required, blue = required and
 // shared by more than one college on the list, gold = required by only one college (easy to miss).
-// Totals and a summary line show the whole list's workload. Priya's data is fictional.
+// Totals and a summary line show the whole list's workload. Emily's data is fictional.
 
 let canvasWidth = 400;
 let drawHeight = 450;
@@ -23,7 +23,7 @@ const COLS = [
   { key: 'fee', label: 'Fee', tip: 'Application fee. Ask your counselor about fee waivers if cost is a barrier.' }
 ];
 
-const PRIYA = [
+const EMILY = [
   ['College A', 'Common App', 3, 2, 'Yes', 'Test-optional', 'Optional', 'None', 'None', 90],
   ['College B', 'Common App', 2, 2, 'Yes', 'Test-optional', 'None', 'None', 'None', 85],
   ['Northfield College', 'Common App', 2, 2, 'Yes', 'Test-optional', 'Optional', 'None', 'None', 75],
@@ -61,8 +61,8 @@ function setup() {
   editButton.mousePressed(() => { if (selected >= 0) openEditor(selected); });
   removeButton = createButton('Remove selected');
   removeButton.mousePressed(() => { if (selected >= 0) { rows.splice(selected, 1); selected = -1; changed(); } });
-  loadButton = createButton("Load Priya's list");
-  loadButton.mousePressed(loadPriya);
+  loadButton = createButton("Load Emily's list");
+  loadButton.mousePressed(loadEmily);
   uniqueBox = createCheckbox(' Highlight unique requirements only', false);
 
   const sel = opts => { const s = createSelect(); opts.forEach(o => s.option(o)); return s; };
@@ -82,7 +82,7 @@ function setup() {
   cancelButton = createButton('Cancel');
   cancelButton.mousePressed(() => { editing = -2; positionControls(); });
 
-  loadPriya();
+  loadEmily();
   describe('A requirements matrix for a list of colleges. Rows are colleges and columns are requirements such as platform, supplemental essays, recommendations, testing, interviews, and fees. Gray cells are not required, blue cells are shared requirements, and gold cells are unique to one college. Totals and a summary show the workload.');
 }
 
@@ -120,8 +120,8 @@ function flowRow(controls, x0, y, lineH) {
   return y;
 }
 
-function loadPriya() {
-  rows = PRIYA.map(r => ({ name: r[0], platform: r[1], essays: r[2], recs: r[3], counselor: r[4], testing: r[5],
+function loadEmily() {
+  rows = EMILY.map(r => ({ name: r[0], platform: r[1], essays: r[2], recs: r[3], counselor: r[4], testing: r[5],
                            interview: r[6], portfolio: r[7], special: r[8], fee: r[9] }));
   selected = -1;
   sortKey = null;

@@ -140,7 +140,7 @@ Test your understanding of comparing offers, testing finalists, and committing b
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **A**. The chapter says to narrow offers to two or three finalists that are affordable and that you'd be glad to attend. Remove any college that fails a dealbreaker or whose net price your family can't manage without unreasonable debt. Priya also cut a university that admitted her to general studies instead of English, since other offers admitted her to English directly. Keeping all five skips the narrowing, and selectivity isn't a reason to choose.
+    The correct answer is **A**. The chapter says to narrow offers to two or three finalists that are affordable and that you'd be glad to attend. Remove any college that fails a dealbreaker or whose net price your family can't manage without unreasonable debt. Emily also cut a university that admitted her to general studies instead of English, since other offers admitted her to English directly. Keeping all five skips the narrowing, and selectivity isn't a reason to choose.
 
     **Concept Tested:** Finalists
 

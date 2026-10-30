@@ -68,7 +68,7 @@ Test your understanding of work-study and loans, reading award letters, out-of-p
 </div>
 
 ??? question "Show Answer"
-    The correct answer is **B**. The chapter says the work-study amount is a ceiling, not a payment. You earn it only by finding a work-study job and working the hours, and you're paid by paycheck as you work. It isn't subtracted from your bill, it isn't guaranteed, and it isn't a loan. That's why Priya budgeted her August payment without it and planned to use her earnings for books and personal expenses.
+    The correct answer is **B**. The chapter says the work-study amount is a ceiling, not a payment. You earn it only by finding a work-study job and working the hours, and you're paid by paycheck as you work. It isn't subtracted from your bill, it isn't guaranteed, and it isn't a loan. That's why Emily budgeted her August payment without it and planned to use her earnings for books and personal expenses.
 
     **Concept Tested:** Work-Study
 

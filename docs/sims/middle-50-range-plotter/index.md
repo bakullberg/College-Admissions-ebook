@@ -63,8 +63,8 @@ Read the section of [Chapter 2](../../chapters/02-how-colleges-evaluate/index.md
 
 ### Activities
 
-1. **Read Priya's position (3 min):** With the defaults, explain what "inside range, lower half" means for Priya at Westbrook.
-2. **Compare three colleges (4 min):** Switch among Westbrook, Lakeside State, and Harrow. Where does Priya fall at each?
+1. **Read Emily's position (3 min):** With the defaults, explain what "inside range, lower half" means for Emily at Westbrook.
+2. **Compare three colleges (4 min):** Switch among Westbrook, Lakeside State, and Harrow. Where does Emily fall at each?
 3. **A real college (3 min):** Look up one college's middle 50% ranges and enter them with your own numbers.
 
 ### Discussion Questions

@@ -64,9 +64,9 @@ An **admission decision** is a college's answer to your application. There are f
 
 Some colleges have variations, such as admission to a different program than you chose, admission for spring instead of fall, or admission conditional on a summer program. Read every decision letter fully, including any links in the portal, since next steps and deadlines are often there. Record each decision and its deadline in your tracker the same day.
 
-#### Worked Example: Priya's Decisions
+#### Worked Example: Emily's Decisions
 
-By April 1, Priya has heard from all ten colleges:
+By April 1, Emily has heard from all ten colleges:
 
 - **Accepted (6):** College C (Early Action, December), Hillcrest, her state flagship (with honors college), and three others.
 - **Denied (2):** College B and one other reach.
@@ -158,9 +158,9 @@ A **waitlist strategy** is your plan for responding to a waitlist offer. It has 
 
 A **letter of continued interest** is a short letter to a college that has waitlisted or deferred you, confirming that you still want to attend and sharing meaningful updates since you applied. It matters because colleges use waitlists partly to protect their **yield**, the share of admitted students who enroll. They're more likely to admit students who will actually come. A good letter is brief, usually well under a page. It's specific about why the college fits you, includes genuine updates such as new grades, awards, or accomplishments, and, only if it's true, says clearly that you'd enroll if admitted. Send it to your regional admissions officer, or as the college directs, soon after confirming your spot. Don't send a flood of materials or multiple letters, and never say a college is your first choice if it isn't.
 
-#### Worked Example: Priya's Letter to College A
+#### Worked Example: Emily's Letter to College A
 
-Priya is waitlisted at College A, her top choice. After confirming her spot, she sends this letter to her regional officer:
+Emily is waitlisted at College A, her top choice. After confirming her spot, she sends this letter to her regional officer:
 
 > *Dear Ms. Alvarez,*
 >
@@ -172,9 +172,9 @@ Priya is waitlisted at College A, her top choice. After confirming her spot, she
 >
 > *Thank you for your continued consideration.*
 >
-> *Priya Raman*
+> *Emily A. Johnson*
 
-The letter is about 125 words, and it's specific, honest, and complete. In the meantime, Priya will deposit at one of her acceptances by May 1, so she has a confirmed place whatever College A decides.
+The letter is about 125 words, and it's specific, honest, and complete. In the meantime, Emily will deposit at one of her acceptances by May 1, so she has a confirmed place whatever College A decides.
 
 ## Early Decision Release
 

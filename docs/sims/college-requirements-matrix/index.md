@@ -28,7 +28,7 @@ This MicroSim supports [Chapter 5: Getting Organized](../../chapters/05-getting-
 - Each row is a college, and each column is a requirement type. Gray = not required, blue = required and shared, gold = required by only one college.
 - Hover over any cell or header for an explanation. Click a header to sort by that column.
 - Click a row to select it, then **Edit selected** or **Remove selected**. **Add college** opens an editor for a new row (up to 10).
-- Check **Highlight unique requirements only** to dim everything except the gold cells. **Load Priya's list** restores the chapter example.
+- Check **Highlight unique requirements only** to dim everything except the gold cells. **Load Emily's list** restores the chapter example.
 
 ## Iframe Embed Code
 
@@ -63,9 +63,9 @@ Read the section of [Chapter 5](../../chapters/05-getting-organized/index.md) th
 
 ### Activities
 
-1. **Find the gold (3 min):** With Priya's list loaded, find the unique requirement and explain why it would be easy to miss.
-2. **Count the work (4 min):** How many supplemental essays does Priya's list require? Which three colleges account for most of them?
-3. **Your list (8 min):** Replace Priya's colleges with your own, reading each college's own first-year requirements page.
+1. **Find the gold (3 min):** With Emily's list loaded, find the unique requirement and explain why it would be easy to miss.
+2. **Count the work (4 min):** How many supplemental essays does Emily's list require? Which three colleges account for most of them?
+3. **Your list (8 min):** Replace Emily's colleges with your own, reading each college's own first-year requirements page.
 
 ### Discussion Questions
 
