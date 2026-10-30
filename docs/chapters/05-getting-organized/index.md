@@ -59,7 +59,7 @@ Applications rarely fall apart because of one hard step. They fall apart because
 
 This chapter sets up the systems that prevent that. You'll begin with what getting organized means and why it pays off. Then you'll build the core tools: a deadline tracker you share with your family, a checklist for each college, and a filing system for your documents and logins. Next come the accounts that every application runs through, starting with a dedicated email address and the Common App. You'll also learn who can help you, from your school counselor to your family, and how senior year's calendar fits together. The chapter ends with five first steps you can take this week.
 
-The good news is that none of this is hard. Most of it takes an afternoon or two. That small investment pays off every week for the rest of the year.
+The good news is that none of this is hard. Most of it takes an afternoon or two. That small investment pays off every week for the rest of the year. Future you, staring at a portal at 11:52 p.m. in November, will be grateful.
 
 ## Getting Organized
 
@@ -71,7 +71,7 @@ Organization rests on three principles:
 2. **Visible to the people helping you.** A parent, guardian, or counselor can only catch a missed date if they can see the plan. Sharing your tracker turns your helpers into a safety net.
 3. **Early buffers.** Set your own deadlines a few days before the real ones. Portals crash on deadline night, recommenders run late, and files refuse to upload. A buffer turns those problems into minor annoyances instead of emergencies.
 
-The payoff is easy to underestimate. Think about how many separate items the process involves. Ten colleges, each with an application, a supplement or two, a supporting document deadline, and an aid deadline, already add up to more than forty dates. Add in testing, recommendations, scholarship applications, and the FAFSA, and the total climbs past a hundred. No one can track that from memory.
+The payoff is easy to underestimate. Think about how many separate items the process involves. Ten colleges, each with an application, a supplement or two, a supporting document deadline, and an aid deadline, already add up to more than forty dates. Add in testing, recommendations, scholarship applications, and the FAFSA, and the total climbs past a hundred. No one can track that from memory, not even the friend who never forgets a birthday.
 
 #### Worked Example: The Cost of a Dropped Thread
 
@@ -122,7 +122,7 @@ A **priority deadline** is an earlier date that gives you the best chance at som
 
 ### Calendar Reminders
 
-**Calendar reminders** are alerts you set on your phone or computer calendar for each date in your tracker, so deadlines come to you instead of depending on you to check. A tracker only helps when you look at it. Reminders make sure you do. A useful pattern is to set two reminders for each deadline: one a week before your personal due date, to start finishing, and one the day before, to submit. Add reminders for checking your portals and email, too.
+**Calendar reminders** are alerts you set on your phone or computer calendar for each date in your tracker, so deadlines come to you instead of depending on you to check. A tracker only helps when you look at it. Reminders make sure you do. Think of them as a polite, persistent friend who never says "I told you so." A useful pattern is to set two reminders for each deadline: one a week before your personal due date, to start finishing, and one the day before, to submit. Add reminders for checking your portals and email, too.
 
 ## The Application Checklist
 
@@ -207,7 +207,7 @@ A simple structure works best. Create one main folder with these subfolders:
 - **Financial aid:** tax documents and other paperwork for the FAFSA and CSS Profile, kept securely.
 - **Colleges:** one subfolder per college for its checklist, confirmation emails, portal screenshots, and decision letters.
 
-Name files clearly so you can find them later, for example "Hillcrest_WhyHillcrest_v3.docx" rather than "essay final FINAL.docx."
+Name files clearly so you can find them later, for example "Hillcrest_WhyHillcrest_v3.docx" rather than "essay final FINAL.docx." (Everyone has an "essay final FINAL." The goal is to never need "essay final FINAL v2.")
 
 #### Worked Example: Finding a Document in Thirty Seconds
 
@@ -225,7 +225,7 @@ A **digital document folder** is the online version of your filing system, kept 
 
 ### The Login Credentials Record
 
-A **login credentials record** is a secure, private record of every account you create during the process, including the site, your username, and your password. By spring you may have twenty or more accounts: the Common App, several college portals, the College Board, ACT, the FAFSA, the CSS Profile, and scholarship sites. You'll need to get back into many of them months after creating them. The safest option is a **password manager**, an app that stores passwords securely behind one master password. If you don't use one, keep a single document protected with a strong password, not a note on your phone and never your shared tracker. Use a different password for each account.
+A **login credentials record** is a secure, private record of every account you create during the process, including the site, your username, and your password. By spring you may have twenty or more accounts: the Common App, several college portals, the College Board, ACT, the FAFSA, the CSS Profile, and scholarship sites. You'll need to get back into many of them months after creating them. The safest option is a **password manager**, an app that stores passwords securely behind one master password. If you don't use one, keep a single document protected with a strong password, not a note on your phone and never your shared tracker. Use a different password for each account. The "Forgot password?" link should not become your most-used button of senior year.
 
 ## The Dedicated Email Address
 
@@ -237,7 +237,7 @@ A dedicated address solves three problems:
 - **You keep access.** Many students apply using their high school email, then lose access to it after graduation, often just when colleges send housing and orientation information. A personal account you control stays with you.
 - **You look like an adult.** Admissions officers see your email address. *firstname.lastname@* reads better than a nickname you picked in middle school.
 
-Set it up with a few habits in mind. Use a free provider and a simple, professional address that includes your name. Use the **same address everywhere**, since colleges match records partly by email. Check it at least every other day during application season, and daily from March through May. Set up filters or labels so messages from each college, testing agencies, and financial aid sort themselves. Check your spam folder weekly, since important college emails sometimes land there. Finally, consider sharing access or forwarding with a parent if your family agrees. Some families find that helpful. Others prefer that the student own it fully.
+Set it up with a few habits in mind. Use a free provider and a simple, professional address that includes your name. Use the **same address everywhere**, since colleges match records partly by email. Check it at least every other day during application season, and daily from March through May. Set up filters or labels so messages from each college, testing agencies, and financial aid sort themselves. Check your spam folder weekly, since important college emails sometimes land there, right between a "You've won!" message and a coupon you'll never use. Finally, consider sharing access or forwarding with a parent if your family agrees. Some families find that helpful. Others prefer that the student own it fully.
 
 #### Worked Example: The Missed Email
 
@@ -291,7 +291,7 @@ The main advantage is efficiency. Without it, you'd type your address, your pare
 A few facts about how it works:
 
 - **It runs on a yearly cycle.** The new application year opens on **August 1**, when that year's essay prompts and college-specific questions go live.
-- **You can add up to 20 colleges.** That's far more than most students need.
+- **You can add up to 20 colleges.** That's far more than most students need. Twenty applications is less a college list than a part-time job.
 - **Each college sets its own rules.** Deadlines, supplements, recommendation requirements, and testing policies all come from the college, not the Common App.
 - **You'll see a separate list of requirements for each college.** It shows that college's deadlines, supplements, and documents, the same information your requirements matrix collects.
 
@@ -366,7 +366,7 @@ They agree on three things. Ana owns her tracker and applications and shares the
 
 ### The Summer Before Senior Year
 
-The **summer before senior year** is the stretch between the end of junior year and the start of senior year, the last long block of free time before deadlines begin. Use it for the tasks that take time but not urgency. Finalize your college list, visit nearby campuses, create your Common App account and fill in its factual sections, build your activities resume, draft your personal essay, and decide whether to take or retake a standardized test in the fall. Students who use the summer well start senior year with essays in progress. Students who don't start it with everything at once. You don't need to work every day. A few hours a week adds up.
+The **summer before senior year** is the stretch between the end of junior year and the start of senior year, the last long block of free time before deadlines begin. Use it for the tasks that take time but not urgency. Finalize your college list, visit nearby campuses, create your Common App account and fill in its factual sections, build your activities resume, draft your personal essay, and decide whether to take or retake a standardized test in the fall. Students who use the summer well start senior year with essays in progress. Students who don't start it with everything at once. You don't need to work every day. A few hours a week adds up, and summer is still summer.
 
 ### The Senior Year Calendar
 
@@ -390,7 +390,7 @@ The **five first steps** are five concrete tasks that start the process and set 
 2. **Create your Common App account,** using your dedicated email address and legal name. Create the email first if you haven't already.
 3. **Ask two teachers for recommendations.** Teachers get many requests in the fall, and asking early gets you a better letter, not just a faster one. [Chapter 11](../11-letters-of-recommendation/index.md) covers whom to ask and how.
 4. **Draft an activities resume.** List your jobs, clubs, sports, volunteering, and family responsibilities. You'll use it for the Common App, for your recommenders, and for essay ideas. [Chapter 8](../08-activities-and-resume/index.md) covers it in detail.
-5. **Start a running list of essay material.** Keep a note on your phone for moments, stories, and details as they occur to you. The best essay material often shows up when you're not trying to write.
+5. **Start a running list of essay material.** Keep a note on your phone for moments, stories, and details as they occur to you. The best essay material often shows up when you're not trying to write, usually right as you're falling asleep, which is why the note lives on your phone.
 
 The checklist below tracks your progress on these five steps and the setup tasks from this chapter.
 

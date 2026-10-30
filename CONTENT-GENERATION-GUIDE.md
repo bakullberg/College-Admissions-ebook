@@ -292,6 +292,35 @@ actually justified rather than mechanically trimming to hit a number.
 
 <!-- END mascot-placement-rules -->
 
+## Humor
+
+Readers are stressed high school seniors. Humor here exists to lower the
+temperature and make students feel seen, never to entertain at the expense of
+clarity. Chapter 5 (Getting Organized) is the pilot and the reference example.
+
+**Do:**
+
+- Use gentle, observational humor about universal senior-year experiences:
+  the 11:52 p.m. portal, "essay final FINAL.docx," the forgotten password.
+- Keep each touch to one short sentence or parenthetical that the reader can
+  skip without losing any information.
+- Aim for roughly one light touch per major (`##`) section, at most. Many
+  sections should have none.
+- Put humor next to advice, not inside it, so the instruction stays plain.
+- Let the running examples (Emily, Marcus, Ana, Casey) be relatably human.
+
+**Don't:**
+
+- Joke about money, financial need, deadlines' consequences, rejection,
+  anxiety, disability, family circumstances or first-generation status.
+- Joke in definitions, glossary entries, FAQ answers, quiz questions or quiz
+  answer choices, or anywhere a rule or date is stated.
+- Mock students, parents, counselors, teachers, colleges or admissions
+  officers.
+- Use pop-culture references, memes, slang or sarcasm. They date quickly and
+  don't translate.
+- Add humor to fill space. If a line isn't clearly funny and kind, cut it.
+
 ---
 
 ## Concept Depth & Word-Count Targets
