@@ -140,7 +140,7 @@ A **private loan** is a student loan from a bank, credit union, or other private
 
 Many award letters blur the distinction. They might list grants, work-study, and loans together under "Your financial aid," add them into a single total, and show a small "remaining balance." A letter that offers "$46,000 in financial aid" may contain $30,000 of free money and $16,000 of loans. The headline total tells you almost nothing about the real cost.
 
-The fix is a habit. **Every time you read an award letter, sort each line into one of three columns:** free money (grants and scholarships), earned money (work-study), and borrowed money (all loans, including Parent PLUS). Then ignore the letter's totals and use your own.
+The fix is a habit. **Every time you read an award letter, sort each line into one of three columns:** free money (grants and scholarships), earned money (work-study), and borrowed money (all loans, including Parent PLUS). Then ignore the letter's totals and use your own. Three colors of highlighter are optional, but they do make you feel very much in charge.
 
 #### Worked Example: Lakeshore's Letter, Sorted
 
@@ -190,7 +190,7 @@ She finds College C's published cost of attendance on its financial aid website:
 
 ### Reading an Award Letter
 
-**Reading an award letter** means translating each college's offer into the same set of numbers so you can understand and compare it. Work through every letter in the same order:
+**Reading an award letter** means translating each college's offer into the same set of numbers so you can understand and compare it. The good news: the hardest math in this section is subtraction. Work through every letter in the same order:
 
 1. **Find the full cost of attendance** for one year, including indirect costs. If it's missing or shows only billed costs, look it up on the college's website.
 2. **List every grant and scholarship.** Note which are need-based and which are merit, and whether each is renewable and under what conditions.

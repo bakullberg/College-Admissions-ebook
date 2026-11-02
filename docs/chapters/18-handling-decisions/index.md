@@ -83,7 +83,7 @@ An **acceptance**, or offer of admission, means a college has admitted you and i
 
 After an acceptance:
 
-1. **Celebrate.** It's real, and you earned it.
+1. **Celebrate.** It's real, and you earned it. Loud noises in the kitchen are encouraged.
 2. **Record it** in your tracker, with the enrollment deposit deadline and amount.
 3. **Find the financial aid offer.** If it hasn't arrived, check the portal and confirm that your aid forms are complete.
 4. **Note any conditions,** such as finishing senior year in good standing, completing a summer program, or submitting a final transcript.

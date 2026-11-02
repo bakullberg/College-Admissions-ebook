@@ -112,7 +112,7 @@ When she checks eligibility, 14 of the 36 don't fit. Some require a major she is
 
 ### Scholarship Search Engines
 
-**Scholarship search engines** are free websites, such as the College Board's BigFuture scholarship search, Scholarships.com, and Fastweb, that match you to scholarships based on a profile you fill out. They're useful for finding national and regional awards you'd never hear about otherwise. Use them with three cautions. First, **they're crowded.** Large national awards on these sites attract enormous applicant pools. Second, **profiles can generate marketing.** Use your dedicated email (Chapter 5), and read privacy settings before sharing details. Third, **never pay for a search.** The best search tools are free, and any service charging to "find" scholarships for you is a warning sign, as you'll see in the scams section.
+**Scholarship search engines** are free websites, such as the College Board's BigFuture scholarship search, Scholarships.com, and Fastweb, that match you to scholarships based on a profile you fill out. They're useful for finding national and regional awards you'd never hear about otherwise. Use them with three cautions. First, **they're crowded.** Large national awards on these sites attract enormous applicant pools. Second, **profiles can generate marketing.** Use your dedicated email (Chapter 5), and read privacy settings before sharing details. Your personal inbox has been through enough. Third, **never pay for a search.** The best search tools are free, and any service charging to "find" scholarships for you is a warning sign, as you'll see in the scams section.
 
 ## Choosing Which to Apply For
 
@@ -195,7 +195,7 @@ Ana's personal essay about teaching her brother to read becomes the starting poi
 - **First-generation scholarship** ("Describe a challenge your family has faced and your role", 400 words): she shifts the focus to translating for her parents, with the reading story as a brief second example.
 - **Church community scholarship** ("How have you served your community?", 300 words): she leads with the food pantry and connects it to the same theme of helping people understand.
 
-Each essay answers its prompt directly. None is a copy. All three took about a third of the time new essays would have.
+Each essay answers its prompt directly. None is a copy. All three took about a third of the time new essays would have. Recycling: good for the planet, and better for your Saturday.
 
 ## Keeping the Money
 
