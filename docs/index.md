@@ -18,6 +18,7 @@ It's written to you, the student, and it assumes you're starting from zero. Pare
 
 ## Where to Start
 
+- **Want the whole process in one place?** Use the interactive [Master Checklist](master-checklist.md) to check off every step from junior spring to move-in.
 - **Just getting started?** Read [The College Landscape and Application Rounds](chapters/01-college-landscape-and-rounds/index.md) for a map of the whole process, then do the five first steps at the end of [Getting Organized](chapters/05-getting-organized/index.md).
 - **Have a deadline coming up?** Jump straight to the chapter you need. Every chapter stands on its own.
 - **Holding an award letter?** Go to [Comparing Award Letters](chapters/16-comparing-award-letters/index.md).
@@ -26,7 +27,8 @@ It's written to you, the student, and it assumes you're starting from zero. Pare
 ## What's Inside
 
 - **20 chapters** that follow the order of senior year
-- **50 interactive MicroSims** that let you try the ideas with your own numbers, like calculating your GPA, plotting your test score against a college's range, or comparing award letters
+- **A [Master Checklist](master-checklist.md)** that tracks every step and celebrates with you as you finish
+- **51 interactive MicroSims** that let you try the ideas with your own numbers, like calculating your GPA, plotting your test score against a college's range, or comparing award letters
 - **A 10-question quiz** and **10 annotated references** for every chapter
 - **A [Glossary](glossary.md)** of 342 terms in plain language
 - **An [FAQ](faq.md)** with 87 common questions and answers

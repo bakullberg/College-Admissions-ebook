@@ -31,7 +31,7 @@ step as a running example, and the book closes with a complete application roadm
 University of Iowa.
 
 What makes it an *intelligent* textbook is that it's built on a learning graph of 342 concepts and their
-prerequisites, and it's interactive. Fifty MicroSims let students try the ideas with their own numbers:
+prerequisites, and it's interactive. Fifty-one MicroSims let students try the ideas with their own numbers:
 calculate a GPA, plot a test score against a college's middle 50% range, sort a balanced college list,
 decode an award letter or compare final choices side by side. Every chapter also has a quiz and annotated
 references, and the book includes a glossary and FAQ.
@@ -42,14 +42,14 @@ references, and the book includes a glossary and FAQ.
 |--------|-------|
 | Concepts in Learning Graph | 342 |
 | Chapters | 20 |
-| MicroSims | 51 |
+| MicroSims | 52 |
 | Glossary Terms | 342 |
 | FAQ Questions | 87 |
 | Quiz Questions | 200 (20 chapter quizzes) |
 | Annotated References | 200 (20 chapters) |
 | Diagrams | 50 |
-| Total Words | 222,310 |
-| Equivalent Printed Pages | 927 |
+| Total Words | 225,349 |
+| Equivalent Printed Pages | 939 |
 | Mascot Poses | 7 |
 
 **Development Stage:** Beta. All content is written and published. The MicroSims are built and awaiting

@@ -207,7 +207,7 @@ When her parents call that night, she tells them she's tired and nervous and hap
 
 ### The Month-by-Month Planner
 
-The **month-by-month planner** turns this whole book into a checklist tied to the senior-year calendar, with each month's tasks and the chapter that explains them. Use it alongside your tracker from Chapter 5. Dates are typical, so always confirm your own colleges' deadlines.
+The **month-by-month planner** turns this whole book into a checklist tied to the senior-year calendar, with each month's tasks and the chapter that explains them. Use it alongside your tracker from Chapter 5. Dates are typical, so always confirm your own colleges' deadlines. To check these steps off as you go, use the interactive [Master Checklist](../../master-checklist.md).
 
 | When | What to do | Chapters |
 |------|-----------|----------|

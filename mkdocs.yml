@@ -35,6 +35,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Course Description: course-description.md
+  - Master Checklist: master-checklist.md
 
   - Chapters:
       - List of Chapters: chapters/index.md
@@ -162,6 +163,7 @@ nav:
     - Interview Practice Deck: sims/interview-practice-deck/index.md
     - Learning Graph Viewer: sims/graph-viewer/index.md
     - List Narrowing Funnel: sims/list-narrowing-funnel/index.md
+    - Master Checklist: sims/master-checklist/index.md
     - Middle 50% Range Plotter: sims/middle-50-range-plotter/index.md
     - Need and Aid Calculator: sims/need-and-aid-calculator/index.md
     - Personal Application Roadmap: sims/personal-application-roadmap/index.md

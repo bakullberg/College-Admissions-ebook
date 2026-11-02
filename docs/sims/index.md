@@ -5,6 +5,10 @@ MicroSims are small interactive simulations, each focused on one idea from the b
 Every sim below is marked **built** (orange dot): implemented and awaiting the author's review.
 
 
+## Start Here
+
+- [Master Checklist](master-checklist/index.md): Every step of the college admissions process in one interactive checklist, with Scout the Turtle walking the road as you finish each stage.
+
 ## Chapter 1: The College Landscape and Application Rounds
 
 - [College Admissions Process Roadmap](admissions-process-roadmap/index.md): An interactive road map of the six stages of the college admissions process, with a drag-and-drop quiz on their order.

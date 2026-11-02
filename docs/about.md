@@ -27,7 +27,7 @@ The book is written for high school students, mainly rising seniors and seniors,
 The chapters follow the order of senior year, so reading front to back gives the clearest picture. Each chapter also stands on its own, so you can jump to whatever is urgent. The book includes:
 
 - **20 chapters** covering how admissions works, building and researching a college list, getting organized, testing, senior-year courses, activities, essays, recommendations, the Common App, interviews, financial aid, scholarships, award letters, waiting, decisions, the final choice and the summer before college
-- **50 interactive MicroSims** embedded in the chapters
+- **51 interactive MicroSims**, including a Master Checklist for the whole process
 - **A 10-question quiz** at the end of each chapter, 200 questions in all
 - **Annotated references** for each chapter, linking to Wikipedia, recommended books and trusted sources like studentaid.gov
 - **A [Glossary](glossary.md)** of 342 terms in plain language
