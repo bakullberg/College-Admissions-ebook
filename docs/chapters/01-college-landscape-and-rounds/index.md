@@ -609,7 +609,7 @@ Choosing a round is a decision you make school by school, and the right answer d
 
 #### Diagram: Application Round Explorer
 
-<iframe src="../../sims/application-round-explorer/main.html" width="100%" height="578px" scrolling="no"></iframe>
+<iframe src="../../sims/application-round-explorer/main.html" width="100%" height="675px" scrolling="no"></iframe>
 
 <details markdown="1">
 <summary>Application Round Explorer</summary>
@@ -625,29 +625,30 @@ Bloom Verb: judge, recommend
 Learning Objective: Students will judge which application round (ED, EA, REA, RD, or rolling) best fits a given student and college, and justify the choice using whether the round is binding and whether it allows comparing aid offers.
 
 Canvas layout:
-- Left (or top on narrow screens): a question panel.
-- Right (or bottom): a result card and a mini timeline from September to May 1 showing the chosen round's deadline, decision date, and commitment point.
+- Top: a table of all six rounds. Each round the college offers is graded "Best fit" (green star), "Works" (gold check), or "Ruled out" (red X) with a one-line reason; rounds the college doesn't offer are greyed out as "Not offered."
+- Below the table: one line stating what an admission in the best-fit round commits you to.
+- Bottom of the drawing area: a September-to-May-1 timeline showing when you apply, hear back, and must commit in the best-fit round.
+- Control area: the five numbered questions, then the scenario buttons.
 
 Inputs (built-in p5.js controls):
-1. Checkboxes "Rounds this college offers": ED, ED II, EA, REA, RD, Rolling (default: ED, RD).
-2. Select "Is this clearly your first choice?": Yes / Probably / Not sure (default: Probably).
-3. Select "Does your family need to compare financial aid offers?": Yes / No / Not sure (default: Yes).
-4. Select "Will your application be stronger after fall grades?": Yes / No (default: No).
-5. Select "Are you applying early anywhere else?": No / Yes, Early Action / Yes, Early Decision (default: No).
+1. Checkboxes "Rounds this college offers," labeled with full round names (default: Early Decision, Regular Decision).
+2. Select "Is this college clearly your first choice?": Yes / Not sure (default: Not sure).
+3. Select "Does your family need to compare aid offers?": Yes / No / Not sure (default: Yes). "Not sure" is treated as Yes.
+4. Select "Will fall senior grades make you stronger?": No / Yes (default: No).
+5. Select "Applying early to another college?": No / Yes, Early Action / Yes, Early Decision (default: No).
 
-Output:
-- A recommended round with a one-paragraph explanation, for example "Regular Decision: you need to compare aid offers, and ED would lock you in before you can."
-- A "What happens if you're admitted?" line stating whether you must enroll, and the date you must decide by.
-- Warnings when inputs conflict, for example: two ED applications ("You may apply to only one college Early Decision"), or REA plus another private-college early application ("Check this college's Restrictive Early Action rules").
+Grading rules:
+- Binding rounds (ED, ED II) are ruled out if the student is applying ED elsewhere, needs to compare aid, or isn't sure it's their first choice. ED only "works" if fall grades would help; ED II's January deadline shows fall grades.
+- REA is ruled out if the student is applying early anywhere else.
+- Early rounds only "work" (not best fit) if fall grades would help. RD is the best fit when fall grades help or aid must be compared.
+- If every offered round is ruled out, the explorer says to talk with a counselor.
 
 Scenario buttons (preset inputs from the chapter):
 - "Sam" (needs aid comparison, improving grades → Regular Decision)
 - "Iowa applicant" (EA and RD offered → Early Action, non-binding)
 - "Certain first choice, cost checked" (→ Early Decision)
 
-Data visibility: Show which inputs drove the recommendation, highlighting the deciding factor in gold.
-
-Responsive behavior: Panels stack on narrow screens; call updateCanvasSize() first in setup() and reposition controls on resize.
+Responsive behavior: Each table row puts its reason on a second line when the canvas is narrower than 820px; the drawing area reserves room for all six rows so the height never jumps. Call updateCanvasSize() first in setup() and reposition controls on resize.
 
 Implementation: p5.js with createCheckbox, createSelect, and createButton; all controls created in setup() before they are positioned.
 </details>

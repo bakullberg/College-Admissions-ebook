@@ -1,6 +1,6 @@
 ---
 title: Application Round Explorer
-description: Answer five questions about one college and one student, and the explorer recommends an application round, explains why, and shows its deadline, decision, and commitment dates.
+description: Check which rounds one college offers and answer four questions about the student. The explorer grades every round as best fit, works, or ruled out with a reason, and shows the best round's dates.
 image: /sims/application-round-explorer/application-round-explorer.png
 og:image: /sims/application-round-explorer/application-round-explorer.png
 twitter:image: /sims/application-round-explorer/application-round-explorer.png
@@ -11,7 +11,7 @@ status: built
 
 # Application Round Explorer
 
-<iframe src="main.html" height="578px" width="100%" scrolling="no"></iframe>
+<iframe src="main.html" height="675px" width="100%" scrolling="no"></iframe>
 
 [Run the Application Round Explorer MicroSim Fullscreen](./main.html){ .md-button .md-button--primary }
 
@@ -25,11 +25,11 @@ This MicroSim supports [Chapter 1: The College Landscape and Application Rounds]
 
 ## How to Use
 
-- Check the rounds the college offers, then answer the four questions about the student.
-- Read the recommendation, the explanation, and what an admission would commit you to.
-- The question that decided the recommendation is highlighted in gold.
-- The timeline marks the round's deadline, decision date, and commitment point between September and May 1.
-- Load **Sam**, **Iowa applicant**, or **Certain first choice, cost checked** to see the chapter's examples. Red warnings flag rules you would break.
+- In question 1, check the rounds the college offers. Then answer questions 2–5 about the student.
+- The table at the top lists all six rounds. Each round the college offers is marked **★ Best fit**, **✓ Works**, or **✗ Ruled out**, with a one-line reason. Rounds the college doesn't offer are greyed out.
+- Below the table, a line says what an admission in the best-fit round would commit you to.
+- The timeline shows when you'd apply, hear back, and have to commit in the best-fit round, between September and May 1.
+- Load **Sam**, **Iowa applicant**, or **Certain first choice, cost checked** to see the students from the chapter.
 
 ## Iframe Embed Code
 
@@ -37,7 +37,7 @@ You can add this MicroSim to any web page by adding this to your HTML:
 
 ```html
 <iframe src="https://bakullberg.github.io/College-Admissions-ebook/sims/application-round-explorer/main.html"
-        height="578px"
+        height="675px"
         width="100%"
         scrolling="no"></iframe>
 ```
@@ -65,7 +65,7 @@ Read the section of [Chapter 1](../../chapters/01-college-landscape-and-rounds/i
 ### Activities
 
 1. **Check the chapter's examples (4 min):** Load all three scenarios and say in your own words why each round fits.
-2. **Change one answer (5 min):** Start from Sam and change only the aid question to No and first choice to Yes. Explain what flips and why.
+2. **Change one answer at a time (5 min):** Start from Sam. Change the aid question to No, then change the fall-grades question to No. After each change, explain why Early Decision moved from ruled out, to works, to best fit.
 3. **Your own college (6 min):** Look up one college on your list, check its real rounds, and run your own answers.
 
 ### Discussion Questions

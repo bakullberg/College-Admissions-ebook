@@ -2,7 +2,7 @@
   "title": "Application Round Explorer",
   "creator": "Beth Kullberg",
   "subject": "College Admissions",
-  "description": "Answer five questions about one college and one student, and the explorer recommends an application round, explains why, and shows its deadline, decision, and commitment dates.",
+  "description": "Check which rounds one college offers and answer four questions about the student. The explorer grades every round as best fit, works, or ruled out with a reason, and shows the best round's dates.",
   "date": "2026-10-13",
   "type": "Interactive Simulation",
   "format": "text/html",
@@ -33,7 +33,7 @@
     "framework": "p5.js",
     "canvasDimensions": {
       "width": "responsive",
-      "height": 576
+      "height": 670
     },
     "responsive": true,
     "dependencies": [
@@ -46,8 +46,8 @@
   },
   "userInterface": {
     "controls": [
-      "Six round checkboxes (ED, ED II, EA, REA, RD, Rolling)",
-      "First-choice dropdown",
+      "Six round checkboxes with full round names",
+      "First-choice dropdown (Yes / Not sure)",
       "Compare-aid dropdown",
       "Fall-grades dropdown",
       "Early-elsewhere dropdown",
