@@ -8,6 +8,8 @@ version: 1.10
 
 # Getting Organized
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 5 minutes if you try both interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers setting up the systems that carry you through senior year: deadline trackers, filing systems, a dedicated email, portals and the Common App account, counselors, family roles, and five first steps. Organization is what keeps a dozen applications from turning into chaos. After this chapter, students have their trackers, accounts, and filing system in place and know who can help them.

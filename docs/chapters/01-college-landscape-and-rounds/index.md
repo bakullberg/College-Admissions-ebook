@@ -8,6 +8,8 @@ version: 1.10
 
 # The College Landscape and Application Rounds
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 15 minutes if you try all six interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter introduces the admissions process and timeline, the kinds of four-year colleges, residency and selectivity, and how Early Decision, Early Action, Regular Decision, and rolling admission work. This chapter builds the vocabulary the rest of the book relies on. After it, students can place any college on the map of public, private, and specialized institutions and explain which application rounds are binding and which are not.

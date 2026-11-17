@@ -8,6 +8,8 @@ version: 1.10
 
 # Interviews
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try the interactive diagram. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers the kinds of college interviews, how to prepare and practice, what questions to ask, and how to follow up. Interviews are optional at many schools but can add a real voice to an application. After this chapter, students can prepare for any interview format and leave a good impression.

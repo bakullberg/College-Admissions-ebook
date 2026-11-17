@@ -8,6 +8,8 @@ version: 1.10
 
 # Understanding Financial Aid
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 5 minutes if you try both interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers how college pricing and aid work, from net price and the FAFSA and CSS Profile to demonstrated need, types of aid, need-blind admissions, grants, verification, and priority deadlines. It is the foundation for every money decision in the book. Students finish able to estimate a school's real cost and file the FAFSA and, where required, the CSS Profile on time.

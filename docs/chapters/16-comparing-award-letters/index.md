@@ -8,6 +8,8 @@ version: 1.10
 
 # Comparing Award Letters
 
+<p class="reading-time" id="reading-time" data-minutes="25">⏱️ <strong>Reading time:</strong> about 25 minutes, plus about 5 minutes if you try both interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers reading and comparing award letters line by line, separating grants from loans and work-study, projecting four-year cost and debt, and requesting a reconsideration. It turns award letters into real numbers students can compare. Students finish able to calculate out-of-pocket cost and debt for each offer and make a well-supported reconsideration request.

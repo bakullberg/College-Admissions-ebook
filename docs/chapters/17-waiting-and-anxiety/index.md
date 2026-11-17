@@ -8,6 +8,8 @@ version: 1.10
 
 # Waiting and Managing Anxiety
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try the interactive diagram. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers what happens to an application after submission and healthy ways to get through the wait, from portal checking to limiting comparison, self-care, and support. It covers the part of the process students control least. After this chapter, students understand how applications are reviewed and have concrete strategies for managing uncertainty.

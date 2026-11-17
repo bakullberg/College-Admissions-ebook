@@ -8,6 +8,8 @@ version: 1.10
 
 # Making Your Final Choice
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try the interactive diagram. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers comparing offers side by side, using admitted-student days and revisits, committing by May 1 with an enrollment deposit, and declining other offers the right way. It brings fit, cost, and outcomes together into one decision. After this chapter, students can compare their offers side by side and commit with confidence by May 1.

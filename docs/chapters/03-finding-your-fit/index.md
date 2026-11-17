@@ -8,6 +8,8 @@ version: 1.10
 
 # Finding Your Fit
 
+<p class="reading-time" id="reading-time" data-minutes="40">⏱️ <strong>Reading time:</strong> about 40 minutes, plus about 10 minutes if you try all five interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter walks through a self-assessment of priorities, major, size, setting, culture, and cost that turns into academic, social, and financial fit and a list balanced across reach, target, and safety schools. This is where the college search becomes personal. Students finish the chapter able to describe what they need from a college and to sort schools into reach, target, and safety with cost in mind from the start.

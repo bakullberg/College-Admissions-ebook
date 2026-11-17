@@ -8,6 +8,8 @@ version: 1.10
 
 # Filling Out the Common App and Coalition App
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 5 minutes if you try the interactive diagram. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter walks section by section through the Common App and Coalition App, from profile to supplements, plus fees and waivers, submission, and sending transcripts and scores. This is where all the earlier work comes together in the application itself. Students finish able to complete, preview, and submit an application with transcripts and scores sent correctly.

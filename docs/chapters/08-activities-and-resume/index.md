@@ -8,6 +8,8 @@ version: 1.10
 
 # Activities and Resume
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 10 minutes if you try all three interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers presenting extracurriculars, jobs, and family responsibilities as strengths, showing depth and impact, and turning them into a strong activities list and resume. It shows that what students do outside class counts, including work and family duties. Students finish with an activities resume that also feeds their essays, recommendations, and application forms.

@@ -8,6 +8,8 @@ version: 1.10
 
 # Letters of Recommendation
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try the interactive diagram. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers choosing and asking teacher and counselor recommenders, preparing a brag sheet and recommender packet, the FERPA waiver, and following up with thanks. It shows students how to make it easy for recommenders to write a strong letter. After this chapter, students can choose recommenders, ask at the right time, and hand over everything a writer needs.

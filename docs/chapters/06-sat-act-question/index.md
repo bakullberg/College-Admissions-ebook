@@ -8,6 +8,8 @@ version: 1.10
 
 # The SAT and ACT Question
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 10 minutes if you try all three interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers deciding whether and where to submit SAT or ACT scores under test-optional, test-required, and test-blind policies, with superscoring, retesting, registration, and free, effective prep. It replaces guesswork about testing with a clear decision rule. Students finish able to compare their scores against each school's range and plan any retest with free resources.

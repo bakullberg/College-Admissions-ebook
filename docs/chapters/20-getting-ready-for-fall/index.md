@@ -8,6 +8,8 @@ version: 1.10
 
 # Getting Ready for Fall
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try both interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers every step from deposit to move-in, including housing, orientation, health forms, AP credit, placement, registration, and summer melt, closing with the senior-year planner and capstone roadmap. The final chapter carries students past the decision to the first day on campus. It closes by pulling the whole book into a month-by-month plan and a complete application roadmap for one real school.

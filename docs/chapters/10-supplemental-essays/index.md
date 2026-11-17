@@ -8,6 +8,8 @@ version: 1.10
 
 # Supplemental Essays
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try both interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers researching each school to write specific Why Us, major, community, and activity essays and short answers, and adapting material without falling into the recycled-essay trap. It builds on the personal essay and the school research from earlier chapters. Students finish with a plan for every supplement on their list.

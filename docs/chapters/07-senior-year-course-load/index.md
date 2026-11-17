@@ -8,6 +8,8 @@ version: 1.10
 
 # Your Senior Year Course Load
 
+<p class="reading-time" id="reading-time" data-minutes="20">⏱️ <strong>Reading time:</strong> about 20 minutes, plus about 10 minutes if you try all three interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers why senior grades, the mid-year report, and the final transcript still count, and how to choose AP, IB, or dual enrollment while balancing rigor against burnout. It connects the classes students take this year to what colleges see on the transcript. After it, students can pick a senior schedule that shows rigor without burning out.

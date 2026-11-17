@@ -8,6 +8,8 @@ version: 1.10
 
 # Handling Decisions
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try the interactive diagram. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers responding to acceptances, denials, deferrals, and waitlists, handling Early Decision release and rescinded admission, appealing aid, and seeing rejection as a question of fit. It covers every kind of decision a student can receive and what to do next. Students finish able to respond to each outcome, including appealing an aid offer with evidence.

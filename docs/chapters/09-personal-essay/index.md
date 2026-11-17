@@ -8,6 +8,8 @@ version: 1.10
 
 # The Personal Essay
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 10 minutes if you try all three interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers writing the Common App personal essay from brainstorming and topic choice through structure, authentic voice, reflection, drafting, feedback, and revision. The personal essay is the one place the student's own voice comes through directly. This chapter takes students from a blank page to a revised, proofread draft.

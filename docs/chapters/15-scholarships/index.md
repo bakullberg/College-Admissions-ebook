@@ -8,6 +8,8 @@ version: 1.10
 
 # Scholarships
 
+<p class="reading-time" id="reading-time" data-minutes="15">⏱️ <strong>Reading time:</strong> about 15 minutes, plus about 5 minutes if you try both interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers finding automatic, competitive, outside, and local scholarships, deciding which are worth applying for, reusing essays, keeping renewable awards, and avoiding scams and award displacement. It extends the aid picture with money students apply for or earn automatically. After this chapter, students can build a focused scholarship list and spot a scam.

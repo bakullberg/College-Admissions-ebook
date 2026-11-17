@@ -8,6 +8,8 @@ version: 1.10
 
 # How Colleges Evaluate Applicants
 
+<p class="reading-time" id="reading-time" data-minutes="30">⏱️ <strong>Reading time:</strong> about 30 minutes, plus about 15 minutes if you try all six interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers how admissions offices read applications, from holistic and formula-based review to transcripts, GPA, rigor, class rank, and institutional priorities, plus the myths that distort how students see the process. It turns the admissions office from a black box into a set of understandable criteria. After this chapter, students can describe what their own academic record says to a reader and recognize the common myths about getting in.

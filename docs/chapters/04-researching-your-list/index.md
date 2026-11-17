@@ -8,6 +8,8 @@ version: 1.10
 
 # Researching and Narrowing Your College List
 
+<p class="reading-time" id="reading-time" data-minutes="20">⏱️ <strong>Reading time:</strong> about 20 minutes, plus about 10 minutes if you try all three interactive diagrams. You can stop at any heading and pick up where you left off.</p>
+
 ## Summary
 
 This chapter covers using the College Scorecard, Common Data Set, outcome data, visits, fairs, and reviews to research schools, then narrowing a long list to a final eight to twelve. It applies the fit criteria from the previous chapter to real data. Students finish with a researched, balanced final list of eight to twelve schools.
