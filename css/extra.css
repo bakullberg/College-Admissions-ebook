@@ -99,3 +99,47 @@
 .md-status--scaffold:hover:after { background-color: #b71c1c; }
 .md-status--built:hover:after    { background-color: #ef6c00; }
 .md-status--approved:hover:after { background-color: #1b5e20; }
+
+/* ---- Chapter reading time + reading progress bar (docs/js/reading-progress.js) ---- */
+.md-typeset .reading-time {
+  display: inline-block;
+  margin: 0 0 1em;
+  padding: 0.4em 0.9em;
+  border-left: 4px solid var(--md-accent-fg-color);
+  background: var(--md-code-bg-color);
+  border-radius: 4px;
+}
+.reading-progress {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.25);
+}
+.reading-progress__fill {
+  height: 100%;
+  width: 0;
+  background: var(--md-accent-fg-color);
+  transition: width 0.15s ease-out;
+}
+.reading-progress__label {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 3;
+  padding: 0.35rem 0.8rem;
+  border-radius: 1rem;
+  font-size: 0.7rem;
+  color: #fff;
+  background: var(--md-primary-fg-color);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.reading-progress__label--visible { opacity: 0.95; }
+.reading-progress__label--done { background: var(--md-accent-fg-color); color: #000; }
+@media print {
+  .reading-progress, .reading-progress__label { display: none; }
+}
