@@ -47,6 +47,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 18"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Decisions bring feelings, and every one of them also comes with a next step. This chapter shows you what to do with a yes, a no, a not-yet or a maybe, so no answer leaves you stuck. One step at a time.
+
 ## Every Answer Has a Next Step
 
 After months of work and weeks of waiting, decisions arrive, sometimes all at once, sometimes one at a time from December to April. Each one comes with feelings, and each one also comes with things to do. An acceptance needs comparing. A deferral needs an update. A waitlist needs a decision about whether to stay on it. A denial needs time, then a turn toward the colleges that said yes.
@@ -127,11 +131,21 @@ A **denial**, or rejection, means a college has decided not to admit you this ye
 
 Then remember what a denial is. It reflects how your file compared with a particular applicant pool, at a particular college, in a particular year, shaped by institutional priorities you couldn't see or control (Chapter 2). It's **not a verdict on your ability or your worth.** At highly selective colleges, most denied applicants are fully qualified.
 
+!!! mascot-encourage "When a no hurts"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If a no hurts, let it. It hurts because you cared and worked hard. When you're ready, turn toward the colleges that said yes, because one of them is where your next four years begin.
+
+
 Denials are almost always **final.** Most colleges don't accept appeals except for documented errors or significant new information, and those rarely succeed. Your energy is better spent on the colleges that said yes. If you're denied everywhere, which is rare with a balanced list, talk to your counselor right away. Many colleges have openings after May 1, and community college transfer pathways are strong options.
 
 ### Deferral
 
 A **deferral** means a college has postponed its decision on your early application, Early Decision or Early Action, and will reconsider you with the Regular Decision pool. A deferral isn't a denial. The college saw enough to want another look, often with your mid-year grades. If you're deferred from an Early Decision college, you're **released from the binding commitment.** If you're admitted later in the regular round, you're free to compare that offer with all your others, though it's worth confirming in the college's deferral letter. To strengthen your chances, keep your grades strong, confirm that your mid-year report will be sent, send a **short update** with any significant new information, such as new grades, awards, or achievements, and say whether the college remains your first choice. Then continue with your other applications as if the deferral were a "maybe," because it is.
+
+!!! mascot-tip "What to send after a deferral"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a strong next move after a deferral: within a few weeks, send a short update with new grades or accomplishments and one sentence on why the college is still a top choice. Then put your energy back into your other applications.
+
 
 #### Worked Example: Marcus Is Deferred
 
@@ -146,6 +160,11 @@ In late March, Lakeshore admits him. The deferral wasn't a no. It was a request 
 ### Waitlist
 
 A **waitlist** means a college found you admissible but can't offer you a spot yet. It's holding your file in case space opens after admitted students decide by May 1. Waitlist activity usually happens in May and June, but it can continue into the summer. How many students are admitted from a waitlist varies enormously by college and year. Some admit dozens or hundreds, and others admit none. At highly selective colleges, the share of waitlisted students eventually admitted is often small. Treat a waitlist as a real possibility worth pursuing, but **never as a plan.**
+
+!!! mascot-warning "Don't wait on the waitlist alone"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Watch out: a waitlist can't hold your place for fall. Deposit at a college that admitted you by May 1, even while you hope the waitlist comes through.
+
 
 ### Waitlist Strategy
 
@@ -249,6 +268,10 @@ Implementation: p5.js with createButton, createCheckbox, and createSelect; canva
 - A **waitlist** is a possibility, not a plan. Follow a **waitlist strategy**: confirm your spot, send a **letter of continued interest**, and deposit elsewhere by May 1.
 - An **Early Decision release** is available when the aid offer genuinely isn't affordable.
 - See **rejection as fit**, and keep a **long-term perspective**. What you do in college matters more than where.
+
+!!! mascot-celebration "Every answer handled"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You know what to do with every kind of decision: respond to an acceptance, ask for more aid, handle a deferral or waitlist and keep a denial in perspective. Next, you'll make your final choice.
 
 ## Check Your Understanding
 

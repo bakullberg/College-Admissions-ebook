@@ -45,6 +45,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 4"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Rankings and rumors can't tell you whether a college fits you. This chapter shows you where the real evidence lives, and how to turn twenty maybes into a list you can defend school by school. Let's check the map, one step at a time.
+
 ## From Priorities to Evidence
 
 At the end of Chapter 3, you had a set of personal priorities, a way to judge academic, social, and financial fit, and a definition of a balanced list. What you probably don't have yet is enough real information about specific colleges to apply any of it. You may know a college's name, its mascot, and what a friend said about it. That's not enough to judge fit.
@@ -162,6 +166,11 @@ A college's **retention rate** is the percentage of first-time, full-time first-
 
 Retention and graduation rates usually move together, but retention reacts faster. If you see a college with a decent graduation rate and a retention rate noticeably lower than similar colleges, ask what happens to students in their first year.
 
+!!! mascot-thinking "A college's first-year report card"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Think of retention as a report card the first-year students write themselves. When a lot of them don't come back, they're telling you something a tour guide never will.
+
+
 #### Worked Example: Comparing Outcomes
 
 Marcus compares three colleges on his list using the Scorecard and each college's CDS. The colleges are fictional, but the comparison is the kind real data supports.
@@ -255,6 +264,11 @@ A **college fair** is an event where representatives from many colleges set up t
 
 Read them carefully, though. Reviews are unverified and self-selected. Students with very good or very bad experiences post far more often than everyone in between. Look for **patterns across many reviews**, not single dramatic posts, and give more weight to specific details ("advising helped me switch majors in a semester") than to general feelings ("this place is the worst"). Where you can, confirm what you read with a real conversation.
 
+!!! mascot-tip "Search reviews by topic"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a faster way to read reviews: search one topic you care about, like "advising" or "housing," and read ten answers in a row. Patterns show up in minutes, and one angry post stops looking like the whole story.
+
+
 ## The Long List
 
 A **long list** is your first, broad list of colleges worth researching, usually fifteen to twenty-five schools. It's built from your priorities and filled out through research, so it includes colleges you already know and colleges you discovered by looking. At this stage, you're still gathering options, not deciding.
@@ -282,6 +296,11 @@ After an evening of research, Marcus has eighteen colleges. Five were new to him
 **Pass 2: Classify and balance.** Sort what remains into reach, target, and safety using the Common Data Set numbers and the criteria from Chapter 3. Then compare the counts with a balanced list. You may need to cut from a crowded category, usually reaches, or add to a thin one, usually safeties.
 
 **Pass 3: Test each school.** For every college still on the list, ask one question: *Could I picture myself happy here, and could I say why in a sentence?* If you can't, the college is on your list for its name, not its fit. Cut it, or research it more until you can answer.
+
+!!! mascot-encourage "Cutting is hard"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    Crossing colleges off can feel like closing doors, and that's hard. You're not choosing your college yet, only the ones worth your applications. Every cut gives the schools that stay more of your time and attention.
+
 
 The order matters. Cutting on fit first means you never waste time classifying colleges that wouldn't work anyway. Balancing second means you trim and fill by category, not by gut feeling. Testing last catches the colleges that survived the first two passes on numbers alone. The simulation below runs a long list through all three passes.
 
@@ -372,6 +391,10 @@ Every college has a reason that ties back to his priorities. The list is balance
 - A **long list** of fifteen to twenty-five colleges is built from your priorities and stretched by research.
 - **Narrowing the list** works in three passes: cut on fit, then balance categories, then test each school with "Could I picture myself happy here, and say why?"
 - Your **final college list** of eight to twelve colleges is balanced, fully researched, and includes at least one affordable safety you'd be glad to attend.
+
+!!! mascot-celebration "Research done right"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You did real research: you can read the College Scorecard and Common Data Set, get more out of a visit and narrow a long list in three clear passes. Next, you'll build the system that keeps every deadline on that list on track.
 
 ## Check Your Understanding
 

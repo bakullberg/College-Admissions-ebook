@@ -58,6 +58,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 14"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Money is where many college plans quietly get decided, and lots of families learn too late how aid really works. This chapter turns the confusing forms and numbers into steps you can follow, so you can see what each college would really cost you. One step at a time.
+
 ## The Price Is Rarely the Price
 
 Chapter 3 introduced an idea that changes how you look at every college: the **sticker price** a college publishes is rarely what a family actually pays. Most students receive some financial aid, and the gap between the published price and the real one can be tens of thousands of dollars a year. This chapter explains where that gap comes from.
@@ -186,6 +190,11 @@ Over four years, that's about $29,580 in federal grant money she'll never repay,
 
 Loans and work-study are **not** subtracted, because they're not discounts. Loans must be repaid, and work-study must be earned. They help you *pay* the net price, but they don't reduce it.
 
+!!! mascot-thinking "Keep it or owe it?"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Here's the line to remember: loans help you pay the price, but they don't lower it. Whenever you see an aid number, ask whether it's money you keep or money you owe.
+
+
 Net price varies enormously by family. Two students at the same college can face very different net prices, because need-based grants depend on each family's finances and merit scholarships depend on each student's record. That's why a college's average net price, as reported by the College Scorecard in Chapter 4, is a useful starting point but not your number.
 
 #### Worked Example: One College, Three Net Prices
@@ -262,6 +271,11 @@ The **FSA ID** is the username and password for your StudentAid.gov account, whi
 
 **FAFSA contributors** are the people whose information is required on your FAFSA: you, and, for most students, one or two parents. If your parents are married to each other, both are contributors. If your parents are divorced, separated, or never married and don't live together, the contributor is the parent who **provided more financial support** in the last 12 months, plus that parent's spouse if they've remarried. Each contributor creates their own StudentAid.gov account, completes their section, and gives **consent** for their tax information to be retrieved from the IRS. Without consent, you won't receive a Student Aid Index or federal aid. Students in unusual situations, such as those who can't contact their parents or are experiencing homelessness, may qualify to file without parent information. Talk to a college financial aid office for guidance.
 
+!!! mascot-warning "Which parent goes on the FAFSA"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A common mistake with divorced or separated parents is listing the parent you live with. The FAFSA asks for the parent who provided more financial support in the last 12 months, which may be the other one. If you're unsure, ask your counselor or a college aid office before you file.
+
+
 ### The Federal School Code
 
 The **federal school code** is the six-character code that identifies a college on the FAFSA, so your information is sent to the right college. Chapter 12's institution codes table listed Iowa's: **001892.** Search for each college on the FAFSA itself, or find its code on its financial aid website, and add every college you've applied to or are still considering, up to 20. Adding a college to your FAFSA doesn't commit you to anything. It simply lets that college see your information and build an aid offer.
@@ -271,6 +285,11 @@ The **federal school code** is the six-character code that identifies a college 
 The **Student Aid Index (SAI)** is the number the FAFSA calculates from your family's financial information to measure your ability to pay for college. It replaced the older Expected Family Contribution starting with the 2024–25 aid year. The SAI ranges from **−1,500** to very high numbers. A lower SAI means greater need, and an SAI of 0 or below indicates the highest need.
 
 The most important thing to understand about the SAI is what it *isn't*. **It isn't the amount your family will pay,** and it isn't the amount of aid you'll receive. It's an index that colleges use to calculate your eligibility. Colleges and states use it in different ways. Some use it directly to calculate need. Others, especially colleges that use the CSS Profile, run their own formulas and may arrive at a different picture of your family's ability to pay.
+
+!!! mascot-encourage "If the formulas make your head spin"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If the SAI and demonstrated need make your head spin, you're in good company. Plenty of adults find these formulas confusing too. Hold on to one idea, that a lower SAI means more need, and the interactive below will make the rest click.
+
 
 The SAI depends mainly on your parents' income and assets, your own income and assets, and your family size. A few rules surprise families. The SAI no longer gives a break for having several children in college at once. And retirement accounts and the family's primary home aren't counted. You'll see your SAI on your FAFSA Submission Summary a few days after filing.
 
@@ -428,6 +447,11 @@ At Iowa, Casey's 24 ACT falls short of the score cutoff for its larger merit awa
 
 **Verification** is the process of confirming the information on your FAFSA. Your college's financial aid office asks you to submit documents such as tax transcripts, W-2 forms, or a verification worksheet. About a third of FAFSAs are selected each year, some at random and some because information seems inconsistent or estimated. Being selected doesn't mean anyone suspects you of anything. It's routine. But your aid isn't final until verification is complete, so respond quickly to any request, check your applicant portal and email often, and keep copies of what you send in your filing system's financial aid folder (Chapter 5). Delays in verification can delay your aid offer and, at colleges with limited funds, reduce it.
 
+!!! mascot-tip "Have the documents ready"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    If a college selects you for verification, answer within days, not weeks. Make a folder now for your family's tax return and W-2s, so the documents are ready the moment someone asks.
+
+
 ### The Aid Priority Deadline
 
 An **aid priority deadline** is the date by which you must file the FAFSA, and the CSS Profile if required, to receive full consideration for a college's or state's aid. Chapter 5 introduced priority deadlines in general. Aid priority deadlines are among the most important, and many fall **before** your application deadline. Iowa's priority deadline for the 2027–28 FAFSA, for example, is **December 1, 2026**, two months before its regular application deadline. Missing an aid priority deadline doesn't usually make you ineligible, but it can mean you're considered only for whatever aid remains. Record every college's and your state's aid deadlines in your tracker, and file the FAFSA as early as you can after it opens.
@@ -455,6 +479,10 @@ Same need, same college, a difference of $8,500 a year in free money, determined
 - **Need-based aid** follows your family's finances each year. **Merit aid** rewards achievement and is largest where you stand out. Check renewal rules.
 - **Need-blind admissions** ignores ability to pay. **Need-aware admissions** may consider it at the margin. Apply for aid if you need it.
 - Respond quickly to **verification**. File before every **aid priority deadline**, and file early anywhere aid is **first-come, first-served**.
+
+!!! mascot-celebration "You speak financial aid now"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You now understand how financial aid works: net price, the FAFSA and CSS Profile, the Student Aid Index and the difference between need-based and merit aid. Next, you'll go after scholarships, the money you can find on your own.
 
 ## Check Your Understanding
 

@@ -49,6 +49,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 16"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Award letters are where the estimates finally turn into real numbers, and they're often written to look better than they are. This chapter teaches you to read any letter for what it really costs, so you can compare offers fairly. One step at a time.
+
 ## Reading Past the Formatting
 
 When admission letters arrive, financial aid offers come with them or soon after. These **award letters** are the moment the estimates from earlier chapters turn into real numbers. They're also frustratingly inconsistent. Colleges aren't required to use a standard format, so two colleges can describe the same real cost in ways that look completely different. Some list loans as "aid." Some leave out the cost of attendance. Some show a "remaining balance" that hides what you'll actually owe.
@@ -64,6 +68,11 @@ Chapter 14 sorted aid into **gift aid** (grants and scholarships, which you don'
 ### Work-Study
 
 **Work-study** is a need-based financial aid program, usually Federal Work-Study, that gives you the chance to earn money through a part-time job, typically on campus. It appears on your award letter as a dollar amount, such as "$2,500," but that number is a **ceiling, not a payment.** You earn it only by finding a work-study job and working the hours, and you're paid by paycheck as you work, usually every two weeks. It isn't subtracted from your bill.
+
+!!! mascot-thinking "A job offer, not a discount"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Think of work-study as a job offer, not a discount. It can pay for books and pizza, but it won't shrink the bill that's due in August.
+
 
 That has three consequences for reading a letter. First, **work-study doesn't lower your cost.** It's income you earn during the year, which can help with books, transportation, and personal expenses. Second, **it isn't guaranteed.** You still have to get hired, and popular jobs fill quickly. Third, **you can earn it only by working,** typically 8 to 12 hours a week. That's time you need to budget alongside classes.
 
@@ -294,6 +303,11 @@ The first-year gap of $3,000 between Lakeshore and Brookfield grows to about $7,
 
 **Total debt at graduation** is the total amount you, and your parents if they borrow, will owe when you finish college, including interest that builds on unsubsidized loans while you're in school. It's one of the most important numbers for comparing colleges, because it follows you for years afterward. Add up every loan you'd accept over four years, plus any Parent PLUS loans your family would take. A useful guideline many advisors use is to keep total student debt **below your expected first-year salary.** That keeps monthly payments manageable on a typical ten-year plan. Compare debt across colleges alongside each college's graduation rate (Chapter 4), since debt without a degree is the hardest kind to repay.
 
+!!! mascot-tip "Check debt against a real salary"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a quick sanity check: look up what graduates in your intended major earn on the College Scorecard, then keep your total debt below that first-year salary. If an offer pushes past it, keep comparing.
+
+
 #### Worked Example: Debt at Three Colleges
 
 If Marcus borrows the federal maximum each year, his student debt is **$27,000** at any of his three colleges. But his family's plans differ. At Lakeshore, covering the four-year out-of-pocket cost would require his parents to borrow about $2,000 in Parent PLUS loans in years three and four, when rising costs push the out-of-pocket amount just above their budget. At Brookfield and the regional university, they wouldn't need to borrow.
@@ -344,6 +358,11 @@ Implementation: Chart.js grouped and stacked bar charts with an annotation line 
 
 **Aid renewal** is the process of keeping your financial aid in future years. Most aid isn't automatic. To renew, you typically must **file the FAFSA every year** (and the CSS Profile, if your college requires it) by the college's deadline, **make satisfactory academic progress**, which means a minimum GPA and completing enough credits, and meet any **scholarship renewal criteria** (Chapter 15). Need-based aid is recalculated each year from your family's new financial information, so it can rise or fall. Before you commit, ask each college two questions: *Does my grant usually stay the same if my family's finances don't change?* and *What GPA and credit requirements apply to each part of my aid?* A college that "front-loads" aid, generous in year one and less so afterward, can cost much more over four years than its first letter suggests.
 
+!!! mascot-warning "Year one is not every year"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A common trap is assuming first-year aid repeats on its own. Set a reminder each fall to refile the FAFSA, and write down the GPA your scholarship requires. Missing either one can cost you money you already had.
+
+
 ## Asking for More
 
 ### Change in Circumstances
@@ -372,6 +391,10 @@ Two weeks later, Lakeshore increases his grant by $2,000 a year. It doesn't matc
 - A **four-year cost projection** accounts for rising costs and fixed merit awards. **Total debt at graduation** should stay below your expected first-year salary.
 - **Award letter comparison** puts offers side by side. **Aid renewal** requires refiling and meeting conditions each year.
 - A **change in circumstances** can justify more aid. Make a polite, documented **aid reconsideration request** to the financial aid office.
+
+!!! mascot-celebration "Offers, decoded"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You can now read any award letter for what it really costs, sort free money from borrowed money and project four years of cost and debt. Next comes the stretch many students find hardest: waiting for decisions.
 
 ## Check Your Understanding
 

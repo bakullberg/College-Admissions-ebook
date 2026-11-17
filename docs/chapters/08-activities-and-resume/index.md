@@ -47,6 +47,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 8"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    What you do when nobody is grading you says a lot about who you are. This chapter shows you how to count all of it, jobs and family duties included, and turn it into a list a reader won't skim past. One step at a time.
+
 ## What You Do When No One Is Grading
 
 Your transcript shows what you did in class. Everything else you do with your time, including clubs, sports, jobs, caring for family, volunteering, and teaching yourself to code or cook or repair bikes, shows something a transcript can't: what you choose to do when no one is assigning it. That's why colleges ask about it. It tells a reader what you care about, how you take on responsibility, and what you might add to a campus.
@@ -130,6 +134,11 @@ The arithmetic is simple:
 \]
 
 For example, a job worked 15 hours per week for 40 weeks totals 600 hours a year. A club that meets 2 hours per week for 30 weeks totals 60 hours. Readers do this math quickly, even if they never write it down.
+
+!!! mascot-thinking "Hours turn into evidence"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice what that multiplication does: it turns a line on a form into evidence. Six hundred hours a year says "committed" more clearly than any adjective you could add.
+
 
 Be **honest and realistic.** Give a typical week, not your busiest week. Inflated numbers are easy to spot: a student claiming 20 hours a week in six activities is claiming 120 hours a week on top of school. Count real time, including practices, rehearsals, meetings, shifts, and preparation, but not time you only thought about it. If an activity is seasonal, like a fall sport or a summer job, use the hours during the season and the number of weeks it actually runs.
 
@@ -251,6 +260,11 @@ A reader now sees reliability, a promotion, responsibility for others, and a pur
 
 Students often hesitate because family duties feel private, or because they don't seem like "achievements." But readers are trained to see them as exactly what they are: evidence of responsibility, maturity, and time commitment. They also explain things. A student who spends twenty hours a week caring for siblings can't also be in five clubs, and a reader who sees the family responsibility understands why the list is short.
 
+!!! mascot-encourage "A short list can be a strong list"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If your list feels short because your afternoons go to a job or to caring for family, you're not behind. Readers see that time for what it is, real responsibility. A short, honest list beats a long, padded one.
+
+
 Describe what you do, how often, and what it involves. You don't need to explain why your family needs your help unless you want to. If there's important context, such as a parent's illness or a family financial crisis, the additional information section is the place for a brief, factual note.
 
 #### Worked Example: Listing Family Duties
@@ -370,6 +384,11 @@ A few techniques help you fit more into less space, a bit like writing a very se
 - **Draft long, then cut.** Write everything you'd want a reader to know, then cut it down to the strongest details.
 
 Write descriptions so they make sense to someone who has never seen your school. "Ran SGA spirit week" may be clear to you, but "Planned school-wide spirit week for 900 students" is clear to anyone.
+
+!!! mascot-tip "The other-school test"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Quick check: read each description to a friend from a different school. If they ask "What's SGA?" or "How many people?", that's the detail to add.
+
 
 The builder below lets you draft an entry with live character counts for every field, then checks it for action verbs and specifics.
 
@@ -554,6 +573,10 @@ Implementation: p5.js with createButton; canvas parented to the main element.
 - **Activity ordering** is a signal. Put your most meaningful, committed, and impactful activities first.
 - List up to five **honors and awards** by significance. Few or none is fine.
 - An **activities resume** is your master document. It feeds your activities list, your recommenders, your essays, and your interviews.
+
+!!! mascot-celebration "Your time, on the record"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You've turned everything you do outside class into a clear, well-ordered activities list and a resume you'll reuse all year. Next comes the part of the application that's entirely in your own voice: the personal essay.
 
 ## Check Your Understanding
 

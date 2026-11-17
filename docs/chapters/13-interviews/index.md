@@ -41,6 +41,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 13"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    An interview is just a conversation with someone who wants to know you a little better. This chapter shows you how to prepare enough to feel calm, without sounding rehearsed. One step at a time.
+
 ## A Conversation, Not a Test
 
 Many colleges never interview applicants. Of those that do, most treat the interview as optional, and it's rarely what decides an application. Nobody has ever been turned down for saying "um." But an interview does something nothing else in your file can: it lets a real person hear you think and talk. A good one adds warmth and color to an application. A poorly prepared one is an easy miss to avoid.
@@ -138,6 +142,11 @@ For each, think of one or two **specific stories or examples** you could share. 
 
 **Handle logistics.** Confirm the date, time, time zone, and location or link. Plan what to wear: neat and comfortable, a step up from everyday school clothes, but not a suit. Plan to arrive ten minutes early. Bring nothing but yourself, perhaps a copy of your activities resume if the interviewer might want it, and a short list of your questions.
 
+!!! mascot-encourage "If interviews make you nervous"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If the thought of an interview makes your stomach drop, that's normal, and the nerves usually fade a few minutes into the conversation. Do one practice interview out loud with anyone who'll listen. The second time you tell a story, it already feels like yours.
+
+
 Interviewers are listening for a few things, which is why preparation focuses where it does:
 
 - **Genuine curiosity and engagement.** Do you talk about your interests with real energy?
@@ -193,6 +202,11 @@ Implementation: p5.js with createButton, createSelect, and createCheckbox; canva
 
 **Questions to ask the interviewer** are the questions you prepare for the end of the interview, when nearly every interviewer asks, "Do you have any questions for me?" Always have two or three ready. Having none can read as a lack of real interest. Good questions are ones you **couldn't answer from the college's website.** Questions about the interviewer's own experience are usually a safe, effective choice: *What surprised you most about the college? What do you wish you'd known as a first-year? Where did you spend most of your time outside class?* You can also ask a specific question from your research: *I read about the peer-mentoring program in CS. How common is it for first-years to join?* Avoid questions about admission odds, and avoid questions any brochure answers, such as "How big is the campus?"
 
+!!! mascot-tip "A question that always works"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a question that almost always starts a good conversation: "What surprised you most about this college once you got there?" Interviewers enjoy answering it, and their answer tells you something no brochure will.
+
+
 ## After the Interview
 
 ### Interview Follow-Up
@@ -216,6 +230,10 @@ It's brief, specific, and genuine. It reminds the interviewer of their conversat
 - One or two **practice interviews**, done out loud, build comfort without making you sound rehearsed.
 - Prepare two or three **questions to ask the interviewer** that a website couldn't answer.
 - Send a short, specific **interview follow-up** within a day or two.
+
+!!! mascot-celebration "Ready to talk"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You're ready for any kind of interview: you know your own story, you've practiced it out loud and you have questions worth asking. Next, you'll take on the biggest money question in the process, financial aid.
 
 ## Check Your Understanding
 

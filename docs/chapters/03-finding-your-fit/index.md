@@ -53,6 +53,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 3"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    This is where the map becomes yours. Instead of asking what colleges want, you'll figure out what you need, and turn that into a list you'd be happy to choose from in April. One step at a time.
+
 ## Where the Search Becomes Personal
 
 The first two chapters described the system: how the process runs, what kinds of colleges exist, and how admissions offices read applications. This chapter turns the lens around. The question now isn't "How do colleges choose students?" It's "What do *you* need from a college?"
@@ -224,6 +228,11 @@ Your **intended major** is the field of study you expect to focus on in college.
 
 That last use is the one to watch. At many universities, most majors are open to any admitted student, and you can declare one in your second year. But some programs are **restricted** or **capped**. You must apply to them directly as a first-year applicant, and their admit rates can be much lower than the university's overall rate. Engineering, nursing, computer science, business, and some arts programs are common examples. At these schools, the major you list on your application changes your chances. Changing into a capped major later may be difficult or impossible.
 
+!!! mascot-thinking "Sometimes you apply to the major"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Here's the shift: at a university with capped majors, you're really applying to the program, not the school. So the admit rate that matters is the program's, which can be far lower than the number on the college's website.
+
+
 That's why checking your intended major is part of building your list, not something to sort out after you enroll. For every college you're considering, find out:
 
 - Is the major offered at all?
@@ -290,6 +299,11 @@ Culture is harder to measure than size, but you can describe it along a few dime
 - **Engagement:** politically and socially active, or quieter and more private?
 - **Identity and community:** a religious affiliation, a historically Black college or university (HBCU), a women's college, or strong cultural and affinity groups?
 - **Pace and style:** pre-professional and career-focused, or exploratory and intellectual? Formal or casual?
+
+!!! mascot-tip "A five-minute culture check"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Want a quick read on culture? Skim the last month of the student newspaper and the campus events calendar. What students argue about and show up for tells you more than any brochure.
+
 
 The interactive below maps campus size against setting and lets you click each combination to see what campus life there tends to feel like. Treat its descriptions as typical patterns, not rules. Culture varies most from school to school, so the only reliable way to know it is to look closely at the specific college, which Chapter 4 covers.
 
@@ -484,6 +498,11 @@ Financial fit depends on two numbers: what the college will cost you, and what y
 - **A stretch:** the price is somewhat above what your family can pay, and would require loans, outside scholarships, or more aid than estimated.
 - **Out of reach:** the gap is so large that no realistic combination of aid or loans would close it.
 
+!!! mascot-encourage "The money conversation"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If talking about money with your family feels awkward, that's normal, and it's still worth doing early. Start with one question: about how much can we pay each year? That one number makes every net price you look up mean something.
+
+
 A stretch college can stay on your list, but you should know which ones they are. An out-of-reach college usually should come off, unless it's known for meeting full financial need or offering large merit scholarships to students with records like yours. Those colleges can surprise you, and their net price calculators tell you whether they might.
 
 Financial fit isn't just about the first year. Costs rise over four years, and aid offers can change. Ask whether merit scholarships are renewable and what GPA you need to keep them. Also ask whether the college typically maintains need-based aid in later years. [Chapters 14–16](../14-understanding-financial-aid/index.md) cover aid and award letters in depth.
@@ -674,6 +693,10 @@ Implementation: p5.js with createInput, createSelect, createCheckbox, and create
 - The **cost of attendance** combines **tuition** and fees, **room and board**, and **indirect costs**. The **sticker price** comes before aid, so run a net price calculator for every college early.
 - A **reach school** is unlikely for you, a **target school** is realistic, and a **safety school** is very likely, affordable, *and* a place you'd be glad to go.
 - A **balanced college list** of eight to twelve schools usually holds 2–3 reaches, 4–6 targets, and 2–3 safeties, with at least one affordable school you'd love that's very likely to say yes.
+
+!!! mascot-celebration "Your priorities, on paper"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You turned your priorities into a plan: three kinds of fit, a real sense of what college costs, and a list balanced across reaches, targets and safeties. Next, you'll gather the evidence to test each school on it.
 
 ## Check Your Understanding
 

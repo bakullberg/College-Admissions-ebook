@@ -44,6 +44,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 2"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Admissions can feel like a locked room. This chapter hands you the key: what readers actually look at, and how they weigh it. By the end, you'll read your own transcript the way an admissions officer does. One step at a time.
+
 ## Opening the Black Box
 
 To most students, the admissions office feels like a black box. You send in an application, months pass, and a decision comes out the other side with no explanation. It's easy to fill that silence with rumors: *they only look at test scores*, *you need a 4.0*, *it's all about who your parents are*.
@@ -208,6 +212,11 @@ An **unweighted GPA** is a GPA calculated on a plain scale where every course co
 
 Colleges like the unweighted GPA because it's the closest thing to a common language across high schools. Weighting systems differ from school to school, but an A is an A nearly everywhere. Report it accurately on your applications, using the number from your transcript, and leave course difficulty to show up where colleges look for it: in the courses themselves.
 
+!!! mascot-tip "Find your core GPA now"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a ten-minute head start: recalculate your GPA using only your core courses, on the unweighted 4.0 scale. Many colleges do exactly this, so it's the number to compare against their ranges.
+
+
 The GPA calculator below lets you enter your own courses, switch between "all courses" and "core only," and see how much a single grade or a semester course moves the result.
 
 #### Diagram: GPA Calculator
@@ -349,6 +358,11 @@ The averages match, but the records don't. Sam's record says *this student is ge
 **Holistic review** is an admissions approach in which readers evaluate the whole application, including academics, activities, essays, recommendations, and personal circumstances, and judge each applicant in context rather than by a formula. Most private colleges and many selective public universities use it.
 
 The word *context* is what makes holistic review different. Readers aren't asking "Is this the best possible applicant?" They're asking "What did this student do with the opportunities they had?" A student who worked twenty hours a week to support their family isn't compared with a student who spent summers at expensive programs as though both had the same free time. You already saw this with course rigor. Holistic review applies the same thinking to the entire file.
+
+!!! mascot-thinking "The question readers really ask"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice the question holistic readers ask: not "Is this the best applicant?" but "What did this student do with what they had?" That changes your job. You don't need someone else's résumé. You need to show the choices you made with your own.
+
 
 The academic record still comes first. Most holistic colleges describe it as the most important factor. What holistic review adds is everything else, roughly in this order of weight at most selective schools:
 
@@ -503,6 +517,11 @@ Here's how to read where you fall:
 
 Ranges are most often published in a college's **Common Data Set**, a standard report many colleges post each year, usually by searching the college's name plus "Common Data Set." Section C covers first-year admission and includes test-score ranges and GPA distributions. Two cautions apply. First, Common Data Set ranges usually describe *enrolled* students, not all *admitted* students, and the two groups can differ. Second, at test-optional colleges the test ranges include only students who chose to submit, and those students tend to be the ones with higher scores. That pushes the published range up. [Chapter 3](../03-finding-your-fit/index.md) uses these ranges to sort your list into reach, target, and safety schools.
 
+!!! mascot-warning "Test-optional ranges run high"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Watch out at test-optional colleges. Their score ranges include only students who chose to send scores, so they skew high. If your score sits just below the range there, don't cross the school off. Chapter 6 shows how to decide whether to send it.
+
+
 #### Worked Example: Reading a Range
 
 A fictional college, Westbrook University, reports these middle 50% ranges for enrolled first-year students:
@@ -574,6 +593,11 @@ Common institutional priorities include:
 
 You can't control most of these, and you shouldn't try to game them. But knowing they exist explains outcomes that otherwise look random. If a college needed oboists this year and you play the oboe, that's a real advantage you didn't earn through your application alone. If a college received a flood of applicants for its business school, competition for that major gets harder. A rejection from a selective college often says more about the shape of that year's class than about the applicant.
 
+!!! mascot-encourage "When it feels unfair"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If it stings that a college's need for oboists, or a legacy preference, can tip a decision, that's a fair feeling. Put your energy into what you control: your courses, your essays and a balanced list. Those carry you further than any factor you can't change.
+
+
 #### Worked Example: Shaping a Class
 
 A small college has 500 seats and 1,200 academically qualified applicants after first reads. Its priorities for the year include an orchestra that needs string players, a new environmental science major that's under-enrolled, and a goal of keeping the share of first-generation students at about 20%.
@@ -644,6 +668,10 @@ Three other myths, about finding one "right" school, test-optional policies, and
 - The **middle 50% range** is the 25th to 75th percentile. A quarter of students fall below it, and test-optional ranges run high.
 - **Institutional priorities**, including **first-generation students**, **legacy status**, and **demonstrated interest**, shape each class in ways applicants mostly can't control.
 - Common **admissions myths** fall apart once you know what readers actually look at.
+
+!!! mascot-celebration "You can read the room now"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You can now read a transcript, a GPA and a middle 50% range the way an admissions officer does, and you know which myths to ignore. Next, you'll turn that knowledge inward and figure out which colleges fit you.
 
 ## Check Your Understanding
 

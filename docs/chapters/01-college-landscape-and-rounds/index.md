@@ -49,6 +49,19 @@ This chapter assumes only the prerequisites listed in the [course description](.
 
 ---
 
+!!! mascot-welcome "Meet Scout"
+    ![Scout the Turtle waving hello](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Hi, I'm Scout, a turtle with a compass and a lot of patience. I'll show up in this book for only six reasons:
+
+    1. **Welcome:** I'll open each chapter and tell you why it matters.
+    2. **Big idea:** I'll point out an idea worth pausing on.
+    3. **Tip:** I'll share a shortcut that saves you time.
+    4. **Warning:** I'll flag a common mistake and show you how to avoid it.
+    5. **Encouragement:** I'll cheer you on when a topic is genuinely hard.
+    6. **Celebration:** I'll celebrate what you've learned at the end of a chapter.
+
+    If I'm not doing one of those six things, I'm not in the chapter. One step at a time.
+
 ## Why Start With the Map
 
 Before you build a list or write a word of an essay, it helps to know the ground you're crossing. Applying to college has its own vocabulary — *Early Action*, *flagship*, *admit rate*, *binding* — and admissions offices use those words as if everyone already knows them. Students with a parent or private counselor who has done this before pick the vocabulary up at the dinner table. Everyone else has to learn it from scratch, usually in a panic in October.
@@ -497,6 +510,10 @@ That territory system matters to you for three reasons:
 
 Admissions officers read a lot. During reading season, an officer at a selective college may read dozens of files a day and spend somewhere around ten to fifteen minutes on each. That doesn't mean your application is skimmed carelessly. It means it has to be clear. A reader should be able to tell who you are and what you care about without hunting for it.
 
+!!! mascot-tip "The ten-minute test"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a ten-minute test. Hand your finished application to someone who doesn't know you well, give them ten minutes, and ask them to name three things about you. If they can't, a real reader won't either.
+
 The interactive diagram below follows one application from the moment it's submitted to the moment a decision is released. Click each step to see who handles it and what they're looking at.
 
 #### Diagram: The Journey of an Application File
@@ -551,7 +568,13 @@ Notice what the officer did. They read Dana's three AP courses against what her 
 
 An **application round** is a set of applications that a college reviews together, with a shared deadline, a shared decision date, and a shared set of rules about what you're committing to. Most colleges offer more than one round. Applying in one round instead of another can change your deadline, when you hear back, and, most importantly, whether you're free to say no.
 
+!!! mascot-thinking "Two questions sort every round"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Every round answers just two questions. When do you hear back? And are you free to say no? Sort each round by those two questions and the alphabet soup of ED, EA and REA turns into a simple grid.
+
 Before comparing the rounds, you need one more term.
+
+
 
 ### Binding Commitment
 
@@ -564,6 +587,10 @@ With that term in hand, here are the five rounds you'll encounter.
 **Early Decision (ED)** is an early application round that is *binding*: if you're admitted, you must attend. You may apply to only one college Early Decision. Deadlines are usually November 1 or November 15, and decisions arrive by mid-December. Some colleges also offer **Early Decision II**, with the same binding rules but a January deadline, for students who decide on their first choice later.
 
 Early Decision can raise your chances at many colleges, because it tells the college you'll definitely enroll. The cost is that you lose the ability to compare financial aid offers. Use ED only for a school that is clearly your first choice *and* whose cost your family has checked in advance.
+
+!!! mascot-warning "Check the price before you sign"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A common trap: applying Early Decision before checking the price. Run the college's net price calculator with your family before you sign the agreement. If the number is out of reach, Early Decision isn't the round for you.
 
 ### Early Action
 
@@ -598,6 +625,10 @@ The catch is that the class can fill up. Applying in September or October to a r
 ### Comparing the Rounds
 
 You've now seen all five rounds. This table puts them side by side.
+
+!!! mascot-encourage "If the rounds still blur together"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If ED, EA and REA still blur together, that's normal. Plenty of parents mix them up too. Try the explorer below with one college you're considering. Doing it once makes the terms stick.
 
 | Round | Binding? | Apply to how many? | Typical deadline | Typical decision | Can compare aid offers? |
 |-------|----------|--------------------|------------------|------------------|-------------------------|
@@ -665,6 +696,10 @@ Implementation: p5.js with createCheckbox, createSelect, and createButton; all c
 - The **admission rate** is admits divided by applicants. It measures how **selective** a school is, not your personal chances and not the school's quality.
 - The **admissions office** recruits and reads. Your regional **admissions officer** usually knows your high school and reads your file in that context.
 - **Early Decision** is a **binding commitment**. **Early Action**, **Restrictive Early Action**, **Regular Decision**, and **rolling admission** are not, though REA limits where else you can apply early.
+
+!!! mascot-celebration "Map in hand"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You just learned the vocabulary of the whole admissions process: the kinds of colleges, what selectivity means, and which rounds lock you in. Next, you'll see how admissions officers actually judge an application.
 
 ## Check Your Understanding
 

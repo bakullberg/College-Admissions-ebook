@@ -51,6 +51,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 9"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    This is the one place in your application where a reader hears you directly. You don't need a dramatic life story to write a great essay, just one true, specific moment and the patience to shape it. One step at a time.
+
 ## The Part of the Application in Your Own Voice
 
 Every other part of your application describes you from the outside. Your transcript is a list of grades. Your activities list is 150-character summaries. Your recommendations are other people's words about you. The personal essay is the one place where a reader hears you directly, in your own voice, telling them something they couldn't learn anywhere else.
@@ -153,6 +157,11 @@ Most strong essays use most of the space, roughly 550 to 650 words. An essay muc
 - **Work backward from a quality.** Choose one trait you'd want a reader to know about you, such as curiosity, persistence, humor, or care for others. Then list three ordinary moments when that trait showed.
 - **Mine your activities resume.** Your resume from Chapter 8 lists where your time goes. The moments inside those activities are often essay material.
 - **Use object and place prompts.** List ten objects in your room that matter to you, or five places where you feel most like yourself. Write a sentence about why for each.
+
+!!! mascot-encourage ""Nothing interesting has happened to me""
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If you're sure nothing interesting has ever happened to you, you're in good company. Almost every student feels that way at first. Pick the smallest moment on your list and write three sentences about it. Small moments are where good essays usually start.
+
 
 Brainstorming should feel loose. Write everything down, including ideas that seem silly. You're collecting, not judging. (Plenty of strong essays started as "this is probably dumb, but…")
 
@@ -287,6 +296,11 @@ To show, use:
 - **Numbers and particulars:** "eleven nights," not "many nights."
 
 The principle isn't absolute. A personal essay also needs reflection, where you step back and *tell* the reader what the experience meant. The common pattern is **show first, then tell briefly.** Ground the essay in scenes, then reflect on them. An essay that's all telling feels empty. An essay that's all showing feels unfinished.
+
+!!! mascot-thinking "Evidence first, then the argument"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Here's a way to picture it: scenes are your evidence, and reflection is your closing argument. A reader needs the evidence first, or the argument has nothing to stand on.
+
 
 #### Worked Example: From Telling to Showing
 
@@ -442,6 +456,11 @@ Strong reflection is **specific to your story** and **honest about its size.** I
 - What's still unresolved or surprising to me about it?
 - Why does this matter to who I want to be?
 
+!!! mascot-tip "A sentence that unlocks reflection"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Stuck on reflection? Finish this sentence ten different ways: "Before this, I thought... Now I..." Keep the most honest version, even if it's small.
+
+
 Reflection doesn't have to wait until the last paragraph. Brief moments of thought woven through the story often read better than one big lesson at the end.
 
 #### Worked Example: Deepening Reflection
@@ -528,6 +547,10 @@ Proofread in ways that make you see the words fresh. Read the essay aloud, slowl
 - **Show, don't tell**: let scenes prove your qualities, then reflect briefly. Keep an **authentic voice** by reading aloud.
 - Choose an **essay structure** (narrative arc, montage, or idea-driven), open with a specific **opening hook**, and give real space to **reflection and insight**.
 - **Drafting** fast and messy, **feedback** from two or three chosen readers, **revision** in passes from big to small, and careful **editing and proofreading** take an essay from blank page to final.
+
+!!! mascot-celebration "From blank page to real draft"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You went from a blank page to a real draft: a story that's yours, told with scenes, reflection and your own voice. Next, you'll put that skill to work on the shorter supplemental essays each college asks for.
 
 ## Check Your Understanding
 

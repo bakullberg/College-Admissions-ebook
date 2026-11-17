@@ -46,6 +46,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 15"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Scholarship money is real, but it rewards strategy more than luck. This chapter shows you where the money actually is, which applications are worth your evenings and how to keep what you win. One step at a time.
+
 ## Money You Find, Money That Finds You
 
 Chapter 14 covered the aid that comes from filing forms: federal, state, and college aid based on your family's finances and your record. Scholarships add another layer. Some arrive automatically with your admission letter. Others you have to find, apply for, and win. Scholarship money is real, but finding it takes more than typing "scholarships" into a search engine, and some of what you'll find is designed to take your money rather than give it.
@@ -112,6 +116,11 @@ When she checks eligibility, 14 of the 36 don't fit. Some require a major she is
 
 **Local scholarships** are scholarships offered by organizations in your own community, such as civic clubs, local businesses, credit unions, churches, school foundations, and community foundations, usually for students from a specific town, county, or high school. They're often the best-kept secret in scholarship searching. They're rarely listed on national search engines, so far fewer students apply, sometimes only a handful. A $1,000 local award with 15 applicants can be a much better use of your time than a $10,000 national award with 20,000 applicants. Your school counselor, your local community foundation's website, and local newspapers and organizations are the best places to find them. Many have spring deadlines, so check in January.
 
+!!! mascot-tip "Start with last year's list"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's where to start: ask your school counselor for last year's list of local scholarships and how many students applied. That one list is often worth more than hours on a national search site.
+
+
 ### Scholarship Search Engines
 
 **Scholarship search engines** are free websites, such as the College Board's BigFuture scholarship search, Scholarships.com, and Fastweb, that match you to scholarships based on a profile you fill out. They're useful for finding national and regional awards you'd never hear about otherwise. Use them with three cautions. First, **they're crowded.** Large national awards on these sites attract enormous applicant pools. Second, **profiles can generate marketing.** Use your dedicated email (Chapter 5), and read privacy settings before sharing details. Your personal inbox has been through enough. Third, **never pay for a search.** The best search tools are free, and any service charging to "find" scholarships for you is a warning sign, as you'll see in the scams section.
@@ -131,6 +140,11 @@ The **expected value of applying** is a way of estimating whether a scholarship 
 \]
 
 Your chance of winning is an estimate. For local awards, divide the number of awards by the likely number of applicants. Your counselor may know how many students applied last year. For national awards, assume the odds are low, often well under 1%, unless you're exceptionally well matched. The numbers don't need to be precise. Even rough estimates reveal which applications deserve your evenings.
+
+!!! mascot-thinking "Dollars per evening"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice what the formula really measures: dollars per evening. A likely $500 that takes one hour can beat a $20,000 long shot that eats a whole weekend.
+
 
 #### Worked Example: Comparing Three Scholarships
 
@@ -287,6 +301,11 @@ Implementation: p5.js with createButton; canvas parented to the main element.
 
 **Award displacement**, also called scholarship displacement, is when a college reduces the financial aid it offered you because you won an outside scholarship. It happens because federal rules generally don't allow a student's need-based aid, including outside scholarships, to exceed demonstrated need. When an outside award pushes your total aid above your need, the college must reduce something. Many colleges reduce loans or work-study first, which helps you. Some reduce their own grants, so the outside scholarship saves you less than it seems. A few states, including Maryland, New Jersey, Pennsylvania, California, Washington, and Minnesota, now restrict displacement at some or all of their colleges. Before accepting an outside award, ask each college's financial aid office how it treats outside scholarships, and report every award as the college requires. Failing to report can lead to having to repay aid later.
 
+!!! mascot-warning "Ask before you celebrate"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Watch out: winning outside money can shrink your college grant instead of your loans. Ask each college's aid office how it handles outside scholarships before you count on the extra money.
+
+
 #### Worked Example: What a Scholarship Actually Saves
 
 Ana wins a $2,000 outside scholarship. Her aid packages at two colleges already meet her full need:
@@ -305,6 +324,10 @@ At College 1, the scholarship is worth the full $2,000 to Ana. At College 2, it'
 - **Renewable scholarships** multiply value over four years. Know the **scholarship renewal criteria** and what happens if you miss them.
 - **Scholarship scams** charge fees or seek personal information. Learn the **scam warning signs**, and never pay to apply.
 - **Award displacement** can reduce your college aid when you win outside money. Ask each college how it handles outside scholarships.
+
+!!! mascot-celebration "Scholarships, strategically"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You can now find scholarships worth your time, rank them by expected value, spot a scam and protect what you win. Next, you'll set your offers side by side and read award letters line by line.
 
 ## Check Your Understanding
 

@@ -55,6 +55,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 6"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Testing used to mean one score sent everywhere. Now the same score can help you at one college and hurt you at another, and that's good news, because it puts you in control. This chapter gives you a clear rule for every testing choice, so you can stop guessing. One step at a time.
+
 ## A Question With a Different Answer for Each College
 
 Testing used to be simple. Nearly every four-year college required the SAT or ACT, so nearly every applicant took one and sent the score everywhere. That's no longer true. Today, some colleges require scores, many let you decide whether to send them, and a few won't look at them at all. The same score can help you at one college on your list and hurt you at another.
@@ -330,6 +334,11 @@ Three other factors can override the rule:
 
 Make the decision **college by college**, not once for your whole list. Students often submit everywhere or nowhere, which almost guarantees sending a weak score somewhere or withholding a strong one somewhere else.
 
+!!! mascot-thinking "A score is only high or low somewhere"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Here's the key idea: a score isn't good or bad on its own. It's only high or low compared with one college's range. The same score can be a strength on one application and a weakness on the next.
+
+
 #### Worked Example: Emily Decides College by College
 
 Emily's SAT is 1280. Here's her comparison for five of her colleges:
@@ -396,6 +405,11 @@ Don't retest endlessly, though. Two sittings are enough for most students. A thi
 ### Superscoring
 
 **Superscoring** is a college policy of combining your highest section scores from different test dates into a new, higher composite. If you took the SAT twice and scored higher in Math the second time but higher in Reading and Writing the first time, a college that superscores uses the best of each. For the ACT, superscoring averages your best English, Math, and Reading scores across dates. Many colleges superscore, but not all, so check each college's policy. Superscoring makes retesting more attractive, because you can focus prep on one section without worrying that another will slip.
+
+!!! mascot-warning "Check before you chase a section"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Watch out: superscoring only helps at colleges that do it, and some ask for every score you've ever earned. Before you book another test date to raise one section, check the policies at the colleges on your list.
+
 
 #### Worked Example: Emily's Retest and Superscore
 
@@ -519,6 +533,11 @@ That's five tests, with one in reserve in case his test date gets moved. Each on
 
 A **diagnostic practice test** is a full-length official practice test taken at the start of your prep, under realistic conditions, to measure your starting score and find your weakest sections and question types. It tells you where to spend your time. Take it in one sitting, timed, without notes, then study the score report by section and question type. If you haven't chosen a test yet, a diagnostic of each, the SAT and the ACT, also tells you which one suits you better.
 
+!!! mascot-encourage "A starting line, not a verdict"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If your first practice score is lower than you hoped, that's the normal place to start, not a verdict on you. The diagnostic's whole job is to show you where the points are. Pick one weak question type from it and begin there.
+
+
 ### Error Log
 
 An **error log** is a running record of every practice question you get wrong, noting the question type, why you missed it, and what you'll do differently. It turns mistakes into a study plan. It's the one place in this process where getting things wrong is the whole point. Most students who review only their score miss the pattern behind it.
@@ -532,6 +551,11 @@ A simple error log has these columns:
 | Aug 10 | Math | Percent change | Used the new value as the base | Practice 10 percent-change questions |
 
 After two or three practice tests, sort the log by question type and by reason. If most misses are careless errors, practice checking your work. If they cluster in one skill, study that skill.
+
+!!! mascot-tip "Four labels are enough"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a shortcut for the "why" column: use just four labels, such as didn't know it, misread it, careless slip or ran out of time. Sorting by those four tells you in seconds whether to study, slow down or speed up.
+
 
 ### Timed Practice
 
@@ -548,6 +572,10 @@ After two or three practice tests, sort the log by question type and by reason. 
 - **Official score reports** come from the testing agency. Many colleges accept self-reported scores until you enroll. **Score Choice** lets you pick which dates to send, unless a college requires all scores.
 - Plan **test registration** and **test dates** early, and request **test accommodations** well ahead.
 - **Free test prep** is enough for most students. Start with a **diagnostic practice test**, keep an **error log**, move to **timed practice**, and save **official practice tests** for measuring progress.
+
+!!! mascot-celebration "Testing, decided"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You now have a rule for every testing choice: which test to take, how to read your score, when to retest and where to send it. Next, you'll look at your senior-year classes and why they still count.
 
 ## Check Your Understanding
 

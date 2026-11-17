@@ -55,6 +55,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 5"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Nobody gets excited about trackers and folders, but this is the chapter that keeps one small slip from becoming a missed deadline. An afternoon or two here buys you a much calmer fall. One step at a time.
+
 ## Systems Before Essays
 
 Applications rarely fall apart because of one hard step. They fall apart because of dropped threads: a deadline you knew about but forgot to write down, a teacher who never got your resume, a password you can't remember in December, an email from a college that landed in a folder you never check. Each mistake is small. With ten colleges and five months, there are hundreds of chances to make one.
@@ -72,6 +76,11 @@ Organization rests on three principles:
 1. **One source of truth.** Every deadline lives in one tracker, every document in one folder, every password in one secure place. When information is scattered across texts, sticky notes, and memory, something always gets lost.
 2. **Visible to the people helping you.** A parent, guardian, or counselor can only catch a missed date if they can see the plan. Sharing your tracker turns your helpers into a safety net.
 3. **Early buffers.** Set your own deadlines a few days before the real ones. Portals crash on deadline night, recommenders run late, and files refuse to upload. A buffer turns those problems into minor annoyances instead of emergencies.
+
+!!! mascot-thinking "Let the system remember"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice that all three principles do the same job: they move the work of remembering out of your head and into a system. Your brain is for essays. Let the tracker hold the dates.
+
 
 The payoff is easy to underestimate. Think about how many separate items the process involves. Ten colleges, each with an application, a supplement or two, a supporting document deadline, and an aid deadline, already add up to more than forty dates. Add in testing, recommendations, scholarship applications, and the FAFSA, and the total climbs past a hundred. No one can track that from memory, not even the friend who never forgets a birthday.
 
@@ -229,6 +238,11 @@ A **digital document folder** is the online version of your filing system, kept 
 
 A **login credentials record** is a secure, private record of every account you create during the process, including the site, your username, and your password. By spring you may have twenty or more accounts: the Common App, several college portals, the College Board, ACT, the FAFSA, the CSS Profile, and scholarship sites. You'll need to get back into many of them months after creating them. The safest option is a **password manager**, an app that stores passwords securely behind one master password. If you don't use one, keep a single document protected with a strong password, not a note on your phone and never your shared tracker. Use a different password for each account. The "Forgot password?" link should not become your most-used button of senior year.
 
+!!! mascot-tip "Record it before you close the tab"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Make it a habit: the moment you create any account, add it to your credentials record before you close the tab. Ten seconds now saves a password reset in December.
+
+
 ## The Dedicated Email Address
 
 A **dedicated email address** is a personal email account you create just for the college process and use for every application, portal, testing account, and college you contact. It sounds like a small thing, but it matters more than nearly anything else you'll set up, because almost every important message in the process arrives by email: login links, missing-document notices, interview invitations, financial aid requests, and decisions.
@@ -310,6 +324,11 @@ When you create the account, get four details right from the start:
 3. **Choose "first-year student"** as your applicant type, unless you've already attended college after high school graduation.
 4. **Record the login** in your credentials record right away.
 
+!!! mascot-warning "Don't make a second account"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A common trap is creating a new Common App account when you forget your password. Two accounts split your colleges and documents between them. Use "Forgot password" instead, and if you've already made two, contact Common App support right away.
+
+
 After that, add the colleges on your list and invite your counselor through the Education section. The Common App connects you with your counselor, and from there, to your teachers. Chapter 12 explains how recommenders are invited.
 
 #### Worked Example: A Summer Head Start
@@ -357,6 +376,11 @@ The hardest part is balance. Too little family involvement can leave a student a
 | Final decision | Makes the choice | Helps compare costs and offers |
 
 Families who've never done this, or who are new to the U.S. education system, have just as important a role. Their job isn't to know the process. It's to support the student in learning it, to show up for the money conversation, and to help with the forms only they can complete. Many colleges and community organizations offer financial aid workshops for families, often in several languages.
+
+!!! mascot-encourage "If this is new to your family"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If no one in your family has done this before, you're not behind. Plenty of first-generation students run this process well. Your counselor and this book can fill in what your family can't.
+
 
 #### Worked Example: Dividing the Work
 
@@ -444,6 +468,10 @@ Implementation: p5.js with createCheckbox and createButton; canvas parented to t
 - Create your **Common App account** early, with your dedicated email and legal name. Your information rolls over on August 1.
 - Your **school counselor** sends key documents and knows your school's history. Prepare for each **counselor meeting**. An **independent counselor** is optional. Your **family's role** is to support while you lead.
 - Use the **summer before senior year** for slow tasks, and follow the **senior year calendar**. Start with the **five first steps** this week.
+
+!!! mascot-celebration "Systems in place"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    Your systems are in place: a shared tracker, a filing system, a dedicated email and a Common App account. That's the quiet work that pays off every week from here on. Next up is the SAT and ACT question.
 
 ## Check Your Understanding
 

@@ -60,6 +60,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 12"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    This is where all your work comes together in one place. The forms aren't hard, but a few small spots trip up nearly everyone, and this chapter walks you safely past each one. One step at a time.
+
 ## Where Everything Comes Together
 
 Every earlier chapter built a piece of your application: your list, your test plan, your activities, your essays, your recommenders. This chapter is where those pieces go into the form itself. Think of it as assembling furniture: all the parts are here, and the instructions matter. Most of the Common App is straightforward. But a few spots trip up nearly every applicant, such as a misspelled name, a missing dual-enrollment course, a self-reported grade that doesn't match the transcript, or a recommender never assigned to a college. Mistakes like these can delay or derail an application that's otherwise strong.
@@ -92,6 +96,11 @@ The first is expected, because her Why Hillcrest essay isn't finished yet. The s
 ### Adding Colleges
 
 **Adding colleges** means putting each college from your final list into your Common App account, so its questions, supplements, and deadlines appear in your application. You add colleges through the College Search tab, up to 20, as Chapter 5 noted. When you add a college, you'll choose your **application round** (such as Early Action or Regular Decision) and your **term of entry**, and some colleges ask you to choose a program or campus right away.
+
+!!! mascot-warning "Check the round every time"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Double-check the application round each time you add a college. Choosing Early Decision when you meant Early Action takes one wrong click and can be hard to undo after you submit. Look at the round again on your dashboard before you hit submit.
+
 
 Adding a college early has two benefits. First, you see that college's requirements: its deadlines, its member questions, its writing supplements, and how many recommendations it requires. That's how you build the supplement plan from Chapter 10. Second, it lets you assign recommenders to that college, which you'll need to do for every college on your list. You can remove a college you decide not to apply to, though once you've submitted an application, it stays on your record. Double-check the **application round** for each college as you add it. Choosing Early Decision by mistake, or missing an Early Action option, is an easy error that's hard to undo once submitted.
 
@@ -221,6 +230,11 @@ It's factual, brief, and explains a pattern a reader would otherwise wonder abou
 
 A **self-reported academic record** is a transcript you enter yourself, listing every high school course and grade, which some colleges require in place of, or in addition to, an official transcript at the time you apply. Colleges use self-reported records because they're faster to review and easier to compare than official transcripts in many different formats. Some colleges collect them through the Common App's **Courses and Grades** section. Others use a separate system, which they'll link to after you apply. If you're admitted, the college checks your self-report against your official transcript, so the two must match. Check each college's requirements, and record which ones require a self-report in your tracker.
 
+!!! mascot-warning "Copy, don't remember"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Enter grades exactly as your transcript shows them: no rounding up, no "it was almost an A." Keep your transcript open next to you as you type and check each line twice. A mismatch found after admission can put your offer at risk.
+
+
 ### The Courses and Grades Section
 
 The **courses and grades section** is the Common App's version of a self-reported academic record. It appears in your application only if at least one of your colleges requires it. You enter every course you took from 9th grade on, with its level (such as honors or AP), credits, and the grade for each term, exactly as your transcript reports them.
@@ -238,6 +252,11 @@ Marcus finishes his Courses and Grades section, then checks every entry against 
 **Member questions** are the questions each college adds to the Common App for its own applicants, beyond the core sections. They appear under each college in the My Colleges tab. They cover things like your intended major and program, your interest in financial aid or specific scholarships, whether you want your test scores considered, how you heard about the college, family connections to the college, residency, and sometimes short-answer questions.
 
 Answer them as carefully as the core sections, because they often control important things: which program you're applying to, whether you're considered for merit scholarships, and whether your scores are seen. Some questions can't be changed after submission, especially major and program choices at colleges with capped majors (Chapter 3). Read each one, and if you're unsure what a question means, check the college's admissions website or email the admissions office before submitting.
+
+!!! mascot-thinking "Big choices in small dropdowns"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice that some of the biggest choices in your application hide in plain-looking dropdowns. A member question can decide which program reads your file and whether you're considered for scholarships. Treat each one like an essay prompt, not a form field.
+
 
 #### Worked Example: The Question That Mattered
 
@@ -272,6 +291,11 @@ A **fee waiver** is a request to have an application fee waived because paying i
 The **application preview** is the PDF of your completed application, exactly as a college will see it, which the Common App generates before you submit. Preview your application for every college before submitting, even if you've already submitted to others. Each college's version includes its own questions and supplements, and formatting can shift between the entry form and the PDF. Line breaks, special characters, and essay paragraphs sometimes display differently.
 
 Read the preview slowly, top to bottom. Check your name, contact information, and every date. Read your activities and essay as a reader would. Confirm that every section you expected is present. The preview is your last chance to catch errors before a reader does. Typos have a way of appearing the moment after you click Submit, so look now. The checklist below walks you through a full pre-submission review.
+
+!!! mascot-tip "Let your ears proofread"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a shortcut for catching typos: read your preview out loud, or paste your essays into a text-to-speech tool and listen. Your ears catch mistakes your eyes slide right past.
+
 
 #### Diagram: Pre-Submission Checklist
 
@@ -366,6 +390,10 @@ Casey, an Iowa resident applying Early Action to the University of Iowa, plans t
 - **Application fees** add up. **Fee waivers** are available and confidential.
 - Read every **application preview**, complete **application submission** days early, and save each **submission confirmation**.
 - Use the right **institution codes**. Request **official transcripts** through your school, and **send test scores** only where required.
+
+!!! mascot-celebration "Application assembled"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You assembled the whole application: every section filled in carefully, every college's questions answered and every document on its way. Next, you'll get ready for the one part that can happen face to face, the interview.
 
 ## Check Your Understanding
 

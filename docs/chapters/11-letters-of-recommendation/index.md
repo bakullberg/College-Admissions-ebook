@@ -44,6 +44,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 11"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Recommendation letters are the one part of your application you can't write, but you can shape them more than you'd think. This chapter shows you how to choose, ask and prepare your recommenders so their letters sound like they really know you. One step at a time.
+
 ## Someone Else's Words About You
 
 Almost everything in your application comes from you: your activities list, your essays, your self-reported courses. Recommendation letters are different. They're the one part of your application you can't write, edit, or spell-check. They're other people's words about you, written by adults who have watched you learn and work. That's what makes them valuable to readers, and also what makes them feel out of your control.
@@ -108,6 +112,11 @@ Weigh these factors:
 - **Relevance to your goals.** If you're applying to engineering, a math or science letter makes sense. If you're applying undecided, choose the two who know you best.
 - **Their reliability.** A teacher known for meeting deadlines and writing thoughtful letters is worth a lot. Your counselor or older students can tell you who they are.
 
+!!! mascot-thinking "Think of a recommender as a witness"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Think of a recommender as a witness. The best witness isn't the person who gave you the highest grade, it's the one who saw the most. Ask yourself who could tell a story about you without looking at your transcript.
+
+
 #### Worked Example: Emily Chooses Two Teachers
 
 Emily considers four teachers:
@@ -162,6 +171,11 @@ Implementation: p5.js with createInput, createSelect, createSlider, createCheckb
 
 **Asking for a recommendation** is the conversation, ideally in person, in which you request a letter from a teacher. Keep it simple and direct. Say you'd value their recommendation, and explain *why them* in a specific sentence: what you think they can speak to. Then give them an easy way to decline. Ask, *"Would you feel comfortable writing me a strong recommendation?"* That gives a teacher who doesn't know you well enough room to say so gracefully. You want a letter from someone who says yes with enthusiasm, not one who feels obligated. Follow up the same day with a short email confirming the request and saying when you'll send your materials.
 
+!!! mascot-encourage "If asking feels awkward"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If asking a teacher feels awkward, remember that writing letters is a normal part of their job, and most are glad to be asked. Plan your one sentence about why them, then just ask.
+
+
 #### Worked Example: Emily Asks Mr. Grant
 
 In May of junior year, Emily stops by Mr. Grant's room after class:
@@ -182,6 +196,11 @@ A useful brag sheet for a teacher includes:
 - **What you learned or how you grew** in the class.
 - **Your goals:** intended major, kinds of colleges, and what you hope to study.
 - **Anything you'd like them to know** that might help them connect their letter to the rest of your application, such as a theme from your essay.
+
+!!! mascot-tip "Give them details only they would know"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's what makes a brag sheet work: for each moment, add a detail only that teacher would recognize, like the debate topic or the question you asked in class. Specific memory joggers turn into specific sentences in the letter.
+
 
 Write it in plain language, and keep it brief. Teachers are busy, and the goal is to jog their memory with specifics, not to write the letter for them.
 
@@ -253,6 +272,10 @@ The robotics coach can describe leadership and teamwork that neither classroom t
 - Sign the **FERPA waiver** to waive access. It makes letters more credible.
 - Send **thank-you notes**, and tell recommenders how things turned out.
 - An **additional recommendation** is worth sending only if it adds something new.
+
+!!! mascot-celebration "Your recommenders are set up to succeed"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You know how to choose recommenders who really know you, ask them well and hand them everything they need to write a specific letter. Next, you'll put every piece you've built into the application itself.
 
 ## Check Your Understanding
 

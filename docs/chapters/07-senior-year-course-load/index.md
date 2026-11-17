@@ -48,6 +48,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 7"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Senior year isn't a victory lap yet. The classes you choose and the grades you earn this year still travel to colleges, and this chapter shows you how to make them help you without wearing you out. One step at a time.
+
 ## The Year That Keeps Counting
 
 Many students think of senior year as the year after the record is finished. Junior grades are in, the transcript goes to colleges in the fall, and the rest is just waiting. That picture is wrong in two ways. First, your senior schedule is on the transcript colleges read, so the courses you choose this year are part of your application even before they're graded. Second, colleges keep watching. They ask for your first-semester grades in winter and your final grades in summer, and an offer of admission depends on finishing well.
@@ -169,6 +173,11 @@ On his applications, the courses show colleges he went beyond what his school of
 
 Three facts keep expectations realistic. First, **the college you enroll at decides** what credit it accepts, so the same record can earn very different amounts at different colleges. Second, **credit and placement aren't the same.** Some colleges let you skip an intro course without giving you credit hours. Third, **the most selective colleges tend to grant the least credit.** Credit is a bonus to check after you're admitted, not a reason to choose courses. [Chapter 20](../20-getting-ready-for-fall/index.md) covers how to transfer credit once you enroll.
 
+!!! mascot-tip "Look up the credit table"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Before you count on credit, search for "[college name] AP credit policy" or "IB credit." Most colleges post a table showing exactly which scores earn credit in which subjects.
+
+
 The comparison below summarizes the three advanced pathways covered above. Click any cell for details.
 
 #### Diagram: Advanced Course Pathways Compared
@@ -221,6 +230,11 @@ Readers look at your senior schedule for two things. The first is **whether it c
 - **Continued challenge** at about the level of your junior year, or higher.
 - **Depth in your intended area,** if you have one.
 
+!!! mascot-thinking "The last thing you can still choose"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Here's a useful way to see it: readers can't grade your senior courses yet, so the schedule itself is the evidence. It's one of the last parts of your record you can still choose.
+
+
 Dropping a core subject or easing off sharply to make senior year lighter is one of the few schedule choices that can actively hurt an application. But "continued challenge" doesn't mean the maximum, as the last section of this chapter explains.
 
 #### Worked Example: Two Senior Schedules
@@ -255,6 +269,11 @@ The **mid-year report** is a form your school counselor sends to colleges, usual
 ### The Final Transcript
 
 The **final transcript** is your complete high school transcript, including all senior-year grades and your graduation date, sent by your school after graduation to the one college where you'll enroll. Nearly every college requires it before your first semester, and it's how the college confirms that you finished as promised. Your school sends it in June or July. Your job is to tell your counselor which college you've committed to, and then check your portal to confirm it arrived. If you took dual-enrollment courses, you'll also need to send the final college transcript from the college that granted the credit.
+
+!!! mascot-warning "The final transcript is not a formality"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    A common trap is treating the final transcript as paperwork. Colleges compare it with the record they admitted, and a sharp drop or a dropped class can put an offer at risk. If a grade starts slipping, talk to your counselor and let the college know before the transcript does.
+
 
 The timeline below shows when colleges see each part of your senior record.
 
@@ -319,6 +338,11 @@ Discuss your plan with your counselor before you finalize it. They know what you
 
 Much of application stress comes from three sources this book addresses directly: **uncertainty**, which Chapter 17 covers; **disorganization**, which Chapter 5's systems are designed to prevent; and **overload**, which the next section addresses. Two strategies help right away. First, **break big tasks into small, scheduled steps.** "Draft the first paragraph of my Why Hillcrest essay on Tuesday" is far less stressful than "finish my applications." Second, **protect sleep, exercise, and time with friends.** These aren't extras. They're what keep you able to do the work.
 
+!!! mascot-encourage "If senior fall feels like too much"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If senior fall feels like too much, you're not doing it wrong. It's the busiest stretch of the whole process for almost everyone. Pick the one task due soonest, do just that, and let the rest wait their turn.
+
+
 If stress becomes overwhelming, talk to someone: a parent, your school counselor, a teacher you trust, or a doctor. In the United States, you can also call or text **988**, the Suicide & Crisis Lifeline, any time, for free and confidential support. Asking for help is a sign of good judgment, not weakness.
 
 #### Worked Example: Untangling a Stressful Week
@@ -379,6 +403,10 @@ Implementation: p5.js with createSelect, createCheckbox, createSlider, and creat
 - **Senior grades** count. Colleges see them through the **mid-year report**, and the **final transcript** confirms your conditional admission. Don't let **senioritis** turn into a grade drop.
 - A good **course selection strategy** chooses two to four rigorous courses that fit your strengths and intended major.
 - **Application stress** is normal. Break tasks into small steps, protect sleep, and ask for help when you need it. **Balancing rigor and burnout** means a challenging schedule that still leaves room for your applications and your life.
+
+!!! mascot-celebration "Senior year, on track"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You can now build a senior schedule that keeps your trend strong, check how AP, IB and dual enrollment turn into credit and keep stress from taking over. Next, you'll turn what you do outside class into an activities list that stands out.
 
 ## Check Your Understanding
 

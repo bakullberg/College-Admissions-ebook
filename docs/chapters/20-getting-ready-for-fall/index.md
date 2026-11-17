@@ -53,6 +53,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 20"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    You've made your choice, and that's worth celebrating. This last chapter carries you from your deposit to your first day on campus, then pulls the whole book together into one roadmap. One step at a time.
+
 ## From Decision to Day One
 
 Committing to a college by May 1 can feel like the end of the process. It isn't. (Sorry.) It's the start of a different, more practical one. The months between your deposit and move-in day are full of forms and small deadlines, such as housing, orientation, health records, and course registration. They're easy to lose track of once the emotional weight of decisions has lifted and senior year is ending.
@@ -126,6 +130,11 @@ At his advising appointment, he learns that his community college Discrete Mathe
 
 **Placement tests** are assessments a college uses to place new students in the right level of a subject, most often math, world languages, chemistry, and sometimes writing, so you don't start in a course that's too easy or too hard. They're usually taken online before orientation. They don't affect admission and aren't graded in the usual sense, but they do matter. Placing into a higher math course can save you a semester, and placing too high can mean struggling. Take them seriously, without outside help, and review the basics beforehand if you haven't taken that subject recently. AP scores and transfer credit may exempt you from some placement tests, so check first.
 
+!!! mascot-tip "An hour of review can pay off"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a tip: spend an hour reviewing before a math placement test, using the college's practice questions if it posts them. A little brushing up can place you a course higher.
+
+
 ### AP Credit Transfer
 
 **AP credit transfer** is the process of having your AP exam scores, IB results, or dual-enrollment courses recognized by your college as credit or placement. Chapter 7 explained that each college sets its own policy. Now it's time to act on it. Send your **official AP score report** from the College Board to your college. You get **one free score send per year** if you choose your college by **June 20**, and scores sent after that cost a fee. For dual enrollment, request an **official transcript** from the college that granted the credit (Chapter 7). Then check your college's credit policy pages and student portal to confirm how each score or course was applied, and ask an advisor at orientation before registering. Credit that hasn't posted by registration can mean signing up for a class you didn't need.
@@ -145,6 +154,11 @@ At his advising appointment, he learns that his community college Discrete Mathe
 **Summer melt** is when a student who has been admitted, committed, and intends to enroll in college doesn't show up in the fall. Research by Benjamin Castleman and Lindsay Page found that between **10 and 40 percent** of college-intending students in the districts they studied didn't enroll anywhere that fall, with the highest rates among students from low- and moderate-income families and those planning to attend community college.
 
 Summer melt usually isn't a change of heart. It's a pile-up of small obstacles: a missed email, an unexpected bill, a confusing form, a verification request, a missing transcript, or a summer job that makes it hard to get to orientation, without a counselor or teacher nearby to help, since school is out. The protection is simple and surprisingly effective. Castleman and Page found that low-cost reminders and access to help in the summer increased enrollment. Keep your tracker going all summer, check your college email weekly, respond to every request quickly, and **know who to call**: your college's admissions or first-year office, its financial aid office, or your high school counselor, many of whom check email over the summer. If something seems like it might stop you from enrolling, ask for help right away. It's almost always fixable if you ask early.
+
+!!! mascot-warning "Small snags, early calls"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Watch out for the small stuff this summer: a missed email or an unexpected bill can quietly derail a plan. If anything confuses you, call the college's admissions or aid office that same week. Most problems are easy to fix if you ask early.
+
 
 #### Worked Example: A Near-Melt
 
@@ -256,6 +270,11 @@ The **capstone application roadmap** is the whole process, from building a list 
 | AP credit and summer | Used the free AP score send by June 20; confirmed the final transcript; completed health forms | Check Iowa's AP credit chart before registration | 20 |
 | Fall | Attended On Iowa!, the welcome week before classes, and moved in | On Iowa! runs the week before fall classes; covered by the acceptance fee | 20 |
 
+!!! mascot-thinking "The whole book in one table"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice how every row depends on the one before it. That's the whole book in one table, and it's why steady, small steps beat one big push in senior fall.
+
+
 None of this changed the process. It's the same sequence from Chapter 1, applied to one specific set of forms, formulas, and deadlines. That's the point. Once you understand *why* each step exists, applying it to any college, Iowa or anywhere else, is a matter of finding that college's version of each step, not relearning the process from scratch. The interactive planner below lets you build your own roadmap for any college on your list.
 
 #### Diagram: Personal Application Roadmap
@@ -306,6 +325,10 @@ Implementation: p5.js with createInput, createSelect, createCheckbox, and create
 - Prevent **summer melt**. Respond quickly to every request, and know who to call. Most obstacles are fixable if you ask early.
 - **Summer transition planning** covers finances, your final transcript, logistics, and the personal side. **Move-in day** is the beginning, not the finish line.
 - Use the **month-by-month planner** to see the whole year. **Verify current policies** for your own year. Build a **capstone application roadmap** for each college on your list.
+
+!!! mascot-celebration "Roadmap complete"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You now know every step of the college process, from building a list to move-in day, and how to plan it month by month for your own year. That's the whole roadmap. Wherever it leads you, you got there one step at a time.
 
 ## Check Your Understanding
 

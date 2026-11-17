@@ -44,6 +44,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 10"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Your personal essay told colleges who you are. Supplements answer the next question: why you and this college belong together. This chapter shows you how to write them well without starting from scratch ten times. One step at a time.
+
 ## You and This College
 
 The personal essay is about you. Supplemental essays are about you *and* a particular college. They're also where applications most often go wrong quietly, because they're written last, under deadline pressure, ten at a time, and treated as an afterthought. A strong personal essay followed by a generic "Why us?" essay leaves a reader wondering whether you actually want to be there.
@@ -95,6 +99,11 @@ Good sources, roughly in order of usefulness:
 Avoid relying on the admissions homepage and brochures. They describe the college in the same terms every college uses, such as "vibrant community," "world-class faculty," and "beautiful campus," and those phrases are exactly what readers don't want to see repeated back to them.
 
 As you research, collect details in a note for each college, and next to each one, write *why it matters to you.* A detail with no connection to you is just a fact.
+
+!!! mascot-tip "Two course titles"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a shortcut: open each college's course catalog and copy two real course titles you'd take, with one sentence on why. Those two lines are often the most convincing part of a Why Us essay.
+
 
 #### Worked Example: Twenty Minutes of Research
 
@@ -217,6 +226,11 @@ The revision is specific, a little funny, and shows a trait, care with details, 
 
 The **recycled essay trap** is the mistake of writing one supplemental essay, usually a Why Us essay, and sending it to several colleges with only the name changed. With a long list, it's tempting. It's also how a college ends up reading about how much you love a different college's library. Readers can usually tell, and it undercuts an otherwise strong application. A generic essay signals low genuine interest, which matters at colleges that track demonstrated interest. Worse, recycled essays sometimes keep the wrong college's name or details, which readers notice every year. Reusing your *thinking* and *material* across colleges is fine, and smart. Reusing your *sentences* unchanged is the trap.
 
+!!! mascot-warning "Search for the wrong name"
+    ![Scout warning about a common mistake](../../img/mascot/warning.png){ class="mascot-admonition-img" }
+    Before you submit, use your browser's find tool to search each supplement for the names of every other college on your list. It takes a minute and catches the most avoidable mistake in admissions.
+
+
 ### Essay Adaptation
 
 **Essay adaptation** is the careful reuse of material from one essay in another: taking a story, theme, or paragraph that works and revising it to fit a new prompt, length, and college. It's how students with long lists write strong supplements without starting from scratch every time. Adaptation works because many prompts overlap. A community essay for one college can become a different college's "how would you contribute" essay, and a core paragraph about your academic interest can anchor several major essays.
@@ -289,6 +303,10 @@ Implementation: p5.js with createInput, createSelect, and createButton; canvas p
 - **Short-answer questions** reward directness and personality. Answer **optional essays** that ask real questions, and use additional-information boxes only when needed.
 - Avoid the **recycled essay trap**. Use **essay adaptation** instead: reuse material, rewrite 30–40% or more for each college, and check every name.
 - **Supplement planning** maps every prompt by type and deadline before you start.
+
+!!! mascot-celebration "Supplements, handled"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You can now research a college for real details, write a Why Us essay that passes the swap test and adapt your best material without recycling it. Next, you'll help your recommenders write strong letters about you.
 
 ## Check Your Understanding
 

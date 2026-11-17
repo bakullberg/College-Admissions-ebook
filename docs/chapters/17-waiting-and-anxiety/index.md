@@ -45,6 +45,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 17"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    The waiting can be harder than the writing. This chapter shows you what's happening to your application behind the scenes, and gives you practical ways to stay steady until decisions arrive. One step at a time.
+
 ## The Part You Can't Control
 
 For months, the college process has been a list of things to do. Then you submit your last application, and the list stops. For most students, that's when it gets hardest. The work is done, the outcome is out of your hands, and the decisions won't arrive for weeks or months. Many students find the waiting harder than the writing.
@@ -90,6 +94,11 @@ Your **application status** is the current state of your application at a colleg
 
 **Checking portals regularly** means logging in to each college's applicant portal on a sensible schedule to catch missing documents, requests for information, and decisions, without checking compulsively. A good rhythm is **once a week** until every file is complete, then **once a week or less** during reading season, plus checking the morning of each published decision date. Daily or hourly checking rarely turns up anything new. Like a watched pot, a portal has never once updated faster because someone was staring at it. It mostly produces anxiety. Most colleges also email you when something changes, so make sure portal and college emails reach the dedicated inbox from Chapter 5 and aren't filtered as spam.
 
+!!! mascot-tip "Give portal checks an appointment"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Here's a trick: pick one day and time each week, like Sunday at 7, as your portal check, and put it on your calendar. Then you can stop checking the rest of the week without worrying you've missed something.
+
+
 ### Decision Release Dates
 
 A **decision release date** is the day, and often the exact time, a college publishes admission decisions for a round, usually in the applicant portal. Most colleges announce their dates in advance on their admissions websites or in an email to applicants. Typical windows follow the rounds from Chapter 1: **mid-December** for Early Decision and many Early Action rounds, **January to February** for some Early Action rounds, and **mid-March to early April** for Regular Decision. Rolling admission colleges release decisions continuously, often within a few weeks of a complete application.
@@ -112,6 +121,11 @@ The plan doesn't change any decision. It changes how those nine days feel: less 
 ### Managing Uncertainty
 
 **Managing uncertainty** means accepting that some outcomes are out of your control and focusing your energy on what you can still influence. Uncertainty is the default condition of applying to college, not a sign that you're doing something wrong. Even students with excellent applications don't know what will happen, because decisions depend on the whole applicant pool and each college's needs that year.
+
+!!! mascot-encourage "If the not-knowing is the hardest part"
+    ![Scout offering encouragement](../../img/mascot/encouraging.png){ class="mascot-admonition-img" }
+    If the not-knowing is the hardest part for you, you're in good company. It's hard for nearly everyone, including students who end up with great news. Try the two-pile sort below the next time a worry won't let go.
+
 
 A useful habit is to **sort your worries into two piles.** The first pile is what you can still control: your grades, your financial aid forms, your scholarship applications, how you spend your time, and how you treat yourself. The second pile is what you can't: who else applied, how a committee reads your file, what a college needs this year. Give your energy to the first pile and let the second one go, as well as you can. That doesn't mean you won't care. It means caring doesn't have to take over your life.
 
@@ -192,6 +206,11 @@ Different strategies work for different people. Try a few, and notice which ones
 
 **Limiting comparison** means deliberately reducing how much you measure your process and results against other students'. During the waiting period, comparison is everywhere: who applied where, who heard back, who got in early. It's almost always misleading. You see only part of anyone else's story. Their colleges, finances, priorities, and applications are different from yours. And a classmate's acceptance doesn't lower your chances, since you weren't competing for the same seat in the way it feels. Notice when a conversation turns into a scoreboard, and step out of it. A simple line helps: *"I'm trying not to talk about decisions until I hear from everywhere. How's your week?"*
 
+!!! mascot-thinking "Inside story, highlight reel"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Think of it this way: you're comparing your inside story with everyone else's highlight reel. Their result tells you almost nothing about yours, because their file, list and needs were never the same as yours.
+
+
 ### Social Media Boundaries
 
 **Social media boundaries** are limits you set on what you see and share online during the admissions process. Social media magnifies comparison. Acceptances get posted, rejections rarely do, and online communities devoted to admissions results can make anyone feel behind. Consider muting admissions-related accounts, forums, and hashtags during the waiting period, and setting time limits on apps that leave you anxious. When your own decisions arrive, think before posting. A celebration is fine, but remember that friends may be opening disappointing news the same day. Many students wait until they've heard from all their colleges.
@@ -217,6 +236,10 @@ Your **support network** is the people you can lean on during stressful times: f
 - Treat the **waiting period** as part of senior year. Use **healthy coping strategies**, practice **limiting comparison**, set **social media boundaries**, and keep a **self-care routine**.
 - Lean on your **support network**, and reach out for help if stress becomes too much (988 in the U.S.).
 - **Celebrate milestones** along the way, not just acceptances.
+
+!!! mascot-celebration "Steady through the wait"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You got through the part you can't control with a plan: you know how review works, how to check portals sensibly and how to look after yourself while you wait. Next, you'll learn what to do with every kind of decision.
 
 ## Check Your Understanding
 

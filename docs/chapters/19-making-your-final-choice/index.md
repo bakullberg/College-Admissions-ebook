@@ -43,6 +43,10 @@ This chapter builds on concepts from:
 
 ---
 
+!!! mascot-welcome "Welcome to Chapter 19"
+    ![Scout waving welcome](../../img/mascot/welcome.png){ class="mascot-admonition-img" }
+    Every chapter has been leading to this one choice. You already have most of what you need, and this chapter shows you how to bring it together into a decision you can feel good about. One step at a time.
+
 ## One Choice, Made Deliberately
 
 Every earlier chapter led here. No pressure. You built a list from your priorities, applied with care, compared aid offers, and responded to every decision. Now you choose one college. That's a big decision, but it's not a mysterious one. You already have most of what you need: your priorities from Chapter 3, your cost comparisons from Chapter 16, and the decisions from Chapter 18. What's left is to bring them together, test them against what you learn from revisiting campuses, and commit.
@@ -80,6 +84,11 @@ Two strong, affordable finalists, each a fit in different ways. That's exactly t
 A **side-by-side comparison** is a single table or tool that puts your finalists next to each other on the same factors, with each factor weighted by how much it matters to you. It turns a decision that feels like a tangle of impressions into something you can see. Build it as an extension of your tracker. Each finalist gets a column, and each factor gets a row with a weight from your priorities. Score each college on each factor from 1 (weak) to 5 (excellent), multiply by the weight, and add up the totals.
 
 The total isn't a verdict, and you shouldn't let a spreadsheet choose your college. Its real value is that it **makes your reasoning visible.** If the total points one way and your gut points the other, look at which factor is causing the difference. Either you've weighted something wrong, or your gut is telling you something the table doesn't capture. The interactive below builds a comparison like this.
+
+!!! mascot-thinking "When your gut disagrees"
+    ![Scout thinking](../../img/mascot/thinking.png){ class="mascot-admonition-img" }
+    Notice that the spreadsheet's job isn't to choose for you. When your gut and the total disagree, that disagreement is the most useful thing on the page, because it shows you what you really care about.
+
 
 #### Diagram: Final Choice Comparison Matrix
 
@@ -164,6 +173,11 @@ A **campus revisit** is a second visit to a college after you're admitted, eithe
 
 The **May 1 decision deadline**, sometimes called National College Decision Day, is the date by which most colleges require admitted students to accept their offer and submit an enrollment deposit. Missing it can mean losing your place entirely. Treat it as a hard deadline. Some colleges set slightly different dates. Iowa's, for example, is **May 3**. And colleges that admit through rolling admission or Early Decision may set earlier ones, so check each acceptance letter. If you're still waiting on a financial aid appeal or important information as May 1 approaches, ask the college for a short extension. Many will grant a week or so, but get it confirmed in writing.
 
+!!! mascot-tip "Write down the exact deadline"
+    ![Scout sharing a tip](../../img/mascot/tip.png){ class="mascot-admonition-img" }
+    Before you decide, log in to each portal and write down the exact deposit deadline, time and amount. Dates differ from college to college, so don't assume midnight on May 1 everywhere.
+
+
 ### Final College Choice
 
 Your **final college choice** is the one college you decide to attend, the result of comparing your offers, testing them through revisits, and weighing them against your priorities. By the time you make it, you should be able to say in a sentence or two *why* this college, in terms of the factors that matter to you: *"Hillcrest, because its English program and seminar culture are exactly what I want, and my family can afford it."* If you can't explain your choice that simply, return to your comparison and look for what's unresolved.
@@ -210,6 +224,10 @@ On April 20, Casey logs in to MyUI, Iowa's student portal, accepts the offer of 
 - Make a **final college choice** you can explain in a sentence. Some doubt is normal.
 - **Accepting an offer** includes the intent-to-enroll form, accepting financial aid, and paying the **enrollment deposit**. Ask about waivers if it's a hardship.
 - **Decline other offers** promptly. Never **double deposit**, except to accept a waitlist offer, and only after withdrawing from your first college.
+
+!!! mascot-celebration "You chose deliberately"
+    ![Scout celebrating](../../img/mascot/celebration.png){ class="mascot-admonition-img" }
+    You made your choice deliberately: you compared offers side by side, tested your finalists and committed on time. Next, you'll get everything ready for move-in day.
 
 ## Check Your Understanding
 
